@@ -4,41 +4,47 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 04:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 05:58:27 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 04:54:34 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 05:58:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Nepal's key candidates in post-uprising elections]]></title>
-            <link>https://www.thedailystar.net/news/world/news/nepals-key-candidates-post-uprising-elections-4118476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/nepals-key-candidates-post-uprising-elections-4118476</guid>
+            <title><![CDATA[Israel hits Lebanon after Hezbollah fire, expanding Iran war]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/israel-hits-lebanon-after-hezbollah-fire-expanding-iran-war-4118551</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/israel-hits-lebanon-after-hezbollah-fire-expanding-iran-war-4118551</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Seven structures, including juice bar, gutted in Bandarban fire]]></title>
-            <description><![CDATA[Blaze in Madhyam Para leaves families homeless; cause yet to be determined]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/seven-structures-including-juice-bar-gutted-bandarban-fire-4118471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/seven-structures-including-juice-bar-gutted-bandarban-fire-4118471</guid>
+            <title><![CDATA[Dire straits for global oil trade]]></title>
+            <description><![CDATA[Much of the oil flows to Asia, and particularly China which was the main buyer of Iranian crude]]></description>
+            <link>https://www.thedailystar.net/business/news/dire-straits-global-oil-trade-4118546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/dire-straits-global-oil-trade-4118546</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shakib’s return in balance amid legal hurdles]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/shakibs-return-balance-amid-legal-hurdles-4118081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/shakibs-return-balance-amid-legal-hurdles-4118081</guid>
+            <title><![CDATA[Spain-Argentina 'Finalissima' in Qatar at risk amid US, Israel attacks on Iran]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/spain-argentina-finalissima-qatar-risk-amid-us-israel-attacks-iran-4118526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/spain-argentina-finalissima-qatar-risk-amid-us-israel-attacks-iran-4118526</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Melania Trump to chair UN Security Council as Iran war rages]]></title>
-            <description><![CDATA[First Lady Melania Trump is slated to chair a UN Security Council meeting on Monday]]></description>
-            <link>https://www.thedailystar.net/news/world/usa/news/melania-trump-chair-un-security-council-iran-war-rages-4118441</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/melania-trump-chair-un-security-council-iran-war-rages-4118441</guid>
+            <title><![CDATA[Rains likely in five divisions: BMD]]></title>
+            <description><![CDATA[Day temperatures may remain steady; night temperatures may fall slightly]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/rains-likely-five-divisions-bmd-4118556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/rains-likely-five-divisions-bmd-4118556</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Migrant workers in limbo as flights to ME uncertain]]></title>
-            <description><![CDATA[With airlines resuming limited operations after two days of disruption, anxious passengers returned to Hazrat Shahjalal International Airport yesterday for updates on when they will be able to depart.]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/migrant-workers-limbo-flights-me-uncertain-4118401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/migrant-workers-limbo-flights-me-uncertain-4118401</guid>
+            <title><![CDATA[Iran will not negotiate with the US, the country's security chief Ali Larijani says]]></title>
+            <description><![CDATA["Trump plunged the region into chaos with his 'delusional fantasies' and now fears more American troop casualties," he adds.]]></description>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-will-not-negotiate-the-us-the-countrys-security-chief-ali-larijani-says-4118541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-will-not-negotiate-the-us-the-countrys-security-chief-ali-larijani-says-4118541</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migrant workers in limbo as flights to Middle East uncertain]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/migrant-workers-limbo-flights-middle-east-uncertain-4118401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/migrant-workers-limbo-flights-middle-east-uncertain-4118401</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -57,12 +63,6 @@
             <title><![CDATA[US officials skeptical of regime change in Tehran after Khamenei killing, say sources]]></title>
             <link>https://www.thedailystar.net/news/world/news/us-officials-skeptical-regime-change-tehran-after-khamenei-killing-say-sources-4118466</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-officials-skeptical-regime-change-tehran-after-khamenei-killing-say-sources-4118466</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war spreads across region as US, Israel suffer losses]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-war-spreads-across-region-us-israel-suffer-losses-4118431</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-war-spreads-across-region-us-israel-suffer-losses-4118431</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -110,6 +110,12 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Central bank shake-up: Why is BNP undermining its reformist legacy?]]></title>
+            <link>https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</guid>
+            <pubDate>Sun, 01 Mar 2026 01:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why is there so little discussion on books?]]></title>
             <link>https://www.thedailystar.net/slow-reads/focus/news/why-there-so-little-discussion-books-4117186</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-there-so-little-discussion-books-4117186</guid>
@@ -128,15 +134,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[#Pets / Neutering pets safely explained by a trusted vet expert]]></title>
-            <link>https://www.thedailystar.net/life-living/news/neutering-pets-safely-explained-trusted-vet-expert-4117831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/neutering-pets-safely-explained-trusted-vet-expert-4117831</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khamenei’s death and the uncertain future of the Islamic Republic]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/khameneis-death-and-the-uncertain-future-the-islamic-republic-4118256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/khameneis-death-and-the-uncertain-future-the-islamic-republic-4118256</guid>
+            <title><![CDATA[BNP’s health agenda faces major execution challenges]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -146,15 +146,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Messi bags double as Miami battle back to down Orlando]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/messi-bags-double-miami-battle-back-down-orlando-4118451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-bags-double-miami-battle-back-down-orlando-4118451</guid>
+            <title><![CDATA[Players who cover mouths when speaking could be sent off: Infantino]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/players-who-cover-mouths-when-speaking-could-be-sent-infantino-4118501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/players-who-cover-mouths-when-speaking-could-be-sent-infantino-4118501</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tom Holland and Zendaya are married, claims stylist]]></title>
-            <link>https://www.thedailystar.net/entertainment/tv-film/news/tom-holland-and-zendaya-are-married-claims-stylist-4118516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/tom-holland-and-zendaya-are-married-claims-stylist-4118516</guid>
+            <title><![CDATA[SAG’s Actor Awards: ‘Sinners’ wins top prize]]></title>
+            <link>https://www.thedailystar.net/entertainment/tv-film/news/sags-actor-awards-sinners-wins-top-prize-4118531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/sags-actor-awards-sinners-wins-top-prize-4118531</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>

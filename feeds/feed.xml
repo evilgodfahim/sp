@@ -4,47 +4,65 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 05:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 07:03:47 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 05:55:49 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 07:03:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Magnitude 6.4 earthquake strikes off Indonesia's Aceh]]></title>
-            <link>https://www.thedailystar.net/news/asia/news/magnitude-64-earthquake-strikes-indonesias-aceh-4119451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/asia/news/magnitude-64-earthquake-strikes-indonesias-aceh-4119451</guid>
+            <title><![CDATA[Govt cancels contractual appointment of DMTCL MD]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/transport/news/govt-cancels-contractual-appointment-dmtcl-md-4119476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/govt-cancels-contractual-appointment-dmtcl-md-4119476</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[7-year-old rescued from Sitakunda Eco Park with slit throat dies at CMCH]]></title>
-            <description><![CDATA[Child dies in ICU after surgery; police, Rab probe alleged abduction and attack, no arrests yet]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/7-year-old-rescued-sitakunda-eco-park-slit-throat-dies-cmch-4119381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/7-year-old-rescued-sitakunda-eco-park-slit-throat-dies-cmch-4119381</guid>
+            <title><![CDATA[Dhaka stocks tumble amid growing investor fears over US-Israel war on Iran]]></title>
+            <description><![CDATA[The decline came after a day of recovery in share prices]]></description>
+            <link>https://www.thedailystar.net/business/news/dhaka-stocks-tumble-amid-growing-investor-fears-over-us-israel-war-iran-4119496</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/dhaka-stocks-tumble-amid-growing-investor-fears-over-us-israel-war-iran-4119496</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh Railway begins advance ticket sales ahead of Eid]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/bangladesh-railway-begins-advance-ticket-sales-ahead-eid-4119421</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/bangladesh-railway-begins-advance-ticket-sales-ahead-eid-4119421</guid>
+            <title><![CDATA[Coast Guard DG pays courtesy call on prime minister at Secretariat]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/coast-guard-dg-pays-courtesy-call-prime-minister-secretariat-4119471</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/coast-guard-dg-pays-courtesy-call-prime-minister-secretariat-4119471</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dr Yunus granted one-year VVIP status two days before Feb 12 election]]></title>
-            <description><![CDATA[Will remain under the stringent security coverage of SSF]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/dr-yunus-granted-one-year-vvip-status-two-days-feb-12-election-4119101</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/dr-yunus-granted-one-year-vvip-status-two-days-feb-12-election-4119101</guid>
+            <title><![CDATA[Man held on charge of killing elder sister in Ctg]]></title>
+            <description><![CDATA[Locals caught the suspect, who was then rescued and taken into police custody]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-held-charge-killing-elder-sister-ctg-4119501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-held-charge-killing-elder-sister-ctg-4119501</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia-Ukraine War / Over 100 Bangladeshis sent to the front, 34 dead: report]]></title>
+            <description><![CDATA[More than 100 Bangladeshis have been recruited into Russia’s war against Ukraine, and dozens have been killed on the front lines, according to rights groups that say many of the men were misled, exploited, or financially trapped before ending up in combat.]]></description>
+            <link>https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/over-100-bangladeshis-sent-the-front-34-dead-report-4119266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/over-100-bangladeshis-sent-the-front-34-dead-report-4119266</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Fuel stocks adequate  for short term]]></title>
-            <description><![CDATA[While a prolonged conflict in the Middle East could disrupt fuel flows, Bangladesh’s energy supply remains stable for now, with officials saying imports and distribution are continuing without interruption.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/fuel-stocks-adequate-short-term-4119261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fuel-stocks-adequate-short-term-4119261</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM’s March 10 Bogura visit cancelled over Bogura-6 by-election]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/pms-march-10-bogura-visit-cancelled-over-bogura-6-election-4119481</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pms-march-10-bogura-visit-cancelled-over-bogura-6-election-4119481</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Maersk suspends bookings between Bangladesh and Gulf region amid Iran warning]]></title>
             <link>https://www.thedailystar.net/business/news/maersk-suspends-bookings-between-bangladesh-and-gulf-region-amid-iran-warning-4119391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/maersk-suspends-bookings-between-bangladesh-and-gulf-region-amid-iran-warning-4119391</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HC questions legality of July charter provisions, Referendum Ordinance]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/hc-questions-legality-july-charter-provisions-referendum-ordinance-4119491</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/hc-questions-legality-july-charter-provisions-referendum-ordinance-4119491</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -60,53 +78,46 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Govt cancels contractual appointment of DMTCL MD]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/transport/news/govt-cancels-contractual-appointment-dmtcl-md-4119476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/govt-cancels-contractual-appointment-dmtcl-md-4119476</guid>
+            <title><![CDATA[The real crisis at Bangladesh Bank: The mandate, not the résumé]]></title>
+            <description><![CDATA[By Hossain Zillur RahmanSaba El Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</guid>
+            <dc:creator><![CDATA[Hossain Zillur RahmanSaba El Kabir]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coast Guard DG pays courtesy call on prime minister at Secretariat]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/coast-guard-dg-pays-courtesy-call-prime-minister-secretariat-4119471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/coast-guard-dg-pays-courtesy-call-prime-minister-secretariat-4119471</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seven flights cancelled at Ctg airport as Middle East airfields remain shut]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/seven-flights-cancelled-ctg-airport-middle-east-airfields-remain-shut-4119446</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/seven-flights-cancelled-ctg-airport-middle-east-airfields-remain-shut-4119446</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Bank’s independence and the politics of transition]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s statement on Iran: Measured words, high stakes]]></title>
-            <description><![CDATA[What the statement didn’t say is what really matters. It didn’t name the United States or Israel—the countries that launched the strikes without any provocation.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BNP’s health agenda faces major execution challenges]]></title>
-            <description><![CDATA[By Shaikh Masudul Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</guid>
-            <dc:creator><![CDATA[Shaikh Masudul Alam]]></dc:creator>
+            <title><![CDATA[A war in which all sides lose]]></title>
+            <description><![CDATA[Economy of most countries, especially small ones, will face major turmoil.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/war-which-all-sides-lose-4118856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/war-which-all-sides-lose-4118856</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Are Trump’s visions for a new Iran achievable?]]></title>
-            <description><![CDATA[Trump told The New York Times that he had “three very good choices” in mind, regarding who could lead Iran. “I won’t be revealing them now. Let’s get the job done first,” he said. Trump also told The Atlantic, that he’s open to talk to Iranian leaders.]]></description>
+            <description><![CDATA[By Ramisa Rob]]></description>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/are-trumps-visions-new-iran-achievable-4118781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/are-trumps-visions-new-iran-achievable-4118781</guid>
             <dc:creator><![CDATA[Ramisa Rob]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Australian doctor who witnessed what Bangladesh wanted to forget]]></title>
+            <description><![CDATA[What makes Davis's contribution particularly significant is not just the service he provided but also the fact that he was one of the witnesses to the brutality against the women during the war.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-australian-doctor-who-witnessed-what-bangladesh-wanted-forget-4118701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-australian-doctor-who-witnessed-what-bangladesh-wanted-forget-4118701</guid>
+            <dc:creator><![CDATA[Sayem Bin Rafiq]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt deploys 475 mobile veterinary clinics]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/govt-deploys-475-mobile-veterinary-clinics-4119166</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govt-deploys-475-mobile-veterinary-clinics-4119166</guid>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swap fried iftar snacks for fresh healthy salads]]></title>
+            <link>https://www.thedailystar.net/life-living/food-recipes/news/swap-fried-iftar-snacks-fresh-healthy-salads-4118731</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/swap-fried-iftar-snacks-fresh-healthy-salads-4118731</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -116,45 +127,33 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Barisal, beyond, and the making of Bengali literary modernity]]></title>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/barisal-beyond-and-the-making-bengali-literary-modernity-4118316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/barisal-beyond-and-the-making-bengali-literary-modernity-4118316</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khamenei's killing and Iran’s war on the Arab states, explained]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/khameneis-killing-and-irans-war-the-arab-states-explained-4117901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/khameneis-killing-and-irans-war-the-arab-states-explained-4117901</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[THE SHELF / 6 Books to contextualise the present conflict in the Gulf]]></title>
             <link>https://www.thedailystar.net/books-literature/the-shelf/news/6-books-contextualise-the-present-conflict-the-gulf-4118066</link>
             <guid isPermaLink="true">https://www.thedailystar.net/books-literature/the-shelf/news/6-books-contextualise-the-present-conflict-the-gulf-4118066</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[The real crisis at Bangladesh Bank: The mandate, not the résumé]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</guid>
-            <pubDate>Invalid Date</pubDate>
+            <title><![CDATA[Bangladesh Bank’s independence and the politics of transition]]></title>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</guid>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bad loans fall by Tk 87,298cr in three months]]></title>
             <link>https://www.thedailystar.net/business/economy/news/bad-loans-fall-tk-87298cr-three-months-4119206</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bad-loans-fall-tk-87298cr-three-months-4119206</guid>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AFC Women's Asian Cup / Myong hattrick fires North Korea to 3-0 win over Uzbekistan]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/myong-hattrick-fires-north-korea-3-0-win-over-uzbekistan-4119431</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/myong-hattrick-fires-north-korea-3-0-win-over-uzbekistan-4119431</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘Women’s team needs exposure’]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/womens-team-needs-exposure-4118936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/womens-team-needs-exposure-4118936</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recitation artistes to hold protest against rape and abuse today]]></title>
-            <link>https://www.thedailystar.net/entertainment/theatre-arts/news/recitation-artistes-hold-protest-against-rape-and-abuse-today-4119456</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/theatre-arts/news/recitation-artistes-hold-protest-against-rape-and-abuse-today-4119456</guid>
+            <title><![CDATA[Vampire tale 'Sinners' wins top Actor Award and sets up Oscars battle]]></title>
+            <link>https://www.thedailystar.net/entertainment/tv-film/news/vampire-tale-sinners-wins-top-actor-award-and-sets-oscars-battle-4119486</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/vampire-tale-sinners-wins-top-actor-award-and-sets-oscars-battle-4119486</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>

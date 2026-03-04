@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 21:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 22:39:21 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 21:41:38 GMT</pubDate>
+        <pubDate>Wed, 04 Mar 2026 22:39:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Sitakunda child murder: Accused sent to jail after confessional statement]]></title>
@@ -290,6 +290,12 @@
             <pubDate>Sat, 07 Feb 2026 00:14:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.03.02)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260302-4118426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260302-4118426</guid>
+            <pubDate>Mon, 02 Mar 2026 03:11:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Today's Gallery (2026.03.01)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260301-4117581</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260301-4117581</guid>
@@ -302,10 +308,10 @@
             <pubDate>Sat, 28 Feb 2026 02:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Today's Gallery (2026.02.27)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260227-4116266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260227-4116266</guid>
-            <pubDate>Fri, 27 Feb 2026 03:19:00 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.03.05)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260305-4121251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260305-4121251</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.03.04)]]></title>
@@ -320,10 +326,10 @@
             <pubDate>Tue, 03 Mar 2026 03:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Today's Gallery (2026.03.02)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260302-4118426</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260302-4118426</guid>
-            <pubDate>Mon, 02 Mar 2026 03:11:00 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.02.27)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260227-4116266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260227-4116266</guid>
+            <pubDate>Fri, 27 Feb 2026 03:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.02.26)]]></title>
@@ -336,12 +342,6 @@
             <link>https://www.thedailystar.net/todays-gallery-20260226-4114346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260226-4114346</guid>
             <pubDate>Wed, 25 Feb 2026 03:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.02.24)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260224-4113421</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260224-4113421</guid>
-            <pubDate>Tue, 24 Feb 2026 01:05:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

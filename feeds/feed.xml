@@ -4,34 +4,34 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 10:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 11:37:41 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 10:46:24 GMT</pubDate>
+        <pubDate>Wed, 04 Mar 2026 11:37:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Govt to compile list of extortionists, starting in Dhaka: Home minister]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/govt-compile-list-extortionists-starting-dhaka-home-minister-4120461</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-compile-list-extortionists-starting-dhaka-home-minister-4120461</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No need to be overly concerned over US trade deal: commerce minister]]></title>
+            <description><![CDATA[The minister had a meeting with the US assistant secretary for South and Central Asian affairs]]></description>
+            <link>https://www.thedailystar.net/business/news/no-need-be-overly-concerned-over-us-trade-deal-commerce-minister-4120536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/no-need-be-overly-concerned-over-us-trade-deal-commerce-minister-4120536</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loan leniency and the risk of zombie firms]]></title>
+            <link>https://www.thedailystar.net/business/news/loan-leniency-and-the-risk-zombie-firms-4120646</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/loan-leniency-and-the-risk-zombie-firms-4120646</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Babar excluded as Pakistan name squad for Bangladesh ODIs]]></title>
+            <description><![CDATA[The squad includes six uncapped players: Abdul Samad, Maaz Sadaqat, Muhammad Ghazi Ghori, Saad Masood, Sahibzada Farhan and Shamyl Hussain.]]></description>
             <link>https://www.thedailystar.net/sports/cricket/news/babar-excluded-pakistan-name-squad-bangladesh-odis-4120636</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/babar-excluded-pakistan-name-squad-bangladesh-odis-4120636</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State minister kept waiting as officials arrive late at N’ganj land office]]></title>
-            <description><![CDATA[Kayser Kamal finds rooms locked during surprise morning visit in Siddhirganj]]></description>
-            <link>https://www.thedailystar.net/news/governance/news/state-minister-kept-waiting-officials-arrive-late-nganj-land-office-4120476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/state-minister-kept-waiting-officials-arrive-late-nganj-land-office-4120476</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four arrested over DNC officer shot in Sayedabad]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/four-arrested-over-dnc-officer-shot-sayedabad-4120566</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/four-arrested-over-dnc-officer-shot-sayedabad-4120566</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran women's team have 'so much concern' about families at home]]></title>
-            <description><![CDATA[The Iranian team are preparing to face host nation Australia on the Gold Coast Thursday after losing their opening game of the continental competition 3-0 to South Korea.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/iran-womens-team-have-so-much-concern-about-families-home-4120606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/iran-womens-team-have-so-much-concern-about-families-home-4120606</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -42,9 +42,21 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Over 100 missing after submarine attacks Iranian frigate off Sri Lanka]]></title>
+            <link>https://www.thedailystar.net/news/world/news/over-100-missing-after-submarine-attacks-iranian-frigate-sri-lanka-4120651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/over-100-missing-after-submarine-attacks-iranian-frigate-sri-lanka-4120651</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cabinet directs govt officials to be present at office at 9am for mandatory 40 minutes]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/cabinet-directs-govt-officials-be-present-office-9am-mandatory-40-minutes-4120581</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/cabinet-directs-govt-officials-be-present-office-9am-mandatory-40-minutes-4120581</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reaction / We owe the children a safer world]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/we-owe-the-children-safer-world-4120641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/we-owe-the-children-safer-world-4120641</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -66,15 +78,17 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Govt to compile list of extortionists, starting in Dhaka: Home minister]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/govt-compile-list-extortionists-starting-dhaka-home-minister-4120461</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-compile-list-extortionists-starting-dhaka-home-minister-4120461</guid>
+            <title><![CDATA[Why the possibility of an Iran-Russia-China alliance is a major factor in the US war]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-the-possibility-iran-russia-china-alliance-major-factor-the-us-war-4120561</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-the-possibility-iran-russia-china-alliance-major-factor-the-us-war-4120561</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[No need to be overly concerned over US trade deal: commerce minister]]></title>
-            <link>https://www.thedailystar.net/business/news/no-need-be-overly-concerned-over-us-trade-deal-commerce-minister-4120536</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/no-need-be-overly-concerned-over-us-trade-deal-commerce-minister-4120536</guid>
+            <title><![CDATA[Opinion / Bangladesh women’s AFC Asian Cup opener was a treat to watch]]></title>
+            <description><![CDATA[Despite the conditions and statistics being heavily stacked against them, Bangladesh’s tigresses showed that they were more than willing to go toe-to-toe with one of the world’s finest sides.]]></description>
+            <link>https://www.thedailystar.net/campus/opinion/news/bangladesh-womens-afc-asian-cup-opener-was-treat-watch-4120506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/opinion/news/bangladesh-womens-afc-asian-cup-opener-was-treat-watch-4120506</guid>
+            <dc:creator><![CDATA[Ayaan Shams Siddiquee]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -90,22 +104,6 @@
             <description><![CDATA[Activism is not just a reaction to an incident or a one-day event—it is a continuous process, a relentless fight for equality that must persist until it is achieved.]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/what-bangladeshs-womens-movement-shares-nepal-and-myanmar-4120336</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/what-bangladeshs-womens-movement-shares-nepal-and-myanmar-4120336</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deferment or not, Bangladesh must prepare for LDC graduation]]></title>
-            <description><![CDATA[By Sabbir Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/deferment-or-not-bangladesh-must-prepare-ldc-graduation-4120051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deferment-or-not-bangladesh-must-prepare-ldc-graduation-4120051</guid>
-            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Suez to Hormuz: A stress test for Bangladesh’s export logistics]]></title>
-            <description><![CDATA[Bangladesh’s export success has never been just about competitive labour or entrepreneurial energy.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/suez-hormuz-stress-test-bangladeshs-export-logistics-4120041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/suez-hormuz-stress-test-bangladeshs-export-logistics-4120041</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -151,9 +149,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Actors Equity urges members to resolve disputes internally]]></title>
-            <link>https://www.thedailystar.net/entertainment/news/actors-equity-urges-members-resolve-disputes-internally-4120626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/actors-equity-urges-members-resolve-disputes-internally-4120626</guid>
+            <title><![CDATA[Pritom–Mehazabien pair up for Chorki series ‘Cactus’]]></title>
+            <link>https://www.thedailystar.net/entertainment/tv-film/news/pritom-mehazabien-pair-chorki-series-cactus-4120656</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/pritom-mehazabien-pair-chorki-series-cactus-4120656</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>

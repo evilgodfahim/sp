@@ -4,71 +4,53 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 02:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 04:46:47 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 02:38:48 GMT</pubDate>
+        <pubDate>Wed, 04 Mar 2026 04:46:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[NCP MP confined in N’ganj factory after calling BKMEA president ‘fascist’s ally’]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/ncp-mp-confined-nganj-factory-after-calling-bkmea-president-fascists-ally-4119836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/ncp-mp-confined-nganj-factory-after-calling-bkmea-president-fascists-ally-4119836</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Physical, mental health and arts to be mandatory from class 4: Education minister]]></title>
-            <description><![CDATA[Textbooks will be revised, Milon says]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/education/news/physical-mental-health-and-arts-be-mandatory-class-4-education-minister-4119751</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/physical-mental-health-and-arts-be-mandatory-class-4-education-minister-4119751</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump commerce chief agrees to testify in congressional Epstein probe]]></title>
-            <link>https://www.thedailystar.net/news/world/usa/news/trump-commerce-chief-agrees-testify-congressional-epstein-probe-4120291</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/trump-commerce-chief-agrees-testify-congressional-epstein-probe-4120291</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Atletico hammered but hold off Barca to reach Copa del Rey final]]></title>
-            <description><![CDATA[Atletico Madrid struggled through a 3-0 Copa del Rey semifinal second leg defeat at Barcelona on Tuesday but scraped into the final 4-3 on aggregate.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/atletico-hammered-hold-barca-reach-copa-del-rey-final-4120271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/atletico-hammered-hold-barca-reach-copa-del-rey-final-4120271</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BFIU seeks bank account details of NCP leader Asif Mahmud]]></title>
-            <description><![CDATA[Banks have been instructed to submit the details in three working days]]></description>
-            <link>https://www.thedailystar.net/business/news/bfiu-seeks-bank-account-details-ncp-leader-asif-mahmud-4120061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bfiu-seeks-bank-account-details-ncp-leader-asif-mahmud-4120061</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Students, elderly, persons with disabilities to get 25% metro, intercity train fare discount: Transport minister]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/students-elderly-persons-disabilities-get-25-metro-intercity-train-fare-discount-transport-minister-4119701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/students-elderly-persons-disabilities-get-25-metro-intercity-train-fare-discount-transport-minister-4119701</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A drug-resistant ‘superbug’ spreading in Dhaka ICUs: icddr,b study]]></title>
-            <link>https://www.thedailystar.net/health/news/drug-resistant-superbug-spreading-dhaka-icus-icddrb-study-4119846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/news/drug-resistant-superbug-spreading-dhaka-icus-icddrb-study-4119846</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US-Bangla to operate special flights on Dhaka-Dubai route]]></title>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/us-bangla-operate-special-flights-dhaka-dubai-route-4120161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-bangla-operate-special-flights-dhaka-dubai-route-4120161</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Assistant Secretary Paul Kapur arrives in Dhaka]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-assistant-secretary-paul-kapur-arrives-dhaka-4119891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-assistant-secretary-paul-kapur-arrives-dhaka-4119891</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
         <item>
             <title><![CDATA[Trump threatens to halt US trade with Spain over military bases, defence spending]]></title>
             <link>https://www.thedailystar.net/news/world/usa/news/trump-threatens-halt-us-trade-spain-over-military-bases-defence-spending-4120286</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/trump-threatens-halt-us-trade-spain-over-military-bases-defence-spending-4120286</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt mulls 7 to 10-day Eid holidays]]></title>
+            <description><![CDATA[The government is considering extending the public holiday for Eid-ul-Fitr, which is now five days.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/govt-mulls-7-10-day-eid-holidays-4120251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-mulls-7-10-day-eid-holidays-4120251</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First Semifinal / Perfect Proteas meet resilient Black Caps]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/perfect-proteas-meet-resilient-black-caps-4120331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/perfect-proteas-meet-resilient-black-caps-4120331</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I really don’t care if Iran plays in World Cup: Donald Trump]]></title>
+            <description><![CDATA["I really don't care. I think Iran is a very badly defeated country. They're running on fumes," Trump told Politico.]]></description>
+            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/i-really-dont-care-if-iran-plays-world-cup-donald-trump-4120321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/i-really-dont-care-if-iran-plays-world-cup-donald-trump-4120321</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bombardment unleashes terror in Tehran with no sign of protests]]></title>
+            <description><![CDATA[The airstrikes have killed hundreds of Iranians since Saturday while Israeli and US leaders have voiced hopes they would trigger an uprising]]></description>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/bombardment-unleashes-terror-tehran-no-sign-protests-4120326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/bombardment-unleashes-terror-tehran-no-sign-protests-4120326</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran war could raise Bangladesh’s trade costs]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/iran-war-could-raise-bangladeshs-trade-costs-4120131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/iran-war-could-raise-bangladeshs-trade-costs-4120131</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[March 12 first JS Session / BNP sets March 6–7 orientation for MPs, ministers]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/bnp-sets-march-6-7-orientation-mps-ministers-4119951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/bnp-sets-march-6-7-orientation-mps-ministers-4119951</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -78,8 +60,34 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Police likely to revert to old uniform]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/police-likely-revert-old-uniform-4120216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/police-likely-revert-old-uniform-4120216</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US-UK ties ‘not like it used to be’]]></title>
+            <link>https://www.thedailystar.net/news/world/news/us-uk-ties-not-it-used-be-4119986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-uk-ties-not-it-used-be-4119986</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tk 50 lakh debt mounts as 8,000 chickens die at Bagerhat farm]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/tk-50-lakh-debt-mounts-8000-chickens-die-bagerhat-farm-4120316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tk-50-lakh-debt-mounts-8000-chickens-die-bagerhat-farm-4120316</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Suez to Hormuz: A stress test for Bangladesh’s export logistics]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/suez-hormuz-stress-test-bangladeshs-export-logistics-4120041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/suez-hormuz-stress-test-bangladeshs-export-logistics-4120041</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reaction / Has the country become a horror story?]]></title>
-            <description><![CDATA[By Touseful Islam]]></description>
+            <description><![CDATA[The killing of a seven-year-old in Sitakunda is not an isolated incident]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/has-the-country-become-horror-story-4119806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/has-the-country-become-horror-story-4119806</guid>
             <dc:creator><![CDATA[Touseful Islam]]></dc:creator>
@@ -87,7 +95,7 @@
         </item>
         <item>
             <title><![CDATA[What will happen to the world and Bangladesh if the Strait of Hormuz gets shut down?]]></title>
-            <description><![CDATA[Approximately 20 million barrels of crude oil passed through Hormuz in 2024. Close to 27 percent of all global maritime petroleum trade passed through the strait in the first quarter of 2025. The strait is a critical, narrow chokepoint, with a 33-39 kilometers waterway between Oman and Iran.]]></description>
+            <description><![CDATA[By Kawsar Uddin Mahmud]]></description>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-will-happen-the-world-and-bangladesh-if-the-strait-hormuz-gets-shut-down-4119566</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-will-happen-the-world-and-bangladesh-if-the-strait-hormuz-gets-shut-down-4119566</guid>
             <dc:creator><![CDATA[Kawsar Uddin Mahmud]]></dc:creator>
@@ -95,19 +103,17 @@
         </item>
         <item>
             <title><![CDATA[The Australian doctor who witnessed what Bangladesh wanted to forget]]></title>
-            <description><![CDATA[By Sayem Bin Rafiq]]></description>
+            <description><![CDATA[What makes Davis's contribution particularly significant is not just the service he provided but also the fact that he was one of the witnesses to the brutality against the women during the war.]]></description>
             <link>https://www.thedailystar.net/slow-reads/focus/news/the-australian-doctor-who-witnessed-what-bangladesh-wanted-forget-4118701</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-australian-doctor-who-witnessed-what-bangladesh-wanted-forget-4118701</guid>
             <dc:creator><![CDATA[Sayem Bin Rafiq]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[The real crisis at Bangladesh Bank: The mandate, not the résumé]]></title>
-            <description><![CDATA[The removal of Ahsan H Mansur as Bangladesh Bank (BB) governor has been an entirely avoidable drama.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</guid>
-            <dc:creator><![CDATA[Hossain Zillur RahmanSaba El Kabir]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <title><![CDATA[AFC Women’s Asian Cup / David meets Goliath in Bangladesh’s historic first]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/david-meets-goliath-bangladeshs-historic-first-4119236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/david-meets-goliath-bangladeshs-historic-first-4119236</guid>
+            <pubDate>Tue, 03 Mar 2026 07:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What comes next for Iran?]]></title>
@@ -128,27 +134,21 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Musings / How Persia became Iran]]></title>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/how-persia-became-iran-4118011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/how-persia-became-iran-4118011</guid>
+            <title><![CDATA[Deferment or not, Bangladesh must prepare for LDC graduation]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/deferment-or-not-bangladesh-must-prepare-ldc-graduation-4120051</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deferment-or-not-bangladesh-must-prepare-ldc-graduation-4120051</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[From Suez to Hormuz: A stress test for Bangladesh’s export logistics]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/suez-hormuz-stress-test-bangladeshs-export-logistics-4120041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/suez-hormuz-stress-test-bangladeshs-export-logistics-4120041</guid>
+            <title><![CDATA[DSE posts worst single-day fall  in six years]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/dse-posts-worst-single-day-fall-six-years-4120126</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/dse-posts-worst-single-day-fall-six-years-4120126</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iran war could raise Bangladesh’s trade costs]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/iran-war-could-raise-bangladeshs-trade-costs-4120131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/iran-war-could-raise-bangladeshs-trade-costs-4120131</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arteta fires back at critics of Arsenal's set-piece success]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/arteta-fires-back-critics-arsenals-set-piece-success-4120146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arteta-fires-back-critics-arsenals-set-piece-success-4120146</guid>
+            <title><![CDATA[Liverpool rocked by last-gasp defeat at Wolves]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/liverpool-rocked-last-gasp-defeat-wolves-4120276</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/liverpool-rocked-last-gasp-defeat-wolves-4120276</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -194,16 +194,16 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[5 countries for a quick international getaway]]></title>
-            <link>https://www.thedailystar.net/life-living/travel/news/5-countries-quick-international-getaway-4111866</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/travel/news/5-countries-quick-international-getaway-4111866</guid>
-            <pubDate>Sun, 22 Feb 2026 10:43:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bangladeshi designer Tanvir Mahidy makes historic London Fashion Week debut]]></title>
             <link>https://www.thedailystar.net/life-living/fashion-beauty/news/bangladeshi-designer-tanvir-mahidy-makes-historic-london-fashion-week-debut-4113861</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/bangladeshi-designer-tanvir-mahidy-makes-historic-london-fashion-week-debut-4113861</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When early childhood is spent in front of screens]]></title>
+            <link>https://www.thedailystar.net/rising-stars/news/when-early-childhood-spent-front-screens-4114591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/news/when-early-childhood-spent-front-screens-4114591</guid>
+            <pubDate>Thu, 26 Feb 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The rise and reign of Khamenei]]></title>

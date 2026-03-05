@@ -1,19 +1,347 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star (dummy feed)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Star]]></title>
+        <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 11:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 13:16:39 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 11:41:16 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 13:16:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://www.thedailystar.net</link>
-            <guid isPermaLink="true">https://www.thedailystar.net</guid>
-            <pubDate>Thu, 05 Mar 2026 11:41:16 GMT</pubDate>
+            <title><![CDATA[Emirates operating reduced flight schedule after partial airspace reopening]]></title>
+            <link>https://www.thedailystar.net/business/economy/aviation/news/emirates-operating-reduced-flight-schedule-after-partial-airspace-reopening-4121576</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/emirates-operating-reduced-flight-schedule-after-partial-airspace-reopening-4121576</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Musings / The democracy of iftar’s aroma]]></title>
+            <description><![CDATA[In cities, towns and villages alike, the scents of frying, citrus and spice stitch together the shared anticipation of iftar]]></description>
+            <link>https://www.thedailystar.net/lifestyle/food/news/the-democracy-iftars-aroma-4121566</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/lifestyle/food/news/the-democracy-iftars-aroma-4121566</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Health ministry moves against Shariatpur govt doctor over pvt practice during duty hours]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/health-ministry-moves-against-shariatpur-govt-doctor-over-pvt-practice-during-duty-hours-4121536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/health-ministry-moves-against-shariatpur-govt-doctor-over-pvt-practice-during-duty-hours-4121536</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[133 ordinances issued during interim govt to be placed in Parliament]]></title>
+            <description><![CDATA[Ordinances must become bills within 30 days to remain valid]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/133-ordinances-issued-during-interim-govt-be-placed-parliament-4121506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/133-ordinances-issued-during-interim-govt-be-placed-parliament-4121506</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gas shortage halts production at 2 Chattogram fertiliser plants]]></title>
+            <description><![CDATA[CUFL and Kafco suspend operations following a govt directive]]></description>
+            <link>https://www.thedailystar.net/environment/natural-resources/energy/news/gas-shortage-halts-production-2-chattogram-fertiliser-plants-4121571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/environment/natural-resources/energy/news/gas-shortage-halts-production-2-chattogram-fertiliser-plants-4121571</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking tradition, PM Tarique Rahman limits state iftars to 2 events this year]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/breaking-tradition-pm-tarique-rahman-limits-state-iftars-2-events-year-4121591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/breaking-tradition-pm-tarique-rahman-limits-state-iftars-2-events-year-4121591</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat demands interrogation of Rizwana and Khalilur over ‘election engineering’]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/jamaat-demands-interrogation-rizwana-and-khalilur-over-election-engineering-4121531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/jamaat-demands-interrogation-rizwana-and-khalilur-over-election-engineering-4121531</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ivy denied bail in another July uprising murder case]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/ivy-denied-bail-another-july-uprising-murder-case-4121581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/ivy-denied-bail-another-july-uprising-murder-case-4121581</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Khaleda Zia among 15 individuals named for Independence Award 2026]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/khaleda-zia-among-15-individuals-named-independence-award-2026-4121541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/khaleda-zia-among-15-individuals-named-independence-award-2026-4121541</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[75% of professional women in Bangladesh leave workforce or take career breaks: BRAC survey]]></title>
+            <link>https://www.thedailystar.net/news-0/news/75-professional-women-bangladesh-leave-workforce-or-take-career-breaks-brac-survey-4121546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/75-professional-women-bangladesh-leave-workforce-or-take-career-breaks-brac-survey-4121546</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / Contractual appointments: Where is the administration heading?]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/contractual-appointments-where-the-administration-heading-4121201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/contractual-appointments-where-the-administration-heading-4121201</guid>
+            <pubDate>Thu, 05 Mar 2026 02:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seven-day Eid holiday this year]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/seven-day-eid-holiday-year-4121376</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/seven-day-eid-holiday-year-4121376</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cost of a comma: Documentation errors are the 'hidden tax' on Bangladesh’s exports]]></title>
+            <description><![CDATA[Banks do not assess whether the goods are satisfactory; they assess whether the documents comply exactly with what the buyer’s bank has stipulated. Even a minor inconsistency can turn a clean transaction into a delayed one.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-cost-comma-documentation-errors-are-the-hidden-tax-bangladeshs-exports-4120986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-cost-comma-documentation-errors-are-the-hidden-tax-bangladeshs-exports-4120986</guid>
+            <dc:creator><![CDATA[Nahian RahmanFaiaz Al Lami]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let the ACC work independently]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/let-the-acc-work-independently-4120691</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-the-acc-work-independently-4120691</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The dangerous normalisation of brutality in Bangladesh]]></title>
+            <description><![CDATA[A society does not wake up one morning and discover that it has become violent. It drifts into that state gradually, much like how dampness spreads inside walls. By the time the cracks become visible, the foundation has already weakened.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-dangerous-normalisation-brutality-bangladesh-4121466</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-dangerous-normalisation-brutality-bangladesh-4121466</guid>
+            <dc:creator><![CDATA[H.M. Nazmul Alam]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Repression of women, children: Protection promised but not delivered]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/repression-women-children-protection-promised-not-delivered-4121236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/repression-women-children-protection-promised-not-delivered-4121236</guid>
+            <pubDate>Thu, 05 Mar 2026 03:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Student life / Ramadan in student hostels]]></title>
+            <link>https://www.thedailystar.net/campus/news/ramadan-student-hostels-4120521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/ramadan-student-hostels-4120521</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Bangladesh's Women's movement shares with Nepal and Myanmar]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/what-bangladeshs-womens-movement-shares-nepal-and-myanmar-4120336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/what-bangladeshs-womens-movement-shares-nepal-and-myanmar-4120336</guid>
+            <pubDate>Wed, 04 Mar 2026 11:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Essay / From whispers to roars:  The changing voice of women’s fiction]]></title>
+            <link>https://www.thedailystar.net/books-literature/essay/news/whispers-roars-the-changing-voice-womens-fiction-4120961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/essay/news/whispers-roars-the-changing-voice-womens-fiction-4120961</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the government must prioritise to tackle power and energy challenges]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/what-the-government-must-prioritise-tackle-power-and-energy-challenges-4120951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-government-must-prioritise-tackle-power-and-energy-challenges-4120951</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Depositors of merged Shariah banks protest at BB for funds]]></title>
+            <link>https://www.thedailystar.net/business/news/depositors-merged-shariah-banks-protest-bb-funds-4121421</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/depositors-merged-shariah-banks-protest-bb-funds-4121421</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carrick says 'defeat hurts' after first loss as Man Utd boss]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/carrick-says-defeat-hurts-after-first-loss-man-utd-boss-4121436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/carrick-says-defeat-hurts-after-first-loss-man-utd-boss-4121436</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swapnadal to celebrate Women’s Day with awards and staging of ‘Helen Keller’]]></title>
+            <link>https://www.thedailystar.net/culture/news/swapnadal-celebrate-womens-day-awards-and-staging-helen-keller-4121486</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/news/swapnadal-celebrate-womens-day-awards-and-staging-helen-keller-4121486</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is chicken haleem even haleem?]]></title>
+            <link>https://www.thedailystar.net/life-living/food-recipes/news/chicken-haleem-even-haleem-4115576</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/chicken-haleem-even-haleem-4115576</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 refreshing drinks you can make at home during Ramadan]]></title>
+            <link>https://www.thedailystar.net/life-living/food-recipes/news/6-refreshing-drinks-you-can-make-home-during-ramadan-4107591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/6-refreshing-drinks-you-can-make-home-during-ramadan-4107591</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When early childhood is spent in front of screens]]></title>
+            <link>https://www.thedailystar.net/rising-stars/news/when-early-childhood-spent-front-screens-4114591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/news/when-early-childhood-spent-front-screens-4114591</guid>
+            <pubDate>Thu, 26 Feb 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why writing classes still matter in the age of AI]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-writing-classes-still-matter-the-age-ai-4115806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-writing-classes-still-matter-the-age-ai-4115806</guid>
+            <pubDate>Fri, 27 Feb 2026 10:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The promises and perils of a ‘Notun Tej’ in Bangladeshi architecture]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-promises-and-perils-notun-tej-bangladeshi-architecture-4116616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-promises-and-perils-notun-tej-bangladeshi-architecture-4116616</guid>
+            <pubDate>Sat, 28 Feb 2026 00:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The impact of noise on plants: Explained]]></title>
+            <link>https://www.thedailystar.net/rising-stars/explained/news/the-impact-noise-plants-explained-4114636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/explained/news/the-impact-noise-plants-explained-4114636</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THE SHELF / 7 graphic novels to read on International Women’s Day]]></title>
+            <link>https://www.thedailystar.net/books-literature/news/7-graphic-novels-read-international-womens-day-4120941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/news/7-graphic-novels-read-international-womens-day-4120941</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THE SHELF / 6 Books to contextualise the present conflict in the Gulf]]></title>
+            <link>https://www.thedailystar.net/books-literature/the-shelf/news/6-books-contextualise-the-present-conflict-the-gulf-4118066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/the-shelf/news/6-books-contextualise-the-present-conflict-the-gulf-4118066</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rise and reign of Khamenei]]></title>
+            <description><![CDATA[The death of Ayatollah Ali Khamenei, the Supreme Leader of Iran, has brought an end to an era in the country’s political history]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/the-rise-and-reign-khamenei-4117906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/the-rise-and-reign-khamenei-4117906</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian Revolutionary Guard vows retaliation after Khamenei’s killing]]></title>
+            <description><![CDATA[The Islamic Revolutionary Guard Corps has warned that those responsible for the death of Iran’s supreme leader will not escape retaliation]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/iranian-revolutionary-guard-vows-retaliation-after-khameneis-killing-4117896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/iranian-revolutionary-guard-vows-retaliation-after-khameneis-killing-4117896</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Column by Mahfuz Anam / The likely PM’s first crucial challenge]]></title>
+            <description><![CDATA[Choose cabinet with utmost care, for it may determine success or failure]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-likely-pms-first-crucial-challenge-4106066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-likely-pms-first-crucial-challenge-4106066</guid>
+            <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Part 1 / Jinnah vs Madani: The forgotten Muslim debate over Pakistan]]></title>
+            <description><![CDATA[Against Madani’s Indian nationalism, Jinnah’s argument was that the historical interaction and proximity between Hindus and Muslims in Indian society existed only at the level of external social life.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/jinnah-vs-madani-the-forgotten-muslim-debate-over-pakistan-4095831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/jinnah-vs-madani-the-forgotten-muslim-debate-over-pakistan-4095831</guid>
+            <pubDate>Mon, 02 Feb 2026 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Star Investigation / Fake ‘haha’ reactions attack political  opponents ahead of elections]]></title>
+            <link>https://www.thedailystar.net/news/investigative-stories/news/fake-haha-reactions-attack-political-opponents-ahead-elections-4097146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/investigative-stories/news/fake-haha-reactions-attack-political-opponents-ahead-elections-4097146</guid>
+            <pubDate>Tue, 03 Feb 2026 07:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to spot disinformation on social media]]></title>
+            <link>https://www.thedailystar.net/tech-startup/news/how-spot-disinformation-social-media-4102876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/how-spot-disinformation-social-media-4102876</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A six-point strategic memo to the new government]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/six-point-strategic-memo-the-new-government-4108786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/six-point-strategic-memo-the-new-government-4108786</guid>
+            <pubDate>Wed, 18 Feb 2026 00:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s economic roadmap: Priorities for the next government]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-economic-roadmap-priorities-the-next-government-4089211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-economic-roadmap-priorities-the-next-government-4089211</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Female leadership in Islam: A response to Jamaat Ameer]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/female-leadership-islam-response-jamaat-ameer-4102401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/female-leadership-islam-response-jamaat-ameer-4102401</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EDITORIAL / Why read?]]></title>
+            <link>https://www.thedailystar.net/books-literature/news/why-read-4087161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/news/why-read-4087161</guid>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next Step / The ‘Asian tiger’ dream is stalling. It is time Bangladeshi founders look to the Gulf]]></title>
+            <link>https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next Step / Why entrepreneurship must be Bangladesh’s next national mission]]></title>
+            <link>https://www.thedailystar.net/tech-startup/news/why-entrepreneurship-must-be-bangladeshs-next-national-mission-4108111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/why-entrepreneurship-must-be-bangladeshs-next-national-mission-4108111</guid>
+            <pubDate>Tue, 17 Feb 2026 09:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Business Plus / Fruits, now always in season]]></title>
+            <link>https://www.thedailystar.net/business/news/fruits-now-always-season-4105441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/fruits-now-always-season-4105441</guid>
+            <pubDate>Sat, 14 Feb 2026 00:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The hidden canyons of Sreemangal]]></title>
+            <link>https://www.thedailystar.net/weekend-read/news/the-hidden-canyons-sreemangal-4099781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/the-hidden-canyons-sreemangal-4099781</guid>
+            <pubDate>Sat, 07 Feb 2026 00:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.03.02)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260302-4118426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260302-4118426</guid>
+            <pubDate>Mon, 02 Mar 2026 03:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.03.01)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260301-4117581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260301-4117581</guid>
+            <pubDate>Sun, 01 Mar 2026 06:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.02.28)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260228-4116836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260228-4116836</guid>
+            <pubDate>Sat, 28 Feb 2026 02:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.03.05)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260305-4121251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260305-4121251</guid>
+            <pubDate>Thu, 05 Mar 2026 03:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.03.04)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260304-4120266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260304-4120266</guid>
+            <pubDate>Wed, 04 Mar 2026 03:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.03.03)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260303-4119331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260303-4119331</guid>
+            <pubDate>Tue, 03 Mar 2026 03:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.02.27)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260227-4116266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260227-4116266</guid>
+            <pubDate>Fri, 27 Feb 2026 03:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.02.26)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260226-4115306</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260226-4115306</guid>
+            <pubDate>Thu, 26 Feb 2026 03:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.02.26)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260226-4114346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260226-4114346</guid>
+            <pubDate>Wed, 25 Feb 2026 03:17:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

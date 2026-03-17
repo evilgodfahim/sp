@@ -4,78 +4,93 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 10:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 11:50:35 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[BB asks banks, payment firms to set up cashless units]]></title>
-            <link>https://www.thedailystar.net/business/news/bb-asks-banks-payment-firms-set-cashless-units-4130921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-asks-banks-payment-firms-set-cashless-units-4130921</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM’s first 28 days marked by reforms across key sectors: Adviser Mahdi Amin]]></title>
-            <description><![CDATA[Facebook post outlines “28 steps” highlighting early actions in economy, governance and welfare]]></description>
-            <link>https://www.thedailystar.net/news/governance/news/pms-first-28-days-marked-reforms-across-key-sectors-mahdi-amin-4130931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pms-first-28-days-marked-reforms-across-key-sectors-mahdi-amin-4130931</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Committee to be formed to probe Bangladesh’s T20 WC exclusion]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/committee-be-formed-probe-bangladeshs-t20-wc-exclusion-4130991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/committee-be-formed-probe-bangladeshs-t20-wc-exclusion-4130991</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Foreign minister, UNCTAD chief urge diplomatic solution to Middle East crisis]]></title>
-            <description><![CDATA[Khalilur Rahman, Rebeca Grynspan warn developing countries hit by energy disruptions, trade turmoil]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/foreign-minister-unctad-chief-urge-diplomatic-solution-middle-east-crisis-4130916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/foreign-minister-unctad-chief-urge-diplomatic-solution-middle-east-crisis-4130916</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel claims Iran's security chief Larijani is killed; no confirmation from Iran]]></title>
-            <description><![CDATA[Israel's defence minister made the claim]]></description>
-            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/israel-claims-irans-security-chief-larijani-killed-no-confirmation-iran-4130961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/israel-claims-irans-security-chief-larijani-killed-no-confirmation-iran-4130961</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM to launch Farmers’ Card pilot on Pohela Boishakh]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/pm-launch-farmers-card-pilot-pohela-boishakh-4130996</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pm-launch-farmers-card-pilot-pohela-boishakh-4130996</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran's new supreme leader rejects proposals for reducing tensions with US, senior official says]]></title>
-            <link>https://www.thedailystar.net/news/world/news/irans-new-supreme-leader-rejects-proposals-reducing-tensions-us-senior-official-says-4130976</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/irans-new-supreme-leader-rejects-proposals-reducing-tensions-us-senior-official-says-4130976</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle East could be top priority for Tarique Rahman’s first foreign visit]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/middle-east-could-be-top-priority-tarique-rahmans-first-foreign-visit-4130836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/middle-east-could-be-top-priority-tarique-rahmans-first-foreign-visit-4130836</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reflection / Middle East or West Asia?]]></title>
-            <link>https://www.thedailystar.net/taxonomy/term/1352514/news/middle-east-or-west-asia-4130986</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/taxonomy/term/1352514/news/middle-east-or-west-asia-4130986</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <title><![CDATA[Middle East tensions may slow remittance inflows: BB]]></title>
+            <link>https://www.thedailystar.net/business/news/middle-east-tensions-may-slow-remittance-inflows-bb-4131016</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/middle-east-tensions-may-slow-remittance-inflows-bb-4131016</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Seven-day Eid holiday begins, triggering nationwide travel rush]]></title>
+            <description><![CDATA[Govt offices, courts, and many private institutions closed; Dhaka sees surge in homebound travellers]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/seven-day-eid-holiday-begins-triggering-nationwide-travel-rush-4130786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/seven-day-eid-holiday-begins-triggering-nationwide-travel-rush-4130786</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran parliament speaker says Mideast post-war order will exclude US]]></title>
             <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-parliament-speaker-says-mideast-post-war-order-will-exclude-us-4130936</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-parliament-speaker-says-mideast-post-war-order-will-exclude-us-4130936</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attacks on UAE's Fujairah port and Shah gas field add to energy disruption]]></title>
+            <description><![CDATA[Oil loading at the UAE's port of Fujairah was at least partly halted on Tuesday]]></description>
+            <link>https://www.thedailystar.net/business/news/attacks-uaes-fujairah-port-and-shah-gas-field-add-energy-disruption-4131001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/attacks-uaes-fujairah-port-and-shah-gas-field-add-energy-disruption-4131001</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When is Eid-ul-Fitr in Saudi Arabia?]]></title>
+            <description><![CDATA[Saudi Supreme Court calls on Muslims across the Kingdom to sight the Shawwal moon]]></description>
+            <link>https://www.thedailystar.net/news/world/news/when-eid-ul-fitr-saudi-arabia-4131006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/when-eid-ul-fitr-saudi-arabia-4131006</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran's new supreme leader rejects proposals for reducing tensions with US, senior official says]]></title>
+            <link>https://www.thedailystar.net/news/world/news/irans-new-supreme-leader-rejects-proposals-reducing-tensions-us-senior-official-says-4130976</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/irans-new-supreme-leader-rejects-proposals-reducing-tensions-us-senior-official-says-4130976</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle East could be top priority for Tarique Rahman’s first foreign visit]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/middle-east-could-be-top-priority-tarique-rahmans-first-foreign-visit-4130836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/middle-east-could-be-top-priority-tarique-rahmans-first-foreign-visit-4130836</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM to launch Farmers’ Card pilot on Pohela Boishakh]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/pm-launch-farmers-card-pilot-pohela-boishakh-4130996</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pm-launch-farmers-card-pilot-pohela-boishakh-4130996</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel claims Iran's security chief Larijani is killed; no confirmation from Iran]]></title>
+            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/israel-claims-irans-security-chief-larijani-killed-no-confirmation-iran-4130961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/israel-claims-irans-security-chief-larijani-killed-no-confirmation-iran-4130961</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here are 7 gadget gift ideas for this Eid]]></title>
+            <link>https://www.thedailystar.net/tech-startup/news/here-are-7-gadget-gift-ideas-eid-4130946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/here-are-7-gadget-gift-ideas-eid-4130946</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reflection / Middle East or West Asia?]]></title>
+            <link>https://www.thedailystar.net/taxonomy/term/1352514/news/middle-east-or-west-asia-4130986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/taxonomy/term/1352514/news/middle-east-or-west-asia-4130986</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stories from a delayed flight: Migrant anxieties amid the Middle East conflict]]></title>
+            <description><![CDATA[By Shariful Hasan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/stories-delayed-flight-migrant-anxieties-amid-the-middle-east-conflict-4130361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/stories-delayed-flight-migrant-anxieties-amid-the-middle-east-conflict-4130361</guid>
+            <dc:creator><![CDATA[Shariful Hasan]]></dc:creator>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canal-digging drive must resist partisan influences]]></title>
+            <description><![CDATA[The formal inauguration of a nationwide canal excavation and re-excavation programme by Prime Minister Tarique Rahman is a necessary intervention.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/canal-digging-drive-must-resist-partisan-influences-4130151</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/canal-digging-drive-must-resist-partisan-influences-4130151</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1971 in literature: Independence  in Bangladesh, crisis in Pakistan]]></title>
@@ -83,96 +98,81 @@
             <link>https://www.thedailystar.net/slow-reads/focus/news/1971-literature-independence-bangladesh-crisis-pakistan-4130621</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/1971-literature-independence-bangladesh-crisis-pakistan-4130621</guid>
             <dc:creator><![CDATA[Madhurima Sen]]></dc:creator>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[False cases must not undermine justice]]></title>
-            <description><![CDATA[Govt must expedite the process of clearing innocent people’s names]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/false-cases-must-not-undermine-justice-4130341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/false-cases-must-not-undermine-justice-4130341</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reaction / Don’t turn childhood into a rat race]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <description><![CDATA[Decision to change lottery system and restore the entrance exam merits further deliberation]]></description>
             <link>https://www.thedailystar.net/news-analysis/news/dont-turn-childhood-rat-race-4130766</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/dont-turn-childhood-rat-race-4130766</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh needs a balanced energy security strategy]]></title>
-            <description><![CDATA[The global energy market is again in turmoil, this time because of the US-Israel war in Iran.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/why-bangladesh-needs-balanced-energy-security-strategy-4130351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-bangladesh-needs-balanced-energy-security-strategy-4130351</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typhoid in Bangladesh: A persistent public health challenge]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/typhoid-bangladesh-persistent-public-health-challenge-4130066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/typhoid-bangladesh-persistent-public-health-challenge-4130066</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Solar could help save $3 billion in LNG costs in 25 years: IEEFA]]></title>
             <link>https://www.thedailystar.net/business/news/solar-could-help-bangladesh-save-3-billion-lng-costs-annually-ieefa-4130221</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/solar-could-help-bangladesh-save-3-billion-lng-costs-annually-ieefa-4130221</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Explainer / Constitution reform council: Why the dispute and what the law says]]></title>
             <link>https://www.thedailystar.net/news-analysis/news/constitution-reform-council-why-the-dispute-and-what-the-law-says-4130231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/constitution-reform-council-why-the-dispute-and-what-the-law-says-4130231</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One bowl of haleem sends Bangladeshi chef to MasterChef semi final]]></title>
             <link>https://www.thedailystar.net/life-living/news/one-bowl-haleem-sends-bangladeshi-chef-masterchef-semi-final-4130586</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/one-bowl-haleem-sends-bangladeshi-chef-masterchef-semi-final-4130586</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 05:39:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh never had a Habermas, but it desperately needs one]]></title>
-            <link>https://www.thedailystar.net/opinion/news/bangladesh-never-had-habermas-it-desperately-needs-one-4130376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladesh-never-had-habermas-it-desperately-needs-one-4130376</guid>
-            <pubDate>Tue, 17 Mar 2026 00:59:00 GMT</pubDate>
+            <title><![CDATA[86 days to go / Immortality washed away in the rain of Bern]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/immortality-washed-away-the-rain-bern-4130646</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/immortality-washed-away-the-rain-bern-4130646</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EPA policy delivery key to Japanese investment]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/epa-policy-delivery-key-japanese-investment-4130466</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/epa-policy-delivery-key-japanese-investment-4130466</guid>
-            <pubDate>Tue, 17 Mar 2026 02:01:00 GMT</pubDate>
+            <title><![CDATA[Time to build an accountable Biman]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/time-build-accountable-biman-4131021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/time-build-accountable-biman-4131021</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burimari port to stay shut for 11 days]]></title>
+            <link>https://www.thedailystar.net/business/news/burimari-port-stay-shut-11-days-4130966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/burimari-port-stay-shut-11-days-4130966</guid>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vietnam thru to Asian Cup as Malaysia hit with 3-0 forfeits]]></title>
             <link>https://www.thedailystar.net/sports/football/news/vietnam-thru-asian-cup-malaysia-hit-3-0-forfeits-4130896</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/vietnam-thru-asian-cup-malaysia-hit-3-0-forfeits-4130896</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘I also feel like taking a break’: Shreya Ghoshal]]></title>
             <link>https://www.thedailystar.net/entertainment/music/news/i-also-feel-taking-break-shreya-ghoshal-4130776</link>
             <guid isPermaLink="true">https://www.thedailystar.net/entertainment/music/news/i-also-feel-taking-break-shreya-ghoshal-4130776</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ramadan Reset: Breaking the Shackles of Sugar Addiction]]></title>
             <link>https://www.thedailystar.net/life-living/health-fitness/news/ramadan-reset-breaking-the-shackles-sugar-addiction-4127211</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/ramadan-reset-breaking-the-shackles-sugar-addiction-4127211</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Healthy Ramadan fasting for pregnant and lactating mothers]]></title>
             <link>https://www.thedailystar.net/life-living/news/healthy-ramadan-fasting-pregnant-and-lactating-mothers-4129201</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/healthy-ramadan-fasting-pregnant-and-lactating-mothers-4129201</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple makeup hacks for the busy Bangladeshi woman this Eid]]></title>
             <link>https://www.thedailystar.net/life-living/fashion-beauty/news/simple-makeup-hacks-the-busy-bangladeshi-woman-eid-4129171</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/simple-makeup-hacks-the-busy-bangladeshi-woman-eid-4129171</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stylish panjabi combos that will steal the spotlight]]></title>
@@ -184,13 +184,13 @@
             <title><![CDATA[Make a statement this Eid with elegant flowy dresses]]></title>
             <link>https://www.thedailystar.net/life-living/fashion-beauty/news/make-statement-eid-elegant-flowy-dresses-4129166</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/make-statement-eid-elegant-flowy-dresses-4129166</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ESSAY / The Cosmere is getting adapted: Here is where to start reading]]></title>
             <link>https://www.thedailystar.net/books-literature/essay/news/the-cosmere-getting-adapted-here-where-start-reading-4128526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/books-literature/essay/news/the-cosmere-getting-adapted-here-where-start-reading-4128526</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CREATIVE NONFICTION / Sweetened ice and other lessons in kindness]]></title>
@@ -209,14 +209,14 @@
             <description><![CDATA[Uncertainty is mounting over the safety and whereabouts of Benjamin Netanyahu after Iranian missile strikes triggered a wave of conflicting reports and online speculation.]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/how-netanyahus-coffee-video-adds-confusion-over-death-rumours-4130706</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/how-netanyahus-coffee-video-adds-confusion-over-death-rumours-4130706</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran claims strike on Israel using Sejjil missile travelling 13× speed of sound]]></title>
             <description><![CDATA[IRGC says advanced missile deployed for first time since US-Israel attacks on Iran]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/iran-claims-strike-israel-using-sejjil-missile-travelling-13-speed-sound-4130696</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/iran-claims-strike-israel-using-sejjil-missile-travelling-13-speed-sound-4130696</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / The likely PM’s first crucial challenge]]></title>
@@ -242,7 +242,7 @@
             <title><![CDATA[How to spot disinformation on social media]]></title>
             <link>https://www.thedailystar.net/tech-startup/news/how-spot-disinformation-social-media-4102876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/how-spot-disinformation-social-media-4102876</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A six-point strategic memo to the new government]]></title>
@@ -254,7 +254,7 @@
             <title><![CDATA[Bangladesh’s economic roadmap: Priorities for the next government]]></title>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-economic-roadmap-priorities-the-next-government-4089211</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-economic-roadmap-priorities-the-next-government-4089211</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Female leadership in Islam: A response to Jamaat Ameer]]></title>
@@ -272,7 +272,7 @@
             <title><![CDATA[Next Step / The ‘Asian tiger’ dream is stalling. It is time Bangladeshi founders look to the Gulf]]></title>
             <link>https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Next Step / Why entrepreneurship must be Bangladesh’s next national mission]]></title>
@@ -314,7 +314,7 @@
             <title><![CDATA[Today's Gallery (2026.03.17)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260317-4130636</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260317-4130636</guid>
-            <pubDate>Tue, 17 Mar 2026 10:58:00 GMT</pubDate>
+            <pubDate>Tue, 17 Mar 2026 11:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2025.03.16)]]></title>

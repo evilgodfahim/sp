@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 07:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 08:31:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 07:47:35 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 08:31:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[In defense of Dubai]]></title>
+            <description><![CDATA[By Ed Husain]]></description>
+            <link>https://spectator.com/article/in-defence-of-dubai/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-dubai/?edition=us</guid>
+            <dc:creator><![CDATA[Ed Husain]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 08:31:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How AI led a psychiatrist to a breakdown]]></title>
             <description><![CDATA[By Jules Evans]]></description>

@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 04:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 06:07:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 04:31:25 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 06:07:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[NHS Online won’t cure Britain’s creaking healthcare system]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/</link>
+            <guid isPermaLink="true">https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 06:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In defence of Dubai]]></title>
+            <description><![CDATA[By Ed Husain]]></description>
+            <link>https://spectator.com/article/in-defence-of-dubai/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-dubai/</guid>
+            <dc:creator><![CDATA[Ed Husain]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 06:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa is a breath of fresh air compared to Britain]]></title>
+            <description><![CDATA[By Stephen Robinson]]></description>
+            <link>https://spectator.com/article/south-africa-is-a-breath-of-fresh-air-compared-to-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/south-africa-is-a-breath-of-fresh-air-compared-to-britain/</guid>
+            <dc:creator><![CDATA[Stephen Robinson]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 06:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A social media ban for under-16s is long overdue]]></title>
+            <description><![CDATA[By Cristina Odone]]></description>
+            <link>https://spectator.com/article/a-social-media-ban-for-under-16s-is-long-overdue/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-social-media-ban-for-under-16s-is-long-overdue/</guid>
+            <dc:creator><![CDATA[Cristina Odone]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 06:07:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to brainwash the British public]]></title>
             <description><![CDATA[By Douglas Murray]]></description>

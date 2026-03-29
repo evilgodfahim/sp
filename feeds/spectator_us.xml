@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 11:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 12:36:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 11:22:17 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 12:36:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The case for barbecuing ham]]></title>
+            <description><![CDATA[By Robert F. Moss]]></description>
+            <link>https://spectator.com/article/the-case-for-barbecuing-ham/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-case-for-barbecuing-ham/?edition=us</guid>
+            <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 12:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How AI led a psychiatrist to a breakdown]]></title>
+            <description><![CDATA[By Jules Evans]]></description>
+            <link>https://spectator.com/article/how-ai-led-a-psychiatrist-to-a-breakdown/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-ai-led-a-psychiatrist-to-a-breakdown/?edition=us</guid>
+            <dc:creator><![CDATA[Jules Evans]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 12:36:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Academics are trying to get my paper retracted — and some of them haven’t even read it]]></title>
             <description><![CDATA[By Nathan Cofnas]]></description>

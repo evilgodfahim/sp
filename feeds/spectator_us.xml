@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 08:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 09:29:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 08:31:44 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 09:29:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Academics are trying to get my paper retracted — and some of them haven’t even read it]]></title>
+            <description><![CDATA[By Nathan Cofnas]]></description>
+            <link>https://spectator.com/article/academics-are-trying-to-get-my-paper-retracted-and-some-of-them-havent-even-read-it/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/academics-are-trying-to-get-my-paper-retracted-and-some-of-them-havent-even-read-it/?edition=us</guid>
+            <dc:creator><![CDATA[Nathan Cofnas]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 09:29:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In defense of Dubai]]></title>
             <description><![CDATA[By Ed Husain]]></description>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 08:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 10:08:55 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 08:18:21 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 10:08:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Softly softly]]></title>
+            <description><![CDATA[By Luke McShane]]></description>
+            <link>https://spectator.com/article/softly-softly-2/</link>
+            <guid isPermaLink="true">https://spectator.com/article/softly-softly-2/</guid>
+            <dc:creator><![CDATA[Luke McShane]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 10:08:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is therapy culture to blame for the manosphere?]]></title>
+            <description><![CDATA[By Clementine Prendergast]]></description>
+            <link>https://spectator.com/article/is-therapy-culture-to-blame-for-the-manosphere/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-therapy-culture-to-blame-for-the-manosphere/</guid>
+            <dc:creator><![CDATA[Clementine Prendergast]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 10:08:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The illusion and delusion of Matt Goodwin]]></title>
             <description><![CDATA[MattGPT]]></description>

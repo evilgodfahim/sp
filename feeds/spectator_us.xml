@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 08:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 10:08:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 08:18:15 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 10:08:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Elites keep making education about themselves]]></title>
+            <description><![CDATA[By Bethany Lorden]]></description>
+            <link>https://spectator.com/article/elites-keep-making-education-about-themselves/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/elites-keep-making-education-about-themselves/?edition=us</guid>
+            <dc:creator><![CDATA[Bethany Lorden]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 10:08:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I spent 25 years fighting neocons. Then Trump became one]]></title>
             <description><![CDATA[By Scott McConnell]]></description>

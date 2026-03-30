@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 10:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 11:50:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 10:08:51 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 11:50:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The disembodied brain cells playing video games]]></title>
+            <description><![CDATA[By Terry Barnes]]></description>
+            <link>https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us</guid>
+            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 11:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The case for barbecuing ham]]></title>
+            <description><![CDATA[Pit stop]]></description>
+            <link>https://spectator.com/article/the-case-for-barbecuing-ham/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-case-for-barbecuing-ham/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 11:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The disembodied brain cells playing video games]]></title>
+            <description><![CDATA[By Terry Barnes]]></description>
+            <link>https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 11:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A meta-analysis of meta]]></title>
+            <description><![CDATA[Mind your language]]></description>
+            <link>https://spectator.com/article/a-meta-analysis-of-meta/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-meta-analysis-of-meta/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Dot Wordsworth]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 11:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How we wage war in space]]></title>
+            <description><![CDATA[Battle stars]]></description>
+            <link>https://spectator.com/article/how-we-wage-war-in-space/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-we-wage-war-in-space/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 11:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t let AI read philosophy for you]]></title>
+            <description><![CDATA[By Mark Nayler]]></description>
+            <link>https://spectator.com/article/dont-let-ai-read-philosophy-for-you/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-let-ai-read-philosophy-for-you/?edition=us</guid>
+            <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 11:50:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elites keep making education about themselves]]></title>
             <description><![CDATA[By Bethany Lorden]]></description>

@@ -4,13 +4,21 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 12:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 14:27:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 12:58:30 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 14:27:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The markets have stopped listening to Donald Trump]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/the-markets-have-stopped-listening-to-donald-trump/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-markets-have-stopped-listening-to-donald-trump/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 14:27:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Britain should brace itself for a small boat surge]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
+            <description><![CDATA[Migration]]></description>
             <link>https://spectator.com/article/britain-should-brace-itself-for-a-small-boat-surge/</link>
             <guid isPermaLink="true">https://spectator.com/article/britain-should-brace-itself-for-a-small-boat-surge/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
@@ -26,7 +34,7 @@
         </item>
         <item>
             <title><![CDATA[Is therapy culture to blame for the manosphere?]]></title>
-            <description><![CDATA[By Clementine Prendergast]]></description>
+            <description><![CDATA[Self healing]]></description>
             <link>https://spectator.com/article/is-therapy-culture-to-blame-for-the-manosphere/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-therapy-culture-to-blame-for-the-manosphere/</guid>
             <dc:creator><![CDATA[Clementine Prendergast]]></dc:creator>
@@ -34,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[The illusion and delusion of Matt Goodwin]]></title>
-            <description><![CDATA[MattGPT]]></description>
+            <description><![CDATA[By Sam Leith]]></description>
             <link>https://spectator.com/article/the-illusion-and-delusion-of-matt-goodwin/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-illusion-and-delusion-of-matt-goodwin/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
@@ -82,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Why modern ‘comedians’ like Romesh Ranganathan aren’t funny]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
+            <description><![CDATA[Last laugh]]></description>
             <link>https://spectator.com/article/why-modern-comedians-like-romesh-ranganathan-arent-funny/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-modern-comedians-like-romesh-ranganathan-arent-funny/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
@@ -266,7 +274,7 @@
         </item>
         <item>
             <title><![CDATA[South Africa is a breath of fresh air compared to Britain]]></title>
-            <description><![CDATA[Knackered]]></description>
+            <description><![CDATA[By Stephen Robinson]]></description>
             <link>https://spectator.com/article/south-africa-is-a-breath-of-fresh-air-compared-to-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/south-africa-is-a-breath-of-fresh-air-compared-to-britain/</guid>
             <dc:creator><![CDATA[Stephen Robinson]]></dc:creator>

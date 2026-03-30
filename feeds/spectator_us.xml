@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 16:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 17:45:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 16:01:47 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 17:45:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[HBO bets against J.K. Rowling backlash with new Harry Potter series]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/hbo-bets-against-j-k-rowling-backlash-with-new-harry-potter-series/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/hbo-bets-against-j-k-rowling-backlash-with-new-harry-potter-series/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 17:45:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The three options facing Trump in Iran]]></title>
             <description><![CDATA[By Marcus Solarz Hendriks]]></description>

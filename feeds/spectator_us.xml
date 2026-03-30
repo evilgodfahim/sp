@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 11:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 12:58:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 11:50:14 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 12:58:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[One Battle After Another may be the worst movie ever made]]></title>
+            <description><![CDATA[By Curtis Yarvin]]></description>
+            <link>https://spectator.com/article/one-battle-after-another-may-be-the-worst-movie-ever-made/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/one-battle-after-another-may-be-the-worst-movie-ever-made/?edition=us</guid>
+            <dc:creator><![CDATA[Curtis Yarvin]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 12:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Love Story’s counterfeit Kennedys]]></title>
+            <description><![CDATA[By Clare McHugh]]></description>
+            <link>https://spectator.com/article/love-storys-counterfeit-kennedys/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/love-storys-counterfeit-kennedys/?edition=us</guid>
+            <dc:creator><![CDATA[Clare McHugh]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 12:58:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The disembodied brain cells playing video games]]></title>
             <description><![CDATA[By Terry Barnes]]></description>

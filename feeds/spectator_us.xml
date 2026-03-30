@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 04:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 06:25:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 04:38:59 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 06:25:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[I spent 25 years fighting neocons. Then Trump became one]]></title>
+            <description><![CDATA[By Scott McConnell]]></description>
+            <link>https://spectator.com/article/25-years-neocons-trump-scott-mcconnell-diary/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/25-years-neocons-trump-scott-mcconnell-diary/?edition=us</guid>
+            <dc:creator><![CDATA[Scott McConnell]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 06:25:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I embraced my inner Eloise at the Plaza]]></title>
+            <description><![CDATA[By Lara Prendergast]]></description>
+            <link>https://spectator.com/article/i-embraced-my-inner-eloise-at-the-plaza/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-embraced-my-inner-eloise-at-the-plaza/?edition=us</guid>
+            <dc:creator><![CDATA[Lara Prendergast]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 06:25:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jeffrey Epstein’s testosterone problem]]></title>
             <description><![CDATA[By Charles Cornish-Dale]]></description>

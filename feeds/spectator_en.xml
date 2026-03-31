@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 01:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 04:30:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 01:28:04 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 04:30:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can driverless cabs handle London?]]></title>
+            <description><![CDATA[The first time I took a ride in a Waymo was in 2024. It was summer in San Francisco, and my wife and I had spent several weeks watching these curious, sensor-laden Jaguar I-Paces gliding– driverless – up and down the city’s famous slopes. Intrigued, we downloaded the app, summoned one and climbed in.  It was the stuff of sci-fi.]]></description>
+            <link>https://spectator.com/article/will-driverless-cabs-be-able-to-handle-london-streets/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-driverless-cabs-be-able-to-handle-london-streets/</guid>
+            <dc:creator><![CDATA[Jonathan Wells]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 04:30:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harry Potter is for infantilised millennials]]></title>
+            <description><![CDATA[By Kristina ﻿Murkett]]></description>
+            <link>https://spectator.com/article/the-harry-potter-television-series-looks-set-to-be-creatively-bereft/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-harry-potter-television-series-looks-set-to-be-creatively-bereft/</guid>
+            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 04:30:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My daughter’s living my football dream]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/my-daughters-living-my-football-dream/</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-daughters-living-my-football-dream/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 04:30:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel needs to rethink its relationship with Christians]]></title>
             <description><![CDATA[By Stephen Daisley]]></description>

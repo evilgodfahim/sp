@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 10:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 11:42:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 10:50:24 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 11:42:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The absurdity at the heart of the junior doctors’ strikes]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/the-absurdity-at-the-heart-of-the-junior-doctors-strikes/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-absurdity-at-the-heart-of-the-junior-doctors-strikes/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 11:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Children aren’t there to make parents happy]]></title>
+            <description><![CDATA[By Joanna Williams]]></description>
+            <link>https://spectator.com/article/children-arent-there-to-make-parents-happy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/children-arent-there-to-make-parents-happy/</guid>
+            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 11:42:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Have Beatrice and Eugenie been cast out into the cold?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>

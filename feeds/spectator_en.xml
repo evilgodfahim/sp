@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 06:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 08:03:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 06:12:21 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 08:03:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Emily Thornberry said the quiet part out loud on immigration]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/emily-thornberry-said-the-quiet-part-out-loud-on-immigration/</link>
+            <guid isPermaLink="true">https://spectator.com/article/emily-thornberry-said-the-quiet-part-out-loud-on-immigration/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 08:03:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meghan is a woman much misunderstood]]></title>
             <description><![CDATA[Real life]]></description>
@@ -45,6 +53,7 @@
             <description><![CDATA[Holy war]]></description>
             <link>https://spectator.com/article/canada-wants-to-make-quoting-the-bible-illegal/</link>
             <guid isPermaLink="true">https://spectator.com/article/canada-wants-to-make-quoting-the-bible-illegal/</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 06:12:21 GMT</pubDate>
         </item>
         <item>

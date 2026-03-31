@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 12:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 14:26:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 12:57:21 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 14:26:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Chagos deal is unravelling]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/the-chagos-deal-is-unravelling/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-chagos-deal-is-unravelling/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 14:26:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Should Britain go it alone on nukes?]]></title>
             <description><![CDATA[By Daniel Skeffington]]></description>

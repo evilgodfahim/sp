@@ -4,13 +4,21 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 11:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 12:57:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 11:42:40 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 12:57:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Should Britain go it alone on nukes?]]></title>
+            <description><![CDATA[By Daniel Skeffington]]></description>
+            <link>https://spectator.com/article/should-britain-go-it-alone-on-nukes/</link>
+            <guid isPermaLink="true">https://spectator.com/article/should-britain-go-it-alone-on-nukes/</guid>
+            <dc:creator><![CDATA[Daniel Skeffington]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 12:57:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The absurdity at the heart of the junior doctors’ strikes]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
+            <description><![CDATA[Unhealthy mindset]]></description>
             <link>https://spectator.com/article/the-absurdity-at-the-heart-of-the-junior-doctors-strikes/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-absurdity-at-the-heart-of-the-junior-doctors-strikes/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -34,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[How Ed Miliband could actually profit from the energy crisis]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
+            <description><![CDATA[Sea change]]></description>
             <link>https://spectator.com/article/how-ed-miliband-could-actually-profit-from-the-energy-crisis/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-ed-miliband-could-actually-profit-from-the-energy-crisis/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -42,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Emily Thornberry said the quiet part out loud on immigration]]></title>
-            <description><![CDATA[Boriswave]]></description>
+            <description><![CDATA[By David Shipley]]></description>
             <link>https://spectator.com/article/emily-thornberry-said-the-quiet-part-out-loud-on-immigration/</link>
             <guid isPermaLink="true">https://spectator.com/article/emily-thornberry-said-the-quiet-part-out-loud-on-immigration/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>

@@ -4,13 +4,52 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 04:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 06:12:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 04:30:16 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 06:12:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Meghan is a woman much misunderstood]]></title>
+            <description><![CDATA[Real life]]></description>
+            <link>https://spectator.com/article/meghan-is-a-woman-much-misunderstood/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/meghan-is-a-woman-much-misunderstood/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 06:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Never pass up a chance to ski]]></title>
+            <description><![CDATA[Best life]]></description>
+            <link>https://spectator.com/article/never-pass-up-a-chance-to-ski/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/never-pass-up-a-chance-to-ski/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 06:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it time for me to renounce the Devil?]]></title>
+            <description><![CDATA[Drink]]></description>
+            <link>https://spectator.com/article/is-it-time-for-me-to-renounce-the-devil/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-it-time-for-me-to-renounce-the-devil/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Bruce Anderson]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 06:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The remarkable blandness of Scott Mills]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/the-remarkable-blandness-of-scott-mills/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-remarkable-blandness-of-scott-mills/</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 06:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada wants to make quoting the Bible illegal]]></title>
+            <description><![CDATA[Holy war]]></description>
+            <link>https://spectator.com/article/canada-wants-to-make-quoting-the-bible-illegal/</link>
+            <guid isPermaLink="true">https://spectator.com/article/canada-wants-to-make-quoting-the-bible-illegal/</guid>
+            <pubDate>Tue, 31 Mar 2026 06:12:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can driverless cabs handle London?]]></title>
-            <description><![CDATA[The first time I took a ride in a Waymo was in 2024. It was summer in San Francisco, and my wife and I had spent several weeks watching these curious, sensor-laden Jaguar I-Paces gliding– driverless – up and down the city’s famous slopes. Intrigued, we downloaded the app, summoned one and climbed in.  It was the stuff of sci-fi.]]></description>
+            <description><![CDATA[Robotaxi wars]]></description>
             <link>https://spectator.com/article/will-driverless-cabs-be-able-to-handle-london-streets/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-driverless-cabs-be-able-to-handle-london-streets/</guid>
             <dc:creator><![CDATA[Jonathan Wells]]></dc:creator>
@@ -18,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[Harry Potter is for infantilised millennials]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
+            <description><![CDATA[Bad magic]]></description>
             <link>https://spectator.com/article/the-harry-potter-television-series-looks-set-to-be-creatively-bereft/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-harry-potter-television-series-looks-set-to-be-creatively-bereft/</guid>
             <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
@@ -26,7 +65,7 @@
         </item>
         <item>
             <title><![CDATA[My daughter’s living my football dream]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
+            <description><![CDATA[Beautiful Game]]></description>
             <link>https://spectator.com/article/my-daughters-living-my-football-dream/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-daughters-living-my-football-dream/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -34,7 +73,7 @@
         </item>
         <item>
             <title><![CDATA[Israel needs to rethink its relationship with Christians]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
+            <description><![CDATA[Palm Sunday]]></description>
             <link>https://spectator.com/article/israel-needs-to-rethink-its-relationship-with-christians/</link>
             <guid isPermaLink="true">https://spectator.com/article/israel-needs-to-rethink-its-relationship-with-christians/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
@@ -50,7 +89,7 @@
         </item>
         <item>
             <title><![CDATA[The markets have stopped listening to Donald Trump]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
+            <description><![CDATA[Oil crisis]]></description>
             <link>https://spectator.com/article/the-markets-have-stopped-listening-to-donald-trump/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-markets-have-stopped-listening-to-donald-trump/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
@@ -58,7 +97,7 @@
         </item>
         <item>
             <title><![CDATA[Britain should brace itself for a small boat surge]]></title>
-            <description><![CDATA[Migration]]></description>
+            <description><![CDATA[By Gavin Mortimer]]></description>
             <link>https://spectator.com/article/britain-should-brace-itself-for-a-small-boat-surge/</link>
             <guid isPermaLink="true">https://spectator.com/article/britain-should-brace-itself-for-a-small-boat-surge/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
@@ -74,7 +113,7 @@
         </item>
         <item>
             <title><![CDATA[Is therapy culture to blame for the manosphere?]]></title>
-            <description><![CDATA[Self healing]]></description>
+            <description><![CDATA[By Clementine Prendergast]]></description>
             <link>https://spectator.com/article/is-therapy-culture-to-blame-for-the-manosphere/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-therapy-culture-to-blame-for-the-manosphere/</guid>
             <dc:creator><![CDATA[Clementine Prendergast]]></dc:creator>
@@ -146,7 +185,7 @@
         </item>
         <item>
             <title><![CDATA[Why Gen-Z turned back to Christianity]]></title>
-            <description><![CDATA[Religious revival]]></description>
+            <description><![CDATA[By Bijan Omrani]]></description>
             <link>https://spectator.com/article/why-gen-z-turned-back-to-christianity/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-gen-z-turned-back-to-christianity/</guid>
             <dc:creator><![CDATA[Bijan Omrani]]></dc:creator>
@@ -154,7 +193,7 @@
         </item>
         <item>
             <title><![CDATA[The scrumptious surge of unusual food pairings]]></title>
-            <description><![CDATA[Crazy combos]]></description>
+            <description><![CDATA[By Julie Bindel]]></description>
             <link>https://spectator.com/article/pickles-dipped-in-peanut-butter-the-rise-of-unusual-food-pairings/</link>
             <guid isPermaLink="true">https://spectator.com/article/pickles-dipped-in-peanut-butter-the-rise-of-unusual-food-pairings/</guid>
             <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
@@ -162,7 +201,7 @@
         </item>
         <item>
             <title><![CDATA[The American idyll still exists]]></title>
-            <description><![CDATA[California dreaming]]></description>
+            <description><![CDATA[By Zoe Strimpel]]></description>
             <link>https://spectator.com/article/the-american-idyll-isnt-dead-yet/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-american-idyll-isnt-dead-yet/</guid>
             <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
@@ -170,7 +209,7 @@
         </item>
         <item>
             <title><![CDATA[In praise of the gilet]]></title>
-            <description><![CDATA[Vested interest]]></description>
+            <description><![CDATA[By Sybilla Hart]]></description>
             <link>https://spectator.com/article/in-praise-of-the-gilet/</link>
             <guid isPermaLink="true">https://spectator.com/article/in-praise-of-the-gilet/</guid>
             <dc:creator><![CDATA[Sybilla Hart]]></dc:creator>
@@ -442,7 +481,7 @@
         </item>
         <item>
             <title><![CDATA[Organised crime is targeting artisanal food]]></title>
-            <description><![CDATA[À la cartel]]></description>
+            <description><![CDATA[By Sarah Langford]]></description>
             <link>https://spectator.com/article/organised-crime-is-targeting-artisanal-food/</link>
             <guid isPermaLink="true">https://spectator.com/article/organised-crime-is-targeting-artisanal-food/</guid>
             <dc:creator><![CDATA[Sarah Langford]]></dc:creator>
@@ -482,7 +521,7 @@
         </item>
         <item>
             <title><![CDATA[Is it time for me to renounce the Devil?]]></title>
-            <description><![CDATA[By Bruce Anderson]]></description>
+            <description><![CDATA[Drink]]></description>
             <link>https://spectator.com/article/is-it-time-for-me-to-renounce-the-devil/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-it-time-for-me-to-renounce-the-devil/</guid>
             <dc:creator><![CDATA[Bruce Anderson]]></dc:creator>
@@ -578,7 +617,7 @@
         </item>
         <item>
             <title><![CDATA[Never pass up a chance to ski]]></title>
-            <description><![CDATA[By Rachel Johnson]]></description>
+            <description><![CDATA[Best life]]></description>
             <link>https://spectator.com/article/never-pass-up-a-chance-to-ski/</link>
             <guid isPermaLink="true">https://spectator.com/article/never-pass-up-a-chance-to-ski/</guid>
             <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>

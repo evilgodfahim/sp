@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 08:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 09:56:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 08:03:23 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 09:56:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is ‘international law’ practical?]]></title>
+            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
+            <link>https://spectator.com/article/is-international-law-practical/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-international-law-practical/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 09:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The disembodied brain cells playing video games]]></title>
+            <description><![CDATA[Doom loop]]></description>
+            <link>https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 09:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel needs to rethink its relationship with Christians]]></title>
+            <description><![CDATA[By Stephen Daisley]]></description>
+            <link>https://spectator.com/article/israel-needs-to-rethink-its-relationship-with-christians/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/israel-needs-to-rethink-its-relationship-with-christians/?edition=us</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 09:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada wants to make quoting the Bible illegal]]></title>
+            <description><![CDATA[By Jane Stannus]]></description>
+            <link>https://spectator.com/article/canada-wants-to-make-quoting-the-bible-illegal/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/canada-wants-to-make-quoting-the-bible-illegal/?edition=us</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 09:56:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Explorers Club, real-life Indiana Joneses]]></title>
             <description><![CDATA[By Cockburn]]></description>

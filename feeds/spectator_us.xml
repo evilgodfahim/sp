@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 10:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 11:44:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 10:01:02 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The disembodied brain cells playing video games]]></title>
+            <description><![CDATA[Doom loop]]></description>
+            <link>https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How we wage war in space]]></title>
+            <description><![CDATA[Battle stars]]></description>
+            <link>https://spectator.com/article/how-we-wage-war-in-space/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-we-wage-war-in-space/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the poor survived in ancient Rome]]></title>
+            <description><![CDATA[By Peter Jones]]></description>
+            <link>https://spectator.com/article/how-the-poor-survived-in-ancient-rome/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-poor-survived-in-ancient-rome/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Madagascar offers peace – and lemurs – in abundance]]></title>
+            <description><![CDATA[Africa]]></description>
+            <link>https://spectator.com/article/madagascar-offers-peace-and-lemurs-in-abundance/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/madagascar-offers-peace-and-lemurs-in-abundance/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Prue Leith]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe is in mutiny against Trump]]></title>
+            <description><![CDATA[By Daniel DePetris]]></description>
+            <link>https://spectator.com/article/europe-is-finally-standing-up-to-trump/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/europe-is-finally-standing-up-to-trump/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[War and fishing in the Strait of Hormuz]]></title>
+            <description><![CDATA[By Christopher Kennedy-Barnard]]></description>
+            <link>https://spectator.com/article/fishing-in-the-strait-of-hormuz/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/fishing-in-the-strait-of-hormuz/?edition=us</guid>
+            <dc:creator><![CDATA[Christopher Kennedy-Barnard]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The age of the aircraft carrier is over]]></title>
+            <description><![CDATA[By Andrew Cockburn]]></description>
+            <link>https://spectator.com/article/why-aircraft-carriers-have-had-their-day/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-aircraft-carriers-have-had-their-day/?edition=us</guid>
+            <dc:creator><![CDATA[Andrew Cockburn]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A sunshine state of mind]]></title>
             <description><![CDATA[By Karol Markowicz]]></description>

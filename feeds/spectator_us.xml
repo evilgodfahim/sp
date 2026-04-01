@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 16:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 17:43:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 16:03:15 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 17:43:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Does Prince Harry regret his “Mr Mischief” messages?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 17:43:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s presidential library is predictably crass]]></title>
+            <description><![CDATA[By Stephen Bayley]]></description>
+            <link>https://spectator.com/article/trumps-presidential-library-is-predictably-crass/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-presidential-library-is-predictably-crass/?edition=us</guid>
+            <dc:creator><![CDATA[Stephen Bayley]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 17:43:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump has already checked out of Nato]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/trump-is-determined-to-alienate-america-from-europe/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-is-determined-to-alienate-america-from-europe/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 17:43:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Church of England makes me grateful to be a Catholic]]></title>
             <description><![CDATA[By Melanie McDonagh]]></description>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 06:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 08:11:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 06:22:55 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 08:11:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Anas Sarwar stands by his call for Starmer to go]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/anas-sarwar-stands-by-his-call-for-starmer-to-go/</link>
+            <guid isPermaLink="true">https://spectator.com/article/anas-sarwar-stands-by-his-call-for-starmer-to-go/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 08:11:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe is finally standing up to Trump]]></title>
+            <description><![CDATA[By Daniel DePetris]]></description>
+            <link>https://spectator.com/article/europe-is-finally-standing-up-to-trump/</link>
+            <guid isPermaLink="true">https://spectator.com/article/europe-is-finally-standing-up-to-trump/</guid>
+            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 08:11:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour is creating a tidal wave of bureaucracy]]></title>
+            <description><![CDATA[By Laurie Wastell]]></description>
+            <link>https://spectator.com/article/labour-is-creating-a-tidal-wave-of-bureaucracy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-is-creating-a-tidal-wave-of-bureaucracy/</guid>
+            <dc:creator><![CDATA[Laurie Wastell]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 08:11:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Hitler’s suave architect escaped the noose at Nuremberg]]></title>
             <description><![CDATA[Books]]></description>
@@ -57,7 +81,7 @@
             <pubDate>Wed, 01 Apr 2026 06:22:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don't tolerate potholes]]></title>
+            <title><![CDATA[Don’t tolerate potholes]]></title>
             <description><![CDATA[Flat tyre]]></description>
             <link>https://spectator.com/article/dont-tolerate-potholes/</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-tolerate-potholes/</guid>

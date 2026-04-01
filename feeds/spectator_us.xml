@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 06:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 08:11:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 06:22:49 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 08:11:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A sunshine state of mind]]></title>
+            <description><![CDATA[By Karol Markowicz]]></description>
+            <link>https://spectator.com/article/a-sunshine-state-of-mind/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-sunshine-state-of-mind/?edition=us</guid>
+            <dc:creator><![CDATA[Karol Markowicz]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 08:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Byrne has done it again]]></title>
+            <description><![CDATA[By Graeme Thomson]]></description>
+            <link>https://spectator.com/article/david-byrne-has-done-it-again/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/david-byrne-has-done-it-again/?edition=us</guid>
+            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 08:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The art of aging]]></title>
+            <description><![CDATA[By Simon Ings]]></description>
+            <link>https://spectator.com/article/the-art-of-ageing/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-art-of-ageing/?edition=us</guid>
+            <dc:creator><![CDATA[Simon Ings]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 08:11:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump has given America back its heroes]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -426,7 +450,7 @@
         </item>
         <item>
             <title><![CDATA[How the illiterate peasant Rasputin changed the course of modern history]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
+            <description><![CDATA[There lived a certain man, in Russia long ago. He was big and strong, in his eyes a flaming glow. You know the rest. Antony Beevor’s telling of the story of Grigory Rasputin will surely be the greatest literary chart hit of the year. That the life and death of one of history’s most extraordinary]]></description>
             <link>https://spectator.com/article/how-an-illiterate-peasant-changed-the-course-of-modern-history/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-an-illiterate-peasant-changed-the-course-of-modern-history/?edition=us</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>

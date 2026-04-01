@@ -4,12 +4,28 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 17:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 18:49:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 17:43:20 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 18:49:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Does Prince Harry regret his “Mr Mischief” messages?]]></title>
+            <title><![CDATA[The inexorable rise of the GOP swimwear models]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/the-inexorable-rise-of-the-gop-swimwear-models/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-inexorable-rise-of-the-gop-swimwear-models/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 18:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump would regret leaving NATO]]></title>
+            <description><![CDATA[By Sam Olsen]]></description>
+            <link>https://spectator.com/article/donald-trump-would-regret-leaving-nato/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/donald-trump-would-regret-leaving-nato/?edition=us</guid>
+            <dc:creator><![CDATA[Sam Olsen]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 18:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Prince Harry regret his ‘Mr. Mischief’ messages?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/?edition=us</guid>

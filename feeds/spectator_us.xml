@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 11:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 12:58:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 12:58:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Madagascar offers peace – and lemurs – in abundance]]></title>
+            <description><![CDATA[By Prue Leith]]></description>
+            <link>https://spectator.com/article/madagascar-offers-peace-and-lemurs-in-abundance/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/madagascar-offers-peace-and-lemurs-in-abundance/?edition=us</guid>
+            <dc:creator><![CDATA[Prue Leith]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 12:58:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The disembodied brain cells playing video games]]></title>
             <description><![CDATA[Doom loop]]></description>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 18:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 19:53:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 18:49:30 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 19:53:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump’s presence won’t sway the Supreme Court]]></title>
+            <description><![CDATA[By Alan Dershowitz]]></description>
+            <link>https://spectator.com/article/trumps-presence-wont-sway-the-supreme-court/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-presence-wont-sway-the-supreme-court/?edition=us</guid>
+            <dc:creator><![CDATA[Alan Dershowitz]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 19:53:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The inexorable rise of the GOP swimwear models]]></title>
             <description><![CDATA[By Cockburn]]></description>

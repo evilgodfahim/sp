@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 08:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 10:01:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 08:11:15 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 10:01:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can this millennial rapper save Nepal?]]></title>
+            <description><![CDATA[Balendra Shah]]></description>
+            <link>https://spectator.com/article/can-this-millennial-rapper-save-nepal/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-this-millennial-rapper-save-nepal/</guid>
+            <dc:creator><![CDATA[Billi Bierling]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Prince Harry regret his ‘Mr Mischief’ messages?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The pros and cons of a Free Speech Bill]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/the-pros-and-cons-of-a-free-speech-bill/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-pros-and-cons-of-a-free-speech-bill/</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Japanese can teach England about football]]></title>
+            <description><![CDATA[Good sport]]></description>
+            <link>https://spectator.com/article/what-the-japanese-can-teach-england-about-football/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-the-japanese-can-teach-england-about-football/</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:01:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Anas Sarwar stands by his call for Starmer to go]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -26,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Labour is creating a tidal wave of bureaucracy]]></title>
-            <description><![CDATA[By Laurie Wastell]]></description>
+            <description><![CDATA[Equalities agenda]]></description>
             <link>https://spectator.com/article/labour-is-creating-a-tidal-wave-of-bureaucracy/</link>
             <guid isPermaLink="true">https://spectator.com/article/labour-is-creating-a-tidal-wave-of-bureaucracy/</guid>
             <dc:creator><![CDATA[Laurie Wastell]]></dc:creator>
@@ -106,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[The Chagos deal is unravelling]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <description><![CDATA[Taking its atoll]]></description>
             <link>https://spectator.com/article/the-chagos-deal-is-unravelling/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-chagos-deal-is-unravelling/</guid>
             <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
@@ -114,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Should Britain go it alone on nukes?]]></title>
-            <description><![CDATA[Defence]]></description>
+            <description><![CDATA[By Daniel Skeffington]]></description>
             <link>https://spectator.com/article/should-britain-go-it-alone-on-nukes/</link>
             <guid isPermaLink="true">https://spectator.com/article/should-britain-go-it-alone-on-nukes/</guid>
             <dc:creator><![CDATA[Daniel Skeffington]]></dc:creator>
@@ -129,8 +161,8 @@
             <pubDate>Tue, 31 Mar 2026 11:42:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Children aren’t there to make us happy]]></title>
-            <description><![CDATA[The parent trap]]></description>
+            <title><![CDATA[Children aren’t there to make parents happy]]></title>
+            <description><![CDATA[By Joanna Williams]]></description>
             <link>https://spectator.com/article/children-arent-there-to-make-parents-happy/</link>
             <guid isPermaLink="true">https://spectator.com/article/children-arent-there-to-make-parents-happy/</guid>
             <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
@@ -154,7 +186,7 @@
         </item>
         <item>
             <title><![CDATA[Emily Thornberry said the quiet part out loud on immigration]]></title>
-            <description><![CDATA[Boriswave]]></description>
+            <description><![CDATA[By David Shipley]]></description>
             <link>https://spectator.com/article/emily-thornberry-said-the-quiet-part-out-loud-on-immigration/</link>
             <guid isPermaLink="true">https://spectator.com/article/emily-thornberry-said-the-quiet-part-out-loud-on-immigration/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>

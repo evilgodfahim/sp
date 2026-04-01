@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 01:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 04:42:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 01:49:18 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 04:42:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Don't tolerate potholes]]></title>
+            <description><![CDATA[By G.V. Chappell]]></description>
+            <link>https://spectator.com/article/dont-tolerate-potholes/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-tolerate-potholes/</guid>
+            <dc:creator><![CDATA[G.V. Chappell]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 04:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bentley Continental GT is a car for the upper-middle classes]]></title>
+            <description><![CDATA[Bentley’s Continental GT has a name to suit it: four voluptuous syllables then two emergency stops. This is the first car I reviewed, and it is still my favourite. I think this is because I grew up in Esher, and this is the car of the functional aspirant upper-middle class. It is important to remember that the state limousines – the pair of sinuous maroon sharks that transport the monarch from one demonstration of public magic to the next – are Bentleys, based]]></description>
+            <link>https://spectator.com/article/bentley-continental-gt-the-car-of-the-aspirant-upper-middle-class/</link>
+            <guid isPermaLink="true">https://spectator.com/article/bentley-continental-gt-the-car-of-the-aspirant-upper-middle-class/</guid>
+            <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 04:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The end of litter is nigh]]></title>
+            <description><![CDATA[By Sean Thomas]]></description>
+            <link>https://spectator.com/article/the-end-of-litter-is-nigh/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-end-of-litter-is-nigh/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 04:42:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Chagos deal is unravelling]]></title>
             <description><![CDATA[By Andrew Tettenborn]]></description>

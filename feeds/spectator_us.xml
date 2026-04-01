@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 20:36:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 21:34:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 20:36:40 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 21:34:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Donald Trump could serve a third term]]></title>
+            <description><![CDATA[By Alan Dershowitz]]></description>
+            <link>https://spectator.com/article/donald-trump-could-serve-third-term/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/donald-trump-could-serve-third-term/?edition=us</guid>
+            <dc:creator><![CDATA[Alan Dershowitz]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 21:34:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump’s presence won’t sway the Supreme Court]]></title>
             <description><![CDATA[By Alan Dershowitz]]></description>

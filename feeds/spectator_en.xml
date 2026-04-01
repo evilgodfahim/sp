@@ -4,13 +4,37 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 14:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 16:03:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 14:29:16 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 16:03:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Prevent has become a dumping ground for troubled young men]]></title>
+            <description><![CDATA[By Ian Acheson]]></description>
+            <link>https://spectator.com/article/prevent-has-become-a-dumping-ground-for-troubled-young-men/</link>
+            <guid isPermaLink="true">https://spectator.com/article/prevent-has-become-a-dumping-ground-for-troubled-young-men/</guid>
+            <dc:creator><![CDATA[Ian Acheson]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump is determined to alienate America from Europe]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/trump-is-determined-to-alienate-america-from-europe/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-is-determined-to-alienate-america-from-europe/</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump would regret leaving Nato]]></title>
+            <description><![CDATA[By Sam Olsen]]></description>
+            <link>https://spectator.com/article/donald-trump-would-regret-leaving-nato/</link>
+            <guid isPermaLink="true">https://spectator.com/article/donald-trump-would-regret-leaving-nato/</guid>
+            <dc:creator><![CDATA[Sam Olsen]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:03:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is it time to scrap the NHS?]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
+            <description><![CDATA[Emergency]]></description>
             <link>https://spectator.com/article/is-it-time-to-scrap-the-nhs/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-it-time-to-scrap-the-nhs/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -18,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Can this millennial rapper save Nepal?]]></title>
-            <description><![CDATA[Balendra Shah]]></description>
+            <description><![CDATA[By Billi Bierling]]></description>
             <link>https://spectator.com/article/can-this-millennial-rapper-save-nepal/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-this-millennial-rapper-save-nepal/</guid>
             <dc:creator><![CDATA[Billi Bierling]]></dc:creator>
@@ -26,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Does Prince Harry regret his ‘Mr Mischief’ messages?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Privacy case]]></description>
             <link>https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/</link>
             <guid isPermaLink="true">https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -42,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[What the Japanese can teach England about football]]></title>
-            <description><![CDATA[Good sport]]></description>
+            <description><![CDATA[By Philip Patrick]]></description>
             <link>https://spectator.com/article/what-the-japanese-can-teach-england-about-football/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-the-japanese-can-teach-england-about-football/</guid>
             <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
@@ -58,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Europe is finally standing up to Trump]]></title>
-            <description><![CDATA[By Daniel DePetris]]></description>
+            <description><![CDATA[Iran war]]></description>
             <link>https://spectator.com/article/europe-is-finally-standing-up-to-trump/</link>
             <guid isPermaLink="true">https://spectator.com/article/europe-is-finally-standing-up-to-trump/</guid>
             <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
@@ -66,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Labour is creating a tidal wave of bureaucracy]]></title>
-            <description><![CDATA[Equalities agenda]]></description>
+            <description><![CDATA[By Laurie Wastell]]></description>
             <link>https://spectator.com/article/labour-is-creating-a-tidal-wave-of-bureaucracy/</link>
             <guid isPermaLink="true">https://spectator.com/article/labour-is-creating-a-tidal-wave-of-bureaucracy/</guid>
             <dc:creator><![CDATA[Laurie Wastell]]></dc:creator>

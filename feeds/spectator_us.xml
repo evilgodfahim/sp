@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 14:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 16:03:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 14:29:12 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 16:03:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Church of England makes me grateful to be a Catholic]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/sarah-mullaly-makes-me-grateful-to-be-a-catholic/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/sarah-mullaly-makes-me-grateful-to-be-a-catholic/?edition=us</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My addiction to playing the piano is driving everyone mad]]></title>
+            <description><![CDATA[By Damian Thompson]]></description>
+            <link>https://spectator.com/article/i-hate-many-pianists-but-am-i-any-better/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-hate-many-pianists-but-am-i-any-better/?edition=us</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Life, Liberty and the pursuit of Happiness’ is genius marketing]]></title>
+            <description><![CDATA[By Rory Sutherland]]></description>
+            <link>https://spectator.com/article/life-liberty-and-the-pursuit-of-happiness-is-genius-marketing/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/life-liberty-and-the-pursuit-of-happiness-is-genius-marketing/?edition=us</guid>
+            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:03:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Madagascar offers peace – and lemurs – in abundance]]></title>
             <description><![CDATA[By Prue Leith]]></description>

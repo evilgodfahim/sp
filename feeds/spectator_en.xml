@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 06:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 08:01:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 08:01:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who would ever run a marathon?]]></title>
+            <description><![CDATA[Like many good ideas, the London marathon was conceived over a drink in a pub. Inspired by their experience running the New York marathon in 1979, two British athletes met in the Dysart Arms, next to Richmond Park, to discuss staging a similar race in London. It became an iconic event and, such has been]]></description>
+            <link>https://spectator.com/article/who-would-ever-run-a-marathon/</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-would-ever-run-a-marathon/</guid>
+            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 08:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran doesn’t need pummelling to the Stone Age]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/iran-doesnt-need-pummelling-to-the-stone-age/</link>
+            <guid isPermaLink="true">https://spectator.com/article/iran-doesnt-need-pummelling-to-the-stone-age/</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 08:01:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where’s my free BMW?]]></title>
             <description><![CDATA[By Rod Liddle]]></description>
@@ -338,7 +354,7 @@
         </item>
         <item>
             <title><![CDATA[The Bentley Continental GT is a car for the upper-middle classes]]></title>
-            <description><![CDATA[Bentley’s Continental GT has a name to suit it: four voluptuous syllables then two emergency stops. This is the first car I reviewed, and it is still my favourite. I think this is because I grew up in Esher, and this is the car of the functional aspirant upper-middle class. It is important to remember that the state limousines – the pair of sinuous maroon sharks that transport the monarch from one demonstration of public magic to the next – are Bentleys, based]]></description>
+            <description><![CDATA[By Tanya Gold]]></description>
             <link>https://spectator.com/article/bentley-continental-gt-the-car-of-the-aspirant-upper-middle-class/</link>
             <guid isPermaLink="true">https://spectator.com/article/bentley-continental-gt-the-car-of-the-aspirant-upper-middle-class/</guid>
             <dc:creator><![CDATA[Tanya Gold]]></dc:creator>

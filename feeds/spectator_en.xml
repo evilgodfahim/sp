@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 12:53:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 14:18:56 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 12:53:26 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 14:18:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The art of Schiaparelli]]></title>
+            <description><![CDATA[By Margaret Mitchell]]></description>
+            <link>https://spectator.com/article/the-art-of-schiaparelli/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-art-of-schiaparelli/</guid>
+            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 14:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The one hurdle to Trump taking America out of Nato]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/the-one-hurdle-to-trump-taking-america-out-of-nato/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-one-hurdle-to-trump-taking-america-out-of-nato/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 14:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour admits it wants children to vote]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/labour-admits-they-wants-kids-to-vote/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-admits-they-wants-kids-to-vote/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 14:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The state completely failed Valdo Calocane’s victims]]></title>
+            <description><![CDATA[By Ed West]]></description>
+            <link>https://spectator.com/article/the-state-completely-failed-valdo-calocanes-victims/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-state-completely-failed-valdo-calocanes-victims/</guid>
+            <dc:creator><![CDATA[Ed West]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 14:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How could Wireless festival book Kanye West?]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/how-could-wireless-festival-book-kanye-west/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-could-wireless-festival-book-kanye-west/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 14:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Artemis II fulfil our Space Age dreams?]]></title>
+            <description><![CDATA[By David Whitehouse]]></description>
+            <link>https://spectator.com/article/will-artemis-ii-fulfill-our-space-age-dreams/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-artemis-ii-fulfill-our-space-age-dreams/</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 14:18:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reform will regret its commitment to the pensions triple lock]]></title>
             <description><![CDATA[By Ross Clark]]></description>

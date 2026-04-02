@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 04:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 06:07:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 04:23:14 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Where’s my free BMW?]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/wheres-my-free-bmw/</link>
+            <guid isPermaLink="true">https://spectator.com/article/wheres-my-free-bmw/</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where’s my free BMW?]]></title>
+            <description><![CDATA[Welfare]]></description>
+            <link>https://spectator.com/article/wheres-my-free-bmw/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/wheres-my-free-bmw/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia has its eyes on Svalbard]]></title>
+            <description><![CDATA[Ice age]]></description>
+            <link>https://spectator.com/article/russia-has-its-eyes-on-svalbard/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/russia-has-its-eyes-on-svalbard/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over-cautious and clumsy: The Downfall of Huw Edwards reviewed]]></title>
+            <description><![CDATA[Television]]></description>
+            <link>https://spectator.com/article/over-cautious-and-clumsy-the-downfall-of-huw-edwards-reviewed/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/over-cautious-and-clumsy-the-downfall-of-huw-edwards-reviewed/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[James Walton]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[With no coherent strategy, Britain seems perpetually adrift in the world]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/with-no-coherent-strategy-britain-seems-perpetually-adrift-in-the-world/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/with-no-coherent-strategy-britain-seems-perpetually-adrift-in-the-world/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Peter Pomerantsev]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What if the UK hadn’t voted for Brexit?]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/what-if-the-uk-hadnt-voted-for-brexit/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-if-the-uk-hadnt-voted-for-brexit/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can the chaps in chaps smash fascism?]]></title>
             <description><![CDATA[By Douglas Murray]]></description>
@@ -18,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[How Pope Leo XIV is quietly reshaping the Vatican]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
+            <description><![CDATA[Rome]]></description>
             <link>https://spectator.com/article/how-pope-leo-xiv-is-quietly-reshaping-the-vatican/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-pope-leo-xiv-is-quietly-reshaping-the-vatican/</guid>
             <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
@@ -74,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[The man who rescued the Notre-Dame]]></title>
-            <description><![CDATA[By Calvin Po]]></description>
+            <description><![CDATA[Architecture]]></description>
             <link>https://spectator.com/article/the-man-who-rescued-the-notre-dame/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-man-who-rescued-the-notre-dame/</guid>
             <dc:creator><![CDATA[Calvin Po]]></dc:creator>
@@ -129,8 +177,8 @@
             <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Religion has been resurrected in British politics]]></title>
-            <description><![CDATA[British history is littered with elections and Elections. The first type, common or garden elections, are fought with prosaic issues at their core. Readers might remember the 2001 general election, which saw such pressing topics as the fate of Kidderminster hospital pushed to the fore. The 1865 general election was also considered uneventful by contemporaries.]]></description>
+            <title><![CDATA[Easter Special]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
             <link>https://spectator.com/article/religion-has-been-resurrected-in-british-politics/</link>
             <guid isPermaLink="true">https://spectator.com/article/religion-has-been-resurrected-in-british-politics/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -170,7 +218,7 @@
         </item>
         <item>
             <title><![CDATA[Is it time to scrap the NHS?]]></title>
-            <description><![CDATA[Emergency]]></description>
+            <description><![CDATA[By Druin Burch]]></description>
             <link>https://spectator.com/article/is-it-time-to-scrap-the-nhs/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-it-time-to-scrap-the-nhs/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -186,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[Does Prince Harry regret his ‘Mr Mischief’ messages?]]></title>
-            <description><![CDATA[Privacy case]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/</link>
             <guid isPermaLink="true">https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -218,7 +266,7 @@
         </item>
         <item>
             <title><![CDATA[Europe is finally standing up to Trump]]></title>
-            <description><![CDATA[Iran war]]></description>
+            <description><![CDATA[By Daniel DePetris]]></description>
             <link>https://spectator.com/article/europe-is-finally-standing-up-to-trump/</link>
             <guid isPermaLink="true">https://spectator.com/article/europe-is-finally-standing-up-to-trump/</guid>
             <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
@@ -282,7 +330,7 @@
         </item>
         <item>
             <title><![CDATA[Don’t tolerate potholes]]></title>
-            <description><![CDATA[Flat tyre]]></description>
+            <description><![CDATA[By G.V. Chappell]]></description>
             <link>https://spectator.com/article/dont-tolerate-potholes/</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-tolerate-potholes/</guid>
             <dc:creator><![CDATA[G.V. Chappell]]></dc:creator>
@@ -290,7 +338,7 @@
         </item>
         <item>
             <title><![CDATA[The Bentley Continental GT is a car for the upper-middle classes]]></title>
-            <description><![CDATA[Esher chic]]></description>
+            <description><![CDATA[Bentley’s Continental GT has a name to suit it: four voluptuous syllables then two emergency stops. This is the first car I reviewed, and it is still my favourite. I think this is because I grew up in Esher, and this is the car of the functional aspirant upper-middle class. It is important to remember that the state limousines – the pair of sinuous maroon sharks that transport the monarch from one demonstration of public magic to the next – are Bentleys, based]]></description>
             <link>https://spectator.com/article/bentley-continental-gt-the-car-of-the-aspirant-upper-middle-class/</link>
             <guid isPermaLink="true">https://spectator.com/article/bentley-continental-gt-the-car-of-the-aspirant-upper-middle-class/</guid>
             <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
@@ -298,7 +346,7 @@
         </item>
         <item>
             <title><![CDATA[The end of litter is nigh]]></title>
-            <description><![CDATA[Rubbish bot]]></description>
+            <description><![CDATA[By Sean Thomas]]></description>
             <link>https://spectator.com/article/the-end-of-litter-is-nigh/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-end-of-litter-is-nigh/</guid>
             <dc:creator><![CDATA[Sean Thomas]]></dc:creator>

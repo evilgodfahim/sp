@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 08:01:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 09:53:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 08:01:04 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 09:53:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran’s secret weapon of self-sacrifice]]></title>
+            <description><![CDATA[By Matthew Parris]]></description>
+            <link>https://spectator.com/article/irans-secret-weapon-of-self-sacrifice/</link>
+            <guid isPermaLink="true">https://spectator.com/article/irans-secret-weapon-of-self-sacrifice/</guid>
+            <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 09:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to stop the Clapham rioting]]></title>
+            <description><![CDATA[By James Graham]]></description>
+            <link>https://spectator.com/article/how-to-stop-the-clapham-rioting/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-stop-the-clapham-rioting/</guid>
+            <dc:creator><![CDATA[James Graham]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 09:53:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who would ever run a marathon?]]></title>
             <description><![CDATA[Like many good ideas, the London marathon was conceived over a drink in a pub. Inspired by their experience running the New York marathon in 1979, two British athletes met in the Dysart Arms, next to Richmond Park, to discuss staging a similar race in London. It became an iconic event and, such has been]]></description>

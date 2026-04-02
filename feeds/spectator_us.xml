@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 09:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 10:44:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 09:53:08 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 10:44:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My barn dog is a Chow Chow]]></title>
+            <description><![CDATA[By Gage Klipper]]></description>
+            <link>https://spectator.com/article/my-barn-dog-is-a-chow-chow/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-barn-dog-is-a-chow-chow/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 10:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Prince Harry regret his ‘Mr. Mischief’ messages?]]></title>
+            <description><![CDATA[Privacy case]]></description>
+            <link>https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 10:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Madagascar offers peace – and lemurs – in abundance]]></title>
+            <description><![CDATA[Africa]]></description>
+            <link>https://spectator.com/article/madagascar-offers-peace-and-lemurs-in-abundance/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/madagascar-offers-peace-and-lemurs-in-abundance/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Prue Leith]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 10:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The disembodied brain cells playing video games]]></title>
+            <description><![CDATA[Doom loop]]></description>
+            <link>https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 10:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Artemis II fulfill our Space Age dreams?]]></title>
+            <description><![CDATA[By David Whitehouse]]></description>
+            <link>https://spectator.com/article/will-artemis-ii-fulfill-our-space-age-dreams/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-artemis-ii-fulfill-our-space-age-dreams/?edition=us</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 10:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Downfall of the California Maskies]]></title>
             <description><![CDATA[By Gilbert T. Sewall]]></description>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 14:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 15:53:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 14:18:56 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 15:53:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why the keffiyeh classes have forgiven Kanye West]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/why-the-keffiyeh-classes-have-forgiven-kanye-west/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-keffiyeh-classes-have-forgiven-kanye-west/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 15:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The blood of Denby pottery is on Labour’s  hands]]></title>
+            <description><![CDATA[By Alec Marsh]]></description>
+            <link>https://spectator.com/article/the-blood-of-denby-pottery-is-on-labours-hands/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-blood-of-denby-pottery-is-on-labours-hands/</guid>
+            <dc:creator><![CDATA[Alec Marsh]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 15:53:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The art of Schiaparelli]]></title>
             <description><![CDATA[By Margaret Mitchell]]></description>

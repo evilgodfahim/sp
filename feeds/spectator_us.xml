@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 01:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 04:23:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 01:25:05 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 04:23:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Downfall of the California Maskies]]></title>
+            <description><![CDATA[By Gilbert T. Sewall]]></description>
+            <link>https://spectator.com/article/downfall-of-the-california-maskies/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/downfall-of-the-california-maskies/?edition=us</guid>
+            <dc:creator><![CDATA[Gilbert T. Sewall]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 04:23:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump touts the successes of his war for peace]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/trump-touts-successes-war-peace/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-touts-successes-war-peace/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 04:23:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s rambling Iran address was full of wishful thinking]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/trump-rambling-iran-address-full-wishful-thinking/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-rambling-iran-address-full-wishful-thinking/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 04:23:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Donald Trump could serve a third term]]></title>
             <description><![CDATA[By Alan Dershowitz]]></description>

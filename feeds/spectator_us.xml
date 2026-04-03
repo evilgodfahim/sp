@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 20:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 21:26:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 20:27:31 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 21:26:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tales of quiet intensity: The News from Dublin, by Colm Tóibín, reviewed]]></title>
+            <description><![CDATA[By Leyla Sanai]]></description>
+            <link>https://spectator.com/article/tales-of-quiet-intensity-the-news-from-dublin-by-colm-toibin-reviewed/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/tales-of-quiet-intensity-the-news-from-dublin-by-colm-toibin-reviewed/?edition=us</guid>
+            <dc:creator><![CDATA[Leyla Sanai]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 21:26:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal Opera’s Siegfried is magnificent]]></title>
+            <description><![CDATA[By Richard Bratby]]></description>
+            <link>https://spectator.com/article/royal-operas-siegfried-is-magnificent/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/royal-operas-siegfried-is-magnificent/?edition=us</guid>
+            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 21:26:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The UAE and Oman could be the big winners from the Iran war]]></title>
             <description><![CDATA[By Jonathan Aitken]]></description>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 10:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 11:32:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 10:35:37 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 11:32:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ignore the propaganda war]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/ignore-propaganda-war-operation-epic-fury/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ignore-propaganda-war-operation-epic-fury/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 11:32:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The age of the aircraft carrier is over]]></title>
             <description><![CDATA[By Andrew Cockburn]]></description>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 01:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 04:23:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 01:27:01 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 04:23:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did Billie Eilish get me deported?]]></title>
+            <description><![CDATA[By Drew Pavlou]]></description>
+            <link>https://spectator.com/article/billie-eilish-deported-drew-pavlo/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/billie-eilish-deported-drew-pavlo/?edition=us</guid>
+            <dc:creator><![CDATA[Drew Pavlou]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 04:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Hockney show is disorientingly enjoyable]]></title>
+            <description><![CDATA[By Hermione Eyre]]></description>
+            <link>https://spectator.com/article/this-hockney-show-is-disorientatingly-enjoyable/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-hockney-show-is-disorientatingly-enjoyable/?edition=us</guid>
+            <dc:creator><![CDATA[Hermione Eyre]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 04:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does it matter if Prince William believes in God?]]></title>
+            <description><![CDATA[By Charles Moore]]></description>
+            <link>https://spectator.com/article/does-it-matter-if-prince-william-believes-in-god/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-it-matter-if-prince-william-believes-in-god/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 04:23:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why the keffiyeh classes have forgiven Kanye West]]></title>
             <description><![CDATA[By Brendan O’Neill]]></description>
@@ -682,7 +706,7 @@
         </item>
         <item>
             <title><![CDATA[How the illiterate peasant Rasputin changed the course of modern history]]></title>
-            <description><![CDATA[There lived a certain man, in Russia long ago. He was big and strong, in his eyes a flaming glow. You know the rest. Antony Beevor’s telling of the story of Grigory Rasputin will surely be the greatest literary chart hit of the year. That the life and death of one of history’s most extraordinary]]></description>
+            <description><![CDATA[By Owen Matthews]]></description>
             <link>https://spectator.com/article/how-an-illiterate-peasant-changed-the-course-of-modern-history/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-an-illiterate-peasant-changed-the-course-of-modern-history/?edition=us</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>

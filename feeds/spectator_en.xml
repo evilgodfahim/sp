@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 14:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 15:33:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 14:40:44 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 15:33:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump has triggered a wave of European soul-searching]]></title>
+            <description><![CDATA[By Patrick Gibbons]]></description>
+            <link>https://spectator.com/article/trump-has-triggered-a-wave-of-european-soul-searching/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-has-triggered-a-wave-of-european-soul-searching/</guid>
+            <dc:creator><![CDATA[Patrick Gibbons]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 15:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The fate of the Iran war lies in the Strait of Hormuz]]></title>
+            <description><![CDATA[By Jonathan Spyer]]></description>
+            <link>https://spectator.com/article/the-fate-of-the-iran-war-lies-in-the-strait-of-hormuz/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-fate-of-the-iran-war-lies-in-the-strait-of-hormuz/</guid>
+            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 15:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Met police went soft on crime]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/why-the-met-police-went-soft-on-crime/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-met-police-went-soft-on-crime/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 15:33:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The truth behind Miliband’s North Sea drilling U-turn]]></title>
             <description><![CDATA[By Ross Clark]]></description>

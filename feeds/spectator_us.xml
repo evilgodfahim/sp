@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 07:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 08:52:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 07:57:43 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 08:52:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran’s first gayatollah?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/iran-first-gayatollah-mojtaba-khamenei/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/iran-first-gayatollah-mojtaba-khamenei/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 08:52:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How I lost 50lbs eating at McDonald’s]]></title>
             <description><![CDATA[By Sean Nottoli]]></description>

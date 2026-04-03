@@ -4,13 +4,45 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 08:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 09:46:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 08:52:11 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 09:46:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What if the UK hadn’t voted for Brexit?]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/what-if-the-uk-hadnt-voted-for-brexit/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-if-the-uk-hadnt-voted-for-brexit/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 09:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia has its eyes on Svalbard]]></title>
+            <description><![CDATA[Ice age]]></description>
+            <link>https://spectator.com/article/russia-has-its-eyes-on-svalbard/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/russia-has-its-eyes-on-svalbard/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 09:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can the chaps in chaps smash fascism?]]></title>
+            <description><![CDATA[Protest]]></description>
+            <link>https://spectator.com/article/can-the-chaps-in-chaps-smash-fascism/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-the-chaps-in-chaps-smash-fascism/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 09:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Easter, eat rabbit]]></title>
+            <description><![CDATA[The vintage chef]]></description>
+            <link>https://spectator.com/article/this-easter-eat-rabbit/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-easter-eat-rabbit/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 09:46:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Three bets for Fairyhouse this weekend]]></title>
-            <description><![CDATA[Ever since MONBEG GENIUS finished a close third in the Ultima Handicap Chase at the Cheltenham Festival three years ago, it looked only a matter of time before he landed a big handicap. The form of that race could hardly have worked out better. The winner Corach Rambler, running off a rating of just 146]]></description>
+            <description><![CDATA[By Penworthy]]></description>
             <link>https://spectator.com/article/three-bets-for-fairyhouse-this-weekend/</link>
             <guid isPermaLink="true">https://spectator.com/article/three-bets-for-fairyhouse-this-weekend/</guid>
             <dc:creator><![CDATA[Penworthy]]></dc:creator>

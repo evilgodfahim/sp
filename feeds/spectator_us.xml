@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 08:52:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 09:45:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 08:52:05 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 09:45:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The age of the aircraft carrier is over]]></title>
+            <description><![CDATA[By Andrew Cockburn]]></description>
+            <link>https://spectator.com/article/why-aircraft-carriers-have-had-their-day/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-aircraft-carriers-have-had-their-day/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Andrew Cockburn]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 09:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My barn dog is a Chow Chow]]></title>
+            <description><![CDATA[Country life]]></description>
+            <link>https://spectator.com/article/my-barn-dog-is-a-chow-chow/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-barn-dog-is-a-chow-chow/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 09:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does it matter if Prince William believes in God?]]></title>
+            <description><![CDATA[The Spectator’s notes]]></description>
+            <link>https://spectator.com/article/does-it-matter-if-prince-william-believes-in-god/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-it-matter-if-prince-william-believes-in-god/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 09:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump is going on a firing spree]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/donald-trump-is-going-on-a-firing-spree/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/donald-trump-is-going-on-a-firing-spree/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 09:45:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran’s first gayatollah?]]></title>
             <description><![CDATA[By Cockburn]]></description>

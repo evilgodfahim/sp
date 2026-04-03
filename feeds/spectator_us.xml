@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 06:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 07:57:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 06:07:48 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 07:57:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How I lost 50lbs eating at McDonald’s]]></title>
+            <description><![CDATA[By Sean Nottoli]]></description>
+            <link>https://spectator.com/article/how-i-lost-50lbs-eating-at-mcdonalds/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-i-lost-50lbs-eating-at-mcdonalds/?edition=us</guid>
+            <dc:creator><![CDATA[Sean Nottoli]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 07:57:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did Billie Eilish get me deported?]]></title>
             <description><![CDATA[By Drew Pavlou]]></description>

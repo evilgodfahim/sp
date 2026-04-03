@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 19:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 20:27:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 19:33:34 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 20:27:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The UAE and Oman could be the big winners from the Iran war]]></title>
+            <description><![CDATA[By Jonathan Aitken]]></description>
+            <link>https://spectator.com/article/the-uae-and-oman-could-be-the-big-winners-from-the-iran-war/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-uae-and-oman-could-be-the-big-winners-from-the-iran-war/?edition=us</guid>
+            <dc:creator><![CDATA[Jonathan Aitken]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 20:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump falls back on ‘you’re fired!’ as midterms loom]]></title>
+            <description><![CDATA[By Gus Carter]]></description>
+            <link>https://spectator.com/article/trump-falls-back-youre-fired-midterms-loom/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-falls-back-youre-fired-midterms-loom/?edition=us</guid>
+            <dc:creator><![CDATA[Gus Carter]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 20:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DC’s rat genocide]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/dcs-rat-genocide/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/dcs-rat-genocide/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 20:27:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Coral Gardeners are rewilding the oceans, one reef at a time]]></title>
             <description><![CDATA[By Jackson Ford]]></description>

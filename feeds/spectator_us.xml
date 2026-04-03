@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 15:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 16:31:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 15:33:41 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 16:31:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Coral Gardeners are rewilding the oceans, one reef at a time]]></title>
+            <description><![CDATA[By Jackson Ford]]></description>
+            <link>https://spectator.com/article/the-coral-gardeners-are-rewilding-the-oceans-one-reef-at-a-time/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-coral-gardeners-are-rewilding-the-oceans-one-reef-at-a-time/?edition=us</guid>
+            <dc:creator><![CDATA[Jackson Ford]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 16:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Stylist: the blazer has evolved from clubhouse uniform to stylish wardrobe staple]]></title>
+            <description><![CDATA[By Charlie Teasdale]]></description>
+            <link>https://spectator.com/article/the-stylist-the-blazer-has-evolved-from-clubhouse-uniform-to-stylish-wardrobe-staple/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-stylist-the-blazer-has-evolved-from-clubhouse-uniform-to-stylish-wardrobe-staple/?edition=us</guid>
+            <dc:creator><![CDATA[Charlie Teasdale]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 16:31:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What the death of my beloved son taught me about Easter]]></title>
             <description><![CDATA[By Druin Burch]]></description>

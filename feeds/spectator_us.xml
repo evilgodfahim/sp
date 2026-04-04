@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 06:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 07:43:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 06:50:18 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 07:43:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will Alberta become the 51st state?]]></title>
+            <description><![CDATA[By Ben Clerkin]]></description>
+            <link>https://spectator.com/article/will-alberta-become-the-51st-state/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-alberta-become-the-51st-state/?edition=us</guid>
+            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 07:43:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Last waltz for Trump’s Hungarian friends?]]></title>
             <description><![CDATA[By Cockburn]]></description>

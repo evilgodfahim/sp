@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 05:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 06:50:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 05:51:55 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 06:50:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Do you have the patience to own an EV?]]></title>
+            <description><![CDATA[By Ysenda Maxtone Graham]]></description>
+            <link>https://spectator.com/article/do-you-have-the-patience-to-own-an-ev/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/do-you-have-the-patience-to-own-an-ev/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 06:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reform should be wary of Farage fatigue]]></title>
+            <description><![CDATA[Overfamiliar]]></description>
+            <link>https://spectator.com/article/reform-should-be-wary-of-farage-fatigue/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/reform-should-be-wary-of-farage-fatigue/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Andy Coulson]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 06:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is what Trump means by ‘victory’ in Iran]]></title>
+            <description><![CDATA[War]]></description>
+            <link>https://spectator.com/article/this-is-what-trump-means-by-victory-in-iran/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-is-what-trump-means-by-victory-in-iran/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Irwin Stelzer]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 06:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The truth behind Miliband’s North Sea drilling U-turn]]></title>
+            <description><![CDATA[Net zero]]></description>
+            <link>https://spectator.com/article/the-truth-behind-milibands-north-sea-drilling-u-turn/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-behind-milibands-north-sea-drilling-u-turn/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 06:50:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is it time to scrub Andrew from the line of succession?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -26,8 +58,10 @@
         </item>
         <item>
             <title><![CDATA[Britain needs better missile defences]]></title>
+            <description><![CDATA[By Will Freer]]></description>
             <link>https://spectator.com/article/britain-needs-better-missile-defences/</link>
             <guid isPermaLink="true">https://spectator.com/article/britain-needs-better-missile-defences/</guid>
+            <dc:creator><![CDATA[Will Freer]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 05:51:55 GMT</pubDate>
         </item>
         <item>
@@ -39,7 +73,7 @@
             <pubDate>Sat, 04 Apr 2026 05:51:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[London’s St James’s is losing its soul]]></title>
+            <title><![CDATA[St James’s is losing its soul]]></title>
             <description><![CDATA[By Melanie McDonagh]]></description>
             <link>https://spectator.com/article/londons-st-jamess-is-losing-its-soul/</link>
             <guid isPermaLink="true">https://spectator.com/article/londons-st-jamess-is-losing-its-soul/</guid>
@@ -56,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Ozempic has ruined Easter]]></title>
-            <description><![CDATA[It’s a funny thing, being a feminist surrounded by women on weight-loss drugs. As someone who recognises the health risks of being clinically obese, I’ve never been a fat liberationist – but pretty much all of us used to be against prescribed beauty standards. In practice this meant we would critique the harmful impacts of]]></description>
+            <description><![CDATA[By Julie Bindel]]></description>
             <link>https://spectator.com/article/ozempics-ruined-easter/</link>
             <guid isPermaLink="true">https://spectator.com/article/ozempics-ruined-easter/</guid>
             <dc:creator><![CDATA[Julie Bindel]]></dc:creator>

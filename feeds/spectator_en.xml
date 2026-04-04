@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 07:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 08:32:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 07:43:48 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 08:32:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The madness of using cannabis to treat mental health]]></title>
+            <description><![CDATA[By Max Pemberton]]></description>
+            <link>https://spectator.com/article/the-madness-of-using-cannabis-to-treat-mental-health/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-madness-of-using-cannabis-to-treat-mental-health/</guid>
+            <dc:creator><![CDATA[Max Pemberton]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 08:32:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Israel is introducing the death penalty]]></title>
             <description><![CDATA[By Jonathan Sacerdoti]]></description>

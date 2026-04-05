@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 07:51:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 08:34:55 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 07:51:10 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 08:34:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The surprising truth about AI and jobs]]></title>
+            <description><![CDATA[By Ben Guerin]]></description>
+            <link>https://spectator.com/article/the-surprising-truth-about-ai-and-jobs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-surprising-truth-about-ai-and-jobs/</guid>
+            <dc:creator><![CDATA[Ben Guerin]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 08:34:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The madness of using cannabis to treat mental health]]></title>
             <description><![CDATA[A disaster]]></description>
@@ -81,7 +89,7 @@
             <pubDate>Sun, 05 Apr 2026 04:31:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why James Callaghan was Britain’s most underrated PM]]></title>
+            <title><![CDATA[James Callaghan was Britain’s most underrated PM]]></title>
             <description><![CDATA[By Neil Clark]]></description>
             <link>https://spectator.com/article/why-james-callaghan-was-britains-most-underrated-pm/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-james-callaghan-was-britains-most-underrated-pm/</guid>

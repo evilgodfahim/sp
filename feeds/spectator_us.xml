@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 04:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 06:26:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 04:38:17 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 06:26:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Eric Clapton raises beaucoup bucks for RFK, Jr.]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/eric-clapton-raises-beaucoup-bucks-for-rfk-jr/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/eric-clapton-raises-beaucoup-bucks-for-rfk-jr/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 06:26:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Anthemic angst from The Twilight Sad]]></title>
             <description><![CDATA[By Graeme Thomson]]></description>

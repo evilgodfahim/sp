@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 11:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 12:51:59 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 11:42:10 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 12:51:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How ticks became bioweapons]]></title>
+            <description><![CDATA[By Kris Newby]]></description>
+            <link>https://spectator.com/article/how-ticks-became-bioweapons/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-ticks-became-bioweapons/?edition=us</guid>
+            <dc:creator><![CDATA[Kris Newby]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 12:51:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Pope really thinks about frociaggine in the Vatican]]></title>
+            <description><![CDATA[By Matt McDonald]]></description>
+            <link>https://spectator.com/article/what-the-pope-really-thinks-about-frociaggine-in-the-vatican/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-the-pope-really-thinks-about-frociaggine-in-the-vatican/?edition=us</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 12:51:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eric Clapton raises beaucoup bucks for RFK, Jr.]]></title>
             <description><![CDATA[By Cockburn]]></description>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 18:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 19:46:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 18:45:01 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 19:46:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did the billionaire Binance bro pay for his pardon?]]></title>
+            <description><![CDATA[By Jake Donoghue]]></description>
+            <link>https://spectator.com/article/did-the-billionaire-binance-bro-pay-for-his-pardon/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-the-billionaire-binance-bro-pay-for-his-pardon/?edition=us</guid>
+            <dc:creator><![CDATA[Jake Donoghue]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 19:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Artemis II matters]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/why-artemis-ii-matters/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-artemis-ii-matters/?edition=us</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 19:46:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Anthemic angst from The Twilight Sad]]></title>
             <description><![CDATA[By Graeme Thomson]]></description>

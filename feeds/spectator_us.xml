@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 01:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 04:38:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 01:45:27 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 04:38:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Anthemic angst from The Twilight Sad]]></title>
+            <description><![CDATA[By Graeme Thomson]]></description>
+            <link>https://spectator.com/article/anthemic-angst-from-the-twilight-sad/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/anthemic-angst-from-the-twilight-sad/?edition=us</guid>
+            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 04:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Pete Hegseth waging a Christian Zionist war?]]></title>
+            <description><![CDATA[By Daniel Hummel]]></description>
+            <link>https://spectator.com/article/pete-hegseth-waging-christian-zionist-war/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/pete-hegseth-waging-christian-zionist-war/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel Hummel]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 04:38:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Pete Hegseth waging a Christian Zionist war?]]></title>
             <description><![CDATA[By Daniel Hummel]]></description>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 12:52:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 14:07:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 12:52:05 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 14:07:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What’s behind Britain’s blue badge boom?]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/whats-behind-britains-blue-badge-boom/</link>
+            <guid isPermaLink="true">https://spectator.com/article/whats-behind-britains-blue-badge-boom/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 14:07:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Only one man could bridge this footballing divide]]></title>
             <description><![CDATA[By Rod Liddle]]></description>

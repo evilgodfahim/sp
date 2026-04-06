@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 19:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 20:30:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 19:46:06 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 20:30:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Taki’s life as a writer]]></title>
+            <description><![CDATA[By Taki]]></description>
+            <link>https://spectator.com/article/takis-life-as-a-writer/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/takis-life-as-a-writer/?edition=us</guid>
+            <dc:creator><![CDATA[Taki]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 20:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s threat to destroy Iran is detailed and credible]]></title>
+            <description><![CDATA[By Charles Lipson]]></description>
+            <link>https://spectator.com/article/trumps-threat-to-destroy-iran-is-detailed-and-credible/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-threat-to-destroy-iran-is-detailed-and-credible/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 20:30:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did the billionaire Binance bro pay for his pardon?]]></title>
             <description><![CDATA[By Jake Donoghue]]></description>

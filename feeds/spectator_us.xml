@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 23:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 01:28:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 23:28:02 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 01:28:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[An ode to good breasts]]></title>
+            <description><![CDATA[By Kara Kennedy]]></description>
+            <link>https://spectator.com/article/an-ode-to-good-breasts/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/an-ode-to-good-breasts/?edition=us</guid>
+            <dc:creator><![CDATA[Kara Kennedy]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 01:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who’s the most special envoy?]]></title>
+            <description><![CDATA[By Matt McDonald]]></description>
+            <link>https://spectator.com/article/most-special-envoy-trump-administration/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/most-special-envoy-trump-administration/?edition=us</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 01:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the US nuclear bomber base being targeted for a strike?]]></title>
+            <description><![CDATA[By Oleksandr Sukhoi]]></description>
+            <link>https://spectator.com/article/is-us-nuclear-bomber-base-being-targeted-for-strike/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-us-nuclear-bomber-base-being-targeted-for-strike/?edition=us</guid>
+            <dc:creator><![CDATA[Oleksandr Sukhoi]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 01:28:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Taki’s life as a writer]]></title>
             <description><![CDATA[By Taki]]></description>

@@ -4,13 +4,77 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 04:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 06:14:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 04:27:06 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 06:14:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Who wants to bring back the Neanderthals?]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/who-wants-to-bring-back-the-neanderthals/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-wants-to-bring-back-the-neanderthals/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Expect toddlers and parlour games at today’s dinner parties]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/expect-toddlers-and-parlour-games-at-todays-dinner-parties/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/expect-toddlers-and-parlour-games-at-todays-dinner-parties/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Thomas W. Hodgkinson]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The man who rescued the Notre-Dame]]></title>
+            <description><![CDATA[Architecture]]></description>
+            <link>https://spectator.com/article/the-man-who-rescued-the-notre-dame/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-man-who-rescued-the-notre-dame/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Calvin Po]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Green party’s transport plan is pure madness]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/the-green-partys-transport-plan-is-pure-madness/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-green-partys-transport-plan-is-pure-madness/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s threat to destroy Iran is detailed and credible]]></title>
+            <description><![CDATA[By Charles Lipson]]></description>
+            <link>https://spectator.com/article/trumps-threat-to-destroy-iran-is-detailed-and-credible/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-threat-to-destroy-iran-is-detailed-and-credible/</guid>
+            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why junior doctors are back on strike]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/why-the-junior-doctors-are-back-on-strike/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-junior-doctors-are-back-on-strike/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who wants to bring back the Neanderthals?]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/who-wants-to-bring-back-the-neanderthals/</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-wants-to-bring-back-the-neanderthals/</guid>
+            <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Expect toddlers and parlour games at today’s dinner parties]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/expect-toddlers-and-parlour-games-at-todays-dinner-parties/</link>
+            <guid isPermaLink="true">https://spectator.com/article/expect-toddlers-and-parlour-games-at-todays-dinner-parties/</guid>
+            <dc:creator><![CDATA[Thomas W. Hodgkinson]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:14:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bovril’s infallible power]]></title>
-            <description><![CDATA[Nations are built from eating habits as well as masterpieces. In Britain, there’s one that is both: Bovril. This thick, salty meat extract paste may not be as wise as George Eliot’s Middlemarch, as beguiling as Rossetti’s ‘Proserpine’, or as symbolic of greatness as the Palace of Westminster – and yet it has a clear]]></description>
+            <description><![CDATA[Beef up]]></description>
             <link>https://spectator.com/article/bovrils-infallible-power/</link>
             <guid isPermaLink="true">https://spectator.com/article/bovrils-infallible-power/</guid>
             <dc:creator><![CDATA[Richard Crampton Platt]]></dc:creator>
@@ -18,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Should men wear jewellery?]]></title>
-            <description><![CDATA[By Sybilla Hart]]></description>
+            <description><![CDATA[Knuckle duster]]></description>
             <link>https://spectator.com/article/the-rich-mans-guide-to-jewellery/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-rich-mans-guide-to-jewellery/</guid>
             <dc:creator><![CDATA[Sybilla Hart]]></dc:creator>
@@ -26,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Constable should be on a banknote]]></title>
-            <description><![CDATA[By Alec Marsh]]></description>
+            <description><![CDATA[Stroke of genius]]></description>
             <link>https://spectator.com/article/constable-should-be-on-a-banknote-2/</link>
             <guid isPermaLink="true">https://spectator.com/article/constable-should-be-on-a-banknote-2/</guid>
             <dc:creator><![CDATA[Alec Marsh]]></dc:creator>
@@ -34,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Why Artemis II matters]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
+            <description><![CDATA[Nasa]]></description>
             <link>https://spectator.com/article/why-artemis-ii-matters/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-artemis-ii-matters/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
@@ -42,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[What’s behind Britain’s blue badge boom?]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
+            <description><![CDATA[Parking wars]]></description>
             <link>https://spectator.com/article/whats-behind-britains-blue-badge-boom/</link>
             <guid isPermaLink="true">https://spectator.com/article/whats-behind-britains-blue-badge-boom/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -210,7 +274,7 @@
         </item>
         <item>
             <title><![CDATA[Inside the fearless rescue of the second US airman]]></title>
-            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <description><![CDATA[Top gun]]></description>
             <link>https://spectator.com/article/inside-the-fearless-rescue-of-the-second-us-airman/</link>
             <guid isPermaLink="true">https://spectator.com/article/inside-the-fearless-rescue-of-the-second-us-airman/</guid>
             <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
@@ -242,7 +306,7 @@
         </item>
         <item>
             <title><![CDATA[Iran has offered Trump an olive branch]]></title>
-            <description><![CDATA[By Nicholas Hopton]]></description>
+            <description><![CDATA[Peace deal]]></description>
             <link>https://spectator.com/article/iran-has-offered-trump-an-olive-branch/</link>
             <guid isPermaLink="true">https://spectator.com/article/iran-has-offered-trump-an-olive-branch/</guid>
             <dc:creator><![CDATA[Nicholas Hopton]]></dc:creator>
@@ -818,7 +882,7 @@
         </item>
         <item>
             <title><![CDATA[The man who rescued the Notre-Dame]]></title>
-            <description><![CDATA[By Calvin Po]]></description>
+            <description><![CDATA[Architecture]]></description>
             <link>https://spectator.com/article/the-man-who-rescued-the-notre-dame/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-man-who-rescued-the-notre-dame/</guid>
             <dc:creator><![CDATA[Calvin Po]]></dc:creator>

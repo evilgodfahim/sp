@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 08:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 10:01:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 08:07:16 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 10:01:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[This is why shoplifting is rife in Britain]]></title>
+            <description><![CDATA[By Ameer Kotecha]]></description>
+            <link>https://spectator.com/article/this-is-why-shoplifting-is-rife-in-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-is-why-shoplifting-is-rife-in-britain/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 10:01:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The surprising conservativism of the old Doctor Who]]></title>
             <description><![CDATA[By Gareth Roberts]]></description>

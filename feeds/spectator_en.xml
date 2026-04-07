@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 06:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 08:07:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 06:14:52 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 08:07:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The surprising conservativism of the old Doctor Who]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/the-surprising-conservativism-of-the-old-doctor-who/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-surprising-conservativism-of-the-old-doctor-who/</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 08:07:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who wants to bring back the Neanderthals?]]></title>
             <description><![CDATA[Books]]></description>

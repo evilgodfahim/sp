@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 01:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 04:27:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 01:28:49 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 04:27:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Catholics became the new WASPs]]></title>
+            <description><![CDATA[By Casey Chalk]]></description>
+            <link>https://spectator.com/article/how-catholics-became-the-new-wasps/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-catholics-became-the-new-wasps/?edition=us</guid>
+            <dc:creator><![CDATA[Casey Chalk]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can the chaps in chaps smash fascism?]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/can-the-chaps-in-chaps-smash-fascism/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-the-chaps-in-chaps-smash-fascism/?edition=us</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:27:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An ode to good breasts]]></title>
             <description><![CDATA[By Kara Kennedy]]></description>

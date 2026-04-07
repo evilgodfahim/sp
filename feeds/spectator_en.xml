@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 15:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 16:47:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 15:02:04 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 16:47:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump has lost control of the Iran war]]></title>
+            <description><![CDATA[By Charlie Gammell]]></description>
+            <link>https://spectator.com/article/trump-has-lost-control-of-his-war/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-has-lost-control-of-his-war/</guid>
+            <dc:creator><![CDATA[Charlie Gammell]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 16:47:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump gets Chamberlain wrong]]></title>
             <description><![CDATA[By Ross Clark]]></description>
@@ -18,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[The dramatic downfall of an Australian war hero]]></title>
-            <description><![CDATA[By Terry Barnes]]></description>
+            <description><![CDATA[Ben Roberts-Smith]]></description>
             <link>https://spectator.com/article/the-dramatic-downfall-of-an-australian-war-hero/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-dramatic-downfall-of-an-australian-war-hero/</guid>
             <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
@@ -26,7 +34,7 @@
         </item>
         <item>
             <title><![CDATA[Reform is right to put its foot down over reparations]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
+            <description><![CDATA[Reparations row]]></description>
             <link>https://spectator.com/article/reparations-appeal-to-likely-recipients-communists-and-other-foes-of-britain-and-well-meaning-liberals-who-just-want-to-do-what-is-right/</link>
             <guid isPermaLink="true">https://spectator.com/article/reparations-appeal-to-likely-recipients-communists-and-other-foes-of-britain-and-well-meaning-liberals-who-just-want-to-do-what-is-right/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
@@ -34,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Rory Stewart isn’t taking Islam seriously]]></title>
-            <description><![CDATA[By Jimmy Nicholls]]></description>
+            <description><![CDATA[Culture clash]]></description>
             <link>https://spectator.com/article/rory-stewart-isnt-taking-islam-seriously/</link>
             <guid isPermaLink="true">https://spectator.com/article/rory-stewart-isnt-taking-islam-seriously/</guid>
             <dc:creator><![CDATA[Jimmy Nicholls]]></dc:creator>
@@ -106,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Why junior doctors are back on strike]]></title>
-            <description><![CDATA[Medicine]]></description>
+            <description><![CDATA[By Druin Burch]]></description>
             <link>https://spectator.com/article/why-the-junior-doctors-are-back-on-strike/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-junior-doctors-are-back-on-strike/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -162,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[What’s behind Britain’s blue badge boom?]]></title>
-            <description><![CDATA[Parking wars]]></description>
+            <description><![CDATA[By Ross Clark]]></description>
             <link>https://spectator.com/article/whats-behind-britains-blue-badge-boom/</link>
             <guid isPermaLink="true">https://spectator.com/article/whats-behind-britains-blue-badge-boom/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>

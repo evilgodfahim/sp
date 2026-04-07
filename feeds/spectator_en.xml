@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 10:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 11:46:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 10:01:34 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 11:46:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rory Stewart isn’t taking Islam seriously]]></title>
+            <description><![CDATA[By Jimmy Nicholls]]></description>
+            <link>https://spectator.com/article/rory-stewart-isnt-taking-islam-seriously/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rory-stewart-isnt-taking-islam-seriously/</guid>
+            <dc:creator><![CDATA[Jimmy Nicholls]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 11:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West should be banned from the UK]]></title>
+            <description><![CDATA[Wireless]]></description>
+            <link>https://spectator.com/article/kanye-west-should-be-banned-from-the-uk/</link>
+            <guid isPermaLink="true">https://spectator.com/article/kanye-west-should-be-banned-from-the-uk/</guid>
+            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 11:46:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is why shoplifting is rife in Britain]]></title>
             <description><![CDATA[By Ameer Kotecha]]></description>
@@ -66,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Why junior doctors are back on strike]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
+            <description><![CDATA[Medicine]]></description>
             <link>https://spectator.com/article/why-the-junior-doctors-are-back-on-strike/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-junior-doctors-are-back-on-strike/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -114,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[Why Artemis II matters]]></title>
-            <description><![CDATA[Nasa]]></description>
+            <description><![CDATA[By Sam Leith]]></description>
             <link>https://spectator.com/article/why-artemis-ii-matters/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-artemis-ii-matters/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>

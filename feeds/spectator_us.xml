@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 18:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 19:52:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 18:51:49 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 19:52:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Ye the (similarly controversial) David Bowie of his age?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/is-ye-the-similarly-controversial-david-bowie-of-his-age/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-ye-the-similarly-controversial-david-bowie-of-his-age/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 19:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anna Paulina Luna’s #MeToo mission]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/anna-paulina-lunas-metoo-mission/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/anna-paulina-lunas-metoo-mission/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 19:52:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The US currency is under attack like never before]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>

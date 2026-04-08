@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 13:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 15:03:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 13:02:30 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 15:03:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Welcome to the Taco presidency]]></title>
+            <description><![CDATA[By Paul Wood]]></description>
+            <link>https://spectator.com/article/trumps-is-the-taco-presidency/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-is-the-taco-presidency/</guid>
+            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 15:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Bitcoin a British invention?]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/is-bitcoin-a-british-invention/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-bitcoin-a-british-invention/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 15:03:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Iran deal has shown Britain’s irrelevance]]></title>
             <description><![CDATA[By Eliot Wilson]]></description>

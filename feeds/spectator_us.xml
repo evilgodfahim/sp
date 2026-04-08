@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 11:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 13:02:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 11:47:02 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 13:02:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Meeting Karl Ove Knausgård]]></title>
+            <description><![CDATA[Free radical]]></description>
+            <link>https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Orson Fry]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 13:02:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How the UK’s Green party abandoned its environmental roots]]></title>
             <description><![CDATA[By Angus Colwell]]></description>
@@ -130,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Meeting Karl Ove Knausgård]]></title>
-            <description><![CDATA[By Orson Fry]]></description>
+            <description><![CDATA[On a winter’s morning, outside the Three Lives bookstore in New York’s West Village, Karl Ove Knausgård has just finished signing copies of his latest novel, The School of Night. His features are familiar from the dustjackets – the gray-blue eyes, the grizzled beard – but he is surprisingly tall and his signature silver mane]]></description>
             <link>https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us</guid>
             <dc:creator><![CDATA[Orson Fry]]></dc:creator>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 08:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 10:01:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 08:07:52 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 10:01:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The winners and losers of the Iran ceasefire deal]]></title>
+            <description><![CDATA[War talk]]></description>
+            <link>https://spectator.com/article/the-winners-and-losers-of-the-iran-ceasefire-deal/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-winners-and-losers-of-the-iran-ceasefire-deal/</guid>
+            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 10:01:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Drama makes no sense]]></title>
             <description><![CDATA[Cinema]]></description>
@@ -81,7 +89,7 @@
             <pubDate>Wed, 08 Apr 2026 04:30:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘Hostile yet dreamlike’ – the strange beauty of Greenland]]></title>
+            <title><![CDATA[The strange beauty of Greenland]]></title>
             <description><![CDATA[Poles apart]]></description>
             <link>https://spectator.com/article/hostile-yet-dreamlike-greenlands-strange-beauty/</link>
             <guid isPermaLink="true">https://spectator.com/article/hostile-yet-dreamlike-greenlands-strange-beauty/</guid>
@@ -146,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[This is why shoplifting is rife in Britain]]></title>
-            <description><![CDATA[Walker Smith]]></description>
+            <description><![CDATA[By Ameer Kotecha]]></description>
             <link>https://spectator.com/article/this-is-why-shoplifting-is-rife-in-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/this-is-why-shoplifting-is-rife-in-britain/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>

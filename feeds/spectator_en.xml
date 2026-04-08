@@ -4,13 +4,77 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 04:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 08:07:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 04:30:39 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 08:07:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The Drama makes no sense]]></title>
+            <description><![CDATA[Cinema]]></description>
+            <link>https://spectator.com/article/the-drama-makes-no-sense/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-drama-makes-no-sense/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 08:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The joy of meeting ‘randomers’]]></title>
+            <description><![CDATA[Still life]]></description>
+            <link>https://spectator.com/article/the-joy-of-meeting-randomers/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-joy-of-meeting-randomers/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 08:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s time to let go of Tiger Woods]]></title>
+            <description><![CDATA[Sport]]></description>
+            <link>https://spectator.com/article/its-time-to-let-go-of-tiger-woods/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-time-to-let-go-of-tiger-woods/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Roger Alton]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 08:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it any wonder people don’t send letters?]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/is-it-any-wonder-people-dont-send-letters/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-it-any-wonder-people-dont-send-letters/</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 08:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Trump stepped back from the brink]]></title>
+            <description><![CDATA[By Daniel DePetris]]></description>
+            <link>https://spectator.com/article/why-trump-stepped-back-from-the-brink/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-trump-stepped-back-from-the-brink/</guid>
+            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 08:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This ceasefire hasn’t ended the war]]></title>
+            <description><![CDATA[Iran]]></description>
+            <link>https://spectator.com/article/this-ceasefire-hasnt-ended-the-war/</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-ceasefire-hasnt-ended-the-war/</guid>
+            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 08:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are our universities dumbing down?]]></title>
+            <description><![CDATA[KCL]]></description>
+            <link>https://spectator.com/article/why-are-our-universities-dumbing-down/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-are-our-universities-dumbing-down/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 08:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The joy of meeting ‘randomers’]]></title>
+            <description><![CDATA[Still life]]></description>
+            <link>https://spectator.com/article/the-joy-of-meeting-randomers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-joy-of-meeting-randomers/</guid>
+            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 08:07:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Magic Faraway Tree is aimed at anxious parents not children]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Moon faced]]></description>
             <link>https://spectator.com/article/who-is-the-magic-faraway-tree-aimed-at/</link>
             <guid isPermaLink="true">https://spectator.com/article/who-is-the-magic-faraway-tree-aimed-at/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -18,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[‘Hostile yet dreamlike’ – the strange beauty of Greenland]]></title>
-            <description><![CDATA[By James Heale]]></description>
+            <description><![CDATA[Poles apart]]></description>
             <link>https://spectator.com/article/hostile-yet-dreamlike-greenlands-strange-beauty/</link>
             <guid isPermaLink="true">https://spectator.com/article/hostile-yet-dreamlike-greenlands-strange-beauty/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -26,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Will Ozempic trigger a big fat divorce boom?]]></title>
-            <description><![CDATA[One of the funniest – and in my opinion, falsest – things women have long said is ‘I’m doing it for myself – not for men’ about improving the way they look. Men have rarely said the same about women, which reflects that men have never been principally valued for their looks, historically, as they generally earned far more money than]]></description>
+            <description><![CDATA[Single Player]]></description>
             <link>https://spectator.com/article/ozempic-and-the-big-fat-divorce-boom/</link>
             <guid isPermaLink="true">https://spectator.com/article/ozempic-and-the-big-fat-divorce-boom/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
@@ -50,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[The dramatic downfall of an Australian war hero]]></title>
-            <description><![CDATA[Ben Roberts-Smith]]></description>
+            <description><![CDATA[By Terry Barnes]]></description>
             <link>https://spectator.com/article/the-dramatic-downfall-of-an-australian-war-hero/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-dramatic-downfall-of-an-australian-war-hero/</guid>
             <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
@@ -66,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[Rory Stewart isn’t taking Islam seriously]]></title>
-            <description><![CDATA[Culture clash]]></description>
+            <description><![CDATA[By Jimmy Nicholls]]></description>
             <link>https://spectator.com/article/rory-stewart-isnt-taking-islam-seriously/</link>
             <guid isPermaLink="true">https://spectator.com/article/rory-stewart-isnt-taking-islam-seriously/</guid>
             <dc:creator><![CDATA[Jimmy Nicholls]]></dc:creator>
@@ -74,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Kanye West should be banned from the UK]]></title>
-            <description><![CDATA[Wireless]]></description>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
             <link>https://spectator.com/article/kanye-west-should-be-banned-from-the-uk/</link>
             <guid isPermaLink="true">https://spectator.com/article/kanye-west-should-be-banned-from-the-uk/</guid>
             <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
@@ -82,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[This is why shoplifting is rife in Britain]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
+            <description><![CDATA[Walker Smith]]></description>
             <link>https://spectator.com/article/this-is-why-shoplifting-is-rife-in-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/this-is-why-shoplifting-is-rife-in-britain/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
@@ -162,7 +226,7 @@
         </item>
         <item>
             <title><![CDATA[Bovril’s infallible power]]></title>
-            <description><![CDATA[Beef up]]></description>
+            <description><![CDATA[By Richard Crampton Platt]]></description>
             <link>https://spectator.com/article/bovrils-infallible-power/</link>
             <guid isPermaLink="true">https://spectator.com/article/bovrils-infallible-power/</guid>
             <dc:creator><![CDATA[Richard Crampton Platt]]></dc:creator>
@@ -170,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[Should men wear jewellery?]]></title>
-            <description><![CDATA[Knuckle duster]]></description>
+            <description><![CDATA[By Sybilla Hart]]></description>
             <link>https://spectator.com/article/the-rich-mans-guide-to-jewellery/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-rich-mans-guide-to-jewellery/</guid>
             <dc:creator><![CDATA[Sybilla Hart]]></dc:creator>
@@ -178,7 +242,7 @@
         </item>
         <item>
             <title><![CDATA[Constable should be on a banknote]]></title>
-            <description><![CDATA[Stroke of genius]]></description>
+            <description><![CDATA[By Alec Marsh]]></description>
             <link>https://spectator.com/article/constable-should-be-on-a-banknote-2/</link>
             <guid isPermaLink="true">https://spectator.com/article/constable-should-be-on-a-banknote-2/</guid>
             <dc:creator><![CDATA[Alec Marsh]]></dc:creator>
@@ -962,7 +1026,7 @@
         </item>
         <item>
             <title><![CDATA[The Drama makes no sense]]></title>
-            <description><![CDATA[The Drama is the latest from Norwegian writer-director Kristoffer Borgli whose films (Sick of Myself, Dream Scenario) always cause a stir, and this is no exception. It stars Hollywood big-hitters Robert Pattinson and Zendaya as a happily engaged couple whose forthcoming wedding may not go ahead after one discovers a disturbing truth about the other.]]></description>
+            <description><![CDATA[Cinema]]></description>
             <link>https://spectator.com/article/the-drama-makes-no-sense/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-drama-makes-no-sense/</guid>
             <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
@@ -970,7 +1034,7 @@
         </item>
         <item>
             <title><![CDATA[The man who rescued the Notre-Dame]]></title>
-            <description><![CDATA[Architecture]]></description>
+            <description><![CDATA[By Calvin Po]]></description>
             <link>https://spectator.com/article/the-man-who-rescued-the-notre-dame/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-man-who-rescued-the-notre-dame/</guid>
             <dc:creator><![CDATA[Calvin Po]]></dc:creator>
@@ -1018,7 +1082,7 @@
         </item>
         <item>
             <title><![CDATA[It’s time to let go of Tiger Woods]]></title>
-            <description><![CDATA[By Roger Alton]]></description>
+            <description><![CDATA[Sport]]></description>
             <link>https://spectator.com/article/its-time-to-let-go-of-tiger-woods/</link>
             <guid isPermaLink="true">https://spectator.com/article/its-time-to-let-go-of-tiger-woods/</guid>
             <dc:creator><![CDATA[Roger Alton]]></dc:creator>

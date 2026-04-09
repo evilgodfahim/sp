@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 08:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 10:05:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 08:14:26 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 10:05:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why engineers beat lawyers]]></title>
+            <description><![CDATA[The Wiki Man]]></description>
+            <link>https://spectator.com/article/why-engineers-beat-lawyers/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-engineers-beat-lawyers/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 10:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the UK’s Green party abandoned its environmental roots]]></title>
+            <description><![CDATA[Zacked off]]></description>
+            <link>https://spectator.com/article/why-the-green-party-abandoned-its-environmental-roots/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-green-party-abandoned-its-environmental-roots/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 10:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who’s the most special envoy?]]></title>
+            <description><![CDATA[Court circular]]></description>
+            <link>https://spectator.com/article/most-special-envoy-trump-administration/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/most-special-envoy-trump-administration/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 10:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hungary has become a tired gerontocracy]]></title>
+            <description><![CDATA[By Travis Aaroe]]></description>
+            <link>https://spectator.com/article/hungary-has-become-a-tired-gerontocracy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/hungary-has-become-a-tired-gerontocracy/?edition=us</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 10:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get ready for Epic Fury Part II]]></title>
+            <description><![CDATA[By Michael Evans]]></description>
+            <link>https://spectator.com/article/get-ready-for-epic-fury-part-ii/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/get-ready-for-epic-fury-part-ii/?edition=us</guid>
+            <dc:creator><![CDATA[Michael Evans]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 10:05:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are aliens really out there?]]></title>
             <description><![CDATA[By David Whitehouse]]></description>

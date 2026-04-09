@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 08:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 10:05:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 08:14:32 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 10:05:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Keir Starmer’s Gulf trip is a masterclass in delusion]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/keir-starmers-gulf-trip-is-a-masterclass-in-delusion/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmers-gulf-trip-is-a-masterclass-in-delusion/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 10:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hungary has become a tired gerontocracy]]></title>
+            <description><![CDATA[By Travis Aaroe]]></description>
+            <link>https://spectator.com/article/hungary-has-become-a-tired-gerontocracy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/hungary-has-become-a-tired-gerontocracy/</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 10:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The US and Israel have beaten Iran]]></title>
+            <description><![CDATA[By Jeff Blackett]]></description>
+            <link>https://spectator.com/article/the-us-and-israel-have-beaten-iran/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-us-and-israel-have-beaten-iran/</guid>
+            <dc:creator><![CDATA[Jeff Blackett]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 10:05:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[White port is the new G&T]]></title>
             <description><![CDATA[By Declan Lyons]]></description>

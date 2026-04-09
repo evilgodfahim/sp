@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 15:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 16:59:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 15:14:57 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 16:59:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A&E is buckling under the mental health crisis]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/ae-is-buckling-under-the-mental-health-crisis/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ae-is-buckling-under-the-mental-health-crisis/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 16:59:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why are the Greens using the local elections to attack Israel?]]></title>
             <description><![CDATA[By Stephen Daisley]]></description>
@@ -74,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Do you suffer from ‘excited delirium syndrome’?]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
+            <description><![CDATA[Crime]]></description>
             <link>https://spectator.com/article/do-you-suffer-from-excited-delirium-syndrome/</link>
             <guid isPermaLink="true">https://spectator.com/article/do-you-suffer-from-excited-delirium-syndrome/</guid>
             <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
@@ -122,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[The ‘Tory-fication’ of Reform]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By James Heale]]></description>
             <link>https://spectator.com/article/the-tory-fication-of-reform/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-tory-fication-of-reform/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -138,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[The rise and fall of Tariq Ramadan]]></title>
-            <description><![CDATA[‘My closest enemy’]]></description>
+            <description><![CDATA[By Douglas Murray]]></description>
             <link>https://spectator.com/article/the-dubious-rise-of-tariq-ramadan/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-dubious-rise-of-tariq-ramadan/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -210,7 +218,7 @@
         </item>
         <item>
             <title><![CDATA[Gentleman’s Relish is no more]]></title>
-            <description><![CDATA[It is the early hours of the morning and an email drops into my inbox. Lacking any kind of willpower, I open it. Now I’m wide awake. Because this isn’t the usual PR slop that starts my days. It’s a tip-off. A big one. A reader has discovered something about a company and they are]]></description>
+            <description><![CDATA[Patum Peperium]]></description>
             <link>https://spectator.com/article/gentlemans-relish-is-no-more/</link>
             <guid isPermaLink="true">https://spectator.com/article/gentlemans-relish-is-no-more/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
@@ -234,7 +242,7 @@
         </item>
         <item>
             <title><![CDATA[Starmer must drop this terrible Troubles bill]]></title>
-            <description><![CDATA[By Nick Parker]]></description>
+            <description><![CDATA[Northern Ireland]]></description>
             <link>https://spectator.com/article/starmer-must-drop-this-terrible-troubles-bill/</link>
             <guid isPermaLink="true">https://spectator.com/article/starmer-must-drop-this-terrible-troubles-bill/</guid>
             <dc:creator><![CDATA[Nick Parker]]></dc:creator>
@@ -274,7 +282,7 @@
         </item>
         <item>
             <title><![CDATA[Welcome to the Taco presidency]]></title>
-            <description><![CDATA[US politics]]></description>
+            <description><![CDATA[By Paul Wood]]></description>
             <link>https://spectator.com/article/trumps-is-the-taco-presidency/</link>
             <guid isPermaLink="true">https://spectator.com/article/trumps-is-the-taco-presidency/</guid>
             <dc:creator><![CDATA[Paul Wood]]></dc:creator>

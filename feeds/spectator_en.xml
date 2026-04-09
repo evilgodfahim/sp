@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 06:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 08:14:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 08:14:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[White port is the new G&T]]></title>
+            <description><![CDATA[By Declan Lyons]]></description>
+            <link>https://spectator.com/article/white-port-is-the-new-gt/</link>
+            <guid isPermaLink="true">https://spectator.com/article/white-port-is-the-new-gt/</guid>
+            <dc:creator><![CDATA[Declan Lyons]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 08:14:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do you suffer from ‘excited delirium syndrome’?]]></title>
             <description><![CDATA[By Rod Liddle]]></description>
@@ -138,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Why is it impossible to make good coffee at home?]]></title>
-            <description><![CDATA[It was when I was staying recently with the Frums in D.C. that, for a dizzying moment, I thought my life-long quest had ended. Nasa can fly us a quarter of a million miles to circumnavigate the moon but nobody has yet, to my knowledge, fixed the perennial problem of making an even half-decent cup]]></description>
+            <description><![CDATA[By Rachel Johnson]]></description>
             <link>https://spectator.com/article/the-perils-of-being-a-coffee-snob/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-perils-of-being-a-coffee-snob/</guid>
             <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
@@ -146,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[Gentleman’s Relish is no more]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
+            <description><![CDATA[It is the early hours of the morning and an email drops into my inbox. Lacking any kind of willpower, I open it. Now I’m wide awake. Because this isn’t the usual PR slop that starts my days. It’s a tip-off. A big one. A reader has discovered something about a company and they are]]></description>
             <link>https://spectator.com/article/gentlemans-relish-is-no-more/</link>
             <guid isPermaLink="true">https://spectator.com/article/gentlemans-relish-is-no-more/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>

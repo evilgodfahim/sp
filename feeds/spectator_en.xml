@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 04:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 06:16:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 04:27:17 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Do you suffer from ‘excited delirium syndrome’?]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/do-you-suffer-from-excited-delirium-syndrome/</link>
+            <guid isPermaLink="true">https://spectator.com/article/do-you-suffer-from-excited-delirium-syndrome/</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t blame Kanye for his abject idiocy]]></title>
+            <description><![CDATA[The Listener]]></description>
+            <link>https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starmer must drop this terrible Troubles bill]]></title>
+            <description><![CDATA[Northern Ireland]]></description>
+            <link>https://spectator.com/article/starmer-must-drop-this-terrible-troubles-bill/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/starmer-must-drop-this-terrible-troubles-bill/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Nick Parker]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is it impossible to make good coffee at home?]]></title>
+            <description><![CDATA[Best life]]></description>
+            <link>https://spectator.com/article/the-perils-of-being-a-coffee-snob/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-perils-of-being-a-coffee-snob/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A journey to the dark side of the Moon]]></title>
+            <description><![CDATA[Notes on...]]></description>
+            <link>https://spectator.com/article/a-journey-to-the-dark-side-of-the-moon/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-journey-to-the-dark-side-of-the-moon/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This study shatters the trans myth about mental health]]></title>
+            <description><![CDATA[By Joanna Williams]]></description>
+            <link>https://spectator.com/article/this-study-shatters-the-trans-myth-about-mental-health/</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-study-shatters-the-trans-myth-about-mental-health/</guid>
+            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘Tory-fication’ of Reform]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/the-tory-fication-of-reform/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tory-fication-of-reform/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hong Kong is the new Dubai]]></title>
             <description><![CDATA[By Martin Vander Weyer]]></description>
@@ -18,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[The rise and fall of Tariq Ramadan]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
+            <description><![CDATA[‘My closest enemy’]]></description>
             <link>https://spectator.com/article/the-dubious-rise-of-tariq-ramadan/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-dubious-rise-of-tariq-ramadan/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -97,8 +153,8 @@
             <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Benefits treats: how Britain became a freeloader’s paradise]]></title>
-            <description><![CDATA[Plastered around Westminster this Easter were adverts for the Tower of London. ‘The perfect place for troublemakers – pre-book now,’ the poster read. ‘Members go free.’ So too – near enough – do those on Universal Credit (UC). Easter-holiday treats can be expensive for hard-working families. For those on benefits they’re a breeze. A trip]]></description>
+            <title><![CDATA[Benefits treats]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
             <link>https://spectator.com/article/benefits-treats-how-britain-became-a-freeloaders-paradise/</link>
             <guid isPermaLink="true">https://spectator.com/article/benefits-treats-how-britain-became-a-freeloaders-paradise/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
@@ -154,7 +210,7 @@
         </item>
         <item>
             <title><![CDATA[Welcome to the Taco presidency]]></title>
-            <description><![CDATA[By Paul Wood]]></description>
+            <description><![CDATA[US politics]]></description>
             <link>https://spectator.com/article/trumps-is-the-taco-presidency/</link>
             <guid isPermaLink="true">https://spectator.com/article/trumps-is-the-taco-presidency/</guid>
             <dc:creator><![CDATA[Paul Wood]]></dc:creator>
@@ -178,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[The winners and losers of the Iran ceasefire deal]]></title>
-            <description><![CDATA[War talk]]></description>
+            <description><![CDATA[By Jonathan Spyer]]></description>
             <link>https://spectator.com/article/the-winners-and-losers-of-the-iran-ceasefire-deal/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-winners-and-losers-of-the-iran-ceasefire-deal/</guid>
             <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
@@ -226,7 +282,7 @@
         </item>
         <item>
             <title><![CDATA[This ceasefire hasn’t ended the war]]></title>
-            <description><![CDATA[Iran]]></description>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
             <link>https://spectator.com/article/this-ceasefire-hasnt-ended-the-war/</link>
             <guid isPermaLink="true">https://spectator.com/article/this-ceasefire-hasnt-ended-the-war/</guid>
             <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
@@ -234,7 +290,7 @@
         </item>
         <item>
             <title><![CDATA[Why are our universities dumbing down?]]></title>
-            <description><![CDATA[KCL]]></description>
+            <description><![CDATA[By Patrick West]]></description>
             <link>https://spectator.com/article/why-are-our-universities-dumbing-down/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-are-our-universities-dumbing-down/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -250,7 +306,7 @@
         </item>
         <item>
             <title><![CDATA[The Magic Faraway Tree is aimed at anxious parents not children]]></title>
-            <description><![CDATA[Moon faced]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/who-is-the-magic-faraway-tree-aimed-at/</link>
             <guid isPermaLink="true">https://spectator.com/article/who-is-the-magic-faraway-tree-aimed-at/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -258,7 +314,7 @@
         </item>
         <item>
             <title><![CDATA[The strange beauty of Greenland]]></title>
-            <description><![CDATA[Poles apart]]></description>
+            <description><![CDATA[By James Heale]]></description>
             <link>https://spectator.com/article/hostile-yet-dreamlike-greenlands-strange-beauty/</link>
             <guid isPermaLink="true">https://spectator.com/article/hostile-yet-dreamlike-greenlands-strange-beauty/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -266,7 +322,7 @@
         </item>
         <item>
             <title><![CDATA[Will Ozempic trigger a big fat divorce boom?]]></title>
-            <description><![CDATA[Single Player]]></description>
+            <description><![CDATA[By Julie Burchill]]></description>
             <link>https://spectator.com/article/ozempic-and-the-big-fat-divorce-boom/</link>
             <guid isPermaLink="true">https://spectator.com/article/ozempic-and-the-big-fat-divorce-boom/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>

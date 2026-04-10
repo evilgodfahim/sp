@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 10:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 11:41:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 10:02:56 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 11:41:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The problem with John Healey’s tough talk on Russia]]></title>
+            <description><![CDATA[By Mark Galeotti]]></description>
+            <link>https://spectator.com/article/the-problem-with-john-healeys-tough-talk-on-russia/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-john-healeys-tough-talk-on-russia/</guid>
+            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 11:41:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More youth clubs won’t fix London’s crime woes]]></title>
+            <description><![CDATA[By Alexander Baker]]></description>
+            <link>https://spectator.com/article/more-youth-clubs-wont-fix-london-crime/</link>
+            <guid isPermaLink="true">https://spectator.com/article/more-youth-clubs-wont-fix-london-crime/</guid>
+            <dc:creator><![CDATA[Alexander Baker]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 11:41:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ex-Tory MPs line up for Reform]]></title>
             <description><![CDATA[By Steerpike]]></description>

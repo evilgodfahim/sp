@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 10:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 11:41:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 10:02:51 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 11:41:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The lies about Israel’s attack on Hezbollah]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/the-shameful-lies-about-israels-attack-on-hezbollah/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-shameful-lies-about-israels-attack-on-hezbollah/?edition=us</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 11:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No, the US didn’t threaten to bomb the Vatican]]></title>
+            <description><![CDATA[By Damian Thompson]]></description>
+            <link>https://spectator.com/article/the-us-hasnt-threatened-to-bomb-the-vatican/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-us-hasnt-threatened-to-bomb-the-vatican/?edition=us</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 11:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should America be Venice or Sparta?]]></title>
+            <description><![CDATA[By Daniel McCarthy]]></description>
+            <link>https://spectator.com/article/all-roads-lead-to-rome/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/all-roads-lead-to-rome/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 11:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No one in the DC political class is cool]]></title>
+            <description><![CDATA[DC Life]]></description>
+            <link>https://spectator.com/article/no-one-in-the-dc-political-class-is-cool/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-one-in-the-dc-political-class-is-cool/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Kelly Chapman]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 11:41:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Should America be Venice or Sparta?]]></title>
             <description><![CDATA[By Daniel McCarthy]]></description>
@@ -345,7 +377,7 @@
             <pubDate>Tue, 07 Apr 2026 16:47:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Arming the dragon]]></title>
+            <title><![CDATA[How the West is empowering China’s war machine]]></title>
             <description><![CDATA[By Geoffrey Cain]]></description>
             <link>https://spectator.com/article/how-the-west-is-empowering-chinas-war-machine/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-the-west-is-empowering-chinas-war-machine/?edition=us</guid>
@@ -354,7 +386,7 @@
         </item>
         <item>
             <title><![CDATA[Operation Epic Fury is costing Trump his coalition]]></title>
-            <description><![CDATA[Golden Age?]]></description>
+            <description><![CDATA[As US troops flock to danger, Donald Trump seeks ways to disentangle himself from the war on Iran. “We are on track to complete all of America’s military objectives shortly, very shortly,” he said in a 19-minute address at the start of the month. “It’s very important that we keep this conflict in perspective.” What’s]]></description>
             <link>https://spectator.com/article/operation-epic-fury-is-costing-trump-his-coalition/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/operation-epic-fury-is-costing-trump-his-coalition/?edition=us</guid>
             <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
@@ -450,7 +482,7 @@
         </item>
         <item>
             <title><![CDATA[Who’s the most special envoy?]]></title>
-            <description><![CDATA[Court circular]]></description>
+            <description><![CDATA[By Matt McDonald]]></description>
             <link>https://spectator.com/article/most-special-envoy-trump-administration/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/most-special-envoy-trump-administration/?edition=us</guid>
             <dc:creator><![CDATA[Matt McDonald]]></dc:creator>

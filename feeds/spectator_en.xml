@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 12:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 14:13:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 12:50:44 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 14:13:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lebanon should be excluded from the Iran peace deal]]></title>
+            <description><![CDATA[By Jonathan Brown]]></description>
+            <link>https://spectator.com/article/lebanon-should-be-excluded-from-the-iran-peace-deal/</link>
+            <guid isPermaLink="true">https://spectator.com/article/lebanon-should-be-excluded-from-the-iran-peace-deal/</guid>
+            <dc:creator><![CDATA[Jonathan Brown]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 14:13:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Should doctors be banned from striking?]]></title>
             <description><![CDATA[By Druin Burch]]></description>
@@ -129,7 +137,7 @@
             <pubDate>Fri, 10 Apr 2026 06:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The empty escapism of ‘Cowboy core’]]></title>
+            <title><![CDATA[The empty escapism of ‘cowboy core’]]></title>
             <description><![CDATA[By Zak Asgard]]></description>
             <link>https://spectator.com/article/the-faux-escapism-of-cowboy-core/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-faux-escapism-of-cowboy-core/</guid>
@@ -226,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[Do you suffer from ‘excited delirium syndrome’?]]></title>
-            <description><![CDATA[Crime]]></description>
+            <description><![CDATA[By Rod Liddle]]></description>
             <link>https://spectator.com/article/do-you-suffer-from-excited-delirium-syndrome/</link>
             <guid isPermaLink="true">https://spectator.com/article/do-you-suffer-from-excited-delirium-syndrome/</guid>
             <dc:creator><![CDATA[Rod Liddle]]></dc:creator>

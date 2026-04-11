@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 13:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 14:30:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 13:49:52 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 14:30:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is Prince Harry being sued by Sentebale?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/why-is-prince-harry-being-sued-by-sentebale/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-prince-harry-being-sued-by-sentebale/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 14:30:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starmer referred to UN over ‘crime against humanity’]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/starmer-referred-to-un-over-crime-against-humanity/</link>
+            <guid isPermaLink="true">https://spectator.com/article/starmer-referred-to-un-over-crime-against-humanity/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 14:30:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This isn’t the end of the Chagos debacle]]></title>
             <description><![CDATA[By Richard Ekins]]></description>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 11:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 12:38:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 11:23:30 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 12:38:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[This isn’t the end of the Chagos debacle]]></title>
+            <description><![CDATA[By Richard Ekins]]></description>
+            <link>https://spectator.com/article/this-isnt-the-end-of-the-chagos-debacle/</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-isnt-the-end-of-the-chagos-debacle/</guid>
+            <dc:creator><![CDATA[Richard Ekins]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 12:38:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bash Back are thugs posing as victims]]></title>
             <description><![CDATA[By Julie Burchill]]></description>

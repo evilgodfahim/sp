@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 10:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 11:27:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 10:31:46 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 11:27:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Meet Bettina Anderson, Donald Trump Jr.’s WASPy fiancée]]></title>
+            <description><![CDATA[By Neal Pollack]]></description>
+            <link>https://spectator.com/article/bettina-anderson-donald-trump-jr-waspy-fiancee/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/bettina-anderson-donald-trump-jr-waspy-fiancee/?edition=us</guid>
+            <dc:creator><![CDATA[Neal Pollack]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 11:27:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Face died on the line]]></title>
+            <description><![CDATA[Diary]]></description>
+            <link>https://spectator.com/article/how-the-face-died-on-the-line/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-face-died-on-the-line/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Chris Black]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 11:27:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life on Palm Beach Island is not what it appears]]></title>
+            <description><![CDATA[By Peter Watson]]></description>
+            <link>https://spectator.com/article/life-on-palm-beach-island-is-not-what-it-appears/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/life-on-palm-beach-island-is-not-what-it-appears/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Peter Watson]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 11:27:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Of course these peace talks would fail]]></title>
+            <description><![CDATA[By Irwin Stelzer]]></description>
+            <link>https://spectator.com/article/of-course-these-peace-talks-would-fail/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/of-course-these-peace-talks-would-fail/?edition=us</guid>
+            <dc:creator><![CDATA[Irwin Stelzer]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 11:27:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Howard Stern disappeared years ago]]></title>
             <description><![CDATA[By Larry O'Connor]]></description>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 10:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 11:28:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 10:31:53 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 11:28:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What I learned from complaining to the BBC]]></title>
+            <description><![CDATA[Media regulation]]></description>
+            <link>https://spectator.com/article/what-i-learned-from-complaining-to-the-bbc/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-i-learned-from-complaining-to-the-bbc/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[James Price]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 11:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Washington and Tehran are locked in a jungle fight]]></title>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <link>https://spectator.com/article/washington-and-tehran-are-jungle-beasts-locked-in-a-deadly-fight/</link>
+            <guid isPermaLink="true">https://spectator.com/article/washington-and-tehran-are-jungle-beasts-locked-in-a-deadly-fight/</guid>
+            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 11:28:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What will happen to Iran now?]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
@@ -17,7 +33,7 @@
             <pubDate>Sun, 12 Apr 2026 10:31:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why is Ifhat Shaheen a Green party candidate?]]></title>
+            <title><![CDATA[The mystery of Green party candidate Ifhat Shaheen]]></title>
             <description><![CDATA[By Andrew Gilligan]]></description>
             <link>https://spectator.com/article/why-is-ifhat-shaheen-a-green-party-candidate/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-is-ifhat-shaheen-a-green-party-candidate/</guid>

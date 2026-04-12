@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 15:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 16:28:56 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 15:29:21 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 16:28:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What will happen to Iran now?]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/what-will-happen-to-iran-now/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-will-happen-to-iran-now/?edition=us</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 16:28:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet Bettina Anderson, Donald Trump Jr.’s WASPy fiancée]]></title>
             <description><![CDATA[By Neal Pollack]]></description>

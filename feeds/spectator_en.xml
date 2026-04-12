@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 21:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 22:25:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 21:26:10 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 22:25:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Orban concedes defeat in Hungary]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/orban-concedes-defeat-in-hungary/</link>
+            <guid isPermaLink="true">https://spectator.com/article/orban-concedes-defeat-in-hungary/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 22:25:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Liz Truss’s husband to stand for Tories]]></title>
             <description><![CDATA[By Steerpike]]></description>

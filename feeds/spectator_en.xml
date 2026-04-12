@@ -4,13 +4,29 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 12:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 13:55:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 12:41:44 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 13:55:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Sunday shows round-up: Streeting’s Iran disappointment]]></title>
+            <description><![CDATA[By Joe Bedell-Brill]]></description>
+            <link>https://spectator.com/article/sunday-shows-round-up-streetings-middle-east-disappointment/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-streetings-middle-east-disappointment/</guid>
+            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 13:55:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The trouble with the Green party’s Ifhat Shaheen]]></title>
+            <description><![CDATA[Alter ego]]></description>
+            <link>https://spectator.com/article/why-is-ifhat-shaheen-a-green-party-candidate/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-ifhat-shaheen-a-green-party-candidate/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 13:55:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What I learned from complaining to the BBC]]></title>
-            <description><![CDATA[Media regulation]]></description>
+            <description><![CDATA[Agony Auntie]]></description>
             <link>https://spectator.com/article/what-i-learned-from-complaining-to-the-bbc/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/what-i-learned-from-complaining-to-the-bbc/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[James Price]]></dc:creator>
@@ -33,7 +49,7 @@
             <pubDate>Sun, 12 Apr 2026 10:31:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The mystery of Green party candidate Ifhat Shaheen]]></title>
+            <title><![CDATA[The trouble with the Green party’s Ifhat Shaheen]]></title>
             <description><![CDATA[By Andrew Gilligan]]></description>
             <link>https://spectator.com/article/why-is-ifhat-shaheen-a-green-party-candidate/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-is-ifhat-shaheen-a-green-party-candidate/</guid>

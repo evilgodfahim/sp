@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 09:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 11:10:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 09:28:46 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 11:10:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My search for the perfect New York therapist ended badly]]></title>
+            <description><![CDATA[By Josie Cox]]></description>
+            <link>https://spectator.com/article/my-search-for-the-perfect-new-york-therapist-ended-badly/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-search-for-the-perfect-new-york-therapist-ended-badly/?edition=us</guid>
+            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 11:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The bleak humor of Samuel Beckett]]></title>
+            <description><![CDATA[By Ian Thomson]]></description>
+            <link>https://spectator.com/article/samuel-becketts-bleak-humour-lives-gleefully-on/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/samuel-becketts-bleak-humour-lives-gleefully-on/?edition=us</guid>
+            <dc:creator><![CDATA[Ian Thomson]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 11:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meghan is a woman much misunderstood]]></title>
+            <description><![CDATA[Real life]]></description>
+            <link>https://spectator.com/article/meghan-is-a-woman-much-misunderstood/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/meghan-is-a-woman-much-misunderstood/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 11:10:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In conversation with Nick Land, the ‘father of accelerationism’]]></title>
             <description><![CDATA[By Monica Sobchak]]></description>
@@ -41,7 +65,7 @@
             <pubDate>Mon, 13 Apr 2026 09:28:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How the Pope should retaliate against Donald Trump]]></title>
+            <title><![CDATA[The best response to Trump is to pray for him]]></title>
             <description><![CDATA[By Stephen Daisley]]></description>
             <link>https://spectator.com/article/how-the-pope-should-retaliate-against-donald-trump/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-the-pope-should-retaliate-against-donald-trump/?edition=us</guid>

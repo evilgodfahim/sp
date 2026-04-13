@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 15:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 16:55:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 15:09:28 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 16:55:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Southport attack did not have to happen]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/the-southport-attack-should-not-have-happened/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-southport-attack-should-not-have-happened/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 16:55:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Keir Starmer is plotting to bind Britain to Brussels]]></title>
             <description><![CDATA[By Andrew Tettenborn]]></description>
@@ -90,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Why even Ferrari drivers are stealing petrol]]></title>
-            <description><![CDATA[Pumped up]]></description>
+            <description><![CDATA[By Patrick West]]></description>
             <link>https://spectator.com/article/why-even-ferrari-drivers-are-stealing-petrol/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-even-ferrari-drivers-are-stealing-petrol/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -138,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[London hasn’t fallen]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
+            <description><![CDATA[Capital punishment]]></description>
             <link>https://spectator.com/article/london-hasnt-fallen/</link>
             <guid isPermaLink="true">https://spectator.com/article/london-hasnt-fallen/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>

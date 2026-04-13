@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 01:53:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 04:52:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 01:53:26 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 04:52:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The British road trip is over]]></title>
+            <description><![CDATA[By Simon Heptinstall]]></description>
+            <link>https://spectator.com/article/the-british-road-trip-is-tourism-without-the-infrastructure/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-british-road-trip-is-tourism-without-the-infrastructure/</guid>
+            <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 04:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samuel Beckett’s bleak humour lives gleefully on]]></title>
+            <description><![CDATA[By Ian Thomson]]></description>
+            <link>https://spectator.com/article/samuel-becketts-bleak-humour-lives-gleefully-on/</link>
+            <guid isPermaLink="true">https://spectator.com/article/samuel-becketts-bleak-humour-lives-gleefully-on/</guid>
+            <dc:creator><![CDATA[Ian Thomson]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 04:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why exercise music stops you from throwing in the towel]]></title>
+            <description><![CDATA[By Chas Newkey-Burden]]></description>
+            <link>https://spectator.com/article/why-exercise-music-stops-you-from-throwing-in-the-towel/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-exercise-music-stops-you-from-throwing-in-the-towel/</guid>
+            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 04:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will genteel customers desert Waitrose?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/will-genteel-customers-desert-waitrose/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-genteel-customers-desert-waitrose/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 04:52:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Orban concedes defeat in Hungary]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -178,7 +210,7 @@
         </item>
         <item>
             <title><![CDATA[Why Prince George should go to Eton]]></title>
-            <description><![CDATA[After three years of theatrical um-ing and ah-ing, the Prince and Princess of Wales have seemingly acceded to the obvious: Prince George is apparently going to Eton. Despite their perennial posturing at being a ‘modern’ royal family (is there such a thing?) there was really only one option. Eton is after all – somewhat paradoxically]]></description>
+            <description><![CDATA[By Ivo Delingpole]]></description>
             <link>https://spectator.com/article/why-prince-george-should-go-to-eton/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-prince-george-should-go-to-eton/</guid>
             <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>

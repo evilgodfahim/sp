@@ -4,13 +4,45 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 13:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 15:09:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 13:04:26 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 15:09:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Keir Starmer is plotting to bind Britain to Brussels]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/keir-starmer-is-plotting-to-bind-britain-to-brussels/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-is-plotting-to-bind-britain-to-brussels/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 15:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reform aim to weaponise the ‘Boriswave’]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/reform-look-to-weaponise-the-boriswave/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reform-look-to-weaponise-the-boriswave/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 15:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The truth about Pakistan’s role in the US-Iran conflict]]></title>
+            <description><![CDATA[By Francis Pike]]></description>
+            <link>https://spectator.com/article/the-truth-about-pakistans-role-in-the-us-iran-conflict/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-pakistans-role-in-the-us-iran-conflict/</guid>
+            <dc:creator><![CDATA[Francis Pike]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 15:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is probably not the end for Viktor Orbán]]></title>
+            <description><![CDATA[Hungary]]></description>
+            <link>https://spectator.com/article/this-is-probably-not-the-end-for-viktor-orban/</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-is-probably-not-the-end-for-viktor-orban/</guid>
+            <dc:creator><![CDATA[Tibor Fischer]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 15:09:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is Britain falling out of love with the NHS?]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
+            <description><![CDATA[Health]]></description>
             <link>https://spectator.com/article/is-britain-falling-out-of-love-with-the-nhs/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-britain-falling-out-of-love-with-the-nhs/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -106,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[London hasn’t fallen]]></title>
-            <description><![CDATA[Capital punishment]]></description>
+            <description><![CDATA[By Sam Leith]]></description>
             <link>https://spectator.com/article/london-hasnt-fallen/</link>
             <guid isPermaLink="true">https://spectator.com/article/london-hasnt-fallen/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 15:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 16:56:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 15:07:41 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 16:56:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[With Orbán’s loss, Russia has lost its European foothold]]></title>
+            <description><![CDATA[By Alexander Kolyandr]]></description>
+            <link>https://spectator.com/article/with-orbans-loss-russia-has-lost-its-european-foothold/</link>
+            <guid isPermaLink="true">https://spectator.com/article/with-orbans-loss-russia-has-lost-its-european-foothold/</guid>
+            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
+            <pubDate>Tue, 14 Apr 2026 16:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Starmer fix any of Britain’s big problems?]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/will-starmer-fix-any-of-britains-big-problems/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-starmer-fix-any-of-britains-big-problems/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Tue, 14 Apr 2026 16:56:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get ready for Labour’s ‘summer of sex’]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
@@ -26,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Starmer is being ‘corrosively complacent’ about defence]]></title>
-            <description><![CDATA[By Eliot Wilson]]></description>
+            <description><![CDATA[Capability gap]]></description>
             <link>https://spectator.com/article/starmer-is-being-corrosively-complacent-about-defence/</link>
             <guid isPermaLink="true">https://spectator.com/article/starmer-is-being-corrosively-complacent-about-defence/</guid>
             <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
@@ -73,8 +89,8 @@
             <pubDate>Tue, 14 Apr 2026 11:53:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The intertwined lives and deaths of Jean Genet and Simone de Beauvoir]]></title>
-            <description><![CDATA[By Matthew Fraser]]></description>
+            <title><![CDATA[The intertwined lives and deaths of Genet and Beauvoir]]></title>
+            <description><![CDATA[Left Bank]]></description>
             <link>https://spectator.com/article/the-intertwined-lives-and-deaths-of-jean-genet-and-simone-de-beauvoir/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-intertwined-lives-and-deaths-of-jean-genet-and-simone-de-beauvoir/</guid>
             <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
@@ -90,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Harry and Meghan’s Australia trip is a pathetic cry for public love]]></title>
-            <description><![CDATA[By Terry Barnes]]></description>
+            <description><![CDATA[Down under]]></description>
             <link>https://spectator.com/article/harry-and-meghans-australia-trip-is-a-pathetic-cry-for-public-love/</link>
             <guid isPermaLink="true">https://spectator.com/article/harry-and-meghans-australia-trip-is-a-pathetic-cry-for-public-love/</guid>
             <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
@@ -138,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[Will the US blockade force Iran to negotiate?]]></title>
-            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <description><![CDATA[War]]></description>
             <link>https://spectator.com/article/will-the-us-blockade-force-iran-to-negotiate/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-the-us-blockade-force-iran-to-negotiate/</guid>
             <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>

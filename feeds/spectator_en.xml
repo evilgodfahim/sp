@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 01:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 04:40:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 01:48:43 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 04:40:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The next Renaissance is coming]]></title>
+            <description><![CDATA[When we think of the Renaissance, our minds naturally drift to figures such as Leonardo da Vinci and Michelangelo – and rightly so. These are individuals who transformed our understanding of art, science and human potential. What we tend not to consider, however, is how close we might be to another cultural revolution.  That is]]></description>
+            <link>https://spectator.com/article/the-next-renaissance-is-coming/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-next-renaissance-is-coming/</guid>
+            <dc:creator><![CDATA[Thomas Munson]]></dc:creator>
+            <pubDate>Tue, 14 Apr 2026 04:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[School dinners are glorious]]></title>
+            <description><![CDATA[By William Atkinson]]></description>
+            <link>https://spectator.com/article/school-dinners-are-glorious/</link>
+            <guid isPermaLink="true">https://spectator.com/article/school-dinners-are-glorious/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Tue, 14 Apr 2026 04:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bardella, the princess and a very French love story]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/bardella-the-princess-and-a-very-french-saga/</link>
+            <guid isPermaLink="true">https://spectator.com/article/bardella-the-princess-and-a-very-french-saga/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Tue, 14 Apr 2026 04:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who will take responsibility for Southport?]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/who-will-take-responsibility-for-southport/</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-will-take-responsibility-for-southport/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Tue, 14 Apr 2026 04:40:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Southport attack did not have to happen]]></title>
             <description><![CDATA[By David Shipley]]></description>

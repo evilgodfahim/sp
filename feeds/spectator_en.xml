@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 01:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 04:40:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 01:30:34 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 04:40:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My time as an overdrawn Coutts customer]]></title>
+            <description><![CDATA[Dear old Coutts, the private bank used by the King, now requires clients to have £3 million in the kitty before they deign to allow you to open an account. The £3 million minimum deposit is the biggest single jump of the bank’s wealth test in its illustrious 333-year history, designed to attract ‘ultra-high-net-worth individuals’ apparently. Whoever they are, I am not one of them.   I had]]></description>
+            <link>https://spectator.com/article/my-time-as-a-penniless-coutts-customer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-time-as-a-penniless-coutts-customer/</guid>
+            <dc:creator><![CDATA[Julia Hamilton]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 04:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the humans training robots at the ‘arm farm’]]></title>
+            <description><![CDATA[By Gary Dexter]]></description>
+            <link>https://spectator.com/article/meet-the-humans-training-robots-at-the-arm-farm/</link>
+            <guid isPermaLink="true">https://spectator.com/article/meet-the-humans-training-robots-at-the-arm-farm/</guid>
+            <dc:creator><![CDATA[Gary Dexter]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 04:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The soft power of Ukrainian food]]></title>
+            <description><![CDATA[By Zoe Strimpel]]></description>
+            <link>https://spectator.com/article/the-soft-power-of-ukrainian-food/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-soft-power-of-ukrainian-food/</guid>
+            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 04:40:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why young people like the Scottish Greens]]></title>
             <description><![CDATA[By Stephen Daisley]]></description>

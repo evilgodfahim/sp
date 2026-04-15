@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 10:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 11:50:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 10:10:13 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Potatoes are one of life’s great simple pleasures]]></title>
+            <description><![CDATA[Notes on...]]></description>
+            <link>https://spectator.com/article/potatoes-are-one-of-lifes-great-simple-pleasures/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/potatoes-are-one-of-lifes-great-simple-pleasures/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Brian Morton]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Face died on the line]]></title>
+            <description><![CDATA[Diary]]></description>
+            <link>https://spectator.com/article/how-the-face-died-on-the-line/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-face-died-on-the-line/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Chris Black]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[With Orbán’s loss, Russia has lost its European foothold]]></title>
+            <description><![CDATA[By Alexander Kolyandr]]></description>
+            <link>https://spectator.com/article/with-orbans-loss-russia-has-lost-its-european-foothold/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/with-orbans-loss-russia-has-lost-its-european-foothold/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[White working-class boys are being left behind in Britain]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/white-working-class-boys-are-being-left-behind/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/white-working-class-boys-are-being-left-behind/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The lesson of Orbán: Trump must tackle corruption]]></title>
+            <description><![CDATA[By John Fund]]></description>
+            <link>https://spectator.com/article/the-lesson-of-orban-trump-must-tackle-corruption/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-lesson-of-orban-trump-must-tackle-corruption/?edition=us</guid>
+            <dc:creator><![CDATA[John Fund]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sorry, but America still holds all the cards]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/sorry-but-america-still-holds-the-cards/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/sorry-but-america-still-holds-the-cards/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet the humans training robots at the ‘arm farm’]]></title>
             <description><![CDATA[By Gary Dexter]]></description>

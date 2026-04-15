@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 08:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 10:10:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 08:23:55 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 10:10:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why didn’t the green lobby stand up for the Chagos islands?]]></title>
+            <description><![CDATA[By Matt Ridley]]></description>
+            <link>https://spectator.com/article/why-didnt-the-green-lobby-stand-up-for-the-chagos-islands/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-didnt-the-green-lobby-stand-up-for-the-chagos-islands/</guid>
+            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 10:10:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don’t blame Kanye for his abject idiocy]]></title>
             <description><![CDATA[The Listener]]></description>
@@ -42,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Christopher Eccleston is right about young white men]]></title>
-            <description><![CDATA[By Patrick West]]></description>
+            <description><![CDATA[Society]]></description>
             <link>https://spectator.com/article/christopher-eccleston-is-right-about-young-white-men/</link>
             <guid isPermaLink="true">https://spectator.com/article/christopher-eccleston-is-right-about-young-white-men/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -74,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Why young people like the Scottish Greens]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
+            <description><![CDATA[Scotland]]></description>
             <link>https://spectator.com/article/why-young-people-like-the-scottish-greens/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-young-people-like-the-scottish-greens/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
@@ -106,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[What the Guardian should have asked Francesca Albanese]]></title>
-            <description><![CDATA[Interview]]></description>
+            <description><![CDATA[By Stephen Pollard]]></description>
             <link>https://spectator.com/article/what-the-guardian-should-have-asked-francesca-albanese/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-the-guardian-should-have-asked-francesca-albanese/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -114,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Starmer is being ‘corrosively complacent’ about defence]]></title>
-            <description><![CDATA[Capability gap]]></description>
+            <description><![CDATA[By Eliot Wilson]]></description>
             <link>https://spectator.com/article/starmer-is-being-corrosively-complacent-about-defence/</link>
             <guid isPermaLink="true">https://spectator.com/article/starmer-is-being-corrosively-complacent-about-defence/</guid>
             <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
@@ -122,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[The IMF growth downgrade is more bad news for Rachel Reeves]]></title>
-            <description><![CDATA[Doom loop]]></description>
+            <description><![CDATA[By Michael Simmons]]></description>
             <link>https://spectator.com/article/the-imf-growth-downgrade-is-more-bad-news-for-rachel-reeves/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-imf-growth-downgrade-is-more-bad-news-for-rachel-reeves/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
@@ -218,7 +226,7 @@
         </item>
         <item>
             <title><![CDATA[Why is Labour so obsessed by what we eat?]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
+            <description><![CDATA[School dinners]]></description>
             <link>https://spectator.com/article/why-is-labour-so-obsessed-by-what-we-eat/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-is-labour-so-obsessed-by-what-we-eat/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 16:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 18:00:59 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 16:54:22 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 18:00:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Scottish Greens want everything to be free]]></title>
+            <description><![CDATA[By Iain Macwhirter]]></description>
+            <link>https://spectator.com/article/the-scottish-greens-want-everything-to-be-free/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-scottish-greens-want-everything-to-be-free/</guid>
+            <dc:creator><![CDATA[Iain Macwhirter]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 18:00:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump is making life increasingly hard for his allies]]></title>
             <description><![CDATA[By James Heale]]></description>

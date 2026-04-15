@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 15:00:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 16:54:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 15:00:43 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 16:54:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Does Mark Carney believe in democracy?]]></title>
+            <description><![CDATA[By Jane Stannus]]></description>
+            <link>https://spectator.com/article/mark-carney-believe-democracy-canada/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/mark-carney-believe-democracy-canada/?edition=us</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 16:54:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[If Trump hates the Wall Street Journal, why is its editorial board dictating Iran policy?]]></title>
             <description><![CDATA[By Tom Switzer]]></description>

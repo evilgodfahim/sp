@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 15:00:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 16:54:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 15:00:47 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 16:54:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump is making life increasingly hard for his allies]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/trump-is-making-life-increasingly-hard-for-his-allies/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-is-making-life-increasingly-hard-for-his-allies/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 16:54:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oh the joy of watching Keir Starmer descend into fury!]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/oh-the-joy-of-watching-keir-starmer-descend-into-fury/</link>
+            <guid isPermaLink="true">https://spectator.com/article/oh-the-joy-of-watching-keir-starmer-descend-into-fury/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 16:54:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The hateful posts of yet another Green party candidate]]></title>
             <description><![CDATA[Exclusive]]></description>
@@ -18,7 +34,7 @@
         </item>
         <item>
             <title><![CDATA[Rachel Reeves may regret goading President Trump]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
+            <description><![CDATA[Playing with fire]]></description>
             <link>https://spectator.com/article/rachel-reeves-may-regret-goading-president-trump/</link>
             <guid isPermaLink="true">https://spectator.com/article/rachel-reeves-may-regret-goading-president-trump/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
@@ -42,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Our gay asylum policy makes no sense]]></title>
-            <description><![CDATA[Open to abuse]]></description>
+            <description><![CDATA[By David Shipley]]></description>
             <link>https://spectator.com/article/our-gay-asylum-policy-makes-no-sense/</link>
             <guid isPermaLink="true">https://spectator.com/article/our-gay-asylum-policy-makes-no-sense/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>

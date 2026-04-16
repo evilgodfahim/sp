@@ -4,13 +4,69 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 04:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 06:30:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 04:46:27 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Trump has underestimated the Pope]]></title>
+            <description><![CDATA[Holy war]]></description>
+            <link>https://spectator.com/article/trump-has-underestimated-the-pope/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-has-underestimated-the-pope/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In defence of museum charges]]></title>
+            <description><![CDATA[Museums]]></description>
+            <link>https://spectator.com/article/in-defence-of-museum-charges/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-museum-charges/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Digby Warde-Aldam]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My shameful confession: I’m not a good baker]]></title>
+            <description><![CDATA[Notebook]]></description>
+            <link>https://spectator.com/article/my-shameful-confession-im-not-a-good-baker/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-shameful-confession-im-not-a-good-baker/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Prue Leith]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A deadly imitation game: the fate of the British teenager who posed as a Russian oligarch’s son]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/a-deadly-imitation-game-the-fate-of-the-british-teenager-who-posed-as-a-russian-oligarchs-son/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-deadly-imitation-game-the-fate-of-the-british-teenager-who-posed-as-a-russian-oligarchs-son/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Philip Hensher]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whistleblower: China is still persecuting Uyghurs]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/whistleblower-china-is-still-persecuting-uyghurs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/whistleblower-china-is-still-persecuting-uyghurs/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we can learn from the Southport killer]]></title>
+            <description><![CDATA[Mental health]]></description>
+            <link>https://spectator.com/article/what-we-can-learn-from-the-southport-killer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-we-can-learn-from-the-southport-killer/</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain’s ‘drone gap’ makes us vulnerable]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/britains-drone-gap-makes-us-vulnerable/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britains-drone-gap-makes-us-vulnerable/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump’s goals in Iran have always been clear]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
+            <description><![CDATA[US politics]]></description>
             <link>https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/</link>
             <guid isPermaLink="true">https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -89,8 +145,8 @@
             <pubDate>Wed, 15 Apr 2026 23:35:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flat out: the property squeeze crushing the young]]></title>
-            <description><![CDATA[Last month, a new account called London Price Drop appeared on X. It has already gained more than 14,000 followers simply by posting screenshots from Rightmove, which illustrate how properties in the capital are falling sharply in value. One of these is a leasehold flat in Shepherd’s Bush purchased for £425,000 in 2017, before being]]></description>
+            <title><![CDATA[Flat out]]></title>
+            <description><![CDATA[By John Power]]></description>
             <link>https://spectator.com/article/flat-out-the-property-squeeze-crushing-the-young/</link>
             <guid isPermaLink="true">https://spectator.com/article/flat-out-the-property-squeeze-crushing-the-young/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
@@ -170,7 +226,7 @@
         </item>
         <item>
             <title><![CDATA[The hateful posts of yet another Green party candidate]]></title>
-            <description><![CDATA[Exclusive]]></description>
+            <description><![CDATA[By Andrew Gilligan]]></description>
             <link>https://spectator.com/article/the-hateful-posts-of-yet-another-green-party-candidate/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-hateful-posts-of-yet-another-green-party-candidate/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -178,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[Rachel Reeves may regret goading President Trump]]></title>
-            <description><![CDATA[Playing with fire]]></description>
+            <description><![CDATA[By Matthew Lynn]]></description>
             <link>https://spectator.com/article/rachel-reeves-may-regret-goading-president-trump/</link>
             <guid isPermaLink="true">https://spectator.com/article/rachel-reeves-may-regret-goading-president-trump/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
@@ -266,7 +322,7 @@
         </item>
         <item>
             <title><![CDATA[My time as an overdrawn Coutts customer]]></title>
-            <description><![CDATA[In the red]]></description>
+            <description><![CDATA[By Julia Hamilton]]></description>
             <link>https://spectator.com/article/my-time-as-a-penniless-coutts-customer/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-time-as-a-penniless-coutts-customer/</guid>
             <dc:creator><![CDATA[Julia Hamilton]]></dc:creator>
@@ -274,7 +330,7 @@
         </item>
         <item>
             <title><![CDATA[Meet the humans training robots at the ‘arm farm’]]></title>
-            <description><![CDATA[Brain drain]]></description>
+            <description><![CDATA[By Gary Dexter]]></description>
             <link>https://spectator.com/article/meet-the-humans-training-robots-at-the-arm-farm/</link>
             <guid isPermaLink="true">https://spectator.com/article/meet-the-humans-training-robots-at-the-arm-farm/</guid>
             <dc:creator><![CDATA[Gary Dexter]]></dc:creator>
@@ -282,7 +338,7 @@
         </item>
         <item>
             <title><![CDATA[The soft power of Ukrainian food]]></title>
-            <description><![CDATA[War effort]]></description>
+            <description><![CDATA[By Zoe Strimpel]]></description>
             <link>https://spectator.com/article/the-soft-power-of-ukrainian-food/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-soft-power-of-ukrainian-food/</guid>
             <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>

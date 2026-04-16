@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 21:36:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 22:32:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 21:36:40 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 22:32:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Three claims Starmer must explain on Mandelson]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/three-claims-starmer-must-explain-on-mandelson/</link>
+            <guid isPermaLink="true">https://spectator.com/article/three-claims-starmer-must-explain-on-mandelson/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 22:32:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did Starmer mislead MPs over Mandelson?]]></title>
             <description><![CDATA[By James Heale]]></description>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 10:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 11:54:24 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 10:09:05 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 11:54:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Trump’s attacks on the Pope are backfiring]]></title>
+            <description><![CDATA[By Lois McLatchie Miller]]></description>
+            <link>https://spectator.com/article/why-trumps-attacks-on-the-pope-are-backfiring/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-trumps-attacks-on-the-pope-are-backfiring/</guid>
+            <dc:creator><![CDATA[Lois McLatchie Miller]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 11:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has the For Women Scotland judgement made any difference?]]></title>
+            <description><![CDATA[By Stephen Daisley]]></description>
+            <link>https://spectator.com/article/has-the-for-women-scotland-judgement-made-any-difference/</link>
+            <guid isPermaLink="true">https://spectator.com/article/has-the-for-women-scotland-judgement-made-any-difference/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 11:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Meghan says she was ‘the most trolled person in the entire world’]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-meghan-says-she-was-the-most-trolled-person-in-the-entire-world/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-meghan-says-she-was-the-most-trolled-person-in-the-entire-world/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 11:54:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tomorrow belongs to the vegetarians]]></title>
             <description><![CDATA[By Matthew Parris]]></description>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 13:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 15:19:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 13:10:44 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 15:19:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What’s really behind Trump’s clash with the Pope?]]></title>
+            <description><![CDATA[By Damian Thompson]]></description>
+            <link>https://spectator.com/article/really-behind-trump-clash-with-pope/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/really-behind-trump-clash-with-pope/?edition=us</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 15:19:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘People are at breaking point’: on the road with the Irish fuel protesters]]></title>
             <description><![CDATA[By Melissa Kite]]></description>

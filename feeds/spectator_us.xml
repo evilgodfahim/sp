@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 20:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 21:36:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 20:40:20 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 21:36:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Malbec: a conundrum worth solving]]></title>
+            <description><![CDATA[In vino veritas]]></description>
+            <link>https://spectator.com/article/malbec-conundrum-worth-solving/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/malbec-conundrum-worth-solving/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 21:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s goals in Iran have always been clear]]></title>
+            <description><![CDATA[War]]></description>
+            <link>https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 21:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who’s actually winning the wars in the Middle East?]]></title>
+            <description><![CDATA[By Charles Lipson]]></description>
+            <link>https://spectator.com/article/actually-winning-wars-middle-east-israel-iran-lebanon/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/actually-winning-wars-middle-east-israel-iran-lebanon/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 21:36:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Meghan says she was ‘the most trolled person in the entire world’]]></title>
             <description><![CDATA[By Cockburn]]></description>

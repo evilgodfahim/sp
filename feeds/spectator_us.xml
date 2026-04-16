@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 08:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 10:08:59 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 08:23:43 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Another nude Biden pic scandal?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/another-nude-biden-pic-scandal/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/another-nude-biden-pic-scandal/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charles Baxter’s Blood Test is a necessary novel]]></title>
+            <description><![CDATA[By Sam Forster]]></description>
+            <link>https://spectator.com/article/charles-baxters-blood-test-is-a-necessary-novel/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/charles-baxters-blood-test-is-a-necessary-novel/?edition=us</guid>
+            <dc:creator><![CDATA[Sam Forster]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s goals in Iran have always been clear]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/?edition=us</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What’s really behind Trump’s clash with the Pope?]]></title>
+            <description><![CDATA[By Damian Thompson]]></description>
+            <link>https://spectator.com/article/whats-really-behind-trumps-clash-with-the-pope/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/whats-really-behind-trumps-clash-with-the-pope/?edition=us</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[George ‘R&R’ Martin takes it easy]]></title>
             <description><![CDATA[By Alexander Larman]]></description>

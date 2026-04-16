@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 06:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 08:23:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 08:23:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tomorrow belongs to the vegetarians]]></title>
+            <description><![CDATA[By Matthew Parris]]></description>
+            <link>https://spectator.com/article/tomorrow-belongs-to-the-vegetarians/</link>
+            <guid isPermaLink="true">https://spectator.com/article/tomorrow-belongs-to-the-vegetarians/</guid>
+            <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 08:23:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What happened to Britain’s fighting spirit?]]></title>
+            <description><![CDATA[By Mary Wakefield]]></description>
+            <link>https://spectator.com/article/what-happened-to-britains-fighting-spirit/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-happened-to-britains-fighting-spirit/</guid>
+            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 08:23:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain’s economy is growing – but not for long]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/britains-economy-is-growing-but-not-for-long/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britains-economy-is-growing-but-not-for-long/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 08:23:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump has underestimated the Pope]]></title>
             <description><![CDATA[Holy war]]></description>
@@ -41,7 +65,7 @@
             <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whistleblower: China is still persecuting Uyghurs]]></title>
+            <title><![CDATA[Labour is turning a blind eye to China’s persecution of Uyghurs]]></title>
             <description><![CDATA[By Steerpike]]></description>
             <link>https://spectator.com/article/whistleblower-china-is-still-persecuting-uyghurs/</link>
             <guid isPermaLink="true">https://spectator.com/article/whistleblower-china-is-still-persecuting-uyghurs/</guid>

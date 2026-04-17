@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 20:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 21:34:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 20:36:46 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 21:34:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The fate of the British teenager who posed as a Russian oligarch’s son]]></title>
+            <description><![CDATA[By Philip Hensher]]></description>
+            <link>https://spectator.com/article/a-deadly-imitation-game-the-fate-of-the-british-teenager-who-posed-as-a-russian-oligarchs-son/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-deadly-imitation-game-the-fate-of-the-british-teenager-who-posed-as-a-russian-oligarchs-son/?edition=us</guid>
+            <dc:creator><![CDATA[Philip Hensher]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 21:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A journey to the dark side of the Moon]]></title>
+            <description><![CDATA[By David Whitehouse]]></description>
+            <link>https://spectator.com/article/a-journey-to-the-dark-side-of-the-moon/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-journey-to-the-dark-side-of-the-moon/?edition=us</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 21:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Pitt doesn’t make HBO Max worth a subscription]]></title>
+            <description><![CDATA[By James Delingpole]]></description>
+            <link>https://spectator.com/article/hbo-max-isnt-worth-subscribing-to/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/hbo-max-isnt-worth-subscribing-to/?edition=us</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 21:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is a ‘link-up’ a modern ‘flash mob?’]]></title>
+            <description><![CDATA[By Dot Wordsworth]]></description>
+            <link>https://spectator.com/article/is-a-link-up-a-modern-flash-mob/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-a-link-up-a-modern-flash-mob/?edition=us</guid>
+            <dc:creator><![CDATA[Dot Wordsworth]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 21:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The art of Schiaparelli]]></title>
+            <description><![CDATA[By Margaret Mitchell]]></description>
+            <link>https://spectator.com/article/the-art-of-schiaparelli/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-art-of-schiaparelli/?edition=us</guid>
+            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 21:34:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The only ‘civilization’ Trump will destroy is his own]]></title>
             <description><![CDATA[By Charles Moore]]></description>
@@ -1122,7 +1162,7 @@
         </item>
         <item>
             <title><![CDATA[Meeting Karl Ove Knausgård]]></title>
-            <description><![CDATA[On a winter’s morning, outside the Three Lives bookstore in New York’s West Village, Karl Ove Knausgård has just finished signing copies of his latest novel, The School of Night. His features are familiar from the dustjackets – the gray-blue eyes, the grizzled beard – but he is surprisingly tall and his signature silver mane]]></description>
+            <description><![CDATA[By Orson Fry]]></description>
             <link>https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us</guid>
             <dc:creator><![CDATA[Orson Fry]]></dc:creator>

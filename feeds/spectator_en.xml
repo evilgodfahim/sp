@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 10:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 11:43:53 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 10:07:24 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 11:43:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[London has fallen]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/london-has-fallen/</link>
+            <guid isPermaLink="true">https://spectator.com/article/london-has-fallen/</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 11:43:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is this Green candidate sharing an anti-semitic post?]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/why-is-this-green-candidate-sharing-an-anti-semitic-post/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-this-green-candidate-sharing-an-anti-semitic-post/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 11:43:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump’s foe-bashing won’t save his capsizing presidency]]></title>
             <description><![CDATA[By Jacob Heilbrunn]]></description>

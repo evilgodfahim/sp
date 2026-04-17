@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 14:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 15:52:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 14:21:34 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 15:52:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Starmer and Macron’s desperate bid for global relevance]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/starmer-and-macrons-desperate-bid-for-global-relevance/</link>
+            <guid isPermaLink="true">https://spectator.com/article/starmer-and-macrons-desperate-bid-for-global-relevance/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 15:52:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The questions Starmer’s ethics adviser must answer]]></title>
             <description><![CDATA[By Rupert Redwald]]></description>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 19:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 20:36:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 19:53:14 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 20:36:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The only ‘civilization’ Trump will destroy is his own]]></title>
+            <description><![CDATA[By Charles Moore]]></description>
+            <link>https://spectator.com/article/the-only-civilisation-trump-will-destroy-is-his-own/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-only-civilisation-trump-will-destroy-is-his-own/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 20:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain’s ‘drone gap’ makes it vulnerable]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/britains-drone-gap-makes-us-vulnerable/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/britains-drone-gap-makes-us-vulnerable/?edition=us</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 20:36:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Call Her Evie]]></title>
             <description><![CDATA[By Cockburn]]></description>

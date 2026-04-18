@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 01:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 04:26:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 01:27:25 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 04:26:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The curious life of an antique dealer]]></title>
+            <description><![CDATA[15 years ago, I made the transition from auction house ‘expert’ to antiques dealer. And it came as a rude shock. Nothing like a healthy dose of comeuppance; deference vanished overnight.   Auction houses are open to the public for consultation, even the grander ones in London’s West End; or that is how it was in the early 2000s. Back]]></description>
+            <link>https://spectator.com/article/antiques-dealers-deserve-your-respect/</link>
+            <guid isPermaLink="true">https://spectator.com/article/antiques-dealers-deserve-your-respect/</guid>
+            <dc:creator><![CDATA[Luke Honey]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 04:26:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The latest twist of the Mandelson scandal has badly damaged Starmer]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -74,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Four bets for Ayr this weekend]]></title>
-            <description><![CDATA[The respective favourites have won this year’s Boyle Sports Irish Grand National at Fairyhouse and the Randox Grand National at Aintree, and that trend could well continue at Ayr tomorrow in the Coral Scottish Grand National (3.35 p.m.) The forecast favourite tomorrow is the Irish-trained raider Kim Roque, who comes here off the back of]]></description>
+            <description><![CDATA[By Penworthy]]></description>
             <link>https://spectator.com/article/four-bets-for-ayr-this-weekend/</link>
             <guid isPermaLink="true">https://spectator.com/article/four-bets-for-ayr-this-weekend/</guid>
             <dc:creator><![CDATA[Penworthy]]></dc:creator>

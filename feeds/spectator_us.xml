@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 08:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 09:40:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 08:39:37 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 09:40:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The art of Schiaparelli]]></title>
+            <description><![CDATA[Art]]></description>
+            <link>https://spectator.com/article/the-art-of-schiaparelli/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-art-of-schiaparelli/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 09:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The only ‘civilization’ Trump will destroy is his own]]></title>
+            <description><![CDATA[The Spectator’s notes]]></description>
+            <link>https://spectator.com/article/the-only-civilisation-trump-will-destroy-is-his-own/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-only-civilisation-trump-will-destroy-is-his-own/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 09:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is a ‘link-up’ a modern ‘flash mob?’]]></title>
+            <description><![CDATA[Mind your language]]></description>
+            <link>https://spectator.com/article/is-a-link-up-a-modern-flash-mob/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-a-link-up-a-modern-flash-mob/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Dot Wordsworth]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 09:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia’s nationalists are falling out of love with Putin]]></title>
+            <description><![CDATA[By Mark Galeotti]]></description>
+            <link>https://spectator.com/article/russias-nationalists-are-falling-out-of-love-with-putin/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/russias-nationalists-are-falling-out-of-love-with-putin/?edition=us</guid>
+            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 09:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Pitt doesn’t make HBO Max worth a subscription]]></title>
+            <description><![CDATA[By James Delingpole]]></description>
+            <link>https://spectator.com/article/hbo-max-isnt-worth-subscribing-to/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/hbo-max-isnt-worth-subscribing-to/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 09:40:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will the new ‘communist’ leader of South Korea abandon the US for China?]]></title>
             <description><![CDATA[By Oliver Jia]]></description>
@@ -42,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[The Pitt doesn’t make HBO Max worth a subscription]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
+            <description><![CDATA[HBO Max is the latest streaming channel trying to lure you into yet another of those subscription contracts you only remember having signed up for about three years later when you’re trying to work out why you are so skint. Its showpiece series is The Pitt which attracts ten million viewers per episode and has]]></description>
             <link>https://spectator.com/article/hbo-max-isnt-worth-subscribing-to/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/hbo-max-isnt-worth-subscribing-to/?edition=us</guid>
             <dc:creator><![CDATA[James Delingpole]]></dc:creator>

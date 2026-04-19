@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 01:52:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 04:45:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 01:52:07 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 04:45:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why British toilets are revolting]]></title>
+            <description><![CDATA[First things first, as this is an article about toilets, we need to establish if the word ‘toilet’ is an acceptable word. Here at The Spectator, editorial opinion on this crucial point is deeply divided. Some have expressed a preference for ‘bog’. Others opt for ‘john’, ‘jakes’, or lavatory.  We also got votes for ‘dunny’, restroom, WC, outhouse, ‘chugger’,]]></description>
+            <link>https://spectator.com/article/loo-or-toilet-and-why-western-ones-are-revolting/</link>
+            <guid isPermaLink="true">https://spectator.com/article/loo-or-toilet-and-why-western-ones-are-revolting/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 04:45:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What happened to Provence?]]></title>
+            <description><![CDATA[By Matthew Fraser]]></description>
+            <link>https://spectator.com/article/what-happened-to-provence/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-happened-to-provence/</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 04:45:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oxford needs to fight back against the university]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/oxford-needs-to-fight-back-against-the-university/</link>
+            <guid isPermaLink="true">https://spectator.com/article/oxford-needs-to-fight-back-against-the-university/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 04:45:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mandelson ally: Robbins sacking was ‘egregious’]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -90,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[The curious life of an antique dealer]]></title>
-            <description><![CDATA[Over ten years ago years ago, I made the transition from auction house ‘expert’ to antiques dealer. And it came as a rude shock. Nothing like a healthy dose of comeuppance; deference vanished overnight.   Auction houses are open to the public for consultation, even the grander ones in London’s West End; or that is how it was in the]]></description>
+            <description><![CDATA[By Luke Honey]]></description>
             <link>https://spectator.com/article/antiques-dealers-deserve-your-respect/</link>
             <guid isPermaLink="true">https://spectator.com/article/antiques-dealers-deserve-your-respect/</guid>
             <dc:creator><![CDATA[Luke Honey]]></dc:creator>

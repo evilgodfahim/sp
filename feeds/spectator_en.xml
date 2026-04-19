@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 06:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 08:02:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 06:25:30 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 08:02:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mandelson ally: Robbins sacking was ‘egregious’]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/mandelson-ally-robbins-sacking-was-egregious/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/mandelson-ally-robbins-sacking-was-egregious/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 08:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deporting Axel Rudakubana’s parents won’t do any good]]></title>
+            <description><![CDATA[Southport]]></description>
+            <link>https://spectator.com/article/what-would-you-do-with-a-son-like-axel-rudakubana/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-would-you-do-with-a-son-like-axel-rudakubana/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Tom Goodenough]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 08:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why British toilets are revolting]]></title>
+            <description><![CDATA[Wipe out]]></description>
+            <link>https://spectator.com/article/loo-or-toilet-and-why-western-ones-are-revolting/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/loo-or-toilet-and-why-western-ones-are-revolting/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 08:02:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump’s armchair geography is costing him in Iran]]></title>
             <description><![CDATA[By Klaus Dodds]]></description>
@@ -25,7 +49,7 @@
             <pubDate>Sun, 19 Apr 2026 06:25:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The curious tale of the quiet Englishman who helped make Immanuel Kant]]></title>
+            <title><![CDATA[The tale of the quiet Englishman who helped make Immanuel Kant]]></title>
             <description><![CDATA[By Patrick West]]></description>
             <link>https://spectator.com/article/immanuel-kant-was-no-cold-fish/</link>
             <guid isPermaLink="true">https://spectator.com/article/immanuel-kant-was-no-cold-fish/</guid>
@@ -97,7 +121,7 @@
             <pubDate>Sat, 18 Apr 2026 06:08:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Greens are mad, bad and dangerous]]></title>
+            <title><![CDATA[The Green Party is mad, bad and dangerous]]></title>
             <description><![CDATA[By Patrick West]]></description>
             <link>https://spectator.com/article/the-green-party-is-mad-bad-and-dangerous/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-green-party-is-mad-bad-and-dangerous/</guid>

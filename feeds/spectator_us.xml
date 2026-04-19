@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 19:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 20:27:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 19:36:07 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 20:27:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gentleman’s Relish is no more]]></title>
+            <description><![CDATA[By Olivia Potts]]></description>
+            <link>https://spectator.com/article/gentlemans-relish-is-no-more/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/gentlemans-relish-is-no-more/?edition=us</guid>
+            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 20:27:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t blame Kanye for his abject idiocy]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/?edition=us</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 20:27:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will Pope Leo stand up to Islam?]]></title>
             <description><![CDATA[By Joseph D'Hippolito]]></description>
@@ -106,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[The Pitt doesn’t make HBO Max worth a subscription]]></title>
-            <description><![CDATA[HBO Max is the latest streaming channel trying to lure you into yet another of those subscription contracts you only remember having signed up for about three years later when you’re trying to work out why you are so skint. Its showpiece series is The Pitt which attracts ten million viewers per episode and has]]></description>
+            <description><![CDATA[By James Delingpole]]></description>
             <link>https://spectator.com/article/hbo-max-isnt-worth-subscribing-to/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/hbo-max-isnt-worth-subscribing-to/?edition=us</guid>
             <dc:creator><![CDATA[James Delingpole]]></dc:creator>

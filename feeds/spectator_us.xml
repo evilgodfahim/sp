@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 04:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 06:25:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 04:45:34 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 06:25:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will Pope Leo stand up to Islam?]]></title>
+            <description><![CDATA[By Joseph D'Hippolito]]></description>
+            <link>https://spectator.com/article/will-pope-leo-stand-up-to-islam/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-pope-leo-stand-up-to-islam/?edition=us</guid>
+            <dc:creator><![CDATA[Joseph D'Hippolito]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 06:25:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can I read Trump’s mind?]]></title>
             <description><![CDATA[By Oz Pearlman]]></description>

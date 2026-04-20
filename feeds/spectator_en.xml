@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 15:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 16:56:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 15:11:12 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 16:56:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Watch: Lee Anderson kicked out of the Commons for calling Starmer a liar]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-lee-anderson-kicked-out-of-the-commons-for-calling-starmer-a-liar/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-lee-anderson-kicked-out-of-the-commons-for-calling-starmer-a-liar/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 16:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal fans are getting what they deserve]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/arsenal-fans-are-getting-what-they-deserve/</link>
+            <guid isPermaLink="true">https://spectator.com/article/arsenal-fans-are-getting-what-they-deserve/</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 16:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The National Lottery verdict shows Labour isn’t serious about growth]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/the-national-lottery-verdict-shows-labour-isnt-serious-about-growth/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-national-lottery-verdict-shows-labour-isnt-serious-about-growth/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 16:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch shines as Starmer squirms on Mandelson]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/badenoch-shines-as-starmer-squirms-on-mandelson/</link>
+            <guid isPermaLink="true">https://spectator.com/article/badenoch-shines-as-starmer-squirms-on-mandelson/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 16:56:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Hitler came to define Western morality]]></title>
             <description><![CDATA[Human rights]]></description>
@@ -3974,38 +4006,6 @@
             <link>https://spectator.com/article/why-israel-is-carving-out-a-buffer-zone-in-lebanon/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-israel-is-carving-out-a-buffer-zone-in-lebanon/</guid>
             <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s too easy to blame Big Tech for parental neglect]]></title>
-            <description><![CDATA[By Rosie Lewis]]></description>
-            <link>https://spectator.com/article/its-easy-to-blame-big-tech-for-the-results-of-parental-neglect/</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-easy-to-blame-big-tech-for-the-results-of-parental-neglect/</guid>
-            <dc:creator><![CDATA[Rosie Lewis]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s nothing merciful about Noelia Castillo’s death]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/theres-nothing-merciful-about-noelia-castillos-death/</link>
-            <guid isPermaLink="true">https://spectator.com/article/theres-nothing-merciful-about-noelia-castillos-death/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reeves’s energy bailout risks solidifying Britain’s welfare trap]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/reevess-energy-bailout-risks-solidifying-britains-welfare-trap/</link>
-            <guid isPermaLink="true">https://spectator.com/article/reevess-energy-bailout-risks-solidifying-britains-welfare-trap/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has shattered America’s ‘illusion of omnipotence’ in Iran]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trump-has-shattered-americas-illusion-of-omnipotence-in-iran/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-has-shattered-americas-illusion-of-omnipotence-in-iran/</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
         </item>
     </channel>

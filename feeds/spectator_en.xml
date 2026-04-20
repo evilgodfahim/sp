@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 01:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 04:52:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 01:53:50 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 04:52:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The luxury of the modern playground]]></title>
+            <description><![CDATA[By Jimmy Nicholls]]></description>
+            <link>https://spectator.com/article/the-luxury-of-the-modern-playground/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-luxury-of-the-modern-playground/</guid>
+            <dc:creator><![CDATA[Jimmy Nicholls]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 04:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What has become of our table manners?]]></title>
+            <description><![CDATA[When I was a child, I always wanted to watch television during supper, but my dad wasn’t keen. He preferred family conversation and as we chatted over a meal he would try to gently steer us towards more pleasant subjects rather than the vulgar or provocative topics I tended to propose. ‘A meal is a sacred thing,’ he’d tell me.  I spent my secondary education at a bizarre school run by a quasi-Vedic cult, where table manners were also important. Before lunch, we]]></description>
+            <link>https://spectator.com/article/what-has-become-of-our-table-manners/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-has-become-of-our-table-manners/</guid>
+            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 04:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How technology changed birdsong]]></title>
+            <description><![CDATA[By Rosie Millard]]></description>
+            <link>https://spectator.com/article/how-technology-changed-birdsong/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-technology-changed-birdsong/</guid>
+            <dc:creator><![CDATA[Rosie Millard]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 04:52:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The changing economics of war]]></title>
             <description><![CDATA[By James Lawson]]></description>
@@ -66,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Why British toilets are revolting]]></title>
-            <description><![CDATA[First things first, as this is an article about toilets, we need to establish if the word ‘toilet’ is an acceptable word. Here at The Spectator, editorial opinion on this crucial point is deeply divided. Some have expressed a preference for ‘bog’. Others opt for ‘john’, ‘jakes’, or lavatory.  We also got votes for ‘dunny’, restroom, WC, outhouse, ‘chugger’,]]></description>
+            <description><![CDATA[By Sean Thomas]]></description>
             <link>https://spectator.com/article/loo-or-toilet-and-why-western-ones-are-revolting/</link>
             <guid isPermaLink="true">https://spectator.com/article/loo-or-toilet-and-why-western-ones-are-revolting/</guid>
             <dc:creator><![CDATA[Sean Thomas]]></dc:creator>

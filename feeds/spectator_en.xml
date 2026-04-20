@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 13:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 15:11:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 13:09:06 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 15:11:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Hitler came to define Western morality]]></title>
+            <description><![CDATA[Human rights]]></description>
+            <link>https://spectator.com/article/how-hitler-came-to-define-western-morality/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-hitler-came-to-define-western-morality/</guid>
+            <dc:creator><![CDATA[Ed West]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 15:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Petrol shortages aren’t coming for Britain]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/reality-check-petrol-shortages-arent-coming-for-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reality-check-petrol-shortages-arent-coming-for-britain/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 15:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Starmer must stay]]></title>
+            <description><![CDATA[By William Atkinson]]></description>
+            <link>https://spectator.com/article/why-starmer-must-stay/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-starmer-must-stay/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 15:11:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gen Z’s faith in democracy is fraying]]></title>
             <description><![CDATA[By Elisabeth Loose and Eddie Barnes]]></description>
@@ -18,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Why George Robertson has turned on Starmer]]></title>
-            <description><![CDATA[By John Foreman]]></description>
+            <description><![CDATA[War of words]]></description>
             <link>https://spectator.com/article/why-george-robertson-has-turned-on-starmer/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-george-robertson-has-turned-on-starmer/</guid>
             <dc:creator><![CDATA[John Foreman]]></dc:creator>
@@ -170,7 +194,7 @@
         </item>
         <item>
             <title><![CDATA[Trump’s armchair geography is costing him in Iran]]></title>
-            <description><![CDATA[War]]></description>
+            <description><![CDATA[By Klaus Dodds]]></description>
             <link>https://spectator.com/article/trumps-armchair-geography-is-costing-him-in-iran/</link>
             <guid isPermaLink="true">https://spectator.com/article/trumps-armchair-geography-is-costing-him-in-iran/</guid>
             <dc:creator><![CDATA[Klaus Dodds]]></dc:creator>
@@ -3982,30 +4006,6 @@
             <link>https://spectator.com/article/trump-has-shattered-americas-illusion-of-omnipotence-in-iran/</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-has-shattered-americas-illusion-of-omnipotence-in-iran/</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why don’t we wear proper shoes any more?]]></title>
-            <description><![CDATA[By Esther Walker]]></description>
-            <link>https://spectator.com/article/where-have-all-the-good-shoes-gone/</link>
-            <guid isPermaLink="true">https://spectator.com/article/where-have-all-the-good-shoes-gone/</guid>
-            <dc:creator><![CDATA[Esther Walker]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why rabbit makes the best Easter lunch (yes, really)]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
-            <link>https://spectator.com/article/why-rabbit-makes-the-best-easter-lunch-yes-really/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-rabbit-makes-the-best-easter-lunch-yes-really/</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Never pass up a chance to ski]]></title>
-            <description><![CDATA[Best life]]></description>
-            <link>https://spectator.com/article/never-pass-up-a-chance-to-ski/</link>
-            <guid isPermaLink="true">https://spectator.com/article/never-pass-up-a-chance-to-ski/</guid>
-            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
         </item>
     </channel>

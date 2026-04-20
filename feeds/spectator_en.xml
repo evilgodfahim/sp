@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 11:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 13:09:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 11:14:15 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 13:09:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gen Z’s faith in democracy is fraying]]></title>
+            <description><![CDATA[By Elisabeth Loose and Eddie Barnes]]></description>
+            <link>https://spectator.com/article/gen-zs-faith-in-democracy-is-fraying/</link>
+            <guid isPermaLink="true">https://spectator.com/article/gen-zs-faith-in-democracy-is-fraying/</guid>
+            <dc:creator><![CDATA[Elisabeth Loose and Eddie Barnes]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 13:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why George Robertson has turned on Starmer]]></title>
+            <description><![CDATA[By John Foreman]]></description>
+            <link>https://spectator.com/article/why-george-robertson-has-turned-on-starmer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-george-robertson-has-turned-on-starmer/</guid>
+            <dc:creator><![CDATA[John Foreman]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 13:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why doesn’t the Royal Academy of Music like private school kids?]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/why-doesnt-the-royal-academy-of-music-like-private-school-kids/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-doesnt-the-royal-academy-of-music-like-private-school-kids/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 13:09:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Driverless cars will kill the London taxi]]></title>
             <description><![CDATA[Travel]]></description>
@@ -3982,30 +4006,6 @@
             <link>https://spectator.com/article/never-pass-up-a-chance-to-ski/</link>
             <guid isPermaLink="true">https://spectator.com/article/never-pass-up-a-chance-to-ski/</guid>
             <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denmark’s velvet trap has been exposed]]></title>
-            <description><![CDATA[Election fever]]></description>
-            <link>https://spectator.com/article/denmarks-velvet-trap-has-been-exposed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/denmarks-velvet-trap-has-been-exposed/</guid>
-            <dc:creator><![CDATA[Mark Brolin]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘LinkedIn speak’ is a disgrace]]></title>
-            <description><![CDATA[By Barney Campbell]]></description>
-            <link>https://spectator.com/article/linkedin-speak-is-a-disgrace/</link>
-            <guid isPermaLink="true">https://spectator.com/article/linkedin-speak-is-a-disgrace/</guid>
-            <dc:creator><![CDATA[Barney Campbell]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The clandestine side of Roger Scruton]]></title>
-            <description><![CDATA[By James Bartholomew]]></description>
-            <link>https://spectator.com/article/the-clandestine-side-of-roger-scruton/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-clandestine-side-of-roger-scruton/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[James Bartholomew]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
         </item>
     </channel>

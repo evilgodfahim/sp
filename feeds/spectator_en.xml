@@ -4,13 +4,21 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 11:55:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 13:04:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 11:55:48 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 13:04:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Watch: Robbins drops Doyle bombshell]]></title>
-            <description><![CDATA[By Steerpike]]></description>
+            <title><![CDATA[Why Trump hasn’t stuck the knife into Starmer]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/why-trump-hasnt-stuck-the-knife-into-starmer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-trump-hasnt-stuck-the-knife-into-starmer/</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 13:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robbins drops Doyle bombshell]]></title>
+            <description><![CDATA[Watch]]></description>
             <link>https://spectator.com/article/watch-robbins-drops-doyle-bombshell/</link>
             <guid isPermaLink="true">https://spectator.com/article/watch-robbins-drops-doyle-bombshell/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -25,7 +33,7 @@
             <pubDate>Tue, 21 Apr 2026 11:55:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Olly Robbins painted Starmer as incompetent and unpleasant]]></title>
+            <title><![CDATA[An unflashy Olly Robbins mauls Keir Starmer]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
             <link>https://spectator.com/article/olly-robbins-made-starmer-sound-incompetent-deceitful-and-unpleasant/</link>
             <guid isPermaLink="true">https://spectator.com/article/olly-robbins-made-starmer-sound-incompetent-deceitful-and-unpleasant/</guid>
@@ -34,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Britain should not wait for tragedy to protect its Jews]]></title>
-            <description><![CDATA[Anti-Semitism]]></description>
+            <description><![CDATA[By Arsen Ostrovsky]]></description>
             <link>https://spectator.com/article/britain-should-not-wait-for-tragedy-to-protect-its-jews/</link>
             <guid isPermaLink="true">https://spectator.com/article/britain-should-not-wait-for-tragedy-to-protect-its-jews/</guid>
             <dc:creator><![CDATA[Arsen Ostrovsky]]></dc:creator>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/how-to-brainwash-the-british-public/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-to-brainwash-the-british-public/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 04:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farrow & Ball is finished]]></title>
-            <description><![CDATA[By Flora Watkins]]></description>
-            <link>https://spectator.com/article/farrow-ball-is-finished/</link>
-            <guid isPermaLink="true">https://spectator.com/article/farrow-ball-is-finished/</guid>
-            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 04:31:25 GMT</pubDate>
         </item>
     </channel>

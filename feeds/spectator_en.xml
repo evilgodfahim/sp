@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 01:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 04:43:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 01:49:33 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 04:43:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We can still save Prince Harry]]></title>
+            <description><![CDATA[‘It won’t last,’ my schoolfriend Albert told me, as we staggered down Embankment one summer evening in 2018, a few pints into his birthday pub crawl. I wasn’t sure as to what he was referring. The evening twilight? His youthful good looks? Our ability to walk in a straight line? He expanded: ‘Harry and Meghan.]]></description>
+            <link>https://spectator.com/article/we-can-still-save-prince-harry/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-can-still-save-prince-harry/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 04:43:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High street cafés have gone to pot]]></title>
+            <description><![CDATA[By Zak Asgard]]></description>
+            <link>https://spectator.com/article/prets-been-ground-down/</link>
+            <guid isPermaLink="true">https://spectator.com/article/prets-been-ground-down/</guid>
+            <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 04:43:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why gingers have more fun (genetically at least)]]></title>
+            <description><![CDATA[By Catriona Olding]]></description>
+            <link>https://spectator.com/article/why-gingers-have-more-fun-genetically-at-least/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-gingers-have-more-fun-genetically-at-least/</guid>
+            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 04:43:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Greek tragedy of Keir Starmer]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
@@ -3982,30 +4006,6 @@
             <link>https://spectator.com/article/is-it-time-for-me-to-renounce-the-devil/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-it-time-for-me-to-renounce-the-devil/</guid>
             <dc:creator><![CDATA[Bruce Anderson]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three 33-1 ante-post bets for the big spring meetings]]></title>
-            <description><![CDATA[By Penworthy]]></description>
-            <link>https://spectator.com/article/three-33-1-ante-post-bets-for-the-big-spring-meetings/</link>
-            <guid isPermaLink="true">https://spectator.com/article/three-33-1-ante-post-bets-for-the-big-spring-meetings/</guid>
-            <dc:creator><![CDATA[Penworthy]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Green party abandoned its environmental roots]]></title>
-            <description><![CDATA[In the summer of 1972, Lesley Whittaker walked into a pub in rural Warwickshire. She had something for her husband Tony. It was a copy of Playboy magazine. In that issue, there was an interview with the biologist Paul R. Ehrlich, who died this month aged 93. In it, he repeated the thesis of his]]></description>
-            <link>https://spectator.com/article/why-the-green-party-abandoned-its-environmental-roots/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-green-party-abandoned-its-environmental-roots/</guid>
-            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sadiq Khan would be wise to reject Keir Starmer’s peerage]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/sadiq-khan-would-be-wise-to-reject-keir-starmers-peerage/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sadiq-khan-would-be-wise-to-reject-keir-starmers-peerage/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
         </item>
     </channel>

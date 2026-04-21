@@ -4,13 +4,37 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 10:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 11:55:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 10:12:39 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 11:55:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Watch: Robbins drops Doyle bombshell]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-robbins-drops-doyle-bombshell/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-robbins-drops-doyle-bombshell/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 11:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London’s Jews are under attack]]></title>
+            <description><![CDATA[Anti-Semitism]]></description>
+            <link>https://spectator.com/article/londons-jews-are-under-attack/</link>
+            <guid isPermaLink="true">https://spectator.com/article/londons-jews-are-under-attack/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 11:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olly Robbins painted Starmer as incompetent and unpleasant]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/olly-robbins-made-starmer-sound-incompetent-deceitful-and-unpleasant/</link>
+            <guid isPermaLink="true">https://spectator.com/article/olly-robbins-made-starmer-sound-incompetent-deceitful-and-unpleasant/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 11:55:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Britain should not wait for tragedy to protect its Jews]]></title>
-            <description><![CDATA[By Arsen Ostrovsky]]></description>
+            <description><![CDATA[Anti-Semitism]]></description>
             <link>https://spectator.com/article/britain-should-not-wait-for-tragedy-to-protect-its-jews/</link>
             <guid isPermaLink="true">https://spectator.com/article/britain-should-not-wait-for-tragedy-to-protect-its-jews/</guid>
             <dc:creator><![CDATA[Arsen Ostrovsky]]></dc:creator>
@@ -25,7 +49,7 @@
             <pubDate>Tue, 21 Apr 2026 08:28:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The absurdity of this week’s tube strike]]></title>
+            <title><![CDATA[The absurdity of this week’s Tube strike]]></title>
             <description><![CDATA[By James Hanson]]></description>
             <link>https://spectator.com/article/the-absurdity-of-this-weeks-tube-strike/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-absurdity-of-this-weeks-tube-strike/</guid>
@@ -34,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Why politicians make us wince]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
+            <description><![CDATA[Mind your language!]]></description>
             <link>https://spectator.com/article/why-politicians-make-us-wince/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-politicians-make-us-wince/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -66,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Ofsted has lost interest in educating children]]></title>
-            <description><![CDATA[Schools]]></description>
+            <description><![CDATA[By Amanda Spielman]]></description>
             <link>https://spectator.com/article/ofsted-has-lost-interest-in-educating-children/</link>
             <guid isPermaLink="true">https://spectator.com/article/ofsted-has-lost-interest-in-educating-children/</guid>
             <dc:creator><![CDATA[Amanda Spielman]]></dc:creator>
@@ -122,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Starmer can’t blame the civil service for the Mandelson fiasco]]></title>
-            <description><![CDATA[Get Sir Humphrey]]></description>
+            <description><![CDATA[By Ameer Kotecha]]></description>
             <link>https://spectator.com/article/starmer-cant-blame-the-civil-service-for-the-mandelson-fiasco/</link>
             <guid isPermaLink="true">https://spectator.com/article/starmer-cant-blame-the-civil-service-for-the-mandelson-fiasco/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
@@ -154,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[The Greek tragedy of Keir Starmer]]></title>
-            <description><![CDATA[Mandelson scandal]]></description>
+            <description><![CDATA[By Madeline Grant]]></description>
             <link>https://spectator.com/article/the-greek-tragedy-of-keir-starmer/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-greek-tragedy-of-keir-starmer/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -3983,30 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/farrow-ball-is-finished/</guid>
             <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 04:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frugal chic, the movement changing the way women shop]]></title>
-            <description><![CDATA[By Margaret Mitchell]]></description>
-            <link>https://spectator.com/article/frugal-chic-the-movement-changing-the-way-women-shop/</link>
-            <guid isPermaLink="true">https://spectator.com/article/frugal-chic-the-movement-changing-the-way-women-shop/</guid>
-            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain’s defence spending is lower than we thought]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
-            <link>https://spectator.com/article/britains-defence-spending-is-lower-than-we-thought/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britains-defence-spending-is-lower-than-we-thought/</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Britain so ill-equipped to deal with economic shocks?]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/why-is-britain-so-ill-equipped-to-deal-with-economic-shocks/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-is-britain-so-ill-equipped-to-deal-with-economic-shocks/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,21 +4,45 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 13:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 15:05:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 13:04:18 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 15:05:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[War bonds won’t fix chronic underinvestment in defence]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/war-bonds-wont-fix-chronic-underinvestment-in-defence/</link>
+            <guid isPermaLink="true">https://spectator.com/article/war-bonds-wont-fix-chronic-underinvestment-in-defence/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 15:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s little surprise that an Israeli soldier was caught desecrating a crucifix]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/its-hardly-surprising-that-an-israeli-soldier-was-caught-desecrating-a-crucifix/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-hardly-surprising-that-an-israeli-soldier-was-caught-desecrating-a-crucifix/</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 15:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Iran war is giving Xi the upper hand with Trump]]></title>
+            <description><![CDATA[By Ian Williams]]></description>
+            <link>https://spectator.com/article/the-iran-war-is-giving-xi-the-upper-hand-with-trump/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-iran-war-is-giving-xi-the-upper-hand-with-trump/</guid>
+            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 15:05:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Trump hasn’t stuck the knife into Starmer]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
+            <description><![CDATA[Mandelson pick]]></description>
             <link>https://spectator.com/article/why-trump-hasnt-stuck-the-knife-into-starmer/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-trump-hasnt-stuck-the-knife-into-starmer/</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 13:04:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Robbins drops Doyle bombshell]]></title>
-            <description><![CDATA[Watch]]></description>
+            <title><![CDATA[Watch: Robbins drops Doyle bombshell]]></title>
+            <description><![CDATA[By Steerpike]]></description>
             <link>https://spectator.com/article/watch-robbins-drops-doyle-bombshell/</link>
             <guid isPermaLink="true">https://spectator.com/article/watch-robbins-drops-doyle-bombshell/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -3983,30 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/in-defence-of-dubai/</guid>
             <dc:creator><![CDATA[Ed Husain]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 06:07:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa is a breath of fresh air compared to Britain]]></title>
-            <description><![CDATA[By Stephen Robinson]]></description>
-            <link>https://spectator.com/article/south-africa-is-a-breath-of-fresh-air-compared-to-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/south-africa-is-a-breath-of-fresh-air-compared-to-britain/</guid>
-            <dc:creator><![CDATA[Stephen Robinson]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 06:07:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A social media ban for under-16s is long overdue]]></title>
-            <description><![CDATA[By Cristina Odone]]></description>
-            <link>https://spectator.com/article/a-social-media-ban-for-under-16s-is-long-overdue/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-social-media-ban-for-under-16s-is-long-overdue/</guid>
-            <dc:creator><![CDATA[Cristina Odone]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 06:07:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to brainwash the British public]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/how-to-brainwash-the-british-public/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-brainwash-the-british-public/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 04:31:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

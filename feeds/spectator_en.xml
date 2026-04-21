@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 08:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 10:12:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 08:28:46 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 10:12:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Britain should not wait for tragedy to protect its Jews]]></title>
+            <description><![CDATA[By Arsen Ostrovsky]]></description>
+            <link>https://spectator.com/article/britain-should-not-wait-for-tragedy-to-protect-its-jews/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-should-not-wait-for-tragedy-to-protect-its-jews/</guid>
+            <dc:creator><![CDATA[Arsen Ostrovsky]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 10:12:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An energy bill bailout would be a terrible idea]]></title>
             <description><![CDATA[By Ross Clark]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/why-is-britain-so-ill-equipped-to-deal-with-economic-shocks/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-is-britain-so-ill-equipped-to-deal-with-economic-shocks/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reform’s Malcolm Offord is a hopeless party leader]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/reforms-malcolm-offord-is-a-hopeless-party-leader/</link>
-            <guid isPermaLink="true">https://spectator.com/article/reforms-malcolm-offord-is-a-hopeless-party-leader/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 20:30:00 GMT</pubDate>
         </item>
     </channel>

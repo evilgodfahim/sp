@@ -4,21 +4,69 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 04:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 06:53:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2026 04:40:41 GMT</pubDate>
+        <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[In defence of museum charges]]></title>
+            <description><![CDATA[Museums]]></description>
+            <link>https://spectator.com/article/in-defence-of-museum-charges/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-museum-charges/</guid>
+            <dc:creator><![CDATA[Digby Warde-Aldam]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The first woman to climb Mt Blanc took 18 bottles of wine and 24 roast chickens]]></title>
+            <description><![CDATA[Radio & podcasts]]></description>
+            <link>https://spectator.com/article/the-first-woman-to-climb-mt-blanc-took-18-bottles-of-wine-and-24-roast-chickens/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-first-woman-to-climb-mt-blanc-took-18-bottles-of-wine-and-24-roast-chickens/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In defence of museum charges]]></title>
+            <description><![CDATA[Museums]]></description>
+            <link>https://spectator.com/article/in-defence-of-museum-charges/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-museum-charges/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Digby Warde-Aldam]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glenrothan is painfully bad]]></title>
+            <description><![CDATA[Cinema]]></description>
+            <link>https://spectator.com/article/glenrothan-is-painfully-bad/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/glenrothan-is-painfully-bad/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keir Starmer has been brutally exposed]]></title>
+            <description><![CDATA[By Ameer Kotecha]]></description>
+            <link>https://spectator.com/article/keir-starmer-has-been-brutally-exposed/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-has-been-brutally-exposed/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What do the Greens have against Haifa?]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/what-do-the-greens-have-against-haifa/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-do-the-greens-have-against-haifa/</guid>
+            <dc:creator><![CDATA[Florit Shoihet]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Marmalade doesn’t belong to the EU]]></title>
-            <description><![CDATA[‘Citrus marmalade?’ Well, that’s a tautology, if ever I’ve heard one. I’ve been making marmalade for a long time and written about it extensively. I wouldn’t quite paint myself as a marmalade obsessive (I’ve met them, and I know that I cannot literally or figuratively compete), but I’m certainly a marmalade fangirl. They line my cupboards and are a breakfast non-negotiable. I seek out unusual citrus fruit, and pore over]]></description>
+            <description><![CDATA[Sticky situation]]></description>
             <link>https://spectator.com/article/marmalade-doesnt-belong-to-the-eu/</link>
             <guid isPermaLink="true">https://spectator.com/article/marmalade-doesnt-belong-to-the-eu/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 04:40:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to be a good enough Godfather]]></title>
-            <description><![CDATA[By Henry Jeffreys]]></description>
+            <title><![CDATA[How to be a good enough godfather]]></title>
+            <description><![CDATA[Duty calls]]></description>
             <link>https://spectator.com/article/how-to-be-a-good-enough-godfather/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-to-be-a-good-enough-godfather/</guid>
             <dc:creator><![CDATA[Henry Jeffreys]]></dc:creator>
@@ -26,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[The decline of the country house hotel]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Manor madness]]></description>
             <link>https://spectator.com/article/the-decline-of-the-country-house-hotel/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-decline-of-the-country-house-hotel/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -50,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[It’s little surprise that an Israeli soldier was caught desecrating a crucifix]]></title>
-            <description><![CDATA[Lebanon]]></description>
+            <description><![CDATA[By Melanie McDonagh]]></description>
             <link>https://spectator.com/article/its-hardly-surprising-that-an-israeli-soldier-was-caught-desecrating-a-crucifix/</link>
             <guid isPermaLink="true">https://spectator.com/article/its-hardly-surprising-that-an-israeli-soldier-was-caught-desecrating-a-crucifix/</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
@@ -66,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Why Trump hasn’t stuck the knife into Starmer]]></title>
-            <description><![CDATA[Oh Mandy!]]></description>
+            <description><![CDATA[By Freddy Gray]]></description>
             <link>https://spectator.com/article/why-trump-hasnt-stuck-the-knife-into-starmer/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-trump-hasnt-stuck-the-knife-into-starmer/</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
@@ -90,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[An unflashy Olly Robbins mauls Keir Starmer]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
+            <description><![CDATA[Sketch]]></description>
             <link>https://spectator.com/article/olly-robbins-made-starmer-sound-incompetent-deceitful-and-unpleasant/</link>
             <guid isPermaLink="true">https://spectator.com/article/olly-robbins-made-starmer-sound-incompetent-deceitful-and-unpleasant/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -154,7 +202,7 @@
         </item>
         <item>
             <title><![CDATA[Ofsted has lost interest in educating children]]></title>
-            <description><![CDATA[By Amanda Spielman]]></description>
+            <description><![CDATA[Schools]]></description>
             <link>https://spectator.com/article/ofsted-has-lost-interest-in-educating-children/</link>
             <guid isPermaLink="true">https://spectator.com/article/ofsted-has-lost-interest-in-educating-children/</guid>
             <dc:creator><![CDATA[Amanda Spielman]]></dc:creator>
@@ -218,7 +266,7 @@
         </item>
         <item>
             <title><![CDATA[We can still save Prince Harry]]></title>
-            <description><![CDATA[Spare part]]></description>
+            <description><![CDATA[By William Atkinson]]></description>
             <link>https://spectator.com/article/we-can-still-save-prince-harry/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-can-still-save-prince-harry/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
@@ -226,7 +274,7 @@
         </item>
         <item>
             <title><![CDATA[High street cafés have gone to pot]]></title>
-            <description><![CDATA[Trouble brewing]]></description>
+            <description><![CDATA[By Zak Asgard]]></description>
             <link>https://spectator.com/article/prets-been-ground-down/</link>
             <guid isPermaLink="true">https://spectator.com/article/prets-been-ground-down/</guid>
             <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
@@ -234,7 +282,7 @@
         </item>
         <item>
             <title><![CDATA[Why gingers have more fun (genetically at least)]]></title>
-            <description><![CDATA[Red or dead]]></description>
+            <description><![CDATA[By Catriona Olding]]></description>
             <link>https://spectator.com/article/why-gingers-have-more-fun-genetically-at-least/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-gingers-have-more-fun-genetically-at-least/</guid>
             <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
@@ -314,7 +362,7 @@
         </item>
         <item>
             <title><![CDATA[Gen Z’s faith in democracy is fraying]]></title>
-            <description><![CDATA[By Elisabeth Loose and Eddie Barnes]]></description>
+            <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/gen-zs-faith-in-democracy-is-fraying/</link>
             <guid isPermaLink="true">https://spectator.com/article/gen-zs-faith-in-democracy-is-fraying/</guid>
             <dc:creator><![CDATA[Elisabeth Loose and Eddie Barnes]]></dc:creator>
@@ -890,7 +938,7 @@
         </item>
         <item>
             <title><![CDATA[What happened to Britain’s fighting spirit?]]></title>
-            <description><![CDATA[War path]]></description>
+            <description><![CDATA[By Mary Wakefield]]></description>
             <link>https://spectator.com/article/what-happened-to-britains-fighting-spirit/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-happened-to-britains-fighting-spirit/</guid>
             <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
@@ -978,7 +1026,7 @@
         </item>
         <item>
             <title><![CDATA[The first woman to climb Mt Blanc took 18 bottles of wine and 24 roast chickens]]></title>
-            <description><![CDATA[By Daisy Dunn]]></description>
+            <description><![CDATA[Radio & podcasts]]></description>
             <link>https://spectator.com/article/the-first-woman-to-climb-mt-blanc-took-18-bottles-of-wine-and-24-roast-chickens/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-first-woman-to-climb-mt-blanc-took-18-bottles-of-wine-and-24-roast-chickens/</guid>
             <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
@@ -1002,7 +1050,7 @@
         </item>
         <item>
             <title><![CDATA[Glenrothan is painfully bad]]></title>
-            <description><![CDATA[By Deborah Ross]]></description>
+            <description><![CDATA[Cinema]]></description>
             <link>https://spectator.com/article/glenrothan-is-painfully-bad/</link>
             <guid isPermaLink="true">https://spectator.com/article/glenrothan-is-painfully-bad/</guid>
             <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
@@ -3959,54 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/why-hitlers-suave-architect-escaped-the-noose-at-nuremberg/</guid>
             <dc:creator><![CDATA[Ian Buruma]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 12:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defence of Dubai]]></title>
-            <description><![CDATA[Gulf culture]]></description>
-            <link>https://spectator.com/article/in-defence-of-dubai/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-dubai/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Ed Husain]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 12:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunday shows round-up: Will Labour axe fuel duty hike?]]></title>
-            <description><![CDATA[By Joe Bedell-Brill]]></description>
-            <link>https://spectator.com/article/sunday-shows-round-up-will-labour-axe-fuel-duty-hike/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-will-labour-axe-fuel-duty-hike/</guid>
-            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 12:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A social media ban for under-16s is long overdue]]></title>
-            <description><![CDATA[Clickbait]]></description>
-            <link>https://spectator.com/article/a-social-media-ban-for-under-16s-is-long-overdue/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-social-media-ban-for-under-16s-is-long-overdue/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Cristina Odone]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 07:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The SNP’s Holyrood campaign is thoroughly dishonest]]></title>
-            <description><![CDATA[By John Ferry]]></description>
-            <link>https://spectator.com/article/the-snps-holyrood-campaign-is-thoroughly-dishonest/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-snps-holyrood-campaign-is-thoroughly-dishonest/</guid>
-            <dc:creator><![CDATA[John Ferry]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 07:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Organised crime is targeting artisanal food]]></title>
-            <description><![CDATA[By Sarah Langford]]></description>
-            <link>https://spectator.com/article/organised-crime-is-targeting-artisanal-food/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/organised-crime-is-targeting-artisanal-food/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Sarah Langford]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 07:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS Online won’t cure Britain’s creaking healthcare system]]></title>
-            <description><![CDATA[Medicine]]></description>
-            <link>https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 07:47:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

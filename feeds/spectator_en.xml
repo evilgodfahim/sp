@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 08:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 10:12:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2026 08:26:10 GMT</pubDate>
+        <pubDate>Wed, 22 Apr 2026 10:12:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reeves is using Iran as an excuse to get closer to the EU]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/reeves-is-using-iran-as-an-excuse-to-get-closer-to-the-eu/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reeves-is-using-iran-as-an-excuse-to-get-closer-to-the-eu/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 10:12:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How West Ham turned on Karren Brady]]></title>
             <description><![CDATA[By Mark Solomons]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/?homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 15:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What we know about the Derby car incident]]></title>
-            <description><![CDATA[By Coffee House]]></description>
-            <link>https://spectator.com/article/what-we-know-about-the-derby-car-incident/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-we-know-about-the-derby-car-incident/</guid>
-            <dc:creator><![CDATA[Coffee House]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 15:23:30 GMT</pubDate>
         </item>
     </channel>

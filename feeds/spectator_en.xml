@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 01:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 04:40:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2026 01:48:21 GMT</pubDate>
+        <pubDate>Wed, 22 Apr 2026 04:40:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Marmalade doesn’t belong to the EU]]></title>
+            <description><![CDATA[‘Citrus marmalade?’ Well, that’s a tautology, if ever I’ve heard one. I’ve been making marmalade for a long time and written about it extensively. I wouldn’t quite paint myself as a marmalade obsessive (I’ve met them, and I know that I cannot literally or figuratively compete), but I’m certainly a marmalade fangirl. They line my cupboards and are a breakfast non-negotiable. I seek out unusual citrus fruit, and pore over]]></description>
+            <link>https://spectator.com/article/marmalade-doesnt-belong-to-the-eu/</link>
+            <guid isPermaLink="true">https://spectator.com/article/marmalade-doesnt-belong-to-the-eu/</guid>
+            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 04:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to be a good enough Godfather]]></title>
+            <description><![CDATA[By Henry Jeffreys]]></description>
+            <link>https://spectator.com/article/how-to-be-a-good-enough-godfather/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-be-a-good-enough-godfather/</guid>
+            <dc:creator><![CDATA[Henry Jeffreys]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 04:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The decline of the country house hotel]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/the-decline-of-the-country-house-hotel/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-decline-of-the-country-house-hotel/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 04:40:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Russia’s economy really on its last legs?]]></title>
             <description><![CDATA[By Alexander Kolyandr]]></description>
@@ -3983,30 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 07:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa is a breath of fresh air compared to Britain]]></title>
-            <description><![CDATA[Knackered]]></description>
-            <link>https://spectator.com/article/south-africa-is-a-breath-of-fresh-air-compared-to-britain/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/south-africa-is-a-breath-of-fresh-air-compared-to-britain/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Stephen Robinson]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 07:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Bank of England can avoid stagflation]]></title>
-            <description><![CDATA[By Damian Pudner]]></description>
-            <link>https://spectator.com/article/how-the-bank-of-england-can-avoid-stagflation/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-the-bank-of-england-can-avoid-stagflation/</guid>
-            <dc:creator><![CDATA[Damian Pudner]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 07:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS Online won’t cure Britain’s creaking healthcare system]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/</link>
-            <guid isPermaLink="true">https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 06:07:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

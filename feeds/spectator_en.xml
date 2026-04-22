@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 10:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 11:54:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2026 10:12:49 GMT</pubDate>
+        <pubDate>Wed, 22 Apr 2026 11:54:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Don’t punish people for not reporting criminal neighbours]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/dont-punish-people-for-not-reporting-criminal-neighbours/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-punish-people-for-not-reporting-criminal-neighbours/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 11:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Pat McFadden flounders on Robbins]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-pat-mcfadden-flounders-on-robbins/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-pat-mcfadden-flounders-on-robbins/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 11:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it any wonder young people won’t fight for Britain?]]></title>
+            <description><![CDATA[By Joanna Williams]]></description>
+            <link>https://spectator.com/article/is-it-any-wonder-young-people-wont-fight-for-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-it-any-wonder-young-people-wont-fight-for-britain/</guid>
+            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 11:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does banning social media for under-16s work?]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/does-banning-social-media-for-under-16s-work/</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-banning-social-media-for-under-16s-work/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 11:54:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reeves is using Iran as an excuse to get closer to the EU]]></title>
             <description><![CDATA[By Ross Clark]]></description>
@@ -3975,38 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/in-praise-of-the-gilet/</guid>
             <dc:creator><![CDATA[Sybilla Hart]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 04:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why engineers beat lawyers]]></title>
-            <description><![CDATA[By Rory Sutherland]]></description>
-            <link>https://spectator.com/article/why-engineers-beat-lawyers/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-engineers-beat-lawyers/</guid>
-            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 22:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I don’t want this state that I love to become the country I left’: Steve Hilton on why he’s running to be California governor]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/steve-hilton-interview-running-california-governor/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/steve-hilton-interview-running-california-governor/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 15:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farrow & Ball is finished]]></title>
-            <description><![CDATA[Dried paint]]></description>
-            <link>https://spectator.com/article/farrow-ball-is-finished/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/farrow-ball-is-finished/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 15:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS Online won’t cure Britain’s creaking healthcare system]]></title>
-            <description><![CDATA[Medicine]]></description>
-            <link>https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/nhs-online-wont-cure-britains-creaking-healthcare-system/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 15:23:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

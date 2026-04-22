@@ -4,13 +4,29 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 13:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 15:06:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2026 13:06:09 GMT</pubDate>
+        <pubDate>Wed, 22 Apr 2026 15:06:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Keir Starmer is prosecuting a relentless campaign against reality]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/keir-starmer-is-prosecuting-a-relentless-campaign-against-reality/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-is-prosecuting-a-relentless-campaign-against-reality/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 15:06:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Keir Starmer watch the same Olly Robbins as me?]]></title>
+            <description><![CDATA[PMQs]]></description>
+            <link>https://spectator.com/article/did-keir-starmer-watch-the-same-olly-robbins-as-me/</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-keir-starmer-watch-the-same-olly-robbins-as-me/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 15:06:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Labour MP: PM going is ‘when not if’]]></title>
-            <description><![CDATA[By Steerpike]]></description>
+            <description><![CDATA[Watch]]></description>
             <link>https://spectator.com/article/labour-mp-pm-going-is-when-not-if/</link>
             <guid isPermaLink="true">https://spectator.com/article/labour-mp-pm-going-is-when-not-if/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -42,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Does banning social media for under-16s work?]]></title>
-            <description><![CDATA[By John Power]]></description>
+            <description><![CDATA[Reality Check]]></description>
             <link>https://spectator.com/article/does-banning-social-media-for-under-16s-work/</link>
             <guid isPermaLink="true">https://spectator.com/article/does-banning-social-media-for-under-16s-work/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
@@ -114,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[What do the Greens have against Haifa?]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Florit Shoihet]]></description>
             <link>https://spectator.com/article/what-do-the-greens-have-against-haifa/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-do-the-greens-have-against-haifa/</guid>
             <dc:creator><![CDATA[Florit Shoihet]]></dc:creator>
@@ -426,7 +442,7 @@
         </item>
         <item>
             <title><![CDATA[Gen Z’s faith in democracy is fraying]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Elisabeth Loose and Eddie Barnes]]></description>
             <link>https://spectator.com/article/gen-zs-faith-in-democracy-is-fraying/</link>
             <guid isPermaLink="true">https://spectator.com/article/gen-zs-faith-in-democracy-is-fraying/</guid>
             <dc:creator><![CDATA[Elisabeth Loose and Eddie Barnes]]></dc:creator>
@@ -3991,22 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/why-gen-z-turned-back-to-christianity/</guid>
             <dc:creator><![CDATA[Bijan Omrani]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 06:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The scrumptious surge of unusual food pairings]]></title>
-            <description><![CDATA[By Julie Bindel]]></description>
-            <link>https://spectator.com/article/pickles-dipped-in-peanut-butter-the-rise-of-unusual-food-pairings/</link>
-            <guid isPermaLink="true">https://spectator.com/article/pickles-dipped-in-peanut-butter-the-rise-of-unusual-food-pairings/</guid>
-            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 04:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The American idyll still exists]]></title>
-            <description><![CDATA[By Zoe Strimpel]]></description>
-            <link>https://spectator.com/article/the-american-idyll-isnt-dead-yet/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-american-idyll-isnt-dead-yet/</guid>
-            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 04:39:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 08:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 10:16:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 08:51:18 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 10:16:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Americans think they want the ‘real Ireland’. They don’t]]></title>
+            <description><![CDATA[By Melissa Kite]]></description>
+            <link>https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/</link>
+            <guid isPermaLink="true">https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 10:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Zack Polanski seriously questioning Jewish safety?]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/is-zack-polanski-seriously-questioning-jewish-safety/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-zack-polanski-seriously-questioning-jewish-safety/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 10:16:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rachel Reeves is crushing the economy]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
@@ -3991,22 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/the-chagos-deal-is-unravelling/</guid>
             <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 14:26:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should Britain go it alone on nukes?]]></title>
-            <description><![CDATA[By Daniel Skeffington]]></description>
-            <link>https://spectator.com/article/should-britain-go-it-alone-on-nukes/</link>
-            <guid isPermaLink="true">https://spectator.com/article/should-britain-go-it-alone-on-nukes/</guid>
-            <dc:creator><![CDATA[Daniel Skeffington]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 12:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The absurdity at the heart of the junior doctors’ strikes]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/the-absurdity-at-the-heart-of-the-junior-doctors-strikes/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-absurdity-at-the-heart-of-the-junior-doctors-strikes/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 11:42:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

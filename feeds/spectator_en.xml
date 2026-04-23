@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 06:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 08:51:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 06:57:05 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 08:51:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rachel Reeves is crushing the economy]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/rachel-reeves-is-crushing-the-economy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rachel-reeves-is-crushing-the-economy/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 08:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Green party candidate who wants to ‘burn Zionism to the ground’]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/the-green-party-candidate-who-wants-to-burn-zionism-to-the-ground/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-green-party-candidate-who-wants-to-burn-zionism-to-the-ground/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 08:51:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[For progressives, ‘ageing’ is the one acceptable slur]]></title>
             <description><![CDATA[By Douglas Murray]]></description>
@@ -3991,22 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/the-absurdity-at-the-heart-of-the-junior-doctors-strikes/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 11:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Children aren’t there to make parents happy]]></title>
-            <description><![CDATA[By Joanna Williams]]></description>
-            <link>https://spectator.com/article/children-arent-there-to-make-parents-happy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/children-arent-there-to-make-parents-happy/</guid>
-            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 11:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Have Beatrice and Eugenie been cast out into the cold?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/have-beatrice-and-eugenie-been-cast-out-into-the-cold/</link>
-            <guid isPermaLink="true">https://spectator.com/article/have-beatrice-and-eugenie-been-cast-out-into-the-cold/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 10:50:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

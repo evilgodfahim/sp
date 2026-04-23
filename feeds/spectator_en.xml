@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 10:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 11:55:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 10:16:14 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 11:55:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Single men shouldn’t be able to have a surrogate baby]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/single-men-shouldnt-be-able-to-have-a-surrogate-baby/</link>
+            <guid isPermaLink="true">https://spectator.com/article/single-men-shouldnt-be-able-to-have-a-surrogate-baby/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 11:55:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rumen Radev won’t be the next Viktor Orban]]></title>
+            <description><![CDATA[By Tatyana Kekic]]></description>
+            <link>https://spectator.com/article/rumen-radev-wont-be-the-next-viktor-orban/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rumen-radev-wont-be-the-next-viktor-orban/</guid>
+            <dc:creator><![CDATA[Tatyana Kekic]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 11:55:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Americans think they want the ‘real Ireland’. They don’t]]></title>
             <description><![CDATA[By Melissa Kite]]></description>
@@ -3991,22 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/bentley-continental-gt-the-car-of-the-aspirant-upper-middle-class/</guid>
             <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 04:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The end of litter is nigh]]></title>
-            <description><![CDATA[By Sean Thomas]]></description>
-            <link>https://spectator.com/article/the-end-of-litter-is-nigh/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-end-of-litter-is-nigh/</guid>
-            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 04:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Chagos deal is unravelling]]></title>
-            <description><![CDATA[Taking its atoll]]></description>
-            <link>https://spectator.com/article/the-chagos-deal-is-unravelling/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-chagos-deal-is-unravelling/</guid>
-            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 14:26:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

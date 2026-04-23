@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 13:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 15:45:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 13:05:28 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 15:45:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No one seems sure why Olly Robbins had to go]]></title>
+            <description><![CDATA[By Charles Moore]]></description>
+            <link>https://spectator.com/article/no-one-seems-sure-about-why-olly-robbins-had-to-go/</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-one-seems-sure-about-why-olly-robbins-had-to-go/</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 15:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russell Brand is everything that is wrong with the world]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/russell-brand-is-everything-that-is-wrong-with-the-world/</link>
+            <guid isPermaLink="true">https://spectator.com/article/russell-brand-is-everything-that-is-wrong-with-the-world/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 15:45:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Single men shouldn’t be able to have a surrogate baby]]></title>
             <description><![CDATA[By David Shipley]]></description>
@@ -3991,22 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/the-misery-of-working-with-chuck-berry/</guid>
             <dc:creator><![CDATA[David Honigmann]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 06:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t tolerate potholes]]></title>
-            <description><![CDATA[By G.V. Chappell]]></description>
-            <link>https://spectator.com/article/dont-tolerate-potholes/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-tolerate-potholes/</guid>
-            <dc:creator><![CDATA[G.V. Chappell]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 04:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bentley Continental GT is a car for the upper-middle classes]]></title>
-            <description><![CDATA[By Tanya Gold]]></description>
-            <link>https://spectator.com/article/bentley-continental-gt-the-car-of-the-aspirant-upper-middle-class/</link>
-            <guid isPermaLink="true">https://spectator.com/article/bentley-continental-gt-the-car-of-the-aspirant-upper-middle-class/</guid>
-            <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 04:42:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

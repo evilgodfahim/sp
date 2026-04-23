@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 15:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 17:11:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 15:45:37 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 17:11:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russell Brand is everything that is wrong with the world]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/russell-brand-is-everything-that-is-wrong-with-the-world/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/russell-brand-is-everything-that-is-wrong-with-the-world/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 17:11:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will Canada soon be euthanizing babies?]]></title>
             <description><![CDATA[By Fleur Elizabeth Meston]]></description>
@@ -17,7 +25,7 @@
             <pubDate>Thu, 23 Apr 2026 15:45:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The case against the Southern Poverty Law Center]]></title>
+            <title><![CDATA[The tawdry shenanigans of the Southern Poverty Law Center]]></title>
             <description><![CDATA[By Mark Pulliam]]></description>
             <link>https://spectator.com/article/the-case-against-the-southern-poverty-law-center/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-case-against-the-southern-poverty-law-center/?edition=us</guid>
@@ -162,10 +170,8 @@
         </item>
         <item>
             <title><![CDATA[Congress’s #MeToo 2.0]]></title>
-            <description><![CDATA[By Cockburn]]></description>
             <link>https://spectator.com/article/congresss-metoo-2-0/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/congresss-metoo-2-0/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 20:05:22 GMT</pubDate>
         </item>
         <item>
@@ -562,10 +568,8 @@
         </item>
         <item>
             <title><![CDATA[Call Her Evie]]></title>
-            <description><![CDATA[By Cockburn]]></description>
             <link>https://spectator.com/article/call-her-evie-cockburn-diary-04-17-26/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/call-her-evie-cockburn-diary-04-17-26/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 17:41:54 GMT</pubDate>
         </item>
         <item>
@@ -866,10 +870,8 @@
         </item>
         <item>
             <title><![CDATA[Mary Vought exits as Heritage comms chief… for $500k payout: source]]></title>
-            <description><![CDATA[By Cockburn]]></description>
             <link>https://spectator.com/article/mary-vought-exits-as-heritage-comms-chief-for-500k-payout-source/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/mary-vought-exits-as-heritage-comms-chief-for-500k-payout-source/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 20:59:43 GMT</pubDate>
         </item>
         <item>
@@ -1210,10 +1212,8 @@
         </item>
         <item>
             <title><![CDATA[Swalwell sexual assault accusations detonate California governor’s race]]></title>
-            <description><![CDATA[By Cockburn]]></description>
             <link>https://spectator.com/article/swalwell-sexual-assault-accusations-detonate-california-governors-race/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/swalwell-sexual-assault-accusations-detonate-california-governors-race/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 18:32:07 GMT</pubDate>
         </item>
         <item>

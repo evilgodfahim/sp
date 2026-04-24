@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 15:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 16:45:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 15:02:46 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 16:45:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The contempt Trump feels for his Nato allies is mutual]]></title>
+            <description><![CDATA[By Daniel DePetris]]></description>
+            <link>https://spectator.com/article/the-contempt-trump-feels-for-his-nato-allies-is-mutual/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-contempt-trump-feels-for-his-nato-allies-is-mutual/</guid>
+            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 16:45:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The evil of the Brighton beach gang rape]]></title>
             <description><![CDATA[By Tom Slater]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/food-to-slake-boredom-le-cafe-by-nicolas-rouzaud-reviewed/</link>
             <guid isPermaLink="true">https://spectator.com/article/food-to-slake-boredom-le-cafe-by-nicolas-rouzaud-reviewed/</guid>
             <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s time to let go of Tiger Woods]]></title>
-            <description><![CDATA[Sport]]></description>
-            <link>https://spectator.com/article/its-time-to-let-go-of-tiger-woods/</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-time-to-let-go-of-tiger-woods/</guid>
-            <dc:creator><![CDATA[Roger Alton]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
         </item>
     </channel>

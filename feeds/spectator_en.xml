@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 01:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 04:49:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 01:52:01 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 04:49:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Don’t fall for Rome’s tourist traps]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/how-to-avoid-being-stuck-in-a-roman-tourist-trap/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-avoid-being-stuck-in-a-roman-tourist-trap/</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 04:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this the end of house wine?]]></title>
+            <description><![CDATA[We have all become only too used to the surging cost of heating our homes, filling up our cars or doing the weekly shop. But there’s one price increase that hurts me more than all of these combined: the cost of a bottle of wine in a restaurant. Whereas just five years ago, it was rare to find a wine list without]]></description>
+            <link>https://spectator.com/article/the-end-of-house-wine/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-end-of-house-wine/</guid>
+            <dc:creator><![CDATA[John Sturgis]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 04:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t whitewash Michael Jackson]]></title>
+            <description><![CDATA[By Julie Burchill]]></description>
+            <link>https://spectator.com/article/dont-whitewash-michael-jackson/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-whitewash-michael-jackson/</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 04:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why flats are better than houses]]></title>
+            <description><![CDATA[By Mary Dejevsky]]></description>
+            <link>https://spectator.com/article/being-a-flat-dweller-is-so-much-better-than-owning-a-house/</link>
+            <guid isPermaLink="true">https://spectator.com/article/being-a-flat-dweller-is-so-much-better-than-owning-a-house/</guid>
+            <dc:creator><![CDATA[Mary Dejevsky]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 04:49:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No one seems sure why Olly Robbins had to go]]></title>
             <description><![CDATA[By Charles Moore]]></description>
@@ -250,7 +282,7 @@
         </item>
         <item>
             <title><![CDATA[The joy of liquorice]]></title>
-            <description><![CDATA[‘I’ll swap you two of my rolls for three of your spogs.’ That was the sort of thing you’d hear round the tuckshop in morning break when we schoolboys swapped and bartered our Liquorice Allsorts. We all had our favourites, spogs being the round pink or blue jelly buttons that had a coating of tiny]]></description>
+            <description><![CDATA[By Peter Bear]]></description>
             <link>https://spectator.com/article/the-joy-of-liquorice/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-joy-of-liquorice/</guid>
             <dc:creator><![CDATA[Peter Bear]]></dc:creator>
@@ -3974,38 +4006,6 @@
             <link>https://spectator.com/article/the-mystery-of-what-makes-us-special-remains-unsolved/?homepage-tracking=high_density-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/the-mystery-of-what-makes-us-special-remains-unsolved/?homepage-tracking=high_density-article-2</guid>
             <dc:creator><![CDATA[Sebastian Faulks]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 06:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The misery of working with Chuck Berry]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-misery-of-working-with-chuck-berry/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-misery-of-working-with-chuck-berry/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[David Honigmann]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 06:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s presidential library is predictably crass]]></title>
-            <description><![CDATA[By Stephen Bayley]]></description>
-            <link>https://spectator.com/article/trumps-presidential-library-is-predictably-crass/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-presidential-library-is-predictably-crass/</guid>
-            <dc:creator><![CDATA[Stephen Bayley]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 06:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The mystery of what makes us special remains unsolved]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-mystery-of-what-makes-us-special-remains-unsolved/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-mystery-of-what-makes-us-special-remains-unsolved/</guid>
-            <dc:creator><![CDATA[Sebastian Faulks]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 06:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The misery of working with Chuck Berry]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-misery-of-working-with-chuck-berry/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-misery-of-working-with-chuck-berry/</guid>
-            <dc:creator><![CDATA[David Honigmann]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 06:22:55 GMT</pubDate>
         </item>
     </channel>

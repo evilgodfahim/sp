@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 13:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 15:02:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 13:42:14 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 15:02:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The evil of the Brighton beach gang rape]]></title>
+            <description><![CDATA[By Tom Slater]]></description>
+            <link>https://spectator.com/article/the-evil-of-the-brighton-beach-gang-rape/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-evil-of-the-brighton-beach-gang-rape/</guid>
+            <dc:creator><![CDATA[Tom Slater]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 15:02:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Trump is threatening the Falklands]]></title>
             <description><![CDATA[By Eliot Wilson]]></description>
@@ -121,7 +129,7 @@
             <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don’t fall for Rome’s tourist traps]]></title>
+            <title><![CDATA[How to avoid Rome’s tourist traps]]></title>
             <description><![CDATA[By Owen Matthews]]></description>
             <link>https://spectator.com/article/how-to-avoid-being-stuck-in-a-roman-tourist-trap/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-to-avoid-being-stuck-in-a-roman-tourist-trap/</guid>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/its-time-to-let-go-of-tiger-woods/</link>
             <guid isPermaLink="true">https://spectator.com/article/its-time-to-let-go-of-tiger-woods/</guid>
             <dc:creator><![CDATA[Roger Alton]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Religion has been resurrected in British politics]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/religion-has-been-resurrected-in-british-politics/</link>
-            <guid isPermaLink="true">https://spectator.com/article/religion-has-been-resurrected-in-british-politics/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 17:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 18:38:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 17:44:10 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 18:38:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The contempt Trump feels for his NATO allies is mutual]]></title>
+            <description><![CDATA[By Daniel DePetris]]></description>
+            <link>https://spectator.com/article/the-contempt-trump-feels-for-his-nato-allies-is-mutual/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-contempt-trump-feels-for-his-nato-allies-is-mutual/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 18:38:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Trump is threatening the Falklands]]></title>
             <description><![CDATA[By Eliot Wilson]]></description>

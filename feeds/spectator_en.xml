@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 17:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 18:38:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 17:44:16 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 18:38:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[It’s over for Keir Starmer]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/its-over-for-keir-starmer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-over-for-keir-starmer/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 18:38:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The contempt Trump feels for his Nato allies is mutual]]></title>
             <description><![CDATA[By Daniel DePetris]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/i-always-have-a-smile-on-my-face-up-there-jockey-sam-waley-cohen-on-the-art-of-winning/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-always-have-a-smile-on-my-face-up-there-jockey-sam-waley-cohen-on-the-art-of-winning/</guid>
             <dc:creator><![CDATA[Charlie Brooks]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Food to slake boredom: Le Café by Nicolas Rouzaud reviewed]]></title>
-            <description><![CDATA[By Tanya Gold]]></description>
-            <link>https://spectator.com/article/food-to-slake-boredom-le-cafe-by-nicolas-rouzaud-reviewed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/food-to-slake-boredom-le-cafe-by-nicolas-rouzaud-reviewed/</guid>
-            <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
         </item>
     </channel>

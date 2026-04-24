@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 12:00:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 13:42:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 12:00:05 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 13:42:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Trump is threatening the Falklands]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/should-we-fear-trumps-falklands-threat/</link>
+            <guid isPermaLink="true">https://spectator.com/article/should-we-fear-trumps-falklands-threat/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 13:42:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[People need to calm down about Nigel Farage’s bitcoin wheeze]]></title>
             <description><![CDATA[By Martin Vander Weyer]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/religion-has-been-resurrected-in-british-politics/</link>
             <guid isPermaLink="true">https://spectator.com/article/religion-has-been-resurrected-in-british-politics/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gen Z are turning to the Book of Common Prayer]]></title>
-            <description><![CDATA[By Marcus Walker]]></description>
-            <link>https://spectator.com/article/gen-z-are-turning-to-the-book-of-common-prayer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/gen-z-are-turning-to-the-book-of-common-prayer/</guid>
-            <dc:creator><![CDATA[Marcus Walker]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
         </item>
     </channel>

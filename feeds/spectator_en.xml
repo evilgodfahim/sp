@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 15:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 16:32:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 15:33:43 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 16:32:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump believes Britain has betrayed the SAS]]></title>
+            <description><![CDATA[By Richard Williams and David Davis]]></description>
+            <link>https://spectator.com/article/trump-believes-britain-has-betrayed-the-sas-2/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-believes-britain-has-betrayed-the-sas-2/</guid>
+            <dc:creator><![CDATA[Richard Williams and David Davis]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 16:32:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The new age of transgender rage]]></title>
             <description><![CDATA[By Max Jeffery]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/russia-has-its-eyes-on-svalbard/?homepage-tracking=magazine-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/russia-has-its-eyes-on-svalbard/?homepage-tracking=magazine-article-2</guid>
             <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Over-cautious and clumsy: The Downfall of Huw Edwards reviewed]]></title>
-            <description><![CDATA[Television]]></description>
-            <link>https://spectator.com/article/over-cautious-and-clumsy-the-downfall-of-huw-edwards-reviewed/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/over-cautious-and-clumsy-the-downfall-of-huw-edwards-reviewed/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[James Walton]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 01:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 04:30:19 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 01:30:34 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 04:30:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My Chernobyl holiday]]></title>
+            <description><![CDATA[There are few things that look sadder than an abandoned football ground. I spent longer than I meant to sitting on a decaying bench looking out over the forest that was once the intended playing surface for the Stroitel Pripyat football club. The sky above was cerulean, cloudless and entirely still. The only life came from my hand-held Geiger counter which spluttered and crackled, telling me that]]></description>
+            <link>https://spectator.com/article/my-chernobyl-holiday/</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-chernobyl-holiday/</guid>
+            <dc:creator><![CDATA[Rob Crossan]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 04:30:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It’s over for Keir Starmer]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -74,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Three bets for Sandown tomorrow]]></title>
-            <description><![CDATA[It is disappointing that Sandown’s big handicap chase tomorrow, the bet365 Gold Cup (3.30 p.m.), has attracted a field of only 14 runners but this is an intriguing race nonetheless with several improving seven-year-olds taking on some older, more experienced horses. LIVIN ON LUCO has run four times this season, three of them good performances]]></description>
+            <description><![CDATA[By Penworthy]]></description>
             <link>https://spectator.com/article/three-bets-for-sandown-tomorrow/</link>
             <guid isPermaLink="true">https://spectator.com/article/three-bets-for-sandown-tomorrow/</guid>
             <dc:creator><![CDATA[Penworthy]]></dc:creator>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/over-cautious-and-clumsy-the-downfall-of-huw-edwards-reviewed/</link>
             <guid isPermaLink="true">https://spectator.com/article/over-cautious-and-clumsy-the-downfall-of-huw-edwards-reviewed/</guid>
             <dc:creator><![CDATA[James Walton]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I always have a smile on my face up there’: jockey Sam Waley-Cohen on the art of winning]]></title>
-            <description><![CDATA[By Charlie Brooks]]></description>
-            <link>https://spectator.com/article/i-always-have-a-smile-on-my-face-up-there-jockey-sam-waley-cohen-on-the-art-of-winning/</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-always-have-a-smile-on-my-face-up-there-jockey-sam-waley-cohen-on-the-art-of-winning/</guid>
-            <dc:creator><![CDATA[Charlie Brooks]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
         </item>
     </channel>

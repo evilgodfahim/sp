@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 10:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 11:33:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 10:36:30 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 11:33:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ukraine won’t give up at the behest of Donald Trump]]></title>
+            <description><![CDATA[By John Foreman]]></description>
+            <link>https://spectator.com/article/ukraine-wont-give-up-at-the-behest-of-donald-trump/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ukraine-wont-give-up-at-the-behest-of-donald-trump/</guid>
+            <dc:creator><![CDATA[John Foreman]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 11:33:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia’s university recruitment drive is an act of desperation]]></title>
             <description><![CDATA[By Oksana Kuzan]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/self-esteem-is-the-star-of-this-david-hare-musical/</link>
             <guid isPermaLink="true">https://spectator.com/article/self-esteem-is-the-star-of-this-david-hare-musical/</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The joy of American romanticism]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/the-joy-of-american-romanticism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-joy-of-american-romanticism/</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
         </item>
     </channel>

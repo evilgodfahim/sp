@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 12:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 13:59:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 12:42:46 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 13:59:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The killer in your backyard]]></title>
+            <description><![CDATA[By J. Shane Townsend]]></description>
+            <link>https://spectator.com/article/killer-backyard-hunting/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/killer-backyard-hunting/?edition=us</guid>
+            <dc:creator><![CDATA[J. Shane Townsend]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Palantir manifesto doesn’t go far enough]]></title>
+            <description><![CDATA[By Travis Aaroe]]></description>
+            <link>https://spectator.com/article/the-palantir-manifesto-doesnt-go-far-enough/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-palantir-manifesto-doesnt-go-far-enough/?edition=us</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:59:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ukraine won’t give up at the behest of Donald Trump]]></title>
             <description><![CDATA[By John Foreman]]></description>

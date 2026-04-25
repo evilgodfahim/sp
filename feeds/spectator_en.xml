@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 12:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 13:59:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 12:42:50 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 13:59:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The new age of transgender rage]]></title>
+            <description><![CDATA[By Max Jeffery]]></description>
+            <link>https://spectator.com/article/the-new-age-of-transgender-rage/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-new-age-of-transgender-rage/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Friedrich Merz has become the new Angela Merkel]]></title>
+            <description><![CDATA[Doppelgänger]]></description>
+            <link>https://spectator.com/article/friedrich-merz-has-become-the-new-angela-merkel/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/friedrich-merz-has-become-the-new-angela-merkel/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Henry Donovan]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Desmond Morris was a master of provocative truths]]></title>
+            <description><![CDATA[The Naked Ape]]></description>
+            <link>https://spectator.com/article/desmond-morris-was-a-master-of-provocative-truths/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/desmond-morris-was-a-master-of-provocative-truths/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Alexander Fiskeharrison]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Were Neanderthals capable of complex speech?]]></title>
+            <description><![CDATA[Evolution]]></description>
+            <link>https://spectator.com/article/were-neanderthals-capable-of-complex-speech/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/were-neanderthals-capable-of-complex-speech/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Mike Pitts]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artificial Intelligence will bore us to death before it kills us]]></title>
+            <description><![CDATA[By Henry Williams]]></description>
+            <link>https://spectator.com/article/artificial-intelligence-will-bore-us-to-death-before-it-kills-us/</link>
+            <guid isPermaLink="true">https://spectator.com/article/artificial-intelligence-will-bore-us-to-death-before-it-kills-us/</guid>
+            <dc:creator><![CDATA[Henry Williams]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:59:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ukraine won’t give up at the behest of Donald Trump]]></title>
             <description><![CDATA[By John Foreman]]></description>
@@ -3967,46 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/over-cautious-and-clumsy-the-downfall-of-huw-edwards-reviewed/?homepage-tracking=magazine-article-3</guid>
             <dc:creator><![CDATA[James Walton]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With no coherent strategy, Britain seems perpetually adrift in the world]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/with-no-coherent-strategy-britain-seems-perpetually-adrift-in-the-world/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/with-no-coherent-strategy-britain-seems-perpetually-adrift-in-the-world/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Peter Pomerantsev]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What if the UK hadn’t voted for Brexit?]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/what-if-the-uk-hadnt-voted-for-brexit/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-if-the-uk-hadnt-voted-for-brexit/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can the chaps in chaps smash fascism?]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/can-the-chaps-in-chaps-smash-fascism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-the-chaps-in-chaps-smash-fascism/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 01:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Pope Leo XIV is quietly reshaping the Vatican]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
-            <link>https://spectator.com/article/how-pope-leo-xiv-is-quietly-reshaping-the-vatican/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-pope-leo-xiv-is-quietly-reshaping-the-vatican/</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 01:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Self Esteem is the star of this David Hare musical]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/self-esteem-is-the-star-of-this-david-hare-musical/</link>
-            <guid isPermaLink="true">https://spectator.com/article/self-esteem-is-the-star-of-this-david-hare-musical/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 23:29:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

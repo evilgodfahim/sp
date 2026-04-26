@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 06:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 08:13:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 06:55:52 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 08:13:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The BBC’s shameful treatment of Top Cat]]></title>
+            <description><![CDATA[By Rory Sutherland]]></description>
+            <link>https://spectator.com/article/the-bbcs-shameful-treatment-of-top-cat/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-bbcs-shameful-treatment-of-top-cat/</guid>
+            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 08:13:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why the ban on Palestine Action should be upheld]]></title>
             <description><![CDATA[By Alexander Horne]]></description>
@@ -3999,14 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/the-blood-of-denby-pottery-is-on-labours-hands/</guid>
             <dc:creator><![CDATA[Alec Marsh]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 15:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The art of Schiaparelli]]></title>
-            <description><![CDATA[By Margaret Mitchell]]></description>
-            <link>https://spectator.com/article/the-art-of-schiaparelli/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-art-of-schiaparelli/</guid>
-            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 14:18:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

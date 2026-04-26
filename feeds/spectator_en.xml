@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 01:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 04:54:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 01:55:18 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 04:54:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Confessions of a former bullfighting enthusiast]]></title>
+            <description><![CDATA[Bullfighting season in Spain began earlier this week at Seville’s huge annual fair, known as the Feria de Abril. A couple of days before the fair began, at a corrida de toros (‘running of bulls’, translated into English as ‘bullfight’) in the Andalusian capital’s beautiful 18th-century bullring, one of the country’s best-known bullfighters (toreros) was badly gored in the rectum.]]></description>
+            <link>https://spectator.com/article/confessions-of-a-former-bullfighting-enthusiast/</link>
+            <guid isPermaLink="true">https://spectator.com/article/confessions-of-a-former-bullfighting-enthusiast/</guid>
+            <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 04:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London is becoming the home of climate litigation]]></title>
+            <description><![CDATA[By James Graham]]></description>
+            <link>https://spectator.com/article/london-is-becoming-the-home-of-climate-litigation/</link>
+            <guid isPermaLink="true">https://spectator.com/article/london-is-becoming-the-home-of-climate-litigation/</guid>
+            <dc:creator><![CDATA[James Graham]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 04:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Immigration has turned the Netherlands into a tinderbox]]></title>
+            <description><![CDATA[By Arnout Nuijt]]></description>
+            <link>https://spectator.com/article/immigration-has-turned-the-netherlands-into-a-tinderbox/</link>
+            <guid isPermaLink="true">https://spectator.com/article/immigration-has-turned-the-netherlands-into-a-tinderbox/</guid>
+            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 04:54:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Life, Liberty and the pursuit of Happiness’ is genius marketing]]></title>
             <description><![CDATA[By Rory Sutherland]]></description>
@@ -3983,30 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/how-to-stop-the-clapham-rioting/</guid>
             <dc:creator><![CDATA[James Graham]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 09:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who would ever run a marathon?]]></title>
-            <description><![CDATA[By Chas Newkey-Burden]]></description>
-            <link>https://spectator.com/article/who-would-ever-run-a-marathon/</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-would-ever-run-a-marathon/</guid>
-            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 08:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran doesn’t need pummelling to the Stone Age]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/iran-doesnt-need-pummelling-to-the-stone-age/</link>
-            <guid isPermaLink="true">https://spectator.com/article/iran-doesnt-need-pummelling-to-the-stone-age/</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 08:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where’s my free BMW?]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
-            <link>https://spectator.com/article/wheres-my-free-bmw/</link>
-            <guid isPermaLink="true">https://spectator.com/article/wheres-my-free-bmw/</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 06:07:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

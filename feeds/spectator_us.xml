@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 08:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 09:45:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 08:13:44 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 09:45:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The killer in your backyard]]></title>
+            <description><![CDATA[House hunting]]></description>
+            <link>https://spectator.com/article/killer-backyard-hunting/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/killer-backyard-hunting/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[J. Shane Townsend]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 09:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Treasure Britain’s last railway dining car while you still can]]></title>
+            <description><![CDATA[By Julian Glover]]></description>
+            <link>https://spectator.com/article/treasure-britains-last-railway-dining-car-while-you-still-can/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/treasure-britains-last-railway-dining-car-while-you-still-can/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Julian Glover]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 09:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Living in the shadow of Etna]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/living-in-the-shadow-of-etna/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/living-in-the-shadow-of-etna/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Caroline Moorehead]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 09:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The noble work of chairlift diplomacy]]></title>
+            <description><![CDATA[No sacred cows]]></description>
+            <link>https://spectator.com/article/the-noble-work-of-chairlift-diplomacy/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-noble-work-of-chairlift-diplomacy/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 09:45:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What I heard inside the White House Correspondents’ Dinner]]></title>
             <description><![CDATA[By Ani Chkhikvadze]]></description>

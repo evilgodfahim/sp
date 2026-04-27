@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 08:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 10:54:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 08:07:35 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 10:54:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Donald Trump won’t embarrass the royals]]></title>
+            <description><![CDATA[Crowning glory]]></description>
+            <link>https://spectator.com/article/why-donald-trump-wont-embarrass-the-royals/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-donald-trump-wont-embarrass-the-royals/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Robert Hardman]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 10:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farewell to America’s artificial food dyes]]></title>
+            <description><![CDATA[Color blind]]></description>
+            <link>https://spectator.com/article/farewell-to-americas-artificial-food-dyes/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/farewell-to-americas-artificial-food-dyes/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 10:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is barbecue a noun or a verb?]]></title>
+            <description><![CDATA[Pit stop]]></description>
+            <link>https://spectator.com/article/is-barbecue-a-noun-or-a-verb/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-barbecue-a-noun-or-a-verb/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 10:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Chernobyl holiday]]></title>
+            <description><![CDATA[By Rob Crossan]]></description>
+            <link>https://spectator.com/article/my-chernobyl-holiday/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-chernobyl-holiday/?edition=us</guid>
+            <dc:creator><![CDATA[Rob Crossan]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 10:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The decline of the royal biography]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/the-decline-of-the-royal-biography/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-decline-of-the-royal-biography/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 10:54:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How the movies improve your mental health]]></title>
             <description><![CDATA[By Peter Watson]]></description>

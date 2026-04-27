@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 14:59:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 16:27:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 14:59:25 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 16:27:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why America still longs for monarchy]]></title>
+            <description><![CDATA[By Daniel McCarthy]]></description>
+            <link>https://spectator.com/article/why-america-still-longs-for-monarchy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-america-still-longs-for-monarchy/</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 16:27:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gordon Ramsay and the tyranny of the restaurant service charge]]></title>
             <description><![CDATA[What a tip]]></description>
@@ -18,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[Soft left to ‘soft launch’ programme]]></title>
-            <description><![CDATA[By Steerpike]]></description>
+            <description><![CDATA[Exclusive]]></description>
             <link>https://spectator.com/article/soft-left-to-soft-launch-programme/</link>
             <guid isPermaLink="true">https://spectator.com/article/soft-left-to-soft-launch-programme/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -90,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Net zero and the myth of German efficiency]]></title>
-            <description><![CDATA[Energiewende]]></description>
+            <description><![CDATA[By Leon Mangasarian]]></description>
             <link>https://spectator.com/article/net-zero-and-the-myth-of-german-efficiency/</link>
             <guid isPermaLink="true">https://spectator.com/article/net-zero-and-the-myth-of-german-efficiency/</guid>
             <dc:creator><![CDATA[Leon Mangasarian]]></dc:creator>
@@ -3999,14 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/ozempics-ruined-easter/</guid>
             <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 04:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has triggered a wave of European soul-searching]]></title>
-            <description><![CDATA[By Patrick Gibbons]]></description>
-            <link>https://spectator.com/article/trump-has-triggered-a-wave-of-european-soul-searching/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-has-triggered-a-wave-of-european-soul-searching/</guid>
-            <dc:creator><![CDATA[Patrick Gibbons]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 15:33:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

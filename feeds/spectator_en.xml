@@ -4,13 +4,29 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 16:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 18:01:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 16:27:45 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 18:01:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What is the argument for keeping Keir Starmer?]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/what-is-the-argument-for-keeping-keir-starmer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-is-the-argument-for-keeping-keir-starmer/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 18:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this what Lord Hermer really thinks about Britain?]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/is-this-what-lord-hermer-really-thinks-about-the-uk/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-this-what-lord-hermer-really-thinks-about-the-uk/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 18:01:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why America still longs for monarchy]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
+            <description><![CDATA[Unbought grace]]></description>
             <link>https://spectator.com/article/why-america-still-longs-for-monarchy/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-america-still-longs-for-monarchy/</guid>
             <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
@@ -66,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Oxford’s grand new building reveals the university’s misplaced priorities]]></title>
-            <description><![CDATA[Education]]></description>
+            <description><![CDATA[By Melanie McDonagh]]></description>
             <link>https://spectator.com/article/oxfords-grand-new-building-reveals-the-universitys-misplaced-priorities/</link>
             <guid isPermaLink="true">https://spectator.com/article/oxfords-grand-new-building-reveals-the-universitys-misplaced-priorities/</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
@@ -146,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[Britain has a Prime Minister problem]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
+            <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/britain-has-a-prime-minister-problem/</link>
             <guid isPermaLink="true">https://spectator.com/article/britain-has-a-prime-minister-problem/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
@@ -154,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[The targeting of Trump tells its own tale]]></title>
-            <description><![CDATA[Disunited States]]></description>
+            <description><![CDATA[By Jawad Iqbal]]></description>
             <link>https://spectator.com/article/the-targeting-of-trump-tells-its-own-tale/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-targeting-of-trump-tells-its-own-tale/</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
@@ -3991,22 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/londons-st-jamess-is-losing-its-soul/</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 05:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spare us the girls’ weekend, Meghan]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/spare-us-the-girls-weekend-meghan/</link>
-            <guid isPermaLink="true">https://spectator.com/article/spare-us-the-girls-weekend-meghan/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 04:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ozempic has ruined Easter]]></title>
-            <description><![CDATA[By Julie Bindel]]></description>
-            <link>https://spectator.com/article/ozempics-ruined-easter/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ozempics-ruined-easter/</guid>
-            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 04:09:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

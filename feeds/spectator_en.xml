@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 12:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 14:59:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 12:17:13 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 14:59:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gordon Ramsay and the tyranny of the restaurant service charge]]></title>
+            <description><![CDATA[What a tip]]></description>
+            <link>https://spectator.com/article/the-tyranny-of-the-restaurant-service-charge/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tyranny-of-the-restaurant-service-charge/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 14:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soft left to ‘soft launch’ programme]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/soft-left-to-soft-launch-programme/</link>
+            <guid isPermaLink="true">https://spectator.com/article/soft-left-to-soft-launch-programme/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 14:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Politics is making us more unhealthy]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/politics-is-making-us-more-unhealthy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/politics-is-making-us-more-unhealthy/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 14:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump has a choice to make on Iran]]></title>
+            <description><![CDATA[By Jonathan Spyer]]></description>
+            <link>https://spectator.com/article/trump-must-up-the-pressure-if-he-wants-to-win-against-iran/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-must-up-the-pressure-if-he-wants-to-win-against-iran/</guid>
+            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 14:59:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The allure of bullfighting]]></title>
             <description><![CDATA[By Mike Jakeman]]></description>
@@ -106,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Britain has a Prime Minister problem]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Sam Leith]]></description>
             <link>https://spectator.com/article/britain-has-a-prime-minister-problem/</link>
             <guid isPermaLink="true">https://spectator.com/article/britain-has-a-prime-minister-problem/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
@@ -114,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[The targeting of Trump tells its own tale]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
+            <description><![CDATA[Disunited States]]></description>
             <link>https://spectator.com/article/the-targeting-of-trump-tells-its-own-tale/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-targeting-of-trump-tells-its-own-tale/</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
@@ -3975,38 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/trump-has-triggered-a-wave-of-european-soul-searching/</guid>
             <dc:creator><![CDATA[Patrick Gibbons]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 15:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The fate of the Iran war lies in the Strait of Hormuz]]></title>
-            <description><![CDATA[By Jonathan Spyer]]></description>
-            <link>https://spectator.com/article/the-fate-of-the-iran-war-lies-in-the-strait-of-hormuz/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-fate-of-the-iran-war-lies-in-the-strait-of-hormuz/</guid>
-            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 15:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Met police went soft on crime]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/why-the-met-police-went-soft-on-crime/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-met-police-went-soft-on-crime/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 15:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth behind Miliband’s North Sea drilling U-turn]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/the-truth-behind-milibands-north-sea-drilling-u-turn/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-behind-milibands-north-sea-drilling-u-turn/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 11:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is what Trump means by ‘victory’ in Iran]]></title>
-            <description><![CDATA[By Irwin Stelzer]]></description>
-            <link>https://spectator.com/article/this-is-what-trump-means-by-victory-in-iran/</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-is-what-trump-means-by-victory-in-iran/</guid>
-            <dc:creator><![CDATA[Irwin Stelzer]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 10:35:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

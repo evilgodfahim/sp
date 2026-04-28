@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 08:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 10:56:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 08:09:29 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 10:56:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why has Trump turned on India?]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/why-has-trump-turned-on-india/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-has-trump-turned-on-india/?edition=us</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 10:56:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We all know how Cole Tomas Allen was radicalized]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/we-all-know-how-cole-tomas-allen-was-radicalized/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-all-know-how-cole-tomas-allen-was-radicalized/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 10:56:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The targeting of Trump tells its own tale]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 15:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 17:40:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 15:19:36 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 17:40:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[British Ambassador torpedoes King’s state visit]]></title>
+            <description><![CDATA[America]]></description>
+            <link>https://spectator.com/article/british-ambassador-torpedoes-starmers-state-visit/</link>
+            <guid isPermaLink="true">https://spectator.com/article/british-ambassador-torpedoes-starmers-state-visit/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 17:40:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Morgan McSweeney’s mea culpa]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -18,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[Why the Greens have a problem with alcohol]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
+            <description><![CDATA[House whine]]></description>
             <link>https://spectator.com/article/why-hannah-spencer-is-uneasy-about-alcohol/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-hannah-spencer-is-uneasy-about-alcohol/</guid>
             <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
@@ -42,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Ex-mandarin eviscerates PM’s claims on Mandy appointment]]></title>
-            <description><![CDATA[Sir Humphrey]]></description>
+            <description><![CDATA[By Steerpike]]></description>
             <link>https://spectator.com/article/ex-mandarin-eviscerates-pms-claims-on-mandy-appointment/</link>
             <guid isPermaLink="true">https://spectator.com/article/ex-mandarin-eviscerates-pms-claims-on-mandy-appointment/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -98,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Lawfare poses a grave risk to Britain’s military]]></title>
-            <description><![CDATA[Warfare]]></description>
+            <description><![CDATA[By David Petraeus]]></description>
             <link>https://spectator.com/article/lawfare-poses-a-grave-risk-to-britains-military/</link>
             <guid isPermaLink="true">https://spectator.com/article/lawfare-poses-a-grave-risk-to-britains-military/</guid>
             <dc:creator><![CDATA[David Petraeus]]></dc:creator>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/religion-has-been-resurrected-in-british-politics/?homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/religion-has-been-resurrected-in-british-politics/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 07:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Israel is introducing the death penalty]]></title>
-            <description><![CDATA[Terror]]></description>
-            <link>https://spectator.com/article/why-israel-is-introducing-the-death-penalty/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-israel-is-introducing-the-death-penalty/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 07:51:10 GMT</pubDate>
         </item>
     </channel>

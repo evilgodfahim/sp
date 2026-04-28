@@ -4,12 +4,28 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 10:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 12:22:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 10:56:08 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 12:22:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Drug deaths could rise under PM Polanski]]></title>
+            <title><![CDATA[Watch: Morgan McSweeney’s mea culpa]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-morgan-mcsweeneys-mea-culpa/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-morgan-mcsweeneys-mea-culpa/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 12:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Greens have a problem with alcohol]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/why-hannah-spencer-is-uneasy-about-alcohol/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-hannah-spencer-is-uneasy-about-alcohol/</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 12:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How drug deaths could rise under PM Polanski]]></title>
             <description><![CDATA[By John Power]]></description>
             <link>https://spectator.com/article/drug-deaths-would-only-rise-under-pm-polanski/</link>
             <guid isPermaLink="true">https://spectator.com/article/drug-deaths-would-only-rise-under-pm-polanski/</guid>
@@ -26,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Ex-mandarin eviscerates PM’s claims on Mandy appointment]]></title>
-            <description><![CDATA[By Steerpike]]></description>
+            <description><![CDATA[Sir Humphrey]]></description>
             <link>https://spectator.com/article/ex-mandarin-eviscerates-pms-claims-on-mandy-appointment/</link>
             <guid isPermaLink="true">https://spectator.com/article/ex-mandarin-eviscerates-pms-claims-on-mandy-appointment/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -122,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Why is Rachel Reeves flirting with rent controls?]]></title>
-            <description><![CDATA[Frozen out]]></description>
+            <description><![CDATA[By Michael Simmons]]></description>
             <link>https://spectator.com/article/rachel-reeves-may-have-lost-the-plot-the-guardian-reports-that-the-chancellor-is-considering-a-one-year-rent-freeze-on-private-sector-flats-and-houses-in-england/</link>
             <guid isPermaLink="true">https://spectator.com/article/rachel-reeves-may-have-lost-the-plot-the-guardian-reports-that-the-chancellor-is-considering-a-one-year-rent-freeze-on-private-sector-flats-and-houses-in-england/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
@@ -3991,22 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/why-israel-is-introducing-the-death-penalty/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 07:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What David Attenborough gets wrong about cats]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
-            <link>https://spectator.com/article/what-david-attenborough-gets-wrong-about-cats/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-david-attenborough-gets-wrong-about-cats/</guid>
-            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 06:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What we really know about the first Easter]]></title>
-            <description><![CDATA[By Michael Coren]]></description>
-            <link>https://spectator.com/article/what-we-really-know-about-the-first-easter/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-we-really-know-about-the-first-easter/</guid>
-            <dc:creator><![CDATA[Michael Coren]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 06:10:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

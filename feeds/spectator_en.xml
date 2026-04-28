@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 02:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 05:51:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 02:05:03 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The joy of liquorice]]></title>
+            <description><![CDATA[Notes on...]]></description>
+            <link>https://spectator.com/article/the-joy-of-liquorice/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-joy-of-liquorice/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Peter Bear]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People need to calm down about Nigel Farage’s bitcoin wheeze]]></title>
+            <description><![CDATA[Any other business]]></description>
+            <link>https://spectator.com/article/people-need-to-calm-down-about-nigel-farages-bitcoin-wheeze/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/people-need-to-calm-down-about-nigel-farages-bitcoin-wheeze/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lawfare poses a grave risk to Britain’s military]]></title>
+            <description><![CDATA[Warfare]]></description>
+            <link>https://spectator.com/article/lawfare-poses-a-grave-risk-to-britains-military/</link>
+            <guid isPermaLink="true">https://spectator.com/article/lawfare-poses-a-grave-risk-to-britains-military/</guid>
+            <dc:creator><![CDATA[David Petraeus]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finland’s sad secret to happiness]]></title>
+            <description><![CDATA[Life lessons]]></description>
+            <link>https://spectator.com/article/finlands-found-the-sad-secret-to-happiness/</link>
+            <guid isPermaLink="true">https://spectator.com/article/finlands-found-the-sad-secret-to-happiness/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Waitrose must leave bad taste in the Eighties]]></title>
+            <description><![CDATA[Eat to excess]]></description>
+            <link>https://spectator.com/article/waitrose-must-leave-bad-taste-in-the-eighties/</link>
+            <guid isPermaLink="true">https://spectator.com/article/waitrose-must-leave-bad-taste-in-the-eighties/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Rolling Stones keep rocking]]></title>
+            <description><![CDATA[Steel wheels]]></description>
+            <link>https://spectator.com/article/how-the-rolling-stones-keep-rocking/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-rolling-stones-keep-rocking/</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unlikely link between Nuremberg and The Devil Wears Prada]]></title>
+            <description><![CDATA[Author’s notebook]]></description>
+            <link>https://spectator.com/article/the-unlikely-link-between-nuremberg-and-the-devil-wears-prada/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-unlikely-link-between-nuremberg-and-the-devil-wears-prada/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Natalie Livingstone]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is Rachel Reeves flirting with rent controls?]]></title>
             <description><![CDATA[By Michael Simmons]]></description>
@@ -18,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[What is the argument for keeping Keir Starmer?]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
+            <description><![CDATA[Privileges Committee]]></description>
             <link>https://spectator.com/article/what-is-the-argument-for-keeping-keir-starmer/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-is-the-argument-for-keeping-keir-starmer/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -34,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Why America still longs for monarchy]]></title>
-            <description><![CDATA[Unbought grace]]></description>
+            <description><![CDATA[By Daniel McCarthy]]></description>
             <link>https://spectator.com/article/why-america-still-longs-for-monarchy/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-america-still-longs-for-monarchy/</guid>
             <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
@@ -42,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Gordon Ramsay and the tyranny of the restaurant service charge]]></title>
-            <description><![CDATA[What a tip]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/the-tyranny-of-the-restaurant-service-charge/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-tyranny-of-the-restaurant-service-charge/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -50,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Soft left to ‘soft launch’ programme]]></title>
-            <description><![CDATA[Exclusive]]></description>
+            <description><![CDATA[By Steerpike]]></description>
             <link>https://spectator.com/article/soft-left-to-soft-launch-programme/</link>
             <guid isPermaLink="true">https://spectator.com/article/soft-left-to-soft-launch-programme/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -66,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Trump has a choice to make on Iran]]></title>
-            <description><![CDATA[By Jonathan Spyer]]></description>
+            <description><![CDATA[War]]></description>
             <link>https://spectator.com/article/trump-must-up-the-pressure-if-he-wants-to-win-against-iran/</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-must-up-the-pressure-if-he-wants-to-win-against-iran/</guid>
             <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
@@ -138,7 +194,7 @@
         </item>
         <item>
             <title><![CDATA[London’s dystopian ‘cocoon’ hotels]]></title>
-            <description><![CDATA[Suite dreams]]></description>
+            <description><![CDATA[By Tanya Gold]]></description>
             <link>https://spectator.com/article/londons-dystopian-cocoon-hotels/</link>
             <guid isPermaLink="true">https://spectator.com/article/londons-dystopian-cocoon-hotels/</guid>
             <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
@@ -146,7 +202,7 @@
         </item>
         <item>
             <title><![CDATA[I hate gastropubs]]></title>
-            <description><![CDATA[Last orders]]></description>
+            <description><![CDATA[By Julie Bindel]]></description>
             <link>https://spectator.com/article/i-hate-gastropubs/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-hate-gastropubs/</guid>
             <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
@@ -154,7 +210,7 @@
         </item>
         <item>
             <title><![CDATA[Why are cows a TikTok sensation?]]></title>
-            <description><![CDATA[High steaks]]></description>
+            <description><![CDATA[By Chas Newkey-Burden]]></description>
             <link>https://spectator.com/article/why-are-cows-a-tiktok-sensation/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-are-cows-a-tiktok-sensation/</guid>
             <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
@@ -506,7 +562,7 @@
         </item>
         <item>
             <title><![CDATA[People need to calm down about Nigel Farage’s bitcoin wheeze]]></title>
-            <description><![CDATA[By Martin Vander Weyer]]></description>
+            <description><![CDATA[Any other business]]></description>
             <link>https://spectator.com/article/people-need-to-calm-down-about-nigel-farages-bitcoin-wheeze/</link>
             <guid isPermaLink="true">https://spectator.com/article/people-need-to-calm-down-about-nigel-farages-bitcoin-wheeze/</guid>
             <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
@@ -802,7 +858,7 @@
         </item>
         <item>
             <title><![CDATA[The unlikely link between Nuremberg and The Devil Wears Prada]]></title>
-            <description><![CDATA[By Natalie Livingstone]]></description>
+            <description><![CDATA[Author’s notebook]]></description>
             <link>https://spectator.com/article/the-unlikely-link-between-nuremberg-and-the-devil-wears-prada/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-unlikely-link-between-nuremberg-and-the-devil-wears-prada/</guid>
             <dc:creator><![CDATA[Natalie Livingstone]]></dc:creator>
@@ -874,7 +930,7 @@
         </item>
         <item>
             <title><![CDATA[How Gaza became one of the biggest issues of the local elections]]></title>
-            <description><![CDATA[Independents’ day]]></description>
+            <description><![CDATA[By Robin Simcox]]></description>
             <link>https://spectator.com/article/how-gaza-became-one-of-the-biggest-issues-of-the-local-elections/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-gaza-became-one-of-the-biggest-issues-of-the-local-elections/</guid>
             <dc:creator><![CDATA[Robin Simcox]]></dc:creator>
@@ -882,7 +938,7 @@
         </item>
         <item>
             <title><![CDATA[The joy of liquorice]]></title>
-            <description><![CDATA[By Peter Bear]]></description>
+            <description><![CDATA[Notes on...]]></description>
             <link>https://spectator.com/article/the-joy-of-liquorice/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-joy-of-liquorice/</guid>
             <dc:creator><![CDATA[Peter Bear]]></dc:creator>
@@ -3951,62 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/do-you-have-the-patience-to-own-an-ev/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 06:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reform should be wary of Farage fatigue]]></title>
-            <description><![CDATA[Overfamiliar]]></description>
-            <link>https://spectator.com/article/reform-should-be-wary-of-farage-fatigue/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/reform-should-be-wary-of-farage-fatigue/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Andy Coulson]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 06:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is what Trump means by ‘victory’ in Iran]]></title>
-            <description><![CDATA[War]]></description>
-            <link>https://spectator.com/article/this-is-what-trump-means-by-victory-in-iran/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-is-what-trump-means-by-victory-in-iran/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Irwin Stelzer]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 06:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth behind Miliband’s North Sea drilling U-turn]]></title>
-            <description><![CDATA[Net zero]]></description>
-            <link>https://spectator.com/article/the-truth-behind-milibands-north-sea-drilling-u-turn/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-behind-milibands-north-sea-drilling-u-turn/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 06:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it time to scrub Andrew from the line of succession?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/is-it-time-to-scrub-andrew-from-the-line-of-succession/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-it-time-to-scrub-andrew-from-the-line-of-succession/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 05:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s oil sanctions relief is a precious gift for Putin]]></title>
-            <description><![CDATA[By Alexander Kolyandr]]></description>
-            <link>https://spectator.com/article/trumps-oil-sanctions-relief-is-a-precious-gift-for-putin/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-oil-sanctions-relief-is-a-precious-gift-for-putin/</guid>
-            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 05:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain needs better missile defences]]></title>
-            <description><![CDATA[By Will Freer]]></description>
-            <link>https://spectator.com/article/britain-needs-better-missile-defences/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-needs-better-missile-defences/</guid>
-            <dc:creator><![CDATA[Will Freer]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 05:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The remarkable resilience of Israeli art]]></title>
-            <description><![CDATA[By Bennett Tucker]]></description>
-            <link>https://spectator.com/article/the-remarkable-resilience-of-israeli-art/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-remarkable-resilience-of-israeli-art/</guid>
-            <dc:creator><![CDATA[Bennett Tucker]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 05:51:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

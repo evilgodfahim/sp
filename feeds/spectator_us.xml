@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 19:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 21:00:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 19:21:44 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 21:00:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The King’s speech: disagreement should not become divorce]]></title>
+            <description><![CDATA[By Lee Cohen]]></description>
+            <link>https://spectator.com/article/the-kings-speech-disagreement-should-not-become-divorce/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-kings-speech-disagreement-should-not-become-divorce/?edition=us</guid>
+            <dc:creator><![CDATA[Lee Cohen]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 21:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charles III delights ‘No Kings’ Democrats]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/charles-iii-delights-no-kings-democrats/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/charles-iii-delights-no-kings-democrats/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 21:00:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A royal reunion]]></title>
             <description><![CDATA[By Cockburn]]></description>

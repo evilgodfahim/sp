@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 17:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 19:21:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 17:40:38 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 19:21:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Starmer’s long goodbye]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/the-slow-political-death-of-sir-keir-starmer-continued-again-today-westminster-must-increasingly-resemble-a-torture-chamber-for-the-prime-minister/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-slow-political-death-of-sir-keir-starmer-continued-again-today-westminster-must-increasingly-resemble-a-torture-chamber-for-the-prime-minister/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 19:21:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[British Ambassador torpedoes King’s state visit]]></title>
             <description><![CDATA[America]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/iran-has-offered-trump-an-olive-branch/</link>
             <guid isPermaLink="true">https://spectator.com/article/iran-has-offered-trump-an-olive-branch/</guid>
             <dc:creator><![CDATA[Nicholas Hopton]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 07:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Religion has been resurrected in British politics]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/religion-has-been-resurrected-in-british-politics/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/religion-has-been-resurrected-in-british-politics/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 07:51:10 GMT</pubDate>
         </item>
     </channel>

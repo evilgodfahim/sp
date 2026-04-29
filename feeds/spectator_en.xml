@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 17:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 19:11:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 17:19:13 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 19:11:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Fight for the Right]]></title>
+            <description><![CDATA[By The Spectator]]></description>
+            <link>https://spectator.com/article/the-fight-for-the-right/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-fight-for-the-right/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 19:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why America’s democracy needs the British monarchy]]></title>
+            <description><![CDATA[By Michael Auslin]]></description>
+            <link>https://spectator.com/article/for-america-britain-truly-is-special/</link>
+            <guid isPermaLink="true">https://spectator.com/article/for-america-britain-truly-is-special/</guid>
+            <dc:creator><![CDATA[Michael Auslin]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 19:11:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why won’t Starmer take the safety of Britain’s Jews seriously?]]></title>
             <description><![CDATA[By Jonathan Sacerdoti]]></description>
@@ -3990,22 +4006,6 @@
             <link>https://spectator.com/article/bovrils-infallible-power/</link>
             <guid isPermaLink="true">https://spectator.com/article/bovrils-infallible-power/</guid>
             <dc:creator><![CDATA[Richard Crampton Platt]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 04:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should men wear jewellery?]]></title>
-            <description><![CDATA[By Sybilla Hart]]></description>
-            <link>https://spectator.com/article/the-rich-mans-guide-to-jewellery/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rich-mans-guide-to-jewellery/</guid>
-            <dc:creator><![CDATA[Sybilla Hart]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 04:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Constable should be on a banknote]]></title>
-            <description><![CDATA[By Alec Marsh]]></description>
-            <link>https://spectator.com/article/constable-should-be-on-a-banknote-2/</link>
-            <guid isPermaLink="true">https://spectator.com/article/constable-should-be-on-a-banknote-2/</guid>
-            <dc:creator><![CDATA[Alec Marsh]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 04:27:06 GMT</pubDate>
         </item>
     </channel>

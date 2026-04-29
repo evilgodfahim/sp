@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 17:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 19:11:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 17:19:07 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 19:11:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Finland’s sad secret to happiness]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/finlands-found-the-sad-secret-to-happiness/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/finlands-found-the-sad-secret-to-happiness/?edition=us</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 19:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The spies who are loved]]></title>
+            <description><![CDATA[By Travis Aaroe]]></description>
+            <link>https://spectator.com/article/spies-loved-james-comey/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/spies-loved-james-comey/?edition=us</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 19:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Golders Green atrocity is the final straw]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/the-golders-green-atrocity-is-the-final-straw/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-golders-green-atrocity-is-the-final-straw/?edition=us</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 19:11:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why America’s democracy needs the British monarchy]]></title>
             <description><![CDATA[By Michael Auslin]]></description>

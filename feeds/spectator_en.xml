@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 05:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 08:02:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 05:46:49 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 08:02:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The end is nigh for Opec]]></title>
+            <description><![CDATA[By Damien Phillips]]></description>
+            <link>https://spectator.com/article/the-end-is-nigh-for-opec/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-end-is-nigh-for-opec/</guid>
+            <dc:creator><![CDATA[Damien Phillips]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 08:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are women so anti-nuclear?]]></title>
+            <description><![CDATA[By Sam Dumitriu]]></description>
+            <link>https://spectator.com/article/why-are-women-so-anti-nuclear/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-are-women-so-anti-nuclear/</guid>
+            <dc:creator><![CDATA[Sam Dumitriu]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 08:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is ChatGPT losing its shine?]]></title>
+            <description><![CDATA[By Simon Hunt]]></description>
+            <link>https://spectator.com/article/is-chatgpt-losing-its-shine/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-chatgpt-losing-its-shine/</guid>
+            <dc:creator><![CDATA[Simon Hunt]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 08:02:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Airbnb killed off the B&B]]></title>
             <description><![CDATA[Half board]]></description>
@@ -3983,30 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/hell-is-a-national-trust-cafe/</guid>
             <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 04:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Céline Dion doesn’t do politics]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/celine-dion-doesnt-do-politics/</link>
-            <guid isPermaLink="true">https://spectator.com/article/celine-dion-doesnt-do-politics/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 04:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scrapping jury trials will cost us all]]></title>
-            <description><![CDATA[By Andi Hoxhaj]]></description>
-            <link>https://spectator.com/article/scrapping-jury-trials-will-cost-us-all/</link>
-            <guid isPermaLink="true">https://spectator.com/article/scrapping-jury-trials-will-cost-us-all/</guid>
-            <dc:creator><![CDATA[Andi Hoxhaj]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 04:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A look at The Spectator’s Easter broadcast offering]]></title>
-            <description><![CDATA[By Patrick Gibbons]]></description>
-            <link>https://spectator.com/article/the-spectators-easter-broadcast-offering/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-spectators-easter-broadcast-offering/</guid>
-            <dc:creator><![CDATA[Patrick Gibbons]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 15:24:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

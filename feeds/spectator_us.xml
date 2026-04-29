@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 12:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 15:05:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 12:11:54 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 15:05:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The inverted imperialism of the royal visit]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/the-inverted-imperialism-of-the-royal-visit/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-inverted-imperialism-of-the-royal-visit/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 15:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adieu, Dinosaur the pigeon]]></title>
+            <description><![CDATA[New York life]]></description>
+            <link>https://spectator.com/article/adieu-dinosaur-the-pigeon/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/adieu-dinosaur-the-pigeon/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 15:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The politicization of everything]]></title>
+            <description><![CDATA[Taking liberties]]></description>
+            <link>https://spectator.com/article/the-politicization-of-everything/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-politicization-of-everything/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 15:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The inverted imperialism of the royal visit]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/the-inverted-imperialism-of-the-royal-visit/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-inverted-imperialism-of-the-royal-visit/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 15:05:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is OpenAI losing its shine?]]></title>
             <description><![CDATA[By Simon Hunt]]></description>
@@ -17,7 +49,7 @@
             <pubDate>Wed, 29 Apr 2026 12:11:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Monarchy vs Mamdani]]></title>
+            <title><![CDATA[Mamdani vs monarchy]]></title>
             <description><![CDATA[By Peter Wood]]></description>
             <link>https://spectator.com/article/zohran-mamdani-charles-iii-idea-british-crown/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/zohran-mamdani-charles-iii-idea-british-crown/?edition=us</guid>

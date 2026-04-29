@@ -4,12 +4,20 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 10:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 12:11:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 10:48:23 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 12:11:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Róisín Murphy and corrosiveness of cancel culture in the arts]]></title>
+            <title><![CDATA[Why is the Barmy Army disowning this Reform candidate?]]></title>
+            <description><![CDATA[By Michael Henderson]]></description>
+            <link>https://spectator.com/article/why-is-the-barmy-army-disowning-this-reform-candidate/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-the-barmy-army-disowning-this-reform-candidate/</guid>
+            <dc:creator><![CDATA[Michael Henderson]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 12:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Róisín Murphy and the corrosiveness of cancel culture in the arts]]></title>
             <description><![CDATA[By Brendan O’Neill]]></description>
             <link>https://spectator.com/article/roisin-murphy-and-corrosiveness-of-cancel-culture-in-the-arts/</link>
             <guid isPermaLink="true">https://spectator.com/article/roisin-murphy-and-corrosiveness-of-cancel-culture-in-the-arts/</guid>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/the-man-who-rescued-the-notre-dame/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/the-man-who-rescued-the-notre-dame/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Calvin Po]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 08:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Easter tradition of women taking men hostage]]></title>
-            <description><![CDATA[Hocktide]]></description>
-            <link>https://spectator.com/article/the-easter-tradition-of-women-taking-men-hostage/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-easter-tradition-of-women-taking-men-hostage/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Francis Young]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 08:19:06 GMT</pubDate>
         </item>
     </channel>

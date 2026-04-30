@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 15:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 17:10:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 17:10:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Zack Polanski’s shameful reaction to the Golders Green arrest]]></title>
+            <description><![CDATA[By Laurie Wastell]]></description>
+            <link>https://spectator.com/article/zack-polanskis-shameful-reaction-to-the-golders-green-arrest/</link>
+            <guid isPermaLink="true">https://spectator.com/article/zack-polanskis-shameful-reaction-to-the-golders-green-arrest/</guid>
+            <dc:creator><![CDATA[Laurie Wastell]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 17:10:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does Mamdani want the King to return the Koh-i-Noor?]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/why-does-mamdani-want-the-king-to-return-the-koh-i-noor/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-does-mamdani-want-the-king-to-return-the-koh-i-noor/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 17:10:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia has failed to unload stolen Ukrainian grain in Israel]]></title>
+            <description><![CDATA[By Svitlana Morenets]]></description>
+            <link>https://spectator.com/article/russia-has-failed-to-unload-stolen-ukrainian-grain-in-israel/</link>
+            <guid isPermaLink="true">https://spectator.com/article/russia-has-failed-to-unload-stolen-ukrainian-grain-in-israel/</guid>
+            <dc:creator><![CDATA[Svitlana Morenets]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 17:10:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Streeting ready to be PM?]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/is-streeting-ready-to-be-pm/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-streeting-ready-to-be-pm/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 17:10:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Worried your child is being radicalised? Try this tip]]></title>
             <description><![CDATA[By Toby Young]]></description>
@@ -3975,38 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/the-dubious-rise-of-tariq-ramadan/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Tate show with dreamy, elusive power]]></title>
-            <description><![CDATA[One of the miracles of art history is how painting, so often written off, keeps on coming back. Right now we are in the middle of just such a resurgence, and one sign of the current vitality of the medium is the emergence of painters such as Hurvin Anderson. Admittedly, Anderson – who was born]]></description>
-            <link>https://spectator.com/article/a-tate-show-with-dreamy-elusive-power/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-tate-show-with-dreamy-elusive-power/</guid>
-            <dc:creator><![CDATA[Martin Gayford]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBO Max isn’t worth subscribing to]]></title>
-            <description><![CDATA[Television]]></description>
-            <link>https://spectator.com/article/hbo-max-isnt-worth-subscribing-to/</link>
-            <guid isPermaLink="true">https://spectator.com/article/hbo-max-isnt-worth-subscribing-to/</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t blame Kanye for his abject idiocy]]></title>
-            <description><![CDATA[The Listener]]></description>
-            <link>https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The National Theatre needs help]]></title>
-            <description><![CDATA[Theatre]]></description>
-            <link>https://spectator.com/article/the-national-theatre-needs-help/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-national-theatre-needs-help/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

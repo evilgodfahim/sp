@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 02:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 05:50:56 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 02:06:44 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 05:50:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Trump will resume bombing Iran]]></title>
+            <description><![CDATA[By Charles Lipson]]></description>
+            <link>https://spectator.com/article/why-trump-will-resume-bombing-iran/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-trump-will-resume-bombing-iran/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 05:50:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finland’s sad secret to happiness]]></title>
             <description><![CDATA[By Patrick West]]></description>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 08:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 10:47:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 08:06:21 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 10:47:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lineker’s curious silence on Golders Green attack]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/linekers-curious-silence-on-golders-green-attack/</link>
+            <guid isPermaLink="true">https://spectator.com/article/linekers-curious-silence-on-golders-green-attack/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 10:47:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Does Scotland really have too few migrants?]]></title>
             <description><![CDATA[By Philip Patrick]]></description>
@@ -3999,14 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/theres-no-denying-the-scottish-greens-ascendance/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 16:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the Taco presidency]]></title>
-            <description><![CDATA[By Paul Wood]]></description>
-            <link>https://spectator.com/article/trumps-is-the-taco-presidency/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-is-the-taco-presidency/</guid>
-            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 15:03:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

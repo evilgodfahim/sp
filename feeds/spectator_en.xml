@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 10:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 12:09:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 10:47:37 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 12:09:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is life expectancy really falling?]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/is-life-expectancy-really-falling/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-life-expectancy-really-falling/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 12:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bank of England holds interest rates – for now]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/the-bank-of-england-holds-interest-rates-for-now/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-bank-of-england-holds-interest-rates-for-now/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 12:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The long march of the Ukippers]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/the-long-march-of-the-ukippers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-long-march-of-the-ukippers/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 12:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump is too busy with himself to notice the chaos around him]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/trump-is-too-busy-with-himself-to-notice-the-chaos-around-him/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-is-too-busy-with-himself-to-notice-the-chaos-around-him/</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 12:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hannah Spencer is not the first MP to campaign against alcohol]]></title>
+            <description><![CDATA[By Andy Twelves]]></description>
+            <link>https://spectator.com/article/hannah-spencer-is-not-the-first-mp-to-campaign-against-alcohol/</link>
+            <guid isPermaLink="true">https://spectator.com/article/hannah-spencer-is-not-the-first-mp-to-campaign-against-alcohol/</guid>
+            <dc:creator><![CDATA[Andy Twelves]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 12:09:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lineker’s curious silence on Golders Green attack]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -3967,46 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/let-teenage-boys-discover-the-english-countryside/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer must drop this terrible Troubles bill]]></title>
-            <description><![CDATA[By Nick Parker]]></description>
-            <link>https://spectator.com/article/starmer-must-drop-this-terrible-troubles-bill/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-must-drop-this-terrible-troubles-bill/</guid>
-            <dc:creator><![CDATA[Nick Parker]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[De Gaulle or nothing: lessons from the General]]></title>
-            <description><![CDATA[By Ben Judah]]></description>
-            <link>https://spectator.com/article/de-gaulle-or-nothing-lessons-from-the-general/</link>
-            <guid isPermaLink="true">https://spectator.com/article/de-gaulle-or-nothing-lessons-from-the-general/</guid>
-            <dc:creator><![CDATA[Ben Judah]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is time up for Viktor Orban?]]></title>
-            <description><![CDATA[By William Atkinson]]></description>
-            <link>https://spectator.com/article/is-time-up-for-viktor-orban/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-time-up-for-viktor-orban/</guid>
-            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sex, Bacon and bad haircuts: Cecily Brown is back]]></title>
-            <description><![CDATA[Cecily Brown, like pop art, moved from Britain to America and found an audience. Picture Making, her new show at Serpentine South Gallery, is a return to the country of her birth – her first solo exhibition here since 2005. Brown has steered clear of art movements. But she has a reverential attitude toward art history]]></description>
-            <link>https://spectator.com/article/sex-bacon-and-bad-haircuts-cecily-brown-is-back/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sex-bacon-and-bad-haircuts-cecily-brown-is-back/</guid>
-            <dc:creator><![CDATA[George Morony]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s no denying the Scottish Greens’ ascendance]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/theres-no-denying-the-scottish-greens-ascendance/</link>
-            <guid isPermaLink="true">https://spectator.com/article/theres-no-denying-the-scottish-greens-ascendance/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 16:52:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

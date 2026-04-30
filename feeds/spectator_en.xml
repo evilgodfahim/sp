@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 12:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 15:01:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 12:09:45 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Worried your child is being radicalised? Try this tip]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/worried-your-child-is-being-radicalised-try-this-tip/</link>
+            <guid isPermaLink="true">https://spectator.com/article/worried-your-child-is-being-radicalised-try-this-tip/</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the country ready for Chancellor Ed Miliband?]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/is-the-country-ready-for-chancellor-ed-miliband/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-country-ready-for-chancellor-ed-miliband/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Worried your child is being radicalised? Try this tip]]></title>
+            <description><![CDATA[No sacred cows]]></description>
+            <link>https://spectator.com/article/worried-your-child-is-being-radicalised-try-this-tip/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/worried-your-child-is-being-radicalised-try-this-tip/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My miracle match against the Vatican’s cricket team]]></title>
+            <description><![CDATA[Test of faith]]></description>
+            <link>https://spectator.com/article/my-miracle-match-against-the-vaticans-cricket-team/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-miracle-match-against-the-vaticans-cricket-team/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Thomas Steventon]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People who say it’s no good throwing money at a problem have never been poor]]></title>
+            <description><![CDATA[Still life]]></description>
+            <link>https://spectator.com/article/people-who-say-its-no-good-throwing-money-at-a-problem-have-never-been-poor/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/people-who-say-its-no-good-throwing-money-at-a-problem-have-never-been-poor/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The problem with Labour’s toddler screen-time guidance]]></title>
+            <description><![CDATA[By Kristina ﻿Murkett]]></description>
+            <link>https://spectator.com/article/the-problem-with-labours-toddler-screen-time-guidance/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-labours-toddler-screen-time-guidance/</guid>
+            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The secret to Rupert Murdoch’s strength]]></title>
+            <description><![CDATA[Diary]]></description>
+            <link>https://spectator.com/article/the-secret-to-rupert-murdochs-strength/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-secret-to-rupert-murdochs-strength/</guid>
+            <dc:creator><![CDATA[Kelvin MacKenzie]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is life expectancy really falling?]]></title>
             <description><![CDATA[By John Power]]></description>
@@ -82,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[My night under fire at the White House correspondents’ dinner]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
+            <description><![CDATA[US politics]]></description>
             <link>https://spectator.com/article/my-night-under-fire-at-the-white-house-correspondents-dinner/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-night-under-fire-at-the-white-house-correspondents-dinner/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -274,7 +330,7 @@
         </item>
         <item>
             <title><![CDATA[Is the country ready for Chancellor Ed Miliband?]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Tim Shipman]]></description>
             <link>https://spectator.com/article/is-the-country-ready-for-chancellor-ed-miliband/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-the-country-ready-for-chancellor-ed-miliband/</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
@@ -3950,62 +4006,6 @@
             <link>https://spectator.com/article/the-national-theatre-needs-help/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-national-theatre-needs-help/</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unrelentingly entertaining: Basement Jaxx reviewed]]></title>
-            <description><![CDATA[By Graeme Thomson]]></description>
-            <link>https://spectator.com/article/unrelentingly-entertaining-basement-jaxx-reviewed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/unrelentingly-entertaining-basement-jaxx-reviewed/</guid>
-            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An outstanding Turn of the Screw]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/an-outstanding-turn-of-the-screw/</link>
-            <guid isPermaLink="true">https://spectator.com/article/an-outstanding-turn-of-the-screw/</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A hypnotic new adaptation of The Stranger]]></title>
-            <description><![CDATA[By Deborah Ross]]></description>
-            <link>https://spectator.com/article/a-hypnotic-new-adaptation-of-the-stranger/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-hypnotic-new-adaptation-of-the-stranger/</guid>
-            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is it impossible to make good coffee at home?]]></title>
-            <description><![CDATA[By Rachel Johnson]]></description>
-            <link>https://spectator.com/article/the-perils-of-being-a-coffee-snob/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-perils-of-being-a-coffee-snob/</guid>
-            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gentleman’s Relish is no more]]></title>
-            <description><![CDATA[Patum Peperium]]></description>
-            <link>https://spectator.com/article/gentlemans-relish-is-no-more/</link>
-            <guid isPermaLink="true">https://spectator.com/article/gentlemans-relish-is-no-more/</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benefits treats: how Britain became a freeloader’s paradise]]></title>
-            <description><![CDATA[Plastered around Westminster this Easter were adverts for the Tower of London. ‘The perfect place for troublemakers – pre-book now,’ the poster read. ‘Members go free.’ So too – near enough – do those on Universal Credit (UC). Easter-holiday treats can be expensive for hard-working families. For those on benefits they’re a breeze. A trip]]></description>
-            <link>https://spectator.com/article/benefits-treats-how-britain-became-a-freeloaders-paradise/</link>
-            <guid isPermaLink="true">https://spectator.com/article/benefits-treats-how-britain-became-a-freeloaders-paradise/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let teenage boys discover the English countryside]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/let-teenage-boys-discover-the-english-countryside/</link>
-            <guid isPermaLink="true">https://spectator.com/article/let-teenage-boys-discover-the-english-countryside/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 23:31:28 GMT</pubDate>
         </item>
     </channel>

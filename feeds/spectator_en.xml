@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 05:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 08:06:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 05:51:01 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 08:06:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Does Scotland really have too few migrants?]]></title>
+            <description><![CDATA[By Philip Patrick]]></description>
+            <link>https://spectator.com/article/does-scotland-really-have-too-few-migrants/</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-scotland-really-have-too-few-migrants/</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 08:06:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The ‘sensible’ class is losing control of the House of Lords]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
@@ -41,7 +49,7 @@
             <pubDate>Thu, 30 Apr 2026 05:51:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will the SNP’s unashamed populism be enough to win the day?]]></title>
+            <title><![CDATA[Starmer is defining the battle for Scotland]]></title>
             <description><![CDATA[By James Heale]]></description>
             <link>https://spectator.com/article/is-reform-now-scotlands-leading-unionist-party/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-reform-now-scotlands-leading-unionist-party/</guid>
@@ -49,7 +57,7 @@
             <pubDate>Thu, 30 Apr 2026 05:51:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will the SNP’s unashamed populism be enough to win the day?]]></title>
+            <title><![CDATA[Starmer is defining the battle for Scotland]]></title>
             <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/is-reform-now-scotlands-leading-unionist-party/?homepage-tracking=magazine-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/is-reform-now-scotlands-leading-unionist-party/?homepage-tracking=magazine-article-1</guid>
@@ -186,7 +194,7 @@
         </item>
         <item>
             <title><![CDATA[My meeting with ‘The Godfather’ of flat racing]]></title>
-            <description><![CDATA[Trainer John Gosden is a colossus in Newmarket, the centre of the horse-racing industry. Two-and-a-half-thousand horses are trained here and the most sought-after bloodstock is also bred in the surrounding studs, then traded in the sales ring at Tattersalls. Forty-seven years ago, Gosden left Vincent O’Brien’s yard in Tipperary, Ireland, to set up in California]]></description>
+            <description><![CDATA[By Charlie Brooks]]></description>
             <link>https://spectator.com/article/my-meeting-with-the-godfather-of-flat-racing/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-meeting-with-the-godfather-of-flat-racing/</guid>
             <dc:creator><![CDATA[Charlie Brooks]]></dc:creator>
@@ -194,7 +202,7 @@
         </item>
         <item>
             <title><![CDATA[The extraordinary simplicity of oeuf mayonnaise]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
+            <description><![CDATA[‘Sometimes, in the search for originality, the most obvious dishes are forgotten,’ says Elizabeth David, the doyenne of cookery, in her book French Provincial Cooking. I often think of this phrase when I’m writing about vintage cookery. So much of food (and food writing, and writing, and media, and life) is trend-driven. It’s all about]]></description>
             <link>https://spectator.com/article/the-extraordinary-simplicity-of-oeuf-mayonnaise/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-extraordinary-simplicity-of-oeuf-mayonnaise/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/trumps-is-the-taco-presidency/</link>
             <guid isPermaLink="true">https://spectator.com/article/trumps-is-the-taco-presidency/</guid>
             <dc:creator><![CDATA[Paul Wood]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 15:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Bitcoin a British invention?]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/is-bitcoin-a-british-invention/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-bitcoin-a-british-invention/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 15:03:58 GMT</pubDate>
         </item>
     </channel>

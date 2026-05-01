@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 08:54:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 10:17:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 08:54:43 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 10:17:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Golders Green is the reality of ‘globalise the Intifada’]]></title>
+            <description><![CDATA[By Benjy Morgan]]></description>
+            <link>https://spectator.com/article/golders-green-is-the-reality-of-globalise-the-intifada/</link>
+            <guid isPermaLink="true">https://spectator.com/article/golders-green-is-the-reality-of-globalise-the-intifada/</guid>
+            <dc:creator><![CDATA[Benjy Morgan]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 10:17:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Four bets for Newmarket this weekend]]></title>
             <description><![CDATA[Trainer George Boughey is convinced that his horse Bow Echo has a big chance of landing tomorrow’s Betfred 2000 Guineas (Newmarket, 3.35 p.m.) after a ‘faultless’ preparation. This unbeaten three-year-old colt is a course and distance winner who is proven on fast ground so he is going to take a lot of beating in the]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/hungary-has-become-a-tired-gerontocracy/</link>
             <guid isPermaLink="true">https://spectator.com/article/hungary-has-become-a-tired-gerontocracy/</guid>
             <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 10:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The US and Israel have beaten Iran]]></title>
-            <description><![CDATA[By Jeff Blackett]]></description>
-            <link>https://spectator.com/article/the-us-and-israel-have-beaten-iran/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-us-and-israel-have-beaten-iran/</guid>
-            <dc:creator><![CDATA[Jeff Blackett]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 10:05:48 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 21:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 22:41:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 21:44:03 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 22:41:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[March of the Greenshirts: Polanski’s party are Britain’s real racists]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/greenshirts-on-the-march/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/greenshirts-on-the-march/?edition=us</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 22:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shameless Britain: we are a nation of shoplifters]]></title>
+            <description><![CDATA[By Mary Wakefield]]></description>
+            <link>https://spectator.com/article/shameless-britain-we-are-a-nation-of-shoplifters/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/shameless-britain-we-are-a-nation-of-shoplifters/?edition=us</guid>
+            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 22:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[J.G. Ballard’s surreal fiction continues to resonate through the century]]></title>
+            <description><![CDATA[By Michael Moorcock]]></description>
+            <link>https://spectator.com/article/j-g-ballards-surreal-fiction-continues-to-resonate-through-the-century/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/j-g-ballards-surreal-fiction-continues-to-resonate-through-the-century/?edition=us</guid>
+            <dc:creator><![CDATA[Michael Moorcock]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 22:41:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Olly Robbins’s next move]]></title>
             <description><![CDATA[By Charles Moore]]></description>
@@ -904,7 +928,7 @@
         </item>
         <item>
             <title><![CDATA[The photographer who connects Bob Dylan and the Beatles]]></title>
-            <description><![CDATA[MAX JONES: “What do you think of the Beatles as artists and people?” BOB DYLAN: “Oh, I think they’re the best. They’re artists and they’re people.” —Melody Maker, March 1965 For more than 60 years, people have been fascinated by the connections between Bob Dylan and the Beatles. All were born during World War Two.]]></description>
+            <description><![CDATA[By Anne Margaret Daniel]]></description>
             <link>https://spectator.com/article/photographer-connects-bob-dylan-beatles-barry-feinstein/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/photographer-connects-bob-dylan-beatles-barry-feinstein/?edition=us</guid>
             <dc:creator><![CDATA[Anne Margaret Daniel]]></dc:creator>

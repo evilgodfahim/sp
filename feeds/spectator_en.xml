@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 02:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 06:08:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 02:11:00 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 06:08:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The online battle between bikes and cars on London’s streets]]></title>
+            <description><![CDATA[By Adrian Pascu-Tulbure]]></description>
+            <link>https://spectator.com/article/bikes-vs-cars-who-will-win/</link>
+            <guid isPermaLink="true">https://spectator.com/article/bikes-vs-cars-who-will-win/</guid>
+            <dc:creator><![CDATA[Adrian Pascu-Tulbure]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 06:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can you answer this quiz intended for seven-year-olds?]]></title>
+            <description><![CDATA[The Spectator’s notes]]></description>
+            <link>https://spectator.com/article/the-spectators-notes-2/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-spectators-notes-2/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 06:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this the missing link between Bach and Haydn?]]></title>
+            <description><![CDATA[The listener]]></description>
+            <link>https://spectator.com/article/is-this-the-missing-link-between-bach-and-haydn/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-this-the-missing-link-between-bach-and-haydn/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 06:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is Polanski downplaying anti-Semitism in the Green party?]]></title>
+            <description><![CDATA[By Tom Slater]]></description>
+            <link>https://spectator.com/article/why-wont-polanski-call-out-anti-semitism-in-the-green-party/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-wont-polanski-call-out-anti-semitism-in-the-green-party/</guid>
+            <dc:creator><![CDATA[Tom Slater]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 06:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The High Court has undermined freedom of speech in universities]]></title>
+            <description><![CDATA[By Lara Brown]]></description>
+            <link>https://spectator.com/article/the-most-recent-victory-in-the-war-against-common-sense-has-seen-the-university-of-sussex-dodge-a-585000-fine/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-most-recent-victory-in-the-war-against-common-sense-has-seen-the-university-of-sussex-dodge-a-585000-fine/</guid>
+            <dc:creator><![CDATA[Lara Brown]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 06:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the Middletons – 15 years on]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/15-long-years-of-the-middletons/</link>
+            <guid isPermaLink="true">https://spectator.com/article/15-long-years-of-the-middletons/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 06:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘sensible’ class is losing control of the House of Lords]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/the-sensible-class-is-losing-control-of-the-house-of-lords/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-sensible-class-is-losing-control-of-the-house-of-lords/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 06:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our new ambassador’s ‘Washington Gaffe’]]></title>
+            <description><![CDATA[Letter from America]]></description>
+            <link>https://spectator.com/article/the-inverted-imperialism-of-the-royal-visit/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-inverted-imperialism-of-the-royal-visit/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 06:08:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zack Polanski’s shameful reaction to the Golders Green arrest]]></title>
             <description><![CDATA[By Laurie Wastell]]></description>
@@ -170,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[My night under fire at the White House correspondents’ dinner]]></title>
-            <description><![CDATA[US politics]]></description>
+            <description><![CDATA[By Douglas Murray]]></description>
             <link>https://spectator.com/article/my-night-under-fire-at-the-white-house-correspondents-dinner/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-night-under-fire-at-the-white-house-correspondents-dinner/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -338,15 +402,15 @@
         </item>
         <item>
             <title><![CDATA[The extraordinary simplicity of oeuf mayonnaise]]></title>
-            <description><![CDATA[‘Sometimes, in the search for originality, the most obvious dishes are forgotten,’ says Elizabeth David, the doyenne of cookery, in her book French Provincial Cooking. I often think of this phrase when I’m writing about vintage cookery. So much of food (and food writing, and writing, and media, and life) is trend-driven. It’s all about]]></description>
+            <description><![CDATA[By Olivia Potts]]></description>
             <link>https://spectator.com/article/the-extraordinary-simplicity-of-oeuf-mayonnaise/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-extraordinary-simplicity-of-oeuf-mayonnaise/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 23:45:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shameless Britain]]></title>
-            <description><![CDATA[By Mary Wakefield]]></description>
+            <title><![CDATA[Shameless Britain: we are a nation of shoplifters]]></title>
+            <description><![CDATA[It’s been more than a week since Sean Egan, a manager at Morrisons in Aldridge, announced that he’d been sacked just for doing his job – for stopping a thief nicking booze – and national outrage over the whole affair is still running high. Sean is on morning TV as I write, donations to pay]]></description>
             <link>https://spectator.com/article/shameless-britain-we-are-a-nation-of-shoplifters/</link>
             <guid isPermaLink="true">https://spectator.com/article/shameless-britain-we-are-a-nation-of-shoplifters/</guid>
             <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
@@ -3943,70 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/do-you-suffer-from-excited-delirium-syndrome/</guid>
             <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t blame Kanye for his abject idiocy]]></title>
-            <description><![CDATA[The Listener]]></description>
-            <link>https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer must drop this terrible Troubles bill]]></title>
-            <description><![CDATA[Northern Ireland]]></description>
-            <link>https://spectator.com/article/starmer-must-drop-this-terrible-troubles-bill/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-must-drop-this-terrible-troubles-bill/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Nick Parker]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is it impossible to make good coffee at home?]]></title>
-            <description><![CDATA[Best life]]></description>
-            <link>https://spectator.com/article/the-perils-of-being-a-coffee-snob/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-perils-of-being-a-coffee-snob/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A journey to the dark side of the Moon]]></title>
-            <description><![CDATA[Notes on...]]></description>
-            <link>https://spectator.com/article/a-journey-to-the-dark-side-of-the-moon/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-journey-to-the-dark-side-of-the-moon/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This study shatters the trans myth about mental health]]></title>
-            <description><![CDATA[By Joanna Williams]]></description>
-            <link>https://spectator.com/article/this-study-shatters-the-trans-myth-about-mental-health/</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-study-shatters-the-trans-myth-about-mental-health/</guid>
-            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ‘Tory-fication’ of Reform]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/the-tory-fication-of-reform/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-tory-fication-of-reform/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 06:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hong Kong is the new Dubai]]></title>
-            <description><![CDATA[By Martin Vander Weyer]]></description>
-            <link>https://spectator.com/article/hong-kong-is-the-new-dubai/</link>
-            <guid isPermaLink="true">https://spectator.com/article/hong-kong-is-the-new-dubai/</guid>
-            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 04:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise and fall of Tariq Ramadan]]></title>
-            <description><![CDATA[‘My closest enemy’]]></description>
-            <link>https://spectator.com/article/the-dubious-rise-of-tariq-ramadan/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-dubious-rise-of-tariq-ramadan/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 01:22:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

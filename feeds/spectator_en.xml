@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 12:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 14:06:53 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 12:50:31 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 14:06:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Speech crimes are still on the statute book]]></title>
+            <description><![CDATA[By Tom Beardsworth]]></description>
+            <link>https://spectator.com/article/speech-crimes-are-still-on-the-statute-book/</link>
+            <guid isPermaLink="true">https://spectator.com/article/speech-crimes-are-still-on-the-statute-book/</guid>
+            <dc:creator><![CDATA[Tom Beardsworth]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 14:06:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why whiskey is worth the effort]]></title>
             <description><![CDATA[By Druin Burch]]></description>
@@ -3999,14 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/ex-tory-mps-line-up-for-reform/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 10:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s hard to believe that Starmer is getting tough on Russia]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/its-hard-to-believe-that-starmer-is-getting-tough-on-russia/</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-hard-to-believe-that-starmer-is-getting-tough-on-russia/</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 08:17:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

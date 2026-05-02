@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 11:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 12:50:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 11:38:14 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 12:50:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why whiskey is worth the effort]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/why-whiskey-is-worth-the-effort/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-whiskey-is-worth-the-effort/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 12:50:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My miracle match against the Vatican’s cricket team]]></title>
             <description><![CDATA[By Thomas Steventon]]></description>
@@ -330,7 +338,7 @@
         </item>
         <item>
             <title><![CDATA[The secret to Rupert Murdoch’s strength]]></title>
-            <description><![CDATA[Diary]]></description>
+            <description><![CDATA[By Kelvin MacKenzie]]></description>
             <link>https://spectator.com/article/the-secret-to-rupert-murdochs-strength/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-secret-to-rupert-murdochs-strength/</guid>
             <dc:creator><![CDATA[Kelvin MacKenzie]]></dc:creator>
@@ -3999,14 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/its-hard-to-believe-that-starmer-is-getting-tough-on-russia/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 08:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Take a 16-1 shot for Grand National glory]]></title>
-            <description><![CDATA[By Penworthy]]></description>
-            <link>https://spectator.com/article/take-a-16-1-shot-for-grand-national-glory/</link>
-            <guid isPermaLink="true">https://spectator.com/article/take-a-16-1-shot-for-grand-national-glory/</guid>
-            <dc:creator><![CDATA[Penworthy]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 06:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

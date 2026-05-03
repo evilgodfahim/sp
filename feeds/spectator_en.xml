@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 02:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 05:50:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 02:01:43 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We need to talk about your water bottle]]></title>
+            <description><![CDATA[By Sam Merullo]]></description>
+            <link>https://spectator.com/article/we-need-to-talk-about-your-water-bottle/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-need-to-talk-about-your-water-bottle/</guid>
+            <dc:creator><![CDATA[Sam Merullo]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tories are on the verge of a surprise Westminster comeback]]></title>
+            <description><![CDATA[By Mary Dejevsky]]></description>
+            <link>https://spectator.com/article/the-tories-are-on-the-verge-of-a-surprise-westminster-comeback/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tories-are-on-the-verge-of-a-surprise-westminster-comeback/</guid>
+            <dc:creator><![CDATA[Mary Dejevsky]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We are closer to AI extinction than we think]]></title>
+            <description><![CDATA[By Andrea Miotti]]></description>
+            <link>https://spectator.com/article/we-are-closer-to-ai-extinction-than-we-think/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-are-closer-to-ai-extinction-than-we-think/</guid>
+            <dc:creator><![CDATA[Andrea Miotti]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do women really need breast reductions?]]></title>
+            <description><![CDATA[By Julie Burchill]]></description>
+            <link>https://spectator.com/article/bring-back-boobs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/bring-back-boobs/</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our new ambassador’s ‘Washington Gaffe’]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/the-inverted-imperialism-of-the-royal-visit/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-inverted-imperialism-of-the-royal-visit/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seven things to look out for as Britain heads to the polls]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/seven-things-to-look-out-for-as-britain-heads-to-the-polls/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/seven-things-to-look-out-for-as-britain-heads-to-the-polls/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to silence Scottish nationalists]]></title>
+            <description><![CDATA[Scotland]]></description>
+            <link>https://spectator.com/article/how-to-silence-scottish-nationalists/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-silence-scottish-nationalists/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[John Ferry]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We need to talk about your water bottle]]></title>
+            <description><![CDATA[Bottle job]]></description>
+            <link>https://spectator.com/article/we-need-to-talk-about-your-water-bottle/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-need-to-talk-about-your-water-bottle/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Sam Merullo]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Speech crimes are still on the statute book]]></title>
             <description><![CDATA[By Tom Beardsworth]]></description>
@@ -17,7 +81,7 @@
             <pubDate>Sat, 02 May 2026 14:06:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why whiskey is worth the effort]]></title>
+            <title><![CDATA[Why Scottish whiskey is worth the effort]]></title>
             <description><![CDATA[By Druin Burch]]></description>
             <link>https://spectator.com/article/why-whiskey-is-worth-the-effort/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-whiskey-is-worth-the-effort/</guid>
@@ -3943,70 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/is-private-equity-secretly-running-your-life/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Richard Walker]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 01:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about artists’ optical aids]]></title>
-            <description><![CDATA[Exhibitions]]></description>
-            <link>https://spectator.com/article/the-truth-about-artists-optical-aids/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-artists-optical-aids/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Robin Simon]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 01:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t blame Kanye for his abject idiocy]]></title>
-            <description><![CDATA[The Listener]]></description>
-            <link>https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 01:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Picasso’s Guernica has reopened old wounds in Spain]]></title>
-            <description><![CDATA[By Mark Nayler]]></description>
-            <link>https://spectator.com/article/picassos-guernica-has-reopened-old-wounds-in-spain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/picassos-guernica-has-reopened-old-wounds-in-spain/</guid>
-            <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 01:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanon should be excluded from the Iran peace deal]]></title>
-            <description><![CDATA[By Jonathan Brown]]></description>
-            <link>https://spectator.com/article/lebanon-should-be-excluded-from-the-iran-peace-deal/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lebanon-should-be-excluded-from-the-iran-peace-deal/</guid>
-            <dc:creator><![CDATA[Jonathan Brown]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 14:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should doctors be banned from striking?]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/should-doctors-be-banned-from-striking/</link>
-            <guid isPermaLink="true">https://spectator.com/article/should-doctors-be-banned-from-striking/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 12:50:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The problem with John Healey’s tough talk on Russia]]></title>
-            <description><![CDATA[By Mark Galeotti]]></description>
-            <link>https://spectator.com/article/the-problem-with-john-healeys-tough-talk-on-russia/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-john-healeys-tough-talk-on-russia/</guid>
-            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 11:41:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More youth clubs won’t fix London’s crime woes]]></title>
-            <description><![CDATA[By Alexander Baker]]></description>
-            <link>https://spectator.com/article/more-youth-clubs-wont-fix-london-crime/</link>
-            <guid isPermaLink="true">https://spectator.com/article/more-youth-clubs-wont-fix-london-crime/</guid>
-            <dc:creator><![CDATA[Alexander Baker]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 11:41:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Tory MPs line up for Reform]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/ex-tory-mps-line-up-for-reform/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ex-tory-mps-line-up-for-reform/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 10:02:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

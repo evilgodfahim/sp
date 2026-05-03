@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 05:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 07:49:47 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 07:49:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How to silence Scottish nationalists]]></title>
+            <description><![CDATA[By John Ferry]]></description>
+            <link>https://spectator.com/article/how-to-silence-scottish-nationalists/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-silence-scottish-nationalists/</guid>
+            <dc:creator><![CDATA[John Ferry]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 07:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Reform brave enough to be a pro-family party?]]></title>
+            <description><![CDATA[By Joe Shalam]]></description>
+            <link>https://spectator.com/article/is-reform-brave-enough-to-be-a-pro-family-party/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-reform-brave-enough-to-be-a-pro-family-party/</guid>
+            <dc:creator><![CDATA[Joe Shalam]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 07:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia is running out of workers]]></title>
+            <description><![CDATA[By Alexander Kolyandr]]></description>
+            <link>https://spectator.com/article/russia-is-running-out-of-workers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/russia-is-running-out-of-workers/</guid>
+            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 07:49:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We need to talk about your water bottle]]></title>
             <description><![CDATA[By Sam Merullo]]></description>
@@ -3982,30 +4006,6 @@
             <link>https://spectator.com/article/ireland-shouldnt-have-sent-in-the-army-against-fuel-protestors/</link>
             <guid isPermaLink="true">https://spectator.com/article/ireland-shouldnt-have-sent-in-the-army-against-fuel-protestors/</guid>
             <dc:creator><![CDATA[Liz Walsh]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 01:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farewell to the final phone-free haven]]></title>
-            <description><![CDATA[By Mark Palmer]]></description>
-            <link>https://spectator.com/article/farewell-to-the-final-phone-free-haven/</link>
-            <guid isPermaLink="true">https://spectator.com/article/farewell-to-the-final-phone-free-haven/</guid>
-            <dc:creator><![CDATA[Mark Palmer]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 01:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let teenage boys discover the English countryside]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/let-teenage-boys-discover-the-english-countryside/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/let-teenage-boys-discover-the-english-countryside/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 01:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is private equity secretly running your life?]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/is-private-equity-secretly-running-your-life/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-private-equity-secretly-running-your-life/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Richard Walker]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 01:25:02 GMT</pubDate>
         </item>
     </channel>

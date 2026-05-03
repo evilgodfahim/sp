@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 11:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 12:50:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 11:36:20 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 12:50:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How to silence Scottish nationalists]]></title>
+            <description><![CDATA[Scotland]]></description>
+            <link>https://spectator.com/article/how-to-silence-scottish-nationalists/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-silence-scottish-nationalists/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[John Ferry]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 12:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We are closer to AI extinction than we think]]></title>
+            <description><![CDATA[Rise of the machine]]></description>
+            <link>https://spectator.com/article/we-are-closer-to-ai-extinction-than-we-think/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-are-closer-to-ai-extinction-than-we-think/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Andrea Miotti]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 12:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunday shows round-up: Labour minister attacks ‘disgusting’ Polanski]]></title>
+            <description><![CDATA[By Joe Bedell-Brill]]></description>
+            <link>https://spectator.com/article/sunday-shows-round-up-labour-minister-attacks-disgusting-polanski/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-labour-minister-attacks-disgusting-polanski/</guid>
+            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 12:50:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The case that shows jihadism is for losers]]></title>
             <description><![CDATA[By Jonathan Sacerdoti]]></description>
@@ -1786,7 +1810,7 @@
         </item>
         <item>
             <title><![CDATA[Americans think they want the ‘real Ireland’. They don’t]]></title>
-            <description><![CDATA[Real life]]></description>
+            <description><![CDATA[By Melissa Kite]]></description>
             <link>https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/</link>
             <guid isPermaLink="true">https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/</guid>
             <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
@@ -3983,30 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/bash-back-are-thugs-posing-as-victims/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 08:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is AI a threat to humanity?]]></title>
-            <description><![CDATA[By The Spectator]]></description>
-            <link>https://spectator.com/article/is-ai-a-threat-to-humanity/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-ai-a-threat-to-humanity/</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 08:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What can we expect from the Iran negotiations?]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/what-can-we-expect-from-the-iran-negotiations/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-can-we-expect-from-the-iran-negotiations/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 01:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Pakistan became central to ending the Iran war]]></title>
-            <description><![CDATA[By Damien Phillips]]></description>
-            <link>https://spectator.com/article/how-pakistan-became-central-to-ending-the-iran-war/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-pakistan-became-central-to-ending-the-iran-war/</guid>
-            <dc:creator><![CDATA[Damien Phillips]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 01:25:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

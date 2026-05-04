@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 02:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 05:55:59 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 02:02:16 GMT</pubDate>
+        <pubDate>Mon, 04 May 2026 05:55:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Zack Polanski must dream of Athens’s radical democracy]]></title>
+            <description><![CDATA[By Peter Jones]]></description>
+            <link>https://spectator.com/article/zack-polanski-must-dream-of-athenss-radical-democracy/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/zack-polanski-must-dream-of-athenss-radical-democracy/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 05:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI is revolutionising mathematics]]></title>
+            <description><![CDATA[Prove it]]></description>
+            <link>https://spectator.com/article/ai-is-revolutionising-mathematics/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/ai-is-revolutionising-mathematics/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Ananyo Bhattacharya]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 05:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Reform brave enough to be a pro-family party?]]></title>
+            <description><![CDATA[Child's play]]></description>
+            <link>https://spectator.com/article/is-reform-brave-enough-to-be-a-pro-family-party/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-reform-brave-enough-to-be-a-pro-family-party/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Joe Shalam]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 05:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tories are on the verge of a surprise Westminster comeback]]></title>
+            <description><![CDATA[Election]]></description>
+            <link>https://spectator.com/article/the-tories-are-on-the-verge-of-a-surprise-westminster-comeback/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tories-are-on-the-verge-of-a-surprise-westminster-comeback/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Mary Dejevsky]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 05:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did European rule in Asia and Africa really make colonised people poorer?]]></title>
+            <description><![CDATA[By Tirthankar Roy]]></description>
+            <link>https://spectator.com/article/did-european-rule-in-asia-and-africa-really-make-colonised-people-poorer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-european-rule-in-asia-and-africa-really-make-colonised-people-poorer/</guid>
+            <dc:creator><![CDATA[Tirthankar Roy]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 05:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Potholes could pave the way to victory for Reform]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/potholes-could-pave-the-way-to-victory-for-reform/</link>
+            <guid isPermaLink="true">https://spectator.com/article/potholes-could-pave-the-way-to-victory-for-reform/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 05:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela has become another American puppet state]]></title>
+            <description><![CDATA[By Niko Vorobyov]]></description>
+            <link>https://spectator.com/article/venezuela-has-become-another-american-puppet-state/</link>
+            <guid isPermaLink="true">https://spectator.com/article/venezuela-has-become-another-american-puppet-state/</guid>
+            <dc:creator><![CDATA[Niko Vorobyov]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 05:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The martini is making a comeback]]></title>
+            <description><![CDATA[By Ameer Kotecha]]></description>
+            <link>https://spectator.com/article/the-martini-is-making-a-comeback/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-martini-is-making-a-comeback/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 05:55:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to silence Scottish nationalists]]></title>
             <description><![CDATA[Scotland]]></description>
@@ -3943,70 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/is-time-up-for-viktor-orban/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 06:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bash Back are thugs posing as victims]]></title>
-            <description><![CDATA[Trans]]></description>
-            <link>https://spectator.com/article/bash-back-are-thugs-posing-as-victims/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/bash-back-are-thugs-posing-as-victims/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 06:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is this how the ad industry dies?]]></title>
-            <description><![CDATA[Anti-advertising]]></description>
-            <link>https://spectator.com/article/is-this-how-the-ad-industry-dies/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-this-how-the-ad-industry-dies/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Paul Burke]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 06:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The curious case of the £10 toilet]]></title>
-            <description><![CDATA[By Matthew Bowles]]></description>
-            <link>https://spectator.com/article/the-curious-case-of-the-10-toilet/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-curious-case-of-the-10-toilet/</guid>
-            <dc:creator><![CDATA[Matthew Bowles]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 04:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Prince George should go to Eton]]></title>
-            <description><![CDATA[By Ivo Delingpole]]></description>
-            <link>https://spectator.com/article/why-prince-george-should-go-to-eton/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-prince-george-should-go-to-eton/</guid>
-            <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 04:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Prince Harry being sued by Sentebale?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/why-is-prince-harry-being-sued-by-sentebale/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-is-prince-harry-being-sued-by-sentebale/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 14:30:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer referred to UN over ‘crime against humanity’]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/starmer-referred-to-un-over-crime-against-humanity/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-referred-to-un-over-crime-against-humanity/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 14:30:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This isn’t the end of the Chagos debacle]]></title>
-            <description><![CDATA[By Richard Ekins]]></description>
-            <link>https://spectator.com/article/this-isnt-the-end-of-the-chagos-debacle/</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-isnt-the-end-of-the-chagos-debacle/</guid>
-            <dc:creator><![CDATA[Richard Ekins]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 12:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bash Back are thugs posing as victims]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/bash-back-are-thugs-posing-as-victims/</link>
-            <guid isPermaLink="true">https://spectator.com/article/bash-back-are-thugs-posing-as-victims/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 08:33:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

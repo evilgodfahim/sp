@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 23:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 02:02:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 23:36:04 GMT</pubDate>
+        <pubDate>Mon, 04 May 2026 02:02:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[MAHA must resist purity tests to survive]]></title>
+            <description><![CDATA[By David Mansdoerfer]]></description>
+            <link>https://spectator.com/article/maha-must-resist-purity-tests-survive/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/maha-must-resist-purity-tests-survive/?edition=us</guid>
+            <dc:creator><![CDATA[David Mansdoerfer]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 02:02:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is barbecue a noun or a verb?]]></title>
             <description><![CDATA[By Robert F. Moss]]></description>

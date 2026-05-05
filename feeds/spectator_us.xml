@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 23:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 02:01:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 23:44:27 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 02:01:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Life is a Cabaret: inside Liza Minnelli’s memoir]]></title>
+            <description><![CDATA[By Roger Lewis]]></description>
+            <link>https://spectator.com/article/life-cabaret-inside-liza-minnelli-memoir/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/life-cabaret-inside-liza-minnelli-memoir/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Lewis]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 02:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voters get the politicians they deserve – so Britain should get ready for PM Polanski]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/?edition=us</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 02:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s the corruption, stupid!]]></title>
+            <description><![CDATA[By John Fund]]></description>
+            <link>https://spectator.com/article/corruption-stupid-trump-administration/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/corruption-stupid-trump-administration/?edition=us</guid>
+            <dc:creator><![CDATA[John Fund]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 02:01:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The internet is dying and so are we]]></title>
             <description><![CDATA[By Bridget Phetasy]]></description>
@@ -162,7 +186,7 @@
         </item>
         <item>
             <title><![CDATA[Lena Dunham is still her own worst enemy]]></title>
-            <description><![CDATA[In her seminal 1967 essay “Goodbye to All That,” Joan Didion writes of her former self, a 20-year-old naif arriving in New York City for the first time: “Was anyone ever so young?” Lena Dunham – an avowed Didion stan – should have used that line as the title of her new book, an account]]></description>
+            <description><![CDATA[By Clare McHugh]]></description>
             <link>https://spectator.com/article/lena-dunham-still-her-own-worst-enemy-famesick/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/lena-dunham-still-her-own-worst-enemy-famesick/?edition=us</guid>
             <dc:creator><![CDATA[Clare McHugh]]></dc:creator>
@@ -1637,7 +1661,7 @@
             <pubDate>Wed, 15 Apr 2026 16:54:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[If Trump hates the Wall Street Journal, why is its editorial board dictating Iran policy?]]></title>
+            <title><![CDATA[If Trump hates the Wall Street Journal, why is its editorial board dictating Iran policy?]]></title>
             <description><![CDATA[By Tom Switzer]]></description>
             <link>https://spectator.com/article/trump-hates-wall-street-journal-editorial-board-dictate-iran-policy/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-hates-wall-street-journal-editorial-board-dictate-iran-policy/?edition=us</guid>

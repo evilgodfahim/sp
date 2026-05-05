@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 15:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 17:15:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 15:31:08 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 17:15:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is teachers’ union targeting ICE, not education?]]></title>
+            <description><![CDATA[By Corey DeAngelis]]></description>
+            <link>https://spectator.com/article/why-is-teachers-union-targeting-ice-not-education/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-teachers-union-targeting-ice-not-education/?edition=us</guid>
+            <dc:creator><![CDATA[Corey DeAngelis]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 17:15:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Life is a Cabaret: inside Liza Minnelli’s memoir]]></title>
             <description><![CDATA[Show business]]></description>
@@ -3990,14 +3998,6 @@
             <link>https://spectator.com/article/trump-gianni-infantino-teamed-rebrand-peace/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-gianni-infantino-teamed-rebrand-peace/?edition=us</guid>
             <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I crashed Rupert Murdoch’s birthday party]]></title>
-            <description><![CDATA[By Lachlan Cartwright]]></description>
-            <link>https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</guid>
-            <dc:creator><![CDATA[Lachlan Cartwright]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
         </item>
     </channel>

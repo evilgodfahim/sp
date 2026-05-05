@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 15:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 17:15:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 15:31:12 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 17:15:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Starmer to 2024 intake: back me or else]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/starmer-to-2024-intake-back-me-or-else/</link>
+            <guid isPermaLink="true">https://spectator.com/article/starmer-to-2024-intake-back-me-or-else/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 17:15:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Arts Council England finally stop funding hate?]]></title>
+            <description><![CDATA[By Lara Brown]]></description>
+            <link>https://spectator.com/article/on-tuesday-keir-starmer-criticised-the-arts-council-ace-for-funding-organisations-that-promote-the-work-of-anti-semitic-artists/</link>
+            <guid isPermaLink="true">https://spectator.com/article/on-tuesday-keir-starmer-criticised-the-arts-council-ace-for-funding-organisations-that-promote-the-work-of-anti-semitic-artists/</guid>
+            <dc:creator><![CDATA[Lara Brown]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 17:15:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Green candidate who thinks Iran should bomb the White House]]></title>
             <description><![CDATA[By Andrew Gilligan]]></description>
@@ -50,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Why the pro-Palestine marches must stop]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
+            <description><![CDATA[Anti-Israel]]></description>
             <link>https://spectator.com/article/why-the-pro-palestine-marches-must-stop/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-pro-palestine-marches-must-stop/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -65,8 +81,8 @@
             <pubDate>Tue, 05 May 2026 09:56:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kemi Badenoch lays into pro-Palestine heckler]]></title>
-            <description><![CDATA[Watch]]></description>
+            <title><![CDATA[Watch: Kemi Badenoch lays into pro-Palestine heckler]]></title>
+            <description><![CDATA[By Steerpike]]></description>
             <link>https://spectator.com/article/watch-kemi-badenoch-lays-into-pro-palestine-heckler/</link>
             <guid isPermaLink="true">https://spectator.com/article/watch-kemi-badenoch-lays-into-pro-palestine-heckler/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -3990,22 +4006,6 @@
             <link>https://spectator.com/article/orbans-defeat-spells-trouble-for-trump/</link>
             <guid isPermaLink="true">https://spectator.com/article/orbans-defeat-spells-trouble-for-trump/</guid>
             <dc:creator><![CDATA[Dalibor Rohac]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 07:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London hasn’t fallen]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
-            <link>https://spectator.com/article/london-hasnt-fallen/</link>
-            <guid isPermaLink="true">https://spectator.com/article/london-hasnt-fallen/</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 07:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The only ‘civilisation’ Trump will destroy is his own]]></title>
-            <description><![CDATA[The Spectator’s notes]]></description>
-            <link>https://spectator.com/article/the-only-civilisation-trump-will-destroy-is-his-own/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-only-civilisation-trump-will-destroy-is-his-own/</guid>
-            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 07:10:32 GMT</pubDate>
         </item>
     </channel>

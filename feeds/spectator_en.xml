@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 11:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 13:17:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 11:13:48 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 13:17:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is the Iran ceasefire crumbling?]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/is-the-iran-ceasefire-crumbling/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-iran-ceasefire-crumbling/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 13:17:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reeves’s mansion tax has backfired before it’s even kicked in]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
@@ -73,8 +81,8 @@
             <pubDate>Tue, 05 May 2026 05:34:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vegan cheese is repulsive]]></title>
-            <description><![CDATA[Cream off]]></description>
+            <title><![CDATA[Even vegans can’t stomach vegan cheese]]></title>
+            <description><![CDATA[Creamed off]]></description>
             <link>https://spectator.com/article/admit-it-vegan-cheese-is-repulsive/</link>
             <guid isPermaLink="true">https://spectator.com/article/admit-it-vegan-cheese-is-repulsive/</guid>
             <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/the-british-road-trip-is-tourism-without-the-infrastructure/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-british-road-trip-is-tourism-without-the-infrastructure/</guid>
             <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 04:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samuel Beckett’s bleak humour lives gleefully on]]></title>
-            <description><![CDATA[By Ian Thomson]]></description>
-            <link>https://spectator.com/article/samuel-becketts-bleak-humour-lives-gleefully-on/</link>
-            <guid isPermaLink="true">https://spectator.com/article/samuel-becketts-bleak-humour-lives-gleefully-on/</guid>
-            <dc:creator><![CDATA[Ian Thomson]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 04:52:58 GMT</pubDate>
         </item>
     </channel>

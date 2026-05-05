@@ -4,28 +4,60 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 09:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 11:13:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 09:56:53 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 11:13:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[It’s hardly surprising so many drivers are traffic light dodgers]]></title>
-            <description><![CDATA[By Patrick West]]></description>
+            <title><![CDATA[Reeves’s mansion tax has backfired before it’s even kicked in]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/reevess-mansion-tax-has-backfired-before-its-even-kicked-in/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reevess-mansion-tax-has-backfired-before-its-even-kicked-in/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 11:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why can’t Germany extradite the Madeleine McCann suspect?]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/why-cant-germany-extradite-the-madeleine-mccann-suspect/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-cant-germany-extradite-the-madeleine-mccann-suspect/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 11:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making homes more affordable won’t solve London’s housing crisis]]></title>
+            <description><![CDATA[By Sam McPhail]]></description>
+            <link>https://spectator.com/article/making-homes-more-affordable-wont-solve-londons-housing-crisis/</link>
+            <guid isPermaLink="true">https://spectator.com/article/making-homes-more-affordable-wont-solve-londons-housing-crisis/</guid>
+            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 11:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the pro-Palestine marches must stop]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/why-the-pro-palestine-marches-must-stop/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-pro-palestine-marches-must-stop/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 11:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why so many drivers jump red lights]]></title>
+            <description><![CDATA[Seeing red]]></description>
             <link>https://spectator.com/article/its-hardly-surprising-so-many-drivers-are-traffic-light-dodgers/</link>
             <guid isPermaLink="true">https://spectator.com/article/its-hardly-surprising-so-many-drivers-are-traffic-light-dodgers/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
             <pubDate>Tue, 05 May 2026 09:56:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watch: Kemi Badenoch lays into pro-Palestine heckler]]></title>
-            <description><![CDATA[By Steerpike]]></description>
+            <title><![CDATA[Kemi Badenoch lays into pro-Palestine heckler]]></title>
+            <description><![CDATA[Watch]]></description>
             <link>https://spectator.com/article/watch-kemi-badenoch-lays-into-pro-palestine-heckler/</link>
             <guid isPermaLink="true">https://spectator.com/article/watch-kemi-badenoch-lays-into-pro-palestine-heckler/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Tue, 05 May 2026 09:56:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dear Mary: how can I prevent my daughter from getting ‘tweakments’?]]></title>
+            <title><![CDATA[How can I prevent my daughter from getting ‘tweakments’?]]></title>
             <description><![CDATA[Dear Mary]]></description>
             <link>https://spectator.com/article/dear-mary-how-can-i-prevent-my-daughter-from-getting-tweakments/</link>
             <guid isPermaLink="true">https://spectator.com/article/dear-mary-how-can-i-prevent-my-daughter-from-getting-tweakments/</guid>
@@ -73,7 +105,7 @@
             <pubDate>Tue, 05 May 2026 05:34:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dear Mary: how can I prevent my daughter from getting ‘tweakments’?]]></title>
+            <title><![CDATA[How can I prevent my daughter from getting ‘tweakments’?]]></title>
             <description><![CDATA[Dear Mary]]></description>
             <link>https://spectator.com/article/dear-mary-how-can-i-prevent-my-daughter-from-getting-tweakments/?homepage-tracking=high_density-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/dear-mary-how-can-i-prevent-my-daughter-from-getting-tweakments/?homepage-tracking=high_density-article-3</guid>
@@ -82,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[What really terrifies me about Reform in No. 10]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
+            <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/what-really-terrifies-me-about-reform-in-no-10/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-really-terrifies-me-about-reform-in-no-10/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -98,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[Will Downing Street name the ideology behind anti-Semitism?]]></title>
-            <description><![CDATA[Blind spot]]></description>
+            <description><![CDATA[By Paul Stott]]></description>
             <link>https://spectator.com/article/in-golders-green-ministers-and-senior-police-officers-were-explicit-that-it-was-british-jews-who-were-under-attack-and-an-act-of-anti-semitic-terrorism-had-occurred/</link>
             <guid isPermaLink="true">https://spectator.com/article/in-golders-green-ministers-and-senior-police-officers-were-explicit-that-it-was-british-jews-who-were-under-attack-and-an-act-of-anti-semitic-terrorism-had-occurred/</guid>
             <dc:creator><![CDATA[Paul Stott]]></dc:creator>
@@ -114,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Britain is facing an Islamist insurgency]]></title>
-            <description><![CDATA[New reality]]></description>
+            <description><![CDATA[By Simon Diggins]]></description>
             <link>https://spectator.com/article/we-have-it-should-be-clear-to-all-a-major-problem-that-we-are-not-addressing-a-failure-would-not-just-be-another-crisis/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-have-it-should-be-clear-to-all-a-major-problem-that-we-are-not-addressing-a-failure-would-not-just-be-another-crisis/</guid>
             <dc:creator><![CDATA[Simon Diggins]]></dc:creator>
@@ -178,7 +210,7 @@
         </item>
         <item>
             <title><![CDATA[Potholes could pave the way to victory for Reform]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Sam Leith]]></description>
             <link>https://spectator.com/article/potholes-could-pave-the-way-to-victory-for-reform/</link>
             <guid isPermaLink="true">https://spectator.com/article/potholes-could-pave-the-way-to-victory-for-reform/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
@@ -3975,38 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/samuel-becketts-bleak-humour-lives-gleefully-on/</guid>
             <dc:creator><![CDATA[Ian Thomson]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 04:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why exercise music stops you from throwing in the towel]]></title>
-            <description><![CDATA[By Chas Newkey-Burden]]></description>
-            <link>https://spectator.com/article/why-exercise-music-stops-you-from-throwing-in-the-towel/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-exercise-music-stops-you-from-throwing-in-the-towel/</guid>
-            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 04:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will genteel customers desert Waitrose?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/will-genteel-customers-desert-waitrose/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-genteel-customers-desert-waitrose/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 04:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orbán concedes defeat in Hungary]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/orban-concedes-defeat-in-hungary/</link>
-            <guid isPermaLink="true">https://spectator.com/article/orban-concedes-defeat-in-hungary/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 22:25:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liz Truss’s husband to stand for Tories]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/liz-trusss-husband-to-stand-for-tories/</link>
-            <guid isPermaLink="true">https://spectator.com/article/liz-trusss-husband-to-stand-for-tories/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 20:26:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

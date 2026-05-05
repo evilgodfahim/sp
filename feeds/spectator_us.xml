@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 19:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 20:54:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 19:07:03 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 20:54:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Does Abigail Spanberger want you to be fat and crazy?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/does-abigail-spanberger-want-you-to-be-fat-and-crazy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-abigail-spanberger-want-you-to-be-fat-and-crazy/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 20:54:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is the teachers’ union targeting ICE, not education?]]></title>
             <description><![CDATA[By Corey DeAngelis]]></description>
@@ -3990,14 +3998,6 @@
             <link>https://spectator.com/article/why-iran-will-hasten-magas-demise/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/why-iran-will-hasten-magas-demise/?edition=us</guid>
             <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump and FIFA’s Gianni Infantino teamed up to rebrand peace]]></title>
-            <description><![CDATA[By Matt McDonald]]></description>
-            <link>https://spectator.com/article/trump-gianni-infantino-teamed-rebrand-peace/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-gianni-infantino-teamed-rebrand-peace/?edition=us</guid>
-            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
         </item>
     </channel>

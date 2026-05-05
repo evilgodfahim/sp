@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 13:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 15:31:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 13:17:04 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 15:31:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Life is a Cabaret: inside Liza Minnelli’s memoir]]></title>
+            <description><![CDATA[Show business]]></description>
+            <link>https://spectator.com/article/life-cabaret-inside-liza-minnelli-memoir/?edition=us&amp;homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/life-cabaret-inside-liza-minnelli-memoir/?edition=us&amp;homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Roger Lewis]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 15:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voters get the politicians they deserve – so Britain should get ready for PM Polanski]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/?edition=us&amp;homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/?edition=us&amp;homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 15:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We all know how Cole Tomas Allen was radicalized]]></title>
+            <description><![CDATA[Assassin’s creed]]></description>
+            <link>https://spectator.com/article/we-all-know-how-cole-tomas-allen-was-radicalized/?edition=us&amp;homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-all-know-how-cole-tomas-allen-was-radicalized/?edition=us&amp;homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 15:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the Iran ceasefire crumbling?]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/is-the-iran-ceasefire-crumbling/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-iran-ceasefire-crumbling/?edition=us</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 15:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fight me, Jim Acosta: Michael Tracey]]></title>
+            <description><![CDATA[Pundit duel]]></description>
+            <link>https://spectator.com/article/fight-me-jim-acosta-michael-tracey/?edition=us&amp;homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/fight-me-jim-acosta-michael-tracey/?edition=us&amp;homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Michael Tracey]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 15:31:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The nightmare of filming A Hard Day’s Night]]></title>
             <description><![CDATA[By Helen Barrett]]></description>
@@ -42,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Is Usha Vance the mastermind behind J.D. Vance?]]></title>
-            <description><![CDATA[By Sarah Beth Spraggins]]></description>
+            <description><![CDATA[Second to none]]></description>
             <link>https://spectator.com/article/is-usha-vance-the-mastermind-behind-j-d-vance/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/is-usha-vance-the-mastermind-behind-j-d-vance/?edition=us</guid>
             <dc:creator><![CDATA[Sarah Beth Spraggins]]></dc:creator>
@@ -121,7 +161,7 @@
             <pubDate>Tue, 05 May 2026 02:01:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[It’s the corruption, stupid!]]></title>
+            <title><![CDATA[It’s the corruption, stupid]]></title>
             <description><![CDATA[By John Fund]]></description>
             <link>https://spectator.com/article/corruption-stupid-trump-administration/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/corruption-stupid-trump-administration/?edition=us</guid>
@@ -202,7 +242,7 @@
         </item>
         <item>
             <title><![CDATA[Inside the Killhouse: where Ukraine’s revolutionary military robots are developed]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
+            <description><![CDATA[BattleBots]]></description>
             <link>https://spectator.com/article/inside-killhouse-factory-building-ukraine-lethal-military-robots/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/inside-killhouse-factory-building-ukraine-lethal-military-robots/?edition=us</guid>
             <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
@@ -394,7 +434,7 @@
         </item>
         <item>
             <title><![CDATA[How will Trump solve the Iran problem?]]></title>
-            <description><![CDATA[Has President Trump discovered his “off-ramp” from the war in Iran? His administration insists that Iran’s military power has been crushed, that its already broken economy is now all but dead, and that the Islamic Republic is on its last legs, desperate to make a deal. Yet Tehran, or the Islamic Revolutionary Guard deep state]]></description>
+            <description><![CDATA[Power plays]]></description>
             <link>https://spectator.com/article/how-will-trump-solve-the-iran-problem/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-will-trump-solve-the-iran-problem/?edition=us</guid>
             <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
@@ -3958,46 +3998,6 @@
             <link>https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</guid>
             <dc:creator><![CDATA[Lachlan Cartwright]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The end of Trumpism]]></title>
-            <description><![CDATA[By Christopher Caldwell]]></description>
-            <link>https://spectator.com/article/the-iran-war-is-likely-to-mark-the-end-of-trumpism/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-iran-war-is-likely-to-mark-the-end-of-trumpism/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[El Mencho’s last stand]]></title>
-            <description><![CDATA[By Katarina Szulc]]></description>
-            <link>https://spectator.com/article/el-menchos-last-stand/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/el-menchos-last-stand/?edition=us</guid>
-            <dc:creator><![CDATA[Katarina Szulc]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking back at Eyes Wide Shut, after Epstein]]></title>
-            <description><![CDATA[The constant parade of shocking and disturbing revelations from the Epstein files has been going on for a considerable time now. It shows no signs of coming to an end. Just when we all think that we’ve seen the worst of it, another 10,000 documents enter the public domain. Even though the stories have been]]></description>
-            <link>https://spectator.com/article/looking-back-at-eyes-wide-shut-after-epstein/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/looking-back-at-eyes-wide-shut-after-epstein/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking back at Eyes Wide Shut, after Epstein]]></title>
-            <description><![CDATA[Eyes wide open]]></description>
-            <link>https://spectator.com/article/looking-back-at-eyes-wide-shut-after-epstein/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/looking-back-at-eyes-wide-shut-after-epstein/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Loomer-Levin love-in]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/the-loomer-levin-love-in/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-loomer-levin-love-in/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 10:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 12:27:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 10:58:20 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 12:27:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The marvels of Cuba’s national botanic gardens]]></title>
+            <description><![CDATA[By Ruaridh Nicoll]]></description>
+            <link>https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us</guid>
+            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s the corruption, stupid!]]></title>
+            <description><![CDATA[By John Fund]]></description>
+            <link>https://spectator.com/article/corruption-stupid-trump-administration/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/corruption-stupid-trump-administration/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[John Fund]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Tea-towel-gate’: another British travesty]]></title>
+            <description><![CDATA[Killjoys]]></description>
+            <link>https://spectator.com/article/tea-towel-gate-is-everything-wrong-with-modern-britain/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/tea-towel-gate-is-everything-wrong-with-modern-britain/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The marvels of Cuba’s national botanic gardens]]></title>
+            <description><![CDATA[Havana life]]></description>
+            <link>https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voters get the politicians they deserve – so Britain should get ready for PM Polanski]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can AI make Spencer Pratt mayor?]]></title>
+            <description><![CDATA[By Travis Aaroe]]></description>
+            <link>https://spectator.com/article/can-ai-make-spencer-pratt-mayor/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-ai-make-spencer-pratt-mayor/?edition=us</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What today’s Iran headlines don’t reveal about ‘Project Freedom’]]></title>
+            <description><![CDATA[By Andrew Cockburn]]></description>
+            <link>https://spectator.com/article/what-todays-iran-headlines-dont-reveal-about-project-freedom/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-todays-iran-headlines-dont-reveal-about-project-freedom/?edition=us</guid>
+            <dc:creator><![CDATA[Andrew Cockburn]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Does Abigail Spanberger want you to be fat and crazy?]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -98,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[Is Usha Vance the mastermind behind J.D. Vance?]]></title>
-            <description><![CDATA[Second to none]]></description>
+            <description><![CDATA[By Sarah Beth Spraggins]]></description>
             <link>https://spectator.com/article/is-usha-vance-the-mastermind-behind-j-d-vance/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/is-usha-vance-the-mastermind-behind-j-d-vance/?edition=us</guid>
             <dc:creator><![CDATA[Sarah Beth Spraggins]]></dc:creator>
@@ -162,7 +218,7 @@
         </item>
         <item>
             <title><![CDATA[Life is a Cabaret: inside Liza Minnelli’s memoir]]></title>
-            <description><![CDATA[Though she may well have been “one of the world’s most celebrated, beloved and iconic performers,” who’d have wanted Judy Garland as a mother? When not remaining in bed “for days at a time, heavily drugged and in a deep state of depression,” she was, according to her daughter Liza Minnelli, slashing her neck with]]></description>
+            <description><![CDATA[By Roger Lewis]]></description>
             <link>https://spectator.com/article/life-cabaret-inside-liza-minnelli-memoir/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/life-cabaret-inside-liza-minnelli-memoir/?edition=us</guid>
             <dc:creator><![CDATA[Roger Lewis]]></dc:creator>
@@ -177,7 +233,7 @@
             <pubDate>Tue, 05 May 2026 02:01:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[It’s the corruption, stupid]]></title>
+            <title><![CDATA[It’s the corruption, stupid!]]></title>
             <description><![CDATA[By John Fund]]></description>
             <link>https://spectator.com/article/corruption-stupid-trump-administration/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/corruption-stupid-trump-administration/?edition=us</guid>
@@ -450,7 +506,7 @@
         </item>
         <item>
             <title><![CDATA[How will Trump solve the Iran problem?]]></title>
-            <description><![CDATA[Power plays]]></description>
+            <description><![CDATA[Has President Trump discovered his “off-ramp” from the war in Iran? His administration insists that Iran’s military power has been crushed, that its already broken economy is now all but dead, and that the Islamic Republic is on its last legs, desperate to make a deal. Yet Tehran, or the Islamic Revolutionary Guard deep state]]></description>
             <link>https://spectator.com/article/how-will-trump-solve-the-iran-problem/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-will-trump-solve-the-iran-problem/?edition=us</guid>
             <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
@@ -3942,62 +3998,6 @@
             <link>https://spectator.com/article/life-lessons-from-george-orwell/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/life-lessons-from-george-orwell/?edition=us</guid>
             <dc:creator><![CDATA[D.J. Taylor]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nintendo and the plumber who conquered the world]]></title>
-            <description><![CDATA[By Stephen Sexton]]></description>
-            <link>https://spectator.com/article/nintendo-and-the-plumber-who-conquered-the-world/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/nintendo-and-the-plumber-who-conquered-the-world/?edition=us</guid>
-            <dc:creator><![CDATA[Stephen Sexton]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lloyd Blankfein – guiding light of Goldman Sachs]]></title>
-            <description><![CDATA[By Lionel Barber]]></description>
-            <link>https://spectator.com/article/lloyd-blankfein-guiding-light-of-goldman-sachs/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/lloyd-blankfein-guiding-light-of-goldman-sachs/?edition=us</guid>
-            <dc:creator><![CDATA[Lionel Barber]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry Styles has a cute voice]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
-            <link>https://spectator.com/article/harry-styles-has-a-cute-voice/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/harry-styles-has-a-cute-voice/?edition=us</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Peaky Blinders film is surprisingly literate]]></title>
-            <description><![CDATA[By Deborah Ross]]></description>
-            <link>https://spectator.com/article/the-peaky-blinders-film-is-surprisingly-literate/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-peaky-blinders-film-is-surprisingly-literate/?edition=us</guid>
-            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the illiterate peasant Rasputin changed the course of modern history]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/how-an-illiterate-peasant-changed-the-course-of-modern-history/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-an-illiterate-peasant-changed-the-course-of-modern-history/?edition=us</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s delusion of omnipotence]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trump-has-shattered-americas-illusion-of-omnipotence-in-iran/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-has-shattered-americas-illusion-of-omnipotence-in-iran/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Iran will hasten MAGA’s demise]]></title>
-            <description><![CDATA[Readers may disagree with the cover line of this issue. Pronouncing “the end of Trumpism” feels somewhat similar to declaring “the end of history” – a provocative, albeit less grandiose, statement that risks being mocked in the near future. We should start by saying we hope that we are wrong. Trumpism, as this magazine understands]]></description>
-            <link>https://spectator.com/article/why-iran-will-hasten-magas-demise/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-iran-will-hasten-magas-demise/?edition=us</guid>
-            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
         </item>
     </channel>

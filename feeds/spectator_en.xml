@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 05:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 08:09:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 05:49:47 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 08:09:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Polanski squirms on Red Cross claims]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/polanski-squirms-on-red-cross-claims/</link>
+            <guid isPermaLink="true">https://spectator.com/article/polanski-squirms-on-red-cross-claims/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 08:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kemi Badenoch: ‘I’m the one holding Labour to account’]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/kemi-badenoch-im-the-one-holding-labour-to-account/</link>
+            <guid isPermaLink="true">https://spectator.com/article/kemi-badenoch-im-the-one-holding-labour-to-account/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 08:09:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Diets haven’t gone away]]></title>
             <description><![CDATA[Calorie counting]]></description>
@@ -50,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Russia is losing its grip on Africa]]></title>
-            <description><![CDATA[Africa Corps]]></description>
+            <description><![CDATA[By Amar Singh Bhandal]]></description>
             <link>https://spectator.com/article/russia-is-losing-its-grip-on-africa/</link>
             <guid isPermaLink="true">https://spectator.com/article/russia-is-losing-its-grip-on-africa/</guid>
             <dc:creator><![CDATA[Amar Singh Bhandal]]></dc:creator>
@@ -90,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[The slow death of Diversity, Equity and Inclusion]]></title>
-            <description><![CDATA[By Joanna Williams]]></description>
+            <description><![CDATA[DEI]]></description>
             <link>https://spectator.com/article/the-slow-death-of-diversity-equity-and-inclusion/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-slow-death-of-diversity-equity-and-inclusion/</guid>
             <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
@@ -3990,22 +4006,6 @@
             <link>https://spectator.com/article/reform-look-to-weaponise-the-boriswave/</link>
             <guid isPermaLink="true">https://spectator.com/article/reform-look-to-weaponise-the-boriswave/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 15:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about Pakistan’s role in the US-Iran conflict]]></title>
-            <description><![CDATA[By Francis Pike]]></description>
-            <link>https://spectator.com/article/the-truth-about-pakistans-role-in-the-us-iran-conflict/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-pakistans-role-in-the-us-iran-conflict/</guid>
-            <dc:creator><![CDATA[Francis Pike]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 15:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is probably not the end for Viktor Orbán]]></title>
-            <description><![CDATA[By Tibor Fischer]]></description>
-            <link>https://spectator.com/article/this-is-probably-not-the-end-for-viktor-orban/</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-is-probably-not-the-end-for-viktor-orban/</guid>
-            <dc:creator><![CDATA[Tibor Fischer]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 15:09:28 GMT</pubDate>
         </item>
     </channel>

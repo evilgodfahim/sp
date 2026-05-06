@@ -4,12 +4,28 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 17:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 19:24:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 17:23:31 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 19:24:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Does The Odyssey confirm that Sir Christopher Nolan is camp?]]></title>
+            <title><![CDATA[Meloni is being haunted by the ghost of Berlusconi]]></title>
+            <description><![CDATA[By Nicholas Farrell]]></description>
+            <link>https://spectator.com/article/meloni-is-being-haunted-by-the-ghost-of-berlusconi/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/meloni-is-being-haunted-by-the-ghost-of-berlusconi/?edition=us</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 19:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The slow death of Diversity, Equity and Inclusion]]></title>
+            <description><![CDATA[By Joanna Williams]]></description>
+            <link>https://spectator.com/article/the-slow-death-of-diversity-equity-and-inclusion/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-slow-death-of-diversity-equity-and-inclusion/?edition=us</guid>
+            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 19:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does The Odyssey confirm that Christopher Nolan is camp?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/does-the-odyssey-confirm-that-sir-christopher-nolan-is-camp/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/does-the-odyssey-confirm-that-sir-christopher-nolan-is-camp/?edition=us</guid>
@@ -3983,22 +3999,6 @@
             <guid isPermaLink="true">https://spectator.com/article/gone-wrong-night-manager/?edition=us</guid>
             <dc:creator><![CDATA[James Delingpole]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 04:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Steve Hilton on running to be California governor: ‘I don’t want this state that I love to become the country I left’]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/steve-hilton-interview-running-california-governor/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/steve-hilton-interview-running-california-governor/?edition=us</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are Republicans trying to lose the midterms?]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
-            <link>https://spectator.com/article/are-republicans-trying-to-lose-the-midterms/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/are-republicans-trying-to-lose-the-midterms/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

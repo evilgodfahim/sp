@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 12:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 15:24:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 12:27:07 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 15:24:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump’s missile cut has left Germany exposed]]></title>
+            <description><![CDATA[By Lisa Haseldine]]></description>
+            <link>https://spectator.com/article/trumps-missile-cut-will-leave-germany-exposed/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-missile-cut-will-leave-germany-exposed/?edition=us</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 15:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We are closer to AI extinction than we think]]></title>
+            <description><![CDATA[By Andrea Miotti]]></description>
+            <link>https://spectator.com/article/we-are-closer-to-ai-extinction-than-we-think/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-are-closer-to-ai-extinction-than-we-think/?edition=us</guid>
+            <dc:creator><![CDATA[Andrea Miotti]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 15:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAGA isn’t finished. It’s just getting started]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/maga-isnt-finished-its-just-getting-started/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/maga-isnt-finished-its-just-getting-started/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 15:24:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The marvels of Cuba’s national botanic gardens]]></title>
             <description><![CDATA[By Ruaridh Nicoll]]></description>
@@ -218,7 +242,7 @@
         </item>
         <item>
             <title><![CDATA[Life is a Cabaret: inside Liza Minnelli’s memoir]]></title>
-            <description><![CDATA[By Roger Lewis]]></description>
+            <description><![CDATA[Though she may well have been “one of the world’s most celebrated, beloved and iconic performers,” who’d have wanted Judy Garland as a mother? When not remaining in bed “for days at a time, heavily drugged and in a deep state of depression,” she was, according to her daughter Liza Minnelli, slashing her neck with]]></description>
             <link>https://spectator.com/article/life-cabaret-inside-liza-minnelli-memoir/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/life-cabaret-inside-liza-minnelli-memoir/?edition=us</guid>
             <dc:creator><![CDATA[Roger Lewis]]></dc:creator>
@@ -3974,30 +3998,6 @@
             <link>https://spectator.com/article/women-walking-away-new-right/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/women-walking-away-new-right/?edition=us</guid>
             <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dinner in Tehran, anyone?]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/dinner-in-tehran-anyone/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/dinner-in-tehran-anyone/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How we wage war in space]]></title>
-            <description><![CDATA[By David Whitehouse]]></description>
-            <link>https://spectator.com/article/how-we-wage-war-in-space/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-we-wage-war-in-space/?edition=us</guid>
-            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life lessons from George Orwell]]></title>
-            <description><![CDATA[By D.J. Taylor]]></description>
-            <link>https://spectator.com/article/life-lessons-from-george-orwell/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/life-lessons-from-george-orwell/?edition=us</guid>
-            <dc:creator><![CDATA[D.J. Taylor]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 20:29:56 GMT</pubDate>
         </item>
     </channel>

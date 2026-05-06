@@ -4,12 +4,44 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 12:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 15:24:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 12:27:12 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 15:24:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A new banking windfall tax would be a terrible idea]]></title>
+            <title><![CDATA[Polanski grovels over Golders Green (again)]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/polanski-grovels-over-golders-green-again/</link>
+            <guid isPermaLink="true">https://spectator.com/article/polanski-grovels-over-golders-green-again/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 15:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Friedrich Merz is driving his coalition to breaking point]]></title>
+            <description><![CDATA[By Christopher Gadsby]]></description>
+            <link>https://spectator.com/article/friedrich-merz-is-driving-his-coalition-to-breaking-point/</link>
+            <guid isPermaLink="true">https://spectator.com/article/friedrich-merz-is-driving-his-coalition-to-breaking-point/</guid>
+            <dc:creator><![CDATA[Christopher Gadsby]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 15:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What today’s Iran headlines don’t reveal about ‘Project Freedom’]]></title>
+            <description><![CDATA[By Andrew Cockburn]]></description>
+            <link>https://spectator.com/article/what-todays-iran-headlines-dont-reveal-about-project-freedom/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-todays-iran-headlines-dont-reveal-about-project-freedom/</guid>
+            <dc:creator><![CDATA[Andrew Cockburn]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 15:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meloni is being haunted by the ghost of Berlusconi]]></title>
+            <description><![CDATA[By Nicholas Farrell]]></description>
+            <link>https://spectator.com/article/meloni-is-being-haunted-by-the-ghost-of-berlusconi/</link>
+            <guid isPermaLink="true">https://spectator.com/article/meloni-is-being-haunted-by-the-ghost-of-berlusconi/</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 15:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A banking windfall tax would be a terrible idea]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
             <link>https://spectator.com/article/a-new-banking-windfall-tax-would-be-a-terrible-idea/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-new-banking-windfall-tax-would-be-a-terrible-idea/</guid>
@@ -3975,38 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/living-in-the-shadow-of-etna/</guid>
             <dc:creator><![CDATA[Caroline Moorehead]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 06:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is private equity secretly running your life?]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/is-private-equity-secretly-running-your-life/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-private-equity-secretly-running-your-life/</guid>
-            <dc:creator><![CDATA[Richard Walker]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 06:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The next Renaissance is coming]]></title>
-            <description><![CDATA[By Thomas Munson]]></description>
-            <link>https://spectator.com/article/the-next-renaissance-is-coming/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-next-renaissance-is-coming/</guid>
-            <dc:creator><![CDATA[Thomas Munson]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 04:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[School dinners are glorious]]></title>
-            <description><![CDATA[By William Atkinson]]></description>
-            <link>https://spectator.com/article/school-dinners-are-glorious/</link>
-            <guid isPermaLink="true">https://spectator.com/article/school-dinners-are-glorious/</guid>
-            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 04:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bardella, the princess and a very French love story]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/bardella-the-princess-and-a-very-french-saga/</link>
-            <guid isPermaLink="true">https://spectator.com/article/bardella-the-princess-and-a-very-french-saga/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 04:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

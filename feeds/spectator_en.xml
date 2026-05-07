@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 13:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 16:00:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 13:30:52 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 16:00:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Polanski pontificates on Israel (again)]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/polanski-pontificates-on-israel-again/</link>
+            <guid isPermaLink="true">https://spectator.com/article/polanski-pontificates-on-israel-again/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 16:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Ukrainian drones spoil Putin’s Victory Day parade?]]></title>
+            <description><![CDATA[By Svitlana Morenets]]></description>
+            <link>https://spectator.com/article/will-ukrainian-drones-spoil-putins-victory-day-parade/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-ukrainian-drones-spoil-putins-victory-day-parade/</guid>
+            <dc:creator><![CDATA[Svitlana Morenets]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 16:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How dangerous is the cruise ship virus outbreak?]]></title>
+            <description><![CDATA[By Matt Ridley]]></description>
+            <link>https://spectator.com/article/how-dangerous-is-the-cruise-ship-virus-outbreak/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-dangerous-is-the-cruise-ship-virus-outbreak/</guid>
+            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 16:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I admit it: I was wrong about the Premier League]]></title>
+            <description><![CDATA[Football]]></description>
+            <link>https://spectator.com/article/i-admit-it-i-was-wrong-about-the-premier-league/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-admit-it-i-was-wrong-about-the-premier-league/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 16:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get ready for the ugliest building in the City of London]]></title>
+            <description><![CDATA[Horror storeys]]></description>
+            <link>https://spectator.com/article/get-ready-for-the-ugliest-building-in-the-city-of-london/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/get-ready-for-the-ugliest-building-in-the-city-of-london/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Simon Jenkins]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 16:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The art of noise]]></title>
+            <description><![CDATA[Contemporary music]]></description>
+            <link>https://spectator.com/article/the-art-of-noise/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-art-of-noise/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Igor Toronyi-Lalic]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 16:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘airport effect’ that’s ruining modern life]]></title>
+            <description><![CDATA[The Wiki Man]]></description>
+            <link>https://spectator.com/article/the-airport-effect-thats-ruining-modern-life/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-airport-effect-thats-ruining-modern-life/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 16:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hantavirus doesn’t look like the next Covid]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/hantavirus-doesnt-look-like-the-next-covid/</link>
+            <guid isPermaLink="true">https://spectator.com/article/hantavirus-doesnt-look-like-the-next-covid/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 16:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Starmer’s TikTok backfires (again)]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -98,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[I admit it: I was wrong about the Premier League]]></title>
-            <description><![CDATA[Football]]></description>
+            <description><![CDATA[By Rod Liddle]]></description>
             <link>https://spectator.com/article/i-admit-it-i-was-wrong-about-the-premier-league/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-admit-it-i-was-wrong-about-the-premier-league/</guid>
             <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
@@ -210,7 +274,7 @@
         </item>
         <item>
             <title><![CDATA[Is your wellness smoothie giving you cancer?]]></title>
-            <description><![CDATA[By Max Pemberton]]></description>
+            <description><![CDATA[Unwellness]]></description>
             <link>https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/</guid>
             <dc:creator><![CDATA[Max Pemberton]]></dc:creator>
@@ -3943,70 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/trump-has-underestimated-the-pope/</guid>
             <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 23:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘People are at breaking point’: on the road with the Irish fuel protestors]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
-            <link>https://spectator.com/article/people-are-at-breaking-point-on-the-road-with-the-irish-fuel-protestors/</link>
-            <guid isPermaLink="true">https://spectator.com/article/people-are-at-breaking-point-on-the-road-with-the-irish-fuel-protestors/</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 23:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Treasure Britain’s last railway dining car while you still can]]></title>
-            <description><![CDATA[By Julian Glover]]></description>
-            <link>https://spectator.com/article/treasure-britains-last-railway-dining-car-while-you-still-can/</link>
-            <guid isPermaLink="true">https://spectator.com/article/treasure-britains-last-railway-dining-car-while-you-still-can/</guid>
-            <dc:creator><![CDATA[Julian Glover]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 23:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The inner secrets of Rory McIlroy]]></title>
-            <description><![CDATA[By Roger Alton]]></description>
-            <link>https://spectator.com/article/the-inner-secrets-of-rory-mcilroy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-inner-secrets-of-rory-mcilroy/</guid>
-            <dc:creator><![CDATA[Roger Alton]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 23:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do you make a tart that doesn’t really exist?]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
-            <link>https://spectator.com/article/how-do-you-make-a-tart-that-doesnt-really-exist/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-do-you-make-a-tart-that-doesnt-really-exist/</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 23:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans will never understand Marmite]]></title>
-            <description><![CDATA[By Sarah Carson]]></description>
-            <link>https://spectator.com/article/americans-will-never-understand-marmite/</link>
-            <guid isPermaLink="true">https://spectator.com/article/americans-will-never-understand-marmite/</guid>
-            <dc:creator><![CDATA[Sarah Carson]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 23:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Scottish Greens want everything to be free]]></title>
-            <description><![CDATA[By Iain Macwhirter]]></description>
-            <link>https://spectator.com/article/the-scottish-greens-want-everything-to-be-free/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-scottish-greens-want-everything-to-be-free/</guid>
-            <dc:creator><![CDATA[Iain Macwhirter]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 18:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump is making life increasingly hard for his allies]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/trump-is-making-life-increasingly-hard-for-his-allies/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-is-making-life-increasingly-hard-for-his-allies/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 16:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oh the joy of watching Keir Starmer descend into fury!]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/oh-the-joy-of-watching-keir-starmer-descend-into-fury/</link>
-            <guid isPermaLink="true">https://spectator.com/article/oh-the-joy-of-watching-keir-starmer-descend-into-fury/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 16:54:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

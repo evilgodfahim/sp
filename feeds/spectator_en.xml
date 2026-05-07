@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 05:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 08:18:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 05:53:38 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 08:18:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Are any fans weirder than Michael Jackson fans?]]></title>
+            <description><![CDATA[By Julie Burchill]]></description>
+            <link>https://spectator.com/article/are-any-fans-weirder-than-michael-jackson-fans/</link>
+            <guid isPermaLink="true">https://spectator.com/article/are-any-fans-weirder-than-michael-jackson-fans/</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are any fans weirder than Michael Jackson fans?]]></title>
+            <description><![CDATA[Fan fiction]]></description>
+            <link>https://spectator.com/article/are-any-fans-weirder-than-michael-jackson-fans/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/are-any-fans-weirder-than-michael-jackson-fans/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:18:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Let’s ditch the idea of the ‘black vote’]]></title>
             <description><![CDATA[By Lionel Shriver]]></description>
@@ -210,7 +226,7 @@
         </item>
         <item>
             <title><![CDATA[The ‘airport effect’ that’s ruining modern life]]></title>
-            <description><![CDATA[The phrase ‘computer says no’ now has its own Wikipedia page. The first recorded use dates back to a Stasi-era 1970s East German film segment titled ‘Der Computer Sagt: Nein’. However, its idiomatic use arose in 2004 via a series of sketches in Little Britain, each illustrating an example of technology-enabled bureaucratic intransigence, typically flying]]></description>
+            <description><![CDATA[By Rory Sutherland]]></description>
             <link>https://spectator.com/article/the-airport-effect-thats-ruining-modern-life/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-airport-effect-thats-ruining-modern-life/</guid>
             <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
@@ -218,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[Resist the cult of ‘picky bits’]]></title>
-            <description><![CDATA[By Declan Lyons]]></description>
+            <description><![CDATA[We are, according to Marks & Spencer, in ‘picky bits’ season. I cannot bear the tweeness of it all. M&S is surely mere days away from launching a ‘Paddington Bear picky bits picnic range’. In search for an antidote to such horrors, I go on my annual pilgrimage to Bouchon Racine, which starts on Westbourne]]></description>
             <link>https://spectator.com/article/resist-the-cult-of-picky-bits/</link>
             <guid isPermaLink="true">https://spectator.com/article/resist-the-cult-of-picky-bits/</guid>
             <dc:creator><![CDATA[Declan Lyons]]></dc:creator>
@@ -410,7 +426,7 @@
         </item>
         <item>
             <title><![CDATA[Seagull screeching is an antidote to madness]]></title>
-            <description><![CDATA[Winging it]]></description>
+            <description><![CDATA[By Phil Clarke]]></description>
             <link>https://spectator.com/article/seagull-screeching-is-an-antidote-to-madness/</link>
             <guid isPermaLink="true">https://spectator.com/article/seagull-screeching-is-an-antidote-to-madness/</guid>
             <dc:creator><![CDATA[Phil Clarke]]></dc:creator>
@@ -3990,22 +4006,6 @@
             <link>https://spectator.com/article/whats-the-point-of-the-sussexes-undignified-australia-tour/</link>
             <guid isPermaLink="true">https://spectator.com/article/whats-the-point-of-the-sussexes-undignified-australia-tour/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 11:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our gay asylum policy makes no sense]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/our-gay-asylum-policy-makes-no-sense/</link>
-            <guid isPermaLink="true">https://spectator.com/article/our-gay-asylum-policy-makes-no-sense/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 11:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I still watch PMQs]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/why-i-still-watch-pmqs/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-i-still-watch-pmqs/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 11:51:03 GMT</pubDate>
         </item>
     </channel>

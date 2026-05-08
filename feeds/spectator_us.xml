@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 17:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 19:05:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 17:03:55 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 19:05:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Kremlin’s secret plans for post-war Russia]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/the-kremlins-secret-plans-for-post-war-russia/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-kremlins-secret-plans-for-post-war-russia/?edition=us</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 19:05:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All roads lead to Rome for Rubio]]></title>
             <description><![CDATA[By Freddy Gray]]></description>
@@ -138,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Does The Odyssey confirm that Christopher Nolan is camp?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Sir Christopher Nolan is many things. The Spielberg/Lucas/Cameron manqué of our time. A double Oscar-winner for Oppenheimer, a picture that is nowhere near his best work. The most acclaimed director of film bros, who somehow ignore his standing as a white, British privately educated filmmaker. But what nobody has ever seriously asked before is “Is]]></description>
             <link>https://spectator.com/article/does-the-odyssey-confirm-that-sir-christopher-nolan-is-camp/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/does-the-odyssey-confirm-that-sir-christopher-nolan-is-camp/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -3990,14 +3998,6 @@
             <link>https://spectator.com/article/how-we-wage-war-in-space/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/how-we-wage-war-in-space/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 11:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t let AI read philosophy for you]]></title>
-            <description><![CDATA[By Mark Nayler]]></description>
-            <link>https://spectator.com/article/dont-let-ai-read-philosophy-for-you/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-let-ai-read-philosophy-for-you/?edition=us</guid>
-            <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 11:50:14 GMT</pubDate>
         </item>
     </channel>

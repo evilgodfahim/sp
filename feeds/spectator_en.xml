@@ -4,10 +4,40 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 17:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 19:05:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 17:03:58 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 19:05:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The ‘centrist dad’ act has paid off for the Liberal Democrats]]></title>
+            <link>https://spectator.com/article/the-centrist-dad-act-has-paid-off-for-the-liberal-democrats/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-centrist-dad-act-has-paid-off-for-the-liberal-democrats/</guid>
+            <pubDate>Fri, 08 May 2026 19:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What should Labour do now?]]></title>
+            <description><![CDATA[By John McTernan]]></description>
+            <link>https://spectator.com/article/what-should-labour-do-now/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-should-labour-do-now/</guid>
+            <dc:creator><![CDATA[John McTernan]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 19:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will John Swinney do a deal with Scotland’s Greens?]]></title>
+            <description><![CDATA[By Iain Macwhirter]]></description>
+            <link>https://spectator.com/article/will-john-swinney-do-a-deal-with-scotlands-greens/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-john-swinney-do-a-deal-with-scotlands-greens/</guid>
+            <dc:creator><![CDATA[Iain Macwhirter]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 19:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today was seismic for the reorientation of British politics]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/today-was-seismic-for-the-reorientation-of-british-politics/</link>
+            <guid isPermaLink="true">https://spectator.com/article/today-was-seismic-for-the-reorientation-of-british-politics/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 19:05:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Labour is set for a Wales wipe-out]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -3975,38 +4005,6 @@
             <guid isPermaLink="true">https://spectator.com/article/starmer-is-making-life-impossible-for-the-chagos-islanders/</guid>
             <dc:creator><![CDATA[Adam Holloway]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 04:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Olly Robbins sacked over Mandelson scandal]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/olly-robbins-sacked-over-mandelson-scandal/</link>
-            <guid isPermaLink="true">https://spectator.com/article/olly-robbins-sacked-over-mandelson-scandal/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 23:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three claims Starmer must explain on Mandelson]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/three-claims-starmer-must-explain-on-mandelson/</link>
-            <guid isPermaLink="true">https://spectator.com/article/three-claims-starmer-must-explain-on-mandelson/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 22:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did Starmer mislead MPs over Mandelson?]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/did-starmer-mislead-mps-over-mandelson/</link>
-            <guid isPermaLink="true">https://spectator.com/article/did-starmer-mislead-mps-over-mandelson/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 17:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Treasury squabbles are harming Britain’s national security]]></title>
-            <description><![CDATA[By Eliot Wilson]]></description>
-            <link>https://spectator.com/article/treasury-squabbles-are-harming-britains-national-security/</link>
-            <guid isPermaLink="true">https://spectator.com/article/treasury-squabbles-are-harming-britains-national-security/</guid>
-            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 17:05:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

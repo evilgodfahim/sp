@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 11:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 13:14:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 11:04:32 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 13:14:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Watch: Robert Jenrick reunites with political ex]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-robert-reunites-with-political-ex/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-robert-reunites-with-political-ex/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 13:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it time to start feeling sorry for Keir Starmer?]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/is-it-time-to-start-feeling-sorry-for-keir-starmer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-it-time-to-start-feeling-sorry-for-keir-starmer/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 13:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Essex Man is voting Reform]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/essex-man-is-voting-reform/</link>
+            <guid isPermaLink="true">https://spectator.com/article/essex-man-is-voting-reform/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 13:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starmergeddon: Labour is hurtling further left]]></title>
+            <description><![CDATA[By Michael Gove]]></description>
+            <link>https://spectator.com/article/starmergeddon/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/starmergeddon/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Michael Gove]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 13:14:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Pro-Gaza candidates celebrate success]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -3975,38 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/tomorrow-belongs-to-the-vegetarians/</guid>
             <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 08:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What happened to Britain’s fighting spirit?]]></title>
-            <description><![CDATA[By Mary Wakefield]]></description>
-            <link>https://spectator.com/article/what-happened-to-britains-fighting-spirit/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-happened-to-britains-fighting-spirit/</guid>
-            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 08:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain’s economy is growing – but not for long]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/britains-economy-is-growing-but-not-for-long/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britains-economy-is-growing-but-not-for-long/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 08:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has underestimated the Pope]]></title>
-            <description><![CDATA[Holy war]]></description>
-            <link>https://spectator.com/article/trump-has-underestimated-the-pope/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-has-underestimated-the-pope/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defence of museum charges]]></title>
-            <description><![CDATA[Museums]]></description>
-            <link>https://spectator.com/article/in-defence-of-museum-charges/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-museum-charges/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Digby Warde-Aldam]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

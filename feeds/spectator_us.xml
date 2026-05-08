@@ -4,9 +4,9 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 02:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 05:23:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 02:10:51 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 05:23:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Russians no longer believe Putin’s war propaganda]]></title>
@@ -426,7 +426,7 @@
         </item>
         <item>
             <title><![CDATA[Inside the Killhouse: where Ukraine’s revolutionary military robots are developed]]></title>
-            <description><![CDATA[BattleBots]]></description>
+            <description><![CDATA[By Ben Clerkin]]></description>
             <link>https://spectator.com/article/inside-killhouse-factory-building-ukraine-lethal-military-robots/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/inside-killhouse-factory-building-ukraine-lethal-military-robots/?edition=us</guid>
             <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>

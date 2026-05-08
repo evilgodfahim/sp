@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 15:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 17:03:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 15:15:06 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 17:03:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Labour is set for a Wales wipe-out]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/labour-is-set-for-a-wales-wipe-out/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-is-set-for-a-wales-wipe-out/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 17:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angus Robertson loses Edinburgh]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/angus-robertson-loses-edinburgh/</link>
+            <guid isPermaLink="true">https://spectator.com/article/angus-robertson-loses-edinburgh/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 17:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Louise Haigh gives Starmer ultimatum]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-louise-haigh-gives-starmer-ultimatum/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-louise-haigh-gives-starmer-ultimatum/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 17:03:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The truth about Green ‘progressives’]]></title>
             <description><![CDATA[By Brendan O’Neill]]></description>
@@ -3983,30 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/treasury-squabbles-are-harming-britains-national-security/</guid>
             <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 17:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My shameful confession: I’m not a good baker]]></title>
-            <description><![CDATA[Notebook]]></description>
-            <link>https://spectator.com/article/my-shameful-confession-im-not-a-good-baker/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-shameful-confession-im-not-a-good-baker/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Prue Leith]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 15:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The typo that spelled death in the Soviet Union]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-typo-that-spelled-death-in-the-soviet-union/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-typo-that-spelled-death-in-the-soviet-union/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Anna Aslanyan]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 15:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘People are at breaking point’: on the road with the Irish fuel protesters]]></title>
-            <description><![CDATA[Dispatch]]></description>
-            <link>https://spectator.com/article/people-are-at-breaking-point-on-the-road-with-the-irish-fuel-protestors/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/people-are-at-breaking-point-on-the-road-with-the-irish-fuel-protestors/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 15:19:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

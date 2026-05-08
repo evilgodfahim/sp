@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 07:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 09:06:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 07:17:33 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 09:06:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Tories in London are cheering today]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/why-tories-in-london-are-cheering-today/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-tories-in-london-are-cheering-today/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 09:06:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suella’s seat sticks with Tories]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/suellas-seat-sticks-with-tories/</link>
+            <guid isPermaLink="true">https://spectator.com/article/suellas-seat-sticks-with-tories/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 09:06:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What happened to the Green wave?]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/what-happened-to-the-green-wave/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-happened-to-the-green-wave/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 09:06:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Five wagers for Chester and Ascot]]></title>
             <description><![CDATA[Tony Martin, the shrewd Irish trainer, loves to take aim at today’s Ladbrokes Chester Cup and its consolation race and I can see his three runners in the two races making their mark. Back Peaky Blinder 1 point each way at 8-1 with bet365, paying five places. ZANNDABAD has not won on the flat for three seasons but he is]]></description>
@@ -3983,30 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/whistleblower-china-is-still-persecuting-uyghurs/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What we can learn from the Southport killer]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
-            <link>https://spectator.com/article/what-we-can-learn-from-the-southport-killer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-we-can-learn-from-the-southport-killer/</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Rachel Reeves blocking defence spending because of ‘gender parity’?]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/britains-drone-gap-makes-us-vulnerable/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britains-drone-gap-makes-us-vulnerable/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 06:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s goals in Iran have always been clear]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 04:46:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

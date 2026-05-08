@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 19:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 20:50:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 19:05:34 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 20:50:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Live: The Labour MPs calling for Sir Keir Starmer to go]]></title>
+            <description><![CDATA[By Coffee House]]></description>
+            <link>https://spectator.com/article/live-the-labour-mps-calling-for-sir-keir-starmer-to-go/</link>
+            <guid isPermaLink="true">https://spectator.com/article/live-the-labour-mps-calling-for-sir-keir-starmer-to-go/</guid>
+            <dc:creator><![CDATA[Coffee House]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 20:50:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The ‘centrist dad’ act has paid off for the Liberal Democrats]]></title>
             <link>https://spectator.com/article/the-centrist-dad-act-has-paid-off-for-the-liberal-democrats/</link>
@@ -3996,14 +4004,6 @@
             <link>https://spectator.com/article/john-swinney-wants-to-decide-scotlands-food-prices/</link>
             <guid isPermaLink="true">https://spectator.com/article/john-swinney-wants-to-decide-scotlands-food-prices/</guid>
             <dc:creator><![CDATA[John Ferry]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 04:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer is making life impossible for the Chagos Islanders]]></title>
-            <description><![CDATA[By Adam Holloway]]></description>
-            <link>https://spectator.com/article/starmer-is-making-life-impossible-for-the-chagos-islanders/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-is-making-life-impossible-for-the-chagos-islanders/</guid>
-            <dc:creator><![CDATA[Adam Holloway]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 04:43:38 GMT</pubDate>
         </item>
     </channel>

@@ -4,13 +4,21 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 05:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 07:17:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 05:24:03 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 07:17:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Five wagers for Chester and Ascot]]></title>
+            <description><![CDATA[Tony Martin, the shrewd Irish trainer, loves to take aim at today’s Ladbrokes Chester Cup and its consolation race and I can see his three runners in the two races making their mark. Back Peaky Blinder 1 point each way at 8-1 with bet365, paying five places. ZANNDABAD has not won on the flat for three seasons but he is]]></description>
+            <link>https://spectator.com/article/five-wagers-for-chester-and-ascot/</link>
+            <guid isPermaLink="true">https://spectator.com/article/five-wagers-for-chester-and-ascot/</guid>
+            <dc:creator><![CDATA[Penworthy]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 07:17:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Local Election Candidate’s Tale]]></title>
-            <description><![CDATA[As the results are being announced for this year’s local elections, I am reminded of where I was almost exactly a year ago: standing in Carn Brea Leisure Centre in Redruth, Cornwall waiting to hear my neighbours’ verdict on me and the Conservative party.  The Count stalks my memory like I’m Mina Harker.   To be]]></description>
+            <description><![CDATA[By Andrew Watts]]></description>
             <link>https://spectator.com/article/i-stood-to-be-a-tory-councillor-and-lost/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-stood-to-be-a-tory-councillor-and-lost/</guid>
             <dc:creator><![CDATA[Andrew Watts]]></dc:creator>
@@ -49,7 +57,7 @@
             <pubDate>Fri, 08 May 2026 05:24:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reform up and Tories and Labour down in local elections]]></title>
+            <title><![CDATA[Mapped: How Reform and Labour fared in your area]]></title>
             <description><![CDATA[By John O’Neill and Michael Simmons]]></description>
             <link>https://spectator.com/article/reform-up-and-tories-and-labour-down-in-local-elections/</link>
             <guid isPermaLink="true">https://spectator.com/article/reform-up-and-tories-and-labour-down-in-local-elections/</guid>
@@ -3999,14 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 04:46:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Excruciating tedium from Pina Bausch]]></title>
-            <description><![CDATA[You’re never too old to dance we are told nowadays. This encouraging injunction has been taken up by everyone from the likes of Mikhail Baryshnikov and Alessandra Ferri, who have found wondrously creative ways to compensate for their declining virtuosity and stamina, to septuagenarians who insist on bopping to Abba at their grandchildren’s wedding parties.]]></description>
-            <link>https://spectator.com/article/excruciating-tedium-from-pina-bausch/</link>
-            <guid isPermaLink="true">https://spectator.com/article/excruciating-tedium-from-pina-bausch/</guid>
-            <dc:creator><![CDATA[Rupert Christiansen]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 23:35:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

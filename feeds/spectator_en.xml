@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 14:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 15:42:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 14:15:49 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 15:42:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Barrie Drewitt-Barlow and the commodification of surrogacy]]></title>
+            <description><![CDATA[By Julie Bindel]]></description>
+            <link>https://spectator.com/article/barrie-drewitt-barlow-and-the-commodification-of-surrogacy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/barrie-drewitt-barlow-and-the-commodification-of-surrogacy/</guid>
+            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 15:42:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What will the Green party do with its new racist councillors?]]></title>
             <description><![CDATA[By Andrew Gilligan]]></description>
@@ -3999,14 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/the-questions-starmers-ethics-adviser-needs-to-answer/</guid>
             <dc:creator><![CDATA[Rupert Redwald]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London has fallen]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/london-has-fallen/</link>
-            <guid isPermaLink="true">https://spectator.com/article/london-has-fallen/</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 11:43:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

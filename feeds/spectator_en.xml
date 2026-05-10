@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 08:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 10:06:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 08:01:54 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 10:06:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Starmer is shedding support across Labour]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/starmer-is-shedding-support-across-labour/</link>
+            <guid isPermaLink="true">https://spectator.com/article/starmer-is-shedding-support-across-labour/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Sun, 10 May 2026 10:06:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The political gossip]]></title>
             <description><![CDATA[If you’re at a high-profile but dreary launch of a political memoir at Daunt’s or find yourself in the Red Lion in Westminster any weeknight after six, Samuel Ordington-Mortimer will almost certainly be there, too. You usually hear him before you see him: a braying, gleefully indiscreet voice regaling his listeners with the latest salacious tidings at top volume.   By the time he hovers into]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/what-happened-to-provence/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-happened-to-provence/</guid>
             <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Sun, 19 Apr 2026 04:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oxford needs to fight back against the university]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/oxford-needs-to-fight-back-against-the-university/</link>
-            <guid isPermaLink="true">https://spectator.com/article/oxford-needs-to-fight-back-against-the-university/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Sun, 19 Apr 2026 04:45:39 GMT</pubDate>
         </item>
     </channel>

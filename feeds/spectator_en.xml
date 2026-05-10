@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 11:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 12:58:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 11:43:16 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 12:58:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sunday shows round-up: Phillipson says Catherine West is ‘completely wrong’]]></title>
+            <description><![CDATA[By Joe Bedell-Brill]]></description>
+            <link>https://spectator.com/article/sunday-shows-round-up-phillipson-says-catherine-west-is-completely-wrong/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-phillipson-says-catherine-west-is-completely-wrong/</guid>
+            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
+            <pubDate>Sun, 10 May 2026 12:58:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did antisemitism cost the Greens at the local elections?]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/did-antisemitism-cost-the-greens-at-the-local-elections/</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-antisemitism-cost-the-greens-at-the-local-elections/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Sun, 10 May 2026 12:58:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Starmer is shedding support across Labour]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -3991,22 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/immanuel-kant-was-no-cold-fish/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
             <pubDate>Sun, 19 Apr 2026 06:25:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why British toilets are revolting]]></title>
-            <description><![CDATA[By Sean Thomas]]></description>
-            <link>https://spectator.com/article/loo-or-toilet-and-why-western-ones-are-revolting/</link>
-            <guid isPermaLink="true">https://spectator.com/article/loo-or-toilet-and-why-western-ones-are-revolting/</guid>
-            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
-            <pubDate>Sun, 19 Apr 2026 04:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What happened to Provence?]]></title>
-            <description><![CDATA[By Matthew Fraser]]></description>
-            <link>https://spectator.com/article/what-happened-to-provence/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-happened-to-provence/</guid>
-            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Sun, 19 Apr 2026 04:45:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

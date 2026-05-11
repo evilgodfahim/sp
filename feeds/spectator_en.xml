@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 18:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 20:27:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 18:51:38 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 20:27:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Keir Starmer’s position is looking increasingly untenable]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/keir-starmers-position-is-looking-increasingly-untenable-2/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmers-position-is-looking-increasingly-untenable-2/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 20:27:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The charts that disprove Rayner’s remedy for a broken Britain]]></title>
             <description><![CDATA[By Michael Simmons and John Power]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/prets-been-ground-down/</link>
             <guid isPermaLink="true">https://spectator.com/article/prets-been-ground-down/</guid>
             <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 04:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why gingers have more fun (genetically at least)]]></title>
-            <description><![CDATA[By Catriona Olding]]></description>
-            <link>https://spectator.com/article/why-gingers-have-more-fun-genetically-at-least/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-gingers-have-more-fun-genetically-at-least/</guid>
-            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 04:43:10 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 18:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 20:27:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 18:51:33 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 20:27:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Could Epstein’s birthday book trip up the British Ambassador?]]></title>
+            <description><![CDATA[By Damian Reilly]]></description>
+            <link>https://spectator.com/article/could-epsteins-birthday-book-trip-up-the-british-ambassador/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/could-epsteins-birthday-book-trip-up-the-british-ambassador/?edition=us</guid>
+            <dc:creator><![CDATA[Damian Reilly]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 20:27:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How dangerous is the cruise ship hantavirus?]]></title>
             <description><![CDATA[By Chris Smith]]></description>
@@ -3991,14 +3999,6 @@
             <guid isPermaLink="true">https://spectator.com/article/how-divorce-never-ends/?edition=us</guid>
             <dc:creator><![CDATA[Bridget Phetasy]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 20:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Happy Trans Day of Visibility, Bryon Noem!]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/happy-trans-day-of-visibility-bryon-noem/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/happy-trans-day-of-visibility-bryon-noem/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 19:50:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

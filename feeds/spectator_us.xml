@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 13:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 16:25:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 13:39:00 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 16:25:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How dangerous is the cruise ship hantavirus?]]></title>
+            <description><![CDATA[By Chris Smith]]></description>
+            <link>https://spectator.com/article/how-dangerous-is-the-cruise-ship-hantavirus/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-dangerous-is-the-cruise-ship-hantavirus/?edition=us</guid>
+            <dc:creator><![CDATA[Chris Smith]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 16:25:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TV doesn’t ruin childhood, but phones might]]></title>
             <description><![CDATA[By Sam Leith]]></description>
@@ -3990,14 +3998,6 @@
             <link>https://spectator.com/article/happy-trans-day-of-visibility-bryon-noem/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/happy-trans-day-of-visibility-bryon-noem/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Chagos deal is unraveling]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
-            <link>https://spectator.com/article/the-chagos-deal-is-unravelling/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-chagos-deal-is-unravelling/?edition=us</guid>
-            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 19:50:15 GMT</pubDate>
         </item>
     </channel>

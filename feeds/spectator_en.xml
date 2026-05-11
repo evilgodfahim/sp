@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 13:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 16:25:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 13:39:05 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 16:25:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ministers ponder resignation]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/ministers-ponder-resignation/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ministers-ponder-resignation/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 16:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham backer’s hypocrisy revealed]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/burnham-backers-hypocrisy-revealed/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-backers-hypocrisy-revealed/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 16:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC Verify’s greatest hits]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/bbc-verifys-greatest-hits/</link>
+            <guid isPermaLink="true">https://spectator.com/article/bbc-verifys-greatest-hits/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 16:25:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The irony of the woke war on GCSE French]]></title>
             <description><![CDATA[Arrogant]]></description>
@@ -3983,30 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/lee-anderson-and-zarah-sultana-are-two-sides-of-the-same-coin/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
             <pubDate>Mon, 20 Apr 2026 17:53:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Lee Anderson kicked out of the Commons for calling Starmer a liar]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-lee-anderson-kicked-out-of-the-commons-for-calling-starmer-a-liar/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-lee-anderson-kicked-out-of-the-commons-for-calling-starmer-a-liar/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 16:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal fans are getting what they deserve]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
-            <link>https://spectator.com/article/arsenal-fans-are-getting-what-they-deserve/</link>
-            <guid isPermaLink="true">https://spectator.com/article/arsenal-fans-are-getting-what-they-deserve/</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 16:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The National Lottery verdict shows Labour isn’t serious about growth]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/the-national-lottery-verdict-shows-labour-isnt-serious-about-growth/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-national-lottery-verdict-shows-labour-isnt-serious-about-growth/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 16:56:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 02:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 06:30:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 02:14:19 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 06:30:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The only thing out there is the UFO industrial complex]]></title>
+            <description><![CDATA[By David Whitehouse]]></description>
+            <link>https://spectator.com/article/the-only-thing-out-there-is-the-ufo-industrial-complex/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-only-thing-out-there-is-the-ufo-industrial-complex/?edition=us</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 06:30:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did Ilhan Omar marry her brother?]]></title>
             <description><![CDATA[By Brandon Goldman]]></description>
@@ -3991,14 +3999,6 @@
             <guid isPermaLink="true">https://spectator.com/article/how-mark-carney-sold-canada-to-china/?edition=us</guid>
             <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 14:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why America and France are always arguing]]></title>
-            <description><![CDATA[By John Keiger]]></description>
-            <link>https://spectator.com/article/america-france-always-arguing/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/america-france-always-arguing/?edition=us</guid>
-            <dc:creator><![CDATA[John Keiger]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 12:57:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

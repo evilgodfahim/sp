@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 16:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 18:51:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 16:25:21 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 18:51:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The charts that disprove Rayner’s remedy for a broken Britain]]></title>
+            <description><![CDATA[By Michael Simmons and John Power]]></description>
+            <link>https://spectator.com/article/the-charts-that-disprove-rayners-remedy-for-a-broken-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-charts-that-disprove-rayners-remedy-for-a-broken-britain/</guid>
+            <dc:creator><![CDATA[Michael Simmons and John Power]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 18:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keir Starmer’s position is looking increasingly untenable]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/keir-starmers-position-is-looking-increasingly-untenable/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmers-position-is-looking-increasingly-untenable/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 18:51:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ministers ponder resignation]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -74,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Keir Starmer’s ‘reset’ was just more slop]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
+            <description><![CDATA[Sketch]]></description>
             <link>https://spectator.com/article/keir-starmers-reset-was-just-more-slop/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmers-reset-was-just-more-slop/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -3991,22 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/why-gingers-have-more-fun-genetically-at-least/</guid>
             <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 04:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Greek tragedy of Keir Starmer]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/the-greek-tragedy-of-keir-starmer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-greek-tragedy-of-keir-starmer/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 19:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lee Anderson and Zarah Sultana are two sides of the same coin]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/lee-anderson-and-zarah-sultana-are-two-sides-of-the-same-coin/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lee-anderson-and-zarah-sultana-are-two-sides-of-the-same-coin/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 17:53:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

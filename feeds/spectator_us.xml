@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 20:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 21:58:56 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 20:27:46 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 21:58:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Croquet hasn’t quite gone away]]></title>
+            <description><![CDATA[Country life]]></description>
+            <link>https://spectator.com/article/croquet-hasnt-quite-gone-away/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/croquet-hasnt-quite-gone-away/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 21:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My heated argument about Italy’s birthrate]]></title>
+            <description><![CDATA[Dolce vita]]></description>
+            <link>https://spectator.com/article/my-heated-argument-about-italys-birthrate/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-heated-argument-about-italys-birthrate/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 21:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roadside produce stands: the last enclave of social trust]]></title>
+            <description><![CDATA[An honest living]]></description>
+            <link>https://spectator.com/article/roadside-produce-stands-the-last-enclave-of-social-trust/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/roadside-produce-stands-the-last-enclave-of-social-trust/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 21:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My perilous pursuit of Colombia’s birdlife]]></title>
+            <description><![CDATA[By James Delingpole]]></description>
+            <link>https://spectator.com/article/my-perilous-pursuit-of-colombias-birdlife/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-perilous-pursuit-of-colombias-birdlife/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 21:58:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Could Epstein’s birthday book trip up the British Ambassador?]]></title>
             <description><![CDATA[By Damian Reilly]]></description>
@@ -3967,38 +3999,6 @@
             <guid isPermaLink="true">https://spectator.com/article/a-sunshine-state-of-mind/?edition=us</guid>
             <dc:creator><![CDATA[Karol Markowicz]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 08:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Byrne has done it again]]></title>
-            <description><![CDATA[By Graeme Thomson]]></description>
-            <link>https://spectator.com/article/david-byrne-has-done-it-again/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/david-byrne-has-done-it-again/?edition=us</guid>
-            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 08:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The art of aging]]></title>
-            <description><![CDATA[By Simon Ings]]></description>
-            <link>https://spectator.com/article/the-art-of-ageing/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-art-of-ageing/?edition=us</guid>
-            <dc:creator><![CDATA[Simon Ings]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 08:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has given America back its heroes]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/trump-given-america-back-heroes-statues-christopher-columbus/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-given-america-back-heroes-statues-christopher-columbus/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 04:42:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How divorce never ends]]></title>
-            <description><![CDATA[By Bridget Phetasy]]></description>
-            <link>https://spectator.com/article/how-divorce-never-ends/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-divorce-never-ends/?edition=us</guid>
-            <dc:creator><![CDATA[Bridget Phetasy]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 20:35:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

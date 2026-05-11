@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 21:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 22:55:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 21:58:56 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 22:55:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My perilous pursuit of Colombia’s birdlife]]></title>
+            <description><![CDATA[By James Delingpole]]></description>
+            <link>https://spectator.com/article/my-perilous-pursuit-of-colombias-birdlife/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-perilous-pursuit-of-colombias-birdlife/?edition=us</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 22:55:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Croquet hasn’t quite gone away]]></title>
             <description><![CDATA[Country life]]></description>
@@ -3991,14 +3999,6 @@
             <guid isPermaLink="true">https://spectator.com/article/why-aircraft-carriers-have-had-their-day/?edition=us</guid>
             <dc:creator><![CDATA[Andrew Cockburn]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A sunshine state of mind]]></title>
-            <description><![CDATA[By Karol Markowicz]]></description>
-            <link>https://spectator.com/article/a-sunshine-state-of-mind/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-sunshine-state-of-mind/?edition=us</guid>
-            <dc:creator><![CDATA[Karol Markowicz]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 08:11:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 06:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 10:29:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 06:30:23 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 10:29:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is the Florida boom over?]]></title>
+            <description><![CDATA[By Tim Benson]]></description>
+            <link>https://spectator.com/article/florida-boom-over/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/florida-boom-over/?edition=us</guid>
+            <dc:creator><![CDATA[Tim Benson]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 10:29:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The only thing out there is the UFO industrial complex]]></title>
             <description><![CDATA[By David Whitehouse]]></description>
@@ -3991,14 +3999,6 @@
             <guid isPermaLink="true">https://spectator.com/article/the-harry-potter-television-series-looks-set-to-be-creatively-bereft/?edition=us</guid>
             <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Mark Carney sold Canada to China]]></title>
-            <description><![CDATA[By Jane Stannus]]></description>
-            <link>https://spectator.com/article/how-mark-carney-sold-canada-to-china/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-mark-carney-sold-canada-to-china/?edition=us</guid>
-            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 14:26:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

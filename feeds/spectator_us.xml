@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 02:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 05:59:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 May 2026 02:09:22 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 05:59:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We begged Hollywood for Sydney Sweeney]]></title>
+            <description><![CDATA[By Neal Pollack]]></description>
+            <link>https://spectator.com/article/we-begged-hollywood-for-sydney-sweeney/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-begged-hollywood-for-sydney-sweeney/?edition=us</guid>
+            <dc:creator><![CDATA[Neal Pollack]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 05:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Biden’s memoir will humiliate him]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/joe-bidens-memoir-will-humiliate-him/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/joe-bidens-memoir-will-humiliate-him/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 05:59:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The rise of BlueAnon]]></title>
             <description><![CDATA[By Amber Duke]]></description>
@@ -402,7 +418,7 @@
         </item>
         <item>
             <title><![CDATA[Does The Odyssey confirm that Christopher Nolan is camp?]]></title>
-            <description><![CDATA[Sir Christopher Nolan is many things. The Spielberg/Lucas/Cameron manqué of our time. A double Oscar-winner for Oppenheimer, a picture that is nowhere near his best work. The most acclaimed director of film bros, who somehow ignore his standing as a white, British privately educated filmmaker. But what nobody has ever seriously asked before is “Is]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/does-the-odyssey-confirm-that-sir-christopher-nolan-is-camp/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/does-the-odyssey-confirm-that-sir-christopher-nolan-is-camp/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -3982,22 +3998,6 @@
             <link>https://spectator.com/article/how-the-poor-survived-in-ancient-rome/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/how-the-poor-survived-in-ancient-rome/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Peter Jones]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Madagascar offers peace – and lemurs – in abundance]]></title>
-            <description><![CDATA[Africa]]></description>
-            <link>https://spectator.com/article/madagascar-offers-peace-and-lemurs-in-abundance/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/madagascar-offers-peace-and-lemurs-in-abundance/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Prue Leith]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europe is in mutiny against Trump]]></title>
-            <description><![CDATA[By Daniel DePetris]]></description>
-            <link>https://spectator.com/article/europe-is-finally-standing-up-to-trump/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/europe-is-finally-standing-up-to-trump/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
         </item>
     </channel>

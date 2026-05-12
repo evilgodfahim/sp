@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 23:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 02:09:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 23:50:56 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 02:09:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The rise of BlueAnon]]></title>
+            <description><![CDATA[By Amber Duke]]></description>
+            <link>https://spectator.com/article/the-rise-of-blueanon/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-blueanon/?edition=us</guid>
+            <dc:creator><![CDATA[Amber Duke]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 02:09:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It’s not that hard to not be overweight]]></title>
             <description><![CDATA[By Teresa Mull]]></description>
@@ -3990,14 +3998,6 @@
             <link>https://spectator.com/article/europe-is-finally-standing-up-to-trump/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/europe-is-finally-standing-up-to-trump/?edition=us</guid>
             <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[War and fishing in the Strait of Hormuz]]></title>
-            <description><![CDATA[By Christopher Kennedy-Barnard]]></description>
-            <link>https://spectator.com/article/fishing-in-the-strait-of-hormuz/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/fishing-in-the-strait-of-hormuz/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Kennedy-Barnard]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 11:44:31 GMT</pubDate>
         </item>
     </channel>

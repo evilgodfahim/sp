@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 23:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 02:09:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 23:51:01 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 02:09:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The changing economics of war]]></title>
+            <description><![CDATA[By James Lawson]]></description>
+            <link>https://spectator.com/article/the-changing-economics-of-war/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-changing-economics-of-war/</guid>
+            <dc:creator><![CDATA[James Lawson]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 02:09:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Keir Starmer’s position is looking increasingly untenable]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -3998,14 +4006,6 @@
             <link>https://spectator.com/article/we-can-still-save-prince-harry/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-can-still-save-prince-harry/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 04:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[High street cafés have gone to pot]]></title>
-            <description><![CDATA[By Zak Asgard]]></description>
-            <link>https://spectator.com/article/prets-been-ground-down/</link>
-            <guid isPermaLink="true">https://spectator.com/article/prets-been-ground-down/</guid>
-            <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 04:43:10 GMT</pubDate>
         </item>
     </channel>

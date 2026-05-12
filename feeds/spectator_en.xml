@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 11:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 14:02:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 May 2026 11:13:44 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 14:02:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jess Phillips’s resignation will be particularly painful for Keir Starmer]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/jess-phillipss-resignation-will-be-particularly-painful-for-keir-starmer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/jess-phillipss-resignation-will-be-particularly-painful-for-keir-starmer/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 14:02:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Biden’s memoir will humiliate him]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/joe-bidens-memoir-will-humiliate-him/</link>
+            <guid isPermaLink="true">https://spectator.com/article/joe-bidens-memoir-will-humiliate-him/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 14:02:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Louise Haigh’s economic plan would hasten Britain’s decline]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
@@ -17,7 +33,7 @@
             <pubDate>Tue, 12 May 2026 11:13:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Keir Starmer digs his heels in]]></title>
+            <title><![CDATA[Keir Starmer has one card left to play]]></title>
             <description><![CDATA[By Noa Hoffman]]></description>
             <link>https://spectator.com/article/keir-starmer-digs-his-heels-in/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmer-digs-his-heels-in/</guid>
@@ -1242,7 +1258,7 @@
         </item>
         <item>
             <title><![CDATA[Students of theatrical history will adore David Hare’s Grace Pervades]]></title>
-            <description><![CDATA[Grace Pervades by David Hare is a drama-documentary about the life and theatrical work of the great Victorian thesp, Sir Henry Irving. He was a morose and obsessive perfectionist whose style was considered dated even in the 19th century. Success arrived relatively late in life. He was making his way as a jobbing actor until]]></description>
+            <description><![CDATA[By Lloyd Evans]]></description>
             <link>https://spectator.com/article/students-of-theatrical-history-will-adore-david-hares-grace-pervades/</link>
             <guid isPermaLink="true">https://spectator.com/article/students-of-theatrical-history-will-adore-david-hares-grace-pervades/</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
@@ -3990,22 +4006,6 @@
             <link>https://spectator.com/article/watch-robbins-drops-doyle-bombshell/</link>
             <guid isPermaLink="true">https://spectator.com/article/watch-robbins-drops-doyle-bombshell/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 11:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London’s Jews are under attack]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/londons-jews-are-under-attack/</link>
-            <guid isPermaLink="true">https://spectator.com/article/londons-jews-are-under-attack/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 11:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An unflashy Olly Robbins mauls Keir Starmer]]></title>
-            <description><![CDATA[Sketch]]></description>
-            <link>https://spectator.com/article/olly-robbins-made-starmer-sound-incompetent-deceitful-and-unpleasant/</link>
-            <guid isPermaLink="true">https://spectator.com/article/olly-robbins-made-starmer-sound-incompetent-deceitful-and-unpleasant/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 11:55:47 GMT</pubDate>
         </item>
     </channel>

@@ -4,13 +4,37 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 14:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 17:06:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 May 2026 14:02:07 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 17:06:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Jess Phillips’s resignation will be particularly painful for Keir Starmer]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
+            <title><![CDATA[Will Trump strike a deal on Iran in China?]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/will-trump-strike-a-deal-on-iran-in-china/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-trump-strike-a-deal-on-iran-in-china/</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 17:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starmer should stay]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/starmer-should-stay/</link>
+            <guid isPermaLink="true">https://spectator.com/article/starmer-should-stay/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 17:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zack Polanski’s council tax blunder shows he isn’t fit to lead the Greens]]></title>
+            <description><![CDATA[Sunk cost]]></description>
+            <link>https://spectator.com/article/zack-polanskis-council-tax-blunder-shows-he-isnt-fit-to-lead-the-greens/</link>
+            <guid isPermaLink="true">https://spectator.com/article/zack-polanskis-council-tax-blunder-shows-he-isnt-fit-to-lead-the-greens/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 17:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jess Phillips’s resignation will be particularly painful for Starmer]]></title>
+            <description><![CDATA[‘Words not deeds’]]></description>
             <link>https://spectator.com/article/jess-phillipss-resignation-will-be-particularly-painful-for-keir-starmer/</link>
             <guid isPermaLink="true">https://spectator.com/article/jess-phillipss-resignation-will-be-particularly-painful-for-keir-starmer/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -34,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Keir Starmer has one card left to play]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
+            <description><![CDATA[Over and out?]]></description>
             <link>https://spectator.com/article/keir-starmer-digs-his-heels-in/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmer-digs-his-heels-in/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
@@ -42,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Keir Starmer is done]]></title>
-            <description><![CDATA[Game over]]></description>
+            <description><![CDATA[By James Heale]]></description>
             <link>https://spectator.com/article/keir-starmer-is-done/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmer-is-done/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -50,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Keir Starmer’s ‘chaos’ hypocrisy]]></title>
-            <description><![CDATA[Blame game]]></description>
+            <description><![CDATA[By Ameer Kotecha]]></description>
             <link>https://spectator.com/article/keir-starmers-chaos-hypocrisy/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmers-chaos-hypocrisy/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
@@ -122,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Andy Burnham is no saviour]]></title>
-            <description><![CDATA[Keir's heir]]></description>
+            <description><![CDATA[Keir’s heir]]></description>
             <link>https://spectator.com/article/andy-burnham-is-no-saviour/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-no-saviour/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -697,8 +721,8 @@
             <pubDate>Fri, 08 May 2026 22:47:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Labour MPs calling for Sir Keir Starmer to go]]></title>
-            <description><![CDATA[Live]]></description>
+            <title><![CDATA[Live: The Labour MPs calling for Sir Keir Starmer to go]]></title>
+            <description><![CDATA[By Coffee House]]></description>
             <link>https://spectator.com/article/live-the-labour-mps-calling-for-sir-keir-starmer-to-go/</link>
             <guid isPermaLink="true">https://spectator.com/article/live-the-labour-mps-calling-for-sir-keir-starmer-to-go/</guid>
             <dc:creator><![CDATA[Coffee House]]></dc:creator>
@@ -3983,30 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/its-hardly-surprising-that-an-israeli-soldier-was-caught-desecrating-a-crucifix/</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 15:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Iran war is giving Xi the upper hand with Trump]]></title>
-            <description><![CDATA[By Ian Williams]]></description>
-            <link>https://spectator.com/article/the-iran-war-is-giving-xi-the-upper-hand-with-trump/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-iran-war-is-giving-xi-the-upper-hand-with-trump/</guid>
-            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 15:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Trump hasn’t stuck the knife into Starmer]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/why-trump-hasnt-stuck-the-knife-into-starmer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-trump-hasnt-stuck-the-knife-into-starmer/</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 13:04:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Robbins drops Doyle bombshell]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-robbins-drops-doyle-bombshell/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-robbins-drops-doyle-bombshell/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 11:55:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

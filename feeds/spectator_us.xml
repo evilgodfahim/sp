@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 17:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 19:29:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 May 2026 17:06:04 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 19:29:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Keir Starmer has one card left to play]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/keir-starmer-digs-his-heels-in/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-digs-his-heels-in/?edition=us</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 19:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump insults are getting lazier – thanks to AI!]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/trump-insults-are-getting-lazier-thanks-to-ai/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-insults-are-getting-lazier-thanks-to-ai/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 19:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America’s Trump card in China]]></title>
+            <description><![CDATA[By Michael Sobolik]]></description>
+            <link>https://spectator.com/article/america-trump-card-china-ceos/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-trump-card-china-ceos/?edition=us</guid>
+            <dc:creator><![CDATA[Michael Sobolik]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 19:29:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump is in the mood to do a deal with China]]></title>
             <description><![CDATA[By Jacob Heilbrunn]]></description>
@@ -3975,30 +3999,6 @@
             <guid isPermaLink="true">https://spectator.com/article/trumps-presence-wont-sway-the-supreme-court/?edition=us</guid>
             <dc:creator><![CDATA[Alan Dershowitz]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 19:53:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The inexorable rise of the GOP swimwear models]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/the-inexorable-rise-of-the-gop-swimwear-models/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-inexorable-rise-of-the-gop-swimwear-models/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 18:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump would regret leaving NATO]]></title>
-            <description><![CDATA[By Sam Olsen]]></description>
-            <link>https://spectator.com/article/donald-trump-would-regret-leaving-nato/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/donald-trump-would-regret-leaving-nato/?edition=us</guid>
-            <dc:creator><![CDATA[Sam Olsen]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 18:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Prince Harry regret his ‘Mr. Mischief’ messages?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-prince-harry-regret-his-mr-mischief-messages/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 17:43:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

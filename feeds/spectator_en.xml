@@ -4,13 +4,29 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 11:56:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 14:15:47 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 11:56:43 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 14:15:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Farage investigated by Commons sleaze watchdog]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/commons-sleaze-watchdog-probes-farage/</link>
+            <guid isPermaLink="true">https://spectator.com/article/commons-sleaze-watchdog-probes-farage/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 14:15:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wes Streeting prepares to challenge Starmer]]></title>
+            <description><![CDATA[Red on red]]></description>
+            <link>https://spectator.com/article/wes-streeting-prepares-to-challenge-starmer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/wes-streeting-prepares-to-challenge-starmer/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 14:15:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Keir Starmer looked utterly miserable during the King’s Speech]]></title>
-            <description><![CDATA[By James Heale]]></description>
+            <description><![CDATA[State opening of Parliament]]></description>
             <link>https://spectator.com/article/keir-starmer-looked-utterly-miserable-during-the-kings-speech/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmer-looked-utterly-miserable-during-the-kings-speech/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -42,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Starmer-Streeting coffee summit lasts 16 minutes]]></title>
-            <description><![CDATA[Summit slump]]></description>
+            <description><![CDATA[By Steerpike]]></description>
             <link>https://spectator.com/article/streeting-starmer-coffee-summit-lasts-16-minutes/</link>
             <guid isPermaLink="true">https://spectator.com/article/streeting-starmer-coffee-summit-lasts-16-minutes/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -58,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Will bond markets ‘have to fall into line’ with Andy Burnham?]]></title>
-            <description><![CDATA[Reality Check]]></description>
+            <description><![CDATA[By Michael Simmons]]></description>
             <link>https://spectator.com/article/claim-bond-markets-will-have-to-fall-into-line-with-andy-burnham/</link>
             <guid isPermaLink="true">https://spectator.com/article/claim-bond-markets-will-have-to-fall-into-line-with-andy-burnham/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
@@ -3991,22 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/keir-starmer-is-prosecuting-a-relentless-campaign-against-reality/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 15:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did Keir Starmer watch the same Olly Robbins as me?]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/did-keir-starmer-watch-the-same-olly-robbins-as-me/</link>
-            <guid isPermaLink="true">https://spectator.com/article/did-keir-starmer-watch-the-same-olly-robbins-as-me/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 15:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour MP: PM going is ‘when not if’]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/labour-mp-pm-going-is-when-not-if/</link>
-            <guid isPermaLink="true">https://spectator.com/article/labour-mp-pm-going-is-when-not-if/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 13:06:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

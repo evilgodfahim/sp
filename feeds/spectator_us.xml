@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 11:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 14:15:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 11:56:38 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 14:15:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[An excuse to drink]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/an-excuse-to-drink/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/an-excuse-to-drink/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 14:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Trump and Xi get what they want?]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/?edition=us</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 14:15:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monte Carlo isn’t glamorous]]></title>
             <description><![CDATA[By Melanie McDonagh]]></description>
@@ -3983,22 +3999,6 @@
             <guid isPermaLink="true">https://spectator.com/article/the-disembodied-brain-cells-playing-video-games/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 10:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Artemis II fulfill our Space Age dreams?]]></title>
-            <description><![CDATA[By David Whitehouse]]></description>
-            <link>https://spectator.com/article/will-artemis-ii-fulfill-our-space-age-dreams/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-artemis-ii-fulfill-our-space-age-dreams/?edition=us</guid>
-            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 10:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Downfall of the California Maskies]]></title>
-            <description><![CDATA[By Gilbert T. Sewall]]></description>
-            <link>https://spectator.com/article/downfall-of-the-california-maskies/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/downfall-of-the-california-maskies/?edition=us</guid>
-            <dc:creator><![CDATA[Gilbert T. Sewall]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 04:23:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

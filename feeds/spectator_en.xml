@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 09:37:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 06:19:18 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 09:37:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Food shortages don’t worry the Falklands]]></title>
+            <description><![CDATA[By Robert Taylor]]></description>
+            <link>https://spectator.com/article/food-shortages-dont-worry-the-falklands/</link>
+            <guid isPermaLink="true">https://spectator.com/article/food-shortages-dont-worry-the-falklands/</guid>
+            <dc:creator><![CDATA[Robert Taylor]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 09:37:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will ‘bond markets ‘have to fall into line’ with Andy Burnham?]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/claim-bond-markets-will-have-to-fall-into-line-with-andy-burnham/</link>
+            <guid isPermaLink="true">https://spectator.com/article/claim-bond-markets-will-have-to-fall-into-line-with-andy-burnham/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 09:37:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain is sick of the Starmer psychodrama]]></title>
+            <description><![CDATA[By Lawrence Newport]]></description>
+            <link>https://spectator.com/article/britain-is-sick-of-the-starmer-psychodrama/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-is-sick-of-the-starmer-psychodrama/</guid>
+            <dc:creator><![CDATA[Lawrence Newport]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 09:37:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The inevitable horror of an Ed Miliband premiership]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/the-inevitable-horror-of-an-ed-miliband-premiership/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-inevitable-horror-of-an-ed-miliband-premiership/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 09:37:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monte Carlo isn’t glamorous]]></title>
             <description><![CDATA[Poker face]]></description>
@@ -3975,38 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/reeves-is-using-iran-as-an-excuse-to-get-closer-to-the-eu/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 10:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How West Ham turned on Karren Brady]]></title>
-            <description><![CDATA[By Mark Solomons]]></description>
-            <link>https://spectator.com/article/how-west-ham-turned-on-karren-brady/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-west-ham-turned-on-karren-brady/</guid>
-            <dc:creator><![CDATA[Mark Solomons]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 08:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Iran war hits inflation]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/the-iran-war-hits-inflation/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-iran-war-hits-inflation/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 08:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defence of museum charges]]></title>
-            <description><![CDATA[Museums]]></description>
-            <link>https://spectator.com/article/in-defence-of-museum-charges/</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-museum-charges/</guid>
-            <dc:creator><![CDATA[Digby Warde-Aldam]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The first woman to climb Mt Blanc took 18 bottles of wine and 24 roast chickens]]></title>
-            <description><![CDATA[Radio & podcasts]]></description>
-            <link>https://spectator.com/article/the-first-woman-to-climb-mt-blanc-took-18-bottles-of-wine-and-24-roast-chickens/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-first-woman-to-climb-mt-blanc-took-18-bottles-of-wine-and-24-roast-chickens/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

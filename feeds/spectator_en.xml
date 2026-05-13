@@ -4,13 +4,93 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 02:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 06:19:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 02:15:09 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 06:19:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Monte Carlo isn’t glamorous]]></title>
+            <description><![CDATA[Poker face]]></description>
+            <link>https://spectator.com/article/the-nightmare-of-monte-carlo/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-nightmare-of-monte-carlo/</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 06:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The wonder of Irish linen tea towels]]></title>
+            <description><![CDATA[Damp past]]></description>
+            <link>https://spectator.com/article/the-wonder-of-irish-linen-tea-towels/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-wonder-of-irish-linen-tea-towels/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 06:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain’s hiring culture has become absurd]]></title>
+            <description><![CDATA[Portal problems]]></description>
+            <link>https://spectator.com/article/the-absurdity-of-britains-virtual-hiring-culture/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-absurdity-of-britains-virtual-hiring-culture/</guid>
+            <dc:creator><![CDATA[Rohan Banerjee]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 06:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is coffee-drinking the new secular religion?]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/is-coffee-drinking-the-new-secular-religion/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-coffee-drinking-the-new-secular-religion/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Ian Sansom]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 06:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marvels of the masked ball: dressing up in Georgian London]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/marvels-of-the-masked-ball-dressing-up-in-georgian-london/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/marvels-of-the-masked-ball-dressing-up-in-georgian-london/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Kate Chisholm]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 06:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lean and mean: Mick Jagger was always a tightwad]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/lean-and-mean-mick-jagger-was-always-a-tightwad/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/lean-and-mean-mick-jagger-was-always-a-tightwad/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Lynn Barber]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 06:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You’ll miss Keir Starmer when he’s gone]]></title>
+            <description><![CDATA[By Nick Cohen]]></description>
+            <link>https://spectator.com/article/youll-miss-keir-starmer-when-hes-gone/</link>
+            <guid isPermaLink="true">https://spectator.com/article/youll-miss-keir-starmer-when-hes-gone/</guid>
+            <dc:creator><![CDATA[Nick Cohen]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 06:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The London school where pupils are fighting back against striking teachers]]></title>
+            <description><![CDATA[Teach or leave]]></description>
+            <link>https://spectator.com/article/the-london-school-where-pupils-are-fighting-back-against-striking-teachers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-london-school-where-pupils-are-fighting-back-against-striking-teachers/</guid>
+            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 06:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is coffee-drinking the new secular religion?]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/is-coffee-drinking-the-new-secular-religion/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-coffee-drinking-the-new-secular-religion/</guid>
+            <dc:creator><![CDATA[Ian Sansom]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 06:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marvels of the masked ball: dressing up in Georgian London]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/marvels-of-the-masked-ball-dressing-up-in-georgian-london/</link>
+            <guid isPermaLink="true">https://spectator.com/article/marvels-of-the-masked-ball-dressing-up-in-georgian-london/</guid>
+            <dc:creator><![CDATA[Kate Chisholm]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 06:19:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Will Trump strike a deal on Iran in China?]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <description><![CDATA[Beijing]]></description>
             <link>https://spectator.com/article/will-trump-strike-a-deal-on-iran-in-china/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-trump-strike-a-deal-on-iran-in-china/</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
@@ -18,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Starmer should stay]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
+            <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/starmer-should-stay/</link>
             <guid isPermaLink="true">https://spectator.com/article/starmer-should-stay/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -26,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Zack Polanski’s council tax blunder shows he isn’t fit to lead the Greens]]></title>
-            <description><![CDATA[Sunk cost]]></description>
+            <description><![CDATA[By Ross Clark]]></description>
             <link>https://spectator.com/article/zack-polanskis-council-tax-blunder-shows-he-isnt-fit-to-lead-the-greens/</link>
             <guid isPermaLink="true">https://spectator.com/article/zack-polanskis-council-tax-blunder-shows-he-isnt-fit-to-lead-the-greens/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -34,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Jess Phillips’s resignation will be particularly painful for Starmer]]></title>
-            <description><![CDATA[‘Words not deeds’]]></description>
+            <description><![CDATA[By Isabel Hardman]]></description>
             <link>https://spectator.com/article/jess-phillipss-resignation-will-be-particularly-painful-for-keir-starmer/</link>
             <guid isPermaLink="true">https://spectator.com/article/jess-phillipss-resignation-will-be-particularly-painful-for-keir-starmer/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -58,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Keir Starmer has one card left to play]]></title>
-            <description><![CDATA[Over and out?]]></description>
+            <description><![CDATA[By Noa Hoffman]]></description>
             <link>https://spectator.com/article/keir-starmer-digs-his-heels-in/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmer-digs-his-heels-in/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
@@ -98,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[Will an Austrian detox really help me live longer?]]></title>
-            <description><![CDATA[Survival of the fittest]]></description>
+            <description><![CDATA[By Jonathan Foreman]]></description>
             <link>https://spectator.com/article/how-to-live-for-ever-even-if-you-dont-care/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-to-live-for-ever-even-if-you-dont-care/</guid>
             <dc:creator><![CDATA[Jonathan Foreman]]></dc:creator>
@@ -106,7 +186,7 @@
         </item>
         <item>
             <title><![CDATA[How Putin got the Hollywood treatment]]></title>
-            <description><![CDATA[Film wizard]]></description>
+            <description><![CDATA[By Owen Matthews]]></description>
             <link>https://spectator.com/article/jude-law-as-putin-its-not-as-preposterous-as-it-sounds/</link>
             <guid isPermaLink="true">https://spectator.com/article/jude-law-as-putin-its-not-as-preposterous-as-it-sounds/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -114,7 +194,7 @@
         </item>
         <item>
             <title><![CDATA[Greece is the word this dinner party season]]></title>
-            <description><![CDATA[Culinary classics]]></description>
+            <description><![CDATA[By Julie Bindel]]></description>
             <link>https://spectator.com/article/greece-is-the-word-this-dinner-party-season/</link>
             <guid isPermaLink="true">https://spectator.com/article/greece-is-the-word-this-dinner-party-season/</guid>
             <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
@@ -146,7 +226,7 @@
         </item>
         <item>
             <title><![CDATA[Andy Burnham is no saviour]]></title>
-            <description><![CDATA[Keir’s heir]]></description>
+            <description><![CDATA[By Gareth Roberts]]></description>
             <link>https://spectator.com/article/andy-burnham-is-no-saviour/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-no-saviour/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -721,8 +801,8 @@
             <pubDate>Fri, 08 May 2026 22:47:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live: The Labour MPs calling for Sir Keir Starmer to go]]></title>
-            <description><![CDATA[By Coffee House]]></description>
+            <title><![CDATA[The Labour MPs calling for Sir Keir Starmer to go]]></title>
+            <description><![CDATA[Live]]></description>
             <link>https://spectator.com/article/live-the-labour-mps-calling-for-sir-keir-starmer-to-go/</link>
             <guid isPermaLink="true">https://spectator.com/article/live-the-labour-mps-calling-for-sir-keir-starmer-to-go/</guid>
             <dc:creator><![CDATA[Coffee House]]></dc:creator>
@@ -1274,7 +1354,7 @@
         </item>
         <item>
             <title><![CDATA[Is your wellness smoothie giving you cancer?]]></title>
-            <description><![CDATA[Unwellness]]></description>
+            <description><![CDATA[By Max Pemberton]]></description>
             <link>https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/</guid>
             <dc:creator><![CDATA[Max Pemberton]]></dc:creator>
@@ -3927,86 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/the-first-woman-to-climb-mt-blanc-took-18-bottles-of-wine-and-24-roast-chickens/?homepage-tracking=high_density-article-1</guid>
             <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defence of museum charges]]></title>
-            <description><![CDATA[Museums]]></description>
-            <link>https://spectator.com/article/in-defence-of-museum-charges/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-museum-charges/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Digby Warde-Aldam]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glenrothan is painfully bad]]></title>
-            <description><![CDATA[Cinema]]></description>
-            <link>https://spectator.com/article/glenrothan-is-painfully-bad/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/glenrothan-is-painfully-bad/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer has been brutally exposed]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
-            <link>https://spectator.com/article/keir-starmer-has-been-brutally-exposed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-has-been-brutally-exposed/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What do the Greens have against Haifa?]]></title>
-            <description><![CDATA[By Florit Shoihet]]></description>
-            <link>https://spectator.com/article/what-do-the-greens-have-against-haifa/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-do-the-greens-have-against-haifa/</guid>
-            <dc:creator><![CDATA[Florit Shoihet]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 06:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marmalade doesn’t belong to the EU]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
-            <link>https://spectator.com/article/marmalade-doesnt-belong-to-the-eu/</link>
-            <guid isPermaLink="true">https://spectator.com/article/marmalade-doesnt-belong-to-the-eu/</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 04:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to be a good enough godfather]]></title>
-            <description><![CDATA[By Henry Jeffreys]]></description>
-            <link>https://spectator.com/article/how-to-be-a-good-enough-godfather/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-be-a-good-enough-godfather/</guid>
-            <dc:creator><![CDATA[Henry Jeffreys]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 04:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The decline of the country house hotel]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/the-decline-of-the-country-house-hotel/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-decline-of-the-country-house-hotel/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 04:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Russia’s economy really on its last legs?]]></title>
-            <description><![CDATA[By Alexander Kolyandr]]></description>
-            <link>https://spectator.com/article/how-weak-is-russias-economy-exactly/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-weak-is-russias-economy-exactly/</guid>
-            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 16:50:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[War bonds won’t fix Britain’s creaking defence]]></title>
-            <description><![CDATA[By Eliot Wilson]]></description>
-            <link>https://spectator.com/article/war-bonds-wont-fix-chronic-underinvestment-in-defence/</link>
-            <guid isPermaLink="true">https://spectator.com/article/war-bonds-wont-fix-chronic-underinvestment-in-defence/</guid>
-            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 15:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s little surprise that an Israeli soldier was caught desecrating a crucifix]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/its-hardly-surprising-that-an-israeli-soldier-was-caught-desecrating-a-crucifix/</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-hardly-surprising-that-an-israeli-soldier-was-caught-desecrating-a-crucifix/</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 15:05:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

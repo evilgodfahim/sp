@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 09:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 11:56:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 09:37:18 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 11:56:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Monte Carlo isn’t glamorous]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/the-nightmare-of-monte-carlo/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-nightmare-of-monte-carlo/?edition=us</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 11:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France is throwing a tantrum at Trump]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/france-is-throwing-a-tantrum-at-trump/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/france-is-throwing-a-tantrum-at-trump/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 11:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain is sick of the Westminster psychodrama]]></title>
+            <description><![CDATA[By Lawrence Newport]]></description>
+            <link>https://spectator.com/article/britain-is-sick-of-the-starmer-psychodrama/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-is-sick-of-the-starmer-psychodrama/?edition=us</guid>
+            <dc:creator><![CDATA[Lawrence Newport]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 11:56:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mamdani, the fraud abroad]]></title>
             <description><![CDATA[By Neal Pollack]]></description>
@@ -122,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Joe Biden’s memoir will humiliate him]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Just before writing this piece, I saw Gary Oldman in a London production of Samuel Beckett’s Krapp’s Last Tape. For those unfamiliar, the play revolves around an old man listening to a series of tapes recorded by himself when he was younger, musing pompously on his hopes and dreams for the future. In his present,]]></description>
             <link>https://spectator.com/article/joe-bidens-memoir-will-humiliate-him/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/joe-bidens-memoir-will-humiliate-him/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -3975,30 +3999,6 @@
             <guid isPermaLink="true">https://spectator.com/article/downfall-of-the-california-maskies/?edition=us</guid>
             <dc:creator><![CDATA[Gilbert T. Sewall]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 04:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump touts the successes of his war for peace]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/trump-touts-successes-war-peace/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-touts-successes-war-peace/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 04:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s rambling Iran address was full of wishful thinking]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trump-rambling-iran-address-full-wishful-thinking/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-rambling-iran-address-full-wishful-thinking/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 04:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Donald Trump could serve a third term]]></title>
-            <description><![CDATA[By Alan Dershowitz]]></description>
-            <link>https://spectator.com/article/donald-trump-could-serve-third-term/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/donald-trump-could-serve-third-term/?edition=us</guid>
-            <dc:creator><![CDATA[Alan Dershowitz]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 21:34:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

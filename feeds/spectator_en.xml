@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 13:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 16:06:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 13:47:58 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 16:06:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nigel Farage’s big Brexit gift]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/nigel-farages-big-brexit-gift/</link>
+            <guid isPermaLink="true">https://spectator.com/article/nigel-farages-big-brexit-gift/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 16:06:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wes Streeting finally resigns]]></title>
             <description><![CDATA[Wexit means Wexit]]></description>
@@ -4006,14 +4014,6 @@ For anyone not a self-proclaimed detractor, iced buns (also called Swiss buns or
             <link>https://spectator.com/article/lena-dunhams-memoir-is-everything-wrong-with-feminism-today/?homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/lena-dunhams-memoir-is-everything-wrong-with-feminism-today/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The American dream is dying. Good]]></title>
-            <description><![CDATA[No sacred cows]]></description>
-            <link>https://spectator.com/article/the-american-dream-is-dying-good/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-american-dream-is-dying-good/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
         </item>
     </channel>

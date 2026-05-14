@@ -4,9 +4,9 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 18:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 20:24:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 18:30:06 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 20:24:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Watch: Michael Gove informs Cabinet of Burnham manoeuvres]]></title>
@@ -58,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Cling on, Sir Keir]]></title>
-            <description><![CDATA[The Spectator’s notes]]></description>
+            <description><![CDATA[By Charles Moore]]></description>
             <link>https://spectator.com/article/cling-on-sir-keir/</link>
             <guid isPermaLink="true">https://spectator.com/article/cling-on-sir-keir/</guid>
             <dc:creator><![CDATA[Charles Moore]]></dc:creator>

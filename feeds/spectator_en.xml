@@ -4,10 +4,82 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 09:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 11:45:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 09:28:15 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Keir Starmer too boring to be prime minister?]]></title>
+            <description><![CDATA[By Mark Mason]]></description>
+            <link>https://spectator.com/article/is-keir-starmer-too-boring-to-be-prime-minister/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-keir-starmer-too-boring-to-be-prime-minister/</guid>
+            <dc:creator><![CDATA[Mark Mason]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cling on, Sir Keir]]></title>
+            <description><![CDATA[The Spectator’s notes]]></description>
+            <link>https://spectator.com/article/cling-on-sir-keir/</link>
+            <guid isPermaLink="true">https://spectator.com/article/cling-on-sir-keir/</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The three things Trump wants from his China trip]]></title>
+            <description><![CDATA[Power trip]]></description>
+            <link>https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does a propensity for crime depend on one’s DNA?]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/does-a-propensity-for-crime-depend-on-ones-dna/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-a-propensity-for-crime-depend-on-ones-dna/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Bryan Appleyard]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farage’s plan to win over the left]]></title>
+            <description><![CDATA[Reform]]></description>
+            <link>https://spectator.com/article/farages-plan-to-win-over-the-left/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/farages-plan-to-win-over-the-left/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First they came for Mandelson…]]></title>
+            <description><![CDATA[No sacred cows]]></description>
+            <link>https://spectator.com/article/first-they-came-for-mandelson/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/first-they-came-for-mandelson/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Was Macron slapped because of this Iranian actress?]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/was-macron-slapped-because-of-this-iranian-actress/</link>
+            <guid isPermaLink="true">https://spectator.com/article/was-macron-slapped-because-of-this-iranian-actress/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Al Carns is ready to run]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/al-carns-is-ready-to-run/</link>
+            <guid isPermaLink="true">https://spectator.com/article/al-carns-is-ready-to-run/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why we should let the police scan your face]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/why-we-should-let-the-police-scan-our-faces/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-we-should-let-the-police-scan-our-faces/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Farage’s plan to win over the left]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -42,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[The unstoppable rise of stupidity]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
+            <description><![CDATA[Knowledge]]></description>
             <link>https://spectator.com/article/the-unstoppable-rise-of-stupidity/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-unstoppable-rise-of-stupidity/</guid>
             <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
@@ -138,7 +210,7 @@
         </item>
         <item>
             <title><![CDATA[The great British flower revival]]></title>
-            <description><![CDATA[Petal power]]></description>
+            <description><![CDATA[By Sarah Langford]]></description>
             <link>https://spectator.com/article/the-great-british-flower-revival/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-great-british-flower-revival/</guid>
             <dc:creator><![CDATA[Sarah Langford]]></dc:creator>
@@ -146,7 +218,11 @@
         </item>
         <item>
             <title><![CDATA[Rosalia’s O2 show was a landmark concert]]></title>
-            <description><![CDATA[If Olivia Dean is the girl next door, Rosalia is the girl next planet. Their shows in successive weeks at the O2 – Dean had six nights, Rosalia two – were object lessons in presentation. Dean’s gig looked like some high-end light entertainment from the 1970s, Rosalia’s like something the National Theatre might dream up]]></description>
+            <description><![CDATA[If Olivia Dean is the girl next door, Rosalia is the girl next planet. Their shows in successive weeks at the O2 – Dean had six nights, Rosalia two – were object lessons in presentation. Dean’s gig looked like some high-end light entertainment from the 1970s, Rosalia’s like something the National Theatre might dream up for a new revival of Murder in the Cathedral.
+
+
+
+Rosalia emerged in 2017 as the apparent saviour of flamenco – though flamenco traditionalists disagreed: she was Catalan, not Andalusian, and she wasn’t even a gypsy. Then across four albums, she travelled so far that it’s hard to categorise her extraordinary latest one, Lux: a heavily orchestrated, intensely dramatic reverie about the lives of assorted recondite saints.]]></description>
             <link>https://spectator.com/article/rosalias-o2-show-was-a-landmark-concert/</link>
             <guid isPermaLink="true">https://spectator.com/article/rosalias-o2-show-was-a-landmark-concert/</guid>
             <dc:creator><![CDATA[Michael Hann]]></dc:creator>
@@ -202,7 +278,11 @@
         </item>
         <item>
             <title><![CDATA[The joy of iced buns]]></title>
-            <description><![CDATA[‘It’s just a hot dog bun with icing!’ the iced-bun detractors will shriek. I’m a lady with a lot of opinions about fairly esoteric foodstuffs, many of them declamatory, immovable, or strident, but I do not understand taking against the iced bun. I’m not sure what awful bakery-based trauma must have happened to you during]]></description>
+            <description><![CDATA[‘It’s just a hot dog bun with icing!’ the iced-bun detractors will shriek. I’m a lady with a lot of opinions about fairly esoteric foodstuffs, many of them declamatory, immovable, or strident, but I do not understand taking against the iced bun. I’m not sure what awful bakery-based trauma must have happened to you during childhood to make iced buns the target of your ire, but they are undeserving.
+
+
+
+For anyone not a self-proclaimed detractor, iced buns (also called Swiss buns or iced fingers) prompt reveries: forgotten childhood memories of plump buns in trollies and sticky fingers holding grown-up hands.]]></description>
             <link>https://spectator.com/article/the-joy-of-iced-buns/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-joy-of-iced-buns/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
@@ -266,7 +346,7 @@
         </item>
         <item>
             <title><![CDATA[The three things Trump wants from his China trip]]></title>
-            <description><![CDATA[Power trip]]></description>
+            <description><![CDATA[By Geoffrey Cain]]></description>
             <link>https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/</guid>
             <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
@@ -3935,78 +4015,6 @@
             <guid isPermaLink="true">https://spectator.com/article/britain-must-learn-from-its-energy-crises/</guid>
             <dc:creator><![CDATA[John Browne]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran shouldn’t be at the World Cup]]></title>
-            <description><![CDATA[By Atbin Moayedi]]></description>
-            <link>https://spectator.com/article/iran-shouldnt-be-at-the-world-cup/</link>
-            <guid isPermaLink="true">https://spectator.com/article/iran-shouldnt-be-at-the-world-cup/</guid>
-            <dc:creator><![CDATA[Atbin Moayedi]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the St George’s flag really stands for]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/what-the-st-georges-flag-really-stands-for/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-the-st-georges-flag-really-stands-for/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s time for Starmer to go]]></title>
-            <description><![CDATA[By The Spectator]]></description>
-            <link>https://spectator.com/article/its-time-for-starmer-to-go/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-time-for-starmer-to-go/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Even Corbyn at his worst never lost here’: how bad will it be for Labour in Wales?]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/even-corbyn-at-his-worst-never-lost-here-how-bad-will-it-be-for-labour-in-wales/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/even-corbyn-at-his-worst-never-lost-here-how-bad-will-it-be-for-labour-in-wales/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t fall for Rome’s tourist traps]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/how-to-avoid-being-stuck-in-a-roman-tourist-trap/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-avoid-being-stuck-in-a-roman-tourist-trap/</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 04:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is this the end of house wine?]]></title>
-            <description><![CDATA[By John Sturgis]]></description>
-            <link>https://spectator.com/article/the-end-of-house-wine/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-end-of-house-wine/</guid>
-            <dc:creator><![CDATA[John Sturgis]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 04:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t whitewash Michael Jackson]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/dont-whitewash-michael-jackson/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-whitewash-michael-jackson/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 04:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why flats are better than houses]]></title>
-            <description><![CDATA[By Mary Dejevsky]]></description>
-            <link>https://spectator.com/article/being-a-flat-dweller-is-so-much-better-than-owning-a-house/</link>
-            <guid isPermaLink="true">https://spectator.com/article/being-a-flat-dweller-is-so-much-better-than-owning-a-house/</guid>
-            <dc:creator><![CDATA[Mary Dejevsky]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 04:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No one seems sure why Olly Robbins had to go]]></title>
-            <description><![CDATA[By Charles Moore]]></description>
-            <link>https://spectator.com/article/no-one-seems-sure-about-why-olly-robbins-had-to-go/</link>
-            <guid isPermaLink="true">https://spectator.com/article/no-one-seems-sure-about-why-olly-robbins-had-to-go/</guid>
-            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 15:45:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

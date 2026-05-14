@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 02:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 06:17:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 02:50:38 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 06:17:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The unstoppable rise of stupidity]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/the-unstoppable-rise-of-stupidity/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-unstoppable-rise-of-stupidity/</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 06:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Things can always get worse]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/things-can-always-get-worse-2/</link>
+            <guid isPermaLink="true">https://spectator.com/article/things-can-always-get-worse-2/</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 06:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[True freedom is wearing someone else’s pants]]></title>
+            <description><![CDATA[Best life]]></description>
+            <link>https://spectator.com/article/true-freedom-is-wearing-someone-elses-pants/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/true-freedom-is-wearing-someone-elses-pants/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 06:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miliband’s energy plan is no different to Just Stop Oil’s]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/milibands-energy-plan-is-no-different-to-just-stop-oils/</link>
+            <guid isPermaLink="true">https://spectator.com/article/milibands-energy-plan-is-no-different-to-just-stop-oils/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 06:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angela Rayner cleared by HMRC]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/angela-rayner-cleared-by-hmrc/</link>
+            <guid isPermaLink="true">https://spectator.com/article/angela-rayner-cleared-by-hmrc/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 06:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farage’s plan to win over the left]]></title>
+            <description><![CDATA[Reform]]></description>
+            <link>https://spectator.com/article/farages-plan-to-win-over-the-left/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/farages-plan-to-win-over-the-left/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 06:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Things can always get worse]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/things-can-always-get-worse-2/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/things-can-always-get-worse-2/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 06:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At the beginning of the second world war, Winston Churchill seemed a most unlikely hero]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/at-the-beginning-of-the-second-world-war-winston-churchill-seemed-a-most-unlikely-hero/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/at-the-beginning-of-the-second-world-war-winston-churchill-seemed-a-most-unlikely-hero/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Nicholas Shakespeare]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 06:17:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Christophers is delicious]]></title>
             <description><![CDATA[By Deborah Ross]]></description>
@@ -34,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[It’s time to uncancel Enoch Powell]]></title>
-            <description><![CDATA[By Simon Heffer]]></description>
+            <description><![CDATA[Complicated legacy]]></description>
             <link>https://spectator.com/article/its-time-to-uncancel-enoch-powell/</link>
             <guid isPermaLink="true">https://spectator.com/article/its-time-to-uncancel-enoch-powell/</guid>
             <dc:creator><![CDATA[Simon Heffer]]></dc:creator>
@@ -42,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[The great British flower revival]]></title>
-            <description><![CDATA[By Sarah Langford]]></description>
+            <description><![CDATA[Petal power]]></description>
             <link>https://spectator.com/article/the-great-british-flower-revival/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-great-british-flower-revival/</guid>
             <dc:creator><![CDATA[Sarah Langford]]></dc:creator>
@@ -137,8 +201,8 @@
             <pubDate>Wed, 13 May 2026 23:57:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘It’s like a Mexican standoff but no one has any guns’: inside the farcical coup against Keir Starmer]]></title>
-            <description><![CDATA[It is an old adage of leadership contests that ‘If you shoot for the King, you’d better not miss’ – but no one expected the starting gun to be fired at Charles III. At the exact time on Wednesday when the monarch was reading the King’s Speech to parliament, allies of Wes Streeting, the Health]]></description>
+            <title><![CDATA[Red alert]]></title>
+            <description><![CDATA[By Tim Shipman and Noa Hoffman]]></description>
             <link>https://spectator.com/article/its-like-a-mexican-stand-off-but-no-one-has-any-guns-inside-the-farcical-coup-against-keir-starmer/</link>
             <guid isPermaLink="true">https://spectator.com/article/its-like-a-mexican-stand-off-but-no-one-has-any-guns-inside-the-farcical-coup-against-keir-starmer/</guid>
             <dc:creator><![CDATA[Tim Shipman and Noa Hoffman]]></dc:creator>
@@ -186,7 +250,7 @@
         </item>
         <item>
             <title><![CDATA[Wes Streeting prepares to challenge Starmer]]></title>
-            <description><![CDATA[Red on red]]></description>
+            <description><![CDATA[By Noa Hoffman]]></description>
             <link>https://spectator.com/article/wes-streeting-prepares-to-challenge-starmer/</link>
             <guid isPermaLink="true">https://spectator.com/article/wes-streeting-prepares-to-challenge-starmer/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
@@ -282,7 +346,7 @@
         </item>
         <item>
             <title><![CDATA[Britain’s hiring culture has become absurd]]></title>
-            <description><![CDATA[Portal problems]]></description>
+            <description><![CDATA[By Rohan Banerjee]]></description>
             <link>https://spectator.com/article/the-absurdity-of-britains-virtual-hiring-culture/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-absurdity-of-britains-virtual-hiring-culture/</guid>
             <dc:creator><![CDATA[Rohan Banerjee]]></dc:creator>
@@ -314,7 +378,7 @@
         </item>
         <item>
             <title><![CDATA[You’ll miss Keir Starmer when he’s gone]]></title>
-            <description><![CDATA[The scapegoat]]></description>
+            <description><![CDATA[By Nick Cohen]]></description>
             <link>https://spectator.com/article/youll-miss-keir-starmer-when-hes-gone/</link>
             <guid isPermaLink="true">https://spectator.com/article/youll-miss-keir-starmer-when-hes-gone/</guid>
             <dc:creator><![CDATA[Nick Cohen]]></dc:creator>
@@ -3943,70 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/</guid>
             <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 10:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Zack Polanski seriously questioning Jewish safety?]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/is-zack-polanski-seriously-questioning-jewish-safety/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-zack-polanski-seriously-questioning-jewish-safety/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 10:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rachel Reeves is crushing the economy]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/rachel-reeves-is-crushing-the-economy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/rachel-reeves-is-crushing-the-economy/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 08:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Green party candidate who wants to ‘burn Zionism to the ground’]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
-            <link>https://spectator.com/article/the-green-party-candidate-who-wants-to-burn-zionism-to-the-ground/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-green-party-candidate-who-wants-to-burn-zionism-to-the-ground/</guid>
-            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 08:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For progressives, ‘ageing’ is the one acceptable slur]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/for-progressives-ageing-is-the-one-acceptable-slur/</link>
-            <guid isPermaLink="true">https://spectator.com/article/for-progressives-ageing-is-the-one-acceptable-slur/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 06:57:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voters get the politicians they deserve – so get ready for PM Polanski]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
-            <link>https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/</link>
-            <guid isPermaLink="true">https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 06:57:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lena Dunham’s memoir is everything wrong with feminism today]]></title>
-            <description><![CDATA[By Zoe Strimpel]]></description>
-            <link>https://spectator.com/article/lena-dunhams-memoir-is-everything-wrong-with-feminism-today/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lena-dunhams-memoir-is-everything-wrong-with-feminism-today/</guid>
-            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 06:57:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For progressives, ‘ageing’ is the one acceptable slur]]></title>
-            <description><![CDATA[Age-old problem]]></description>
-            <link>https://spectator.com/article/for-progressives-ageing-is-the-one-acceptable-slur/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/for-progressives-ageing-is-the-one-acceptable-slur/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 06:57:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[J.G. Ballard’s surreal fiction continues to resonate through the century]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/j-g-ballards-surreal-fiction-continues-to-resonate-through-the-century/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/j-g-ballards-surreal-fiction-continues-to-resonate-through-the-century/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Michael Moorcock]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 06:57:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

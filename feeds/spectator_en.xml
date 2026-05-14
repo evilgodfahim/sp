@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 06:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 09:28:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 06:17:51 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 09:28:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Farage’s plan to win over the left]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/farages-plan-to-win-over-the-left/</link>
+            <guid isPermaLink="true">https://spectator.com/article/farages-plan-to-win-over-the-left/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 09:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nicki Minaj backs Kemi Badenoch]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/nicki-minaj-backs-kemi-badenoch/</link>
+            <guid isPermaLink="true">https://spectator.com/article/nicki-minaj-backs-kemi-badenoch/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 09:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain’s growth uptick can’t save Starmer and Reeves now]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/britains-growth-uptick-cant-save-starmer-and-reeves-now/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britains-growth-uptick-cant-save-starmer-and-reeves-now/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 09:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No one is watching the Trump-Xi summit closer than Taiwan]]></title>
+            <description><![CDATA[By Ian Williams]]></description>
+            <link>https://spectator.com/article/no-one-is-watching-the-trump-xi-summit-closer-than-taiwan/</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-one-is-watching-the-trump-xi-summit-closer-than-taiwan/</guid>
+            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 09:28:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The unstoppable rise of stupidity]]></title>
             <description><![CDATA[By Rod Liddle]]></description>
@@ -170,7 +202,7 @@
         </item>
         <item>
             <title><![CDATA[The joy of iced buns]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
+            <description><![CDATA[‘It’s just a hot dog bun with icing!’ the iced-bun detractors will shriek. I’m a lady with a lot of opinions about fairly esoteric foodstuffs, many of them declamatory, immovable, or strident, but I do not understand taking against the iced bun. I’m not sure what awful bakery-based trauma must have happened to you during]]></description>
             <link>https://spectator.com/article/the-joy-of-iced-buns/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-joy-of-iced-buns/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
@@ -186,7 +218,7 @@
         </item>
         <item>
             <title><![CDATA[The secret to Andrew Lloyd Webber’s racehorse success]]></title>
-            <description><![CDATA[You meet an eclectic bunch of people in the horse-racing business. Yet it was at prep school 55 years ago that I first met Simon Marsh, who is the guiding light at Andrew and Madeleine Lloyd Webber’s Watership Down stud near Newbury. ‘Bog’, as we knew him, didn’t reappear after the summer holidays and word]]></description>
+            <description><![CDATA[By Charlie Brooks]]></description>
             <link>https://spectator.com/article/the-secret-to-andrew-lloyd-webbers-racehorse-success/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-secret-to-andrew-lloyd-webbers-racehorse-success/</guid>
             <dc:creator><![CDATA[Charlie Brooks]]></dc:creator>
@@ -330,7 +362,7 @@
         </item>
         <item>
             <title><![CDATA[Monte Carlo isn’t glamorous]]></title>
-            <description><![CDATA[Poker face]]></description>
+            <description><![CDATA[By Melanie McDonagh]]></description>
             <link>https://spectator.com/article/the-nightmare-of-monte-carlo/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-nightmare-of-monte-carlo/</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
@@ -338,7 +370,7 @@
         </item>
         <item>
             <title><![CDATA[The wonder of Irish linen tea towels]]></title>
-            <description><![CDATA[Damp past]]></description>
+            <description><![CDATA[By Sean Thomas]]></description>
             <link>https://spectator.com/article/the-wonder-of-irish-linen-tea-towels/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-wonder-of-irish-linen-tea-towels/</guid>
             <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
@@ -3975,38 +4007,6 @@
             <guid isPermaLink="true">https://spectator.com/article/no-one-seems-sure-about-why-olly-robbins-had-to-go/</guid>
             <dc:creator><![CDATA[Charles Moore]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 15:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russell Brand is everything that is wrong with the world]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/russell-brand-is-everything-that-is-wrong-with-the-world/</link>
-            <guid isPermaLink="true">https://spectator.com/article/russell-brand-is-everything-that-is-wrong-with-the-world/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 15:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Single men shouldn’t be able to have a surrogate baby]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/single-men-shouldnt-be-able-to-have-a-surrogate-baby/</link>
-            <guid isPermaLink="true">https://spectator.com/article/single-men-shouldnt-be-able-to-have-a-surrogate-baby/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 11:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rumen Radev won’t be the next Viktor Orban]]></title>
-            <description><![CDATA[By Tatyana Kekic]]></description>
-            <link>https://spectator.com/article/rumen-radev-wont-be-the-next-viktor-orban/</link>
-            <guid isPermaLink="true">https://spectator.com/article/rumen-radev-wont-be-the-next-viktor-orban/</guid>
-            <dc:creator><![CDATA[Tatyana Kekic]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 11:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans think they want the ‘real Ireland’. They don’t]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
-            <link>https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/</link>
-            <guid isPermaLink="true">https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 10:16:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

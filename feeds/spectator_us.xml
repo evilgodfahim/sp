@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 17:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 19:18:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 17:25:26 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 19:18:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The art of flowers]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/the-art-of-flowers/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-art-of-flowers/?edition=us</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 19:18:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rivals is an ode to Thatcherite excess]]></title>
+            <description><![CDATA[By Ivo Delingpole]]></description>
+            <link>https://spectator.com/article/rivals-is-an-ode-to-thatcherite-excess/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/rivals-is-an-ode-to-thatcherite-excess/?edition=us</guid>
+            <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 19:18:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did the Trump/Xi summit achieve anything?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/trump-xi-summit-achieve-anything/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-xi-summit-achieve-anything/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 19:18:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can British democracy survive the ‘bad chaps?’]]></title>
             <description><![CDATA[By Toby Young]]></description>
@@ -41,7 +65,7 @@
             <pubDate>Fri, 15 May 2026 17:25:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How anti-data center activists are taking on Big Tech — and winning]]></title>
+            <title><![CDATA[How anti-data center activists are taking on Big Tech – and winning]]></title>
             <description><![CDATA[By Robert Bryce]]></description>
             <link>https://spectator.com/article/anti-data-center-activists-big-tech/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/anti-data-center-activists-big-tech/?edition=us</guid>
@@ -3983,30 +4007,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/will-alberta-become-the-51st-state/?edition=us</guid>
             <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 07:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Last waltz for Trump’s Hungarian friends?]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/last-waltz-for-trumps-hungarian-friends/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/last-waltz-for-trumps-hungarian-friends/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 06:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christian nihilism is taking over American life]]></title>
-            <description><![CDATA[By Luke Lyman]]></description>
-            <link>https://spectator.com/article/christian-nihilism-taking-over-american-life/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/christian-nihilism-taking-over-american-life/?edition=us</guid>
-            <dc:creator><![CDATA[Luke Lyman]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 05:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Pakistan is brokering peace in Iran]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/why-pakistan-is-brokering-peace-in-iran/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-pakistan-is-brokering-peace-in-iran/?edition=us</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 01:21:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

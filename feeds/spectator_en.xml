@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 17:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 19:18:47 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 17:25:32 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 19:18:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who will be the next prime minister?]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/who-will-be-the-next-prime-minister/</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-will-be-the-next-prime-minister/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 19:18:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The New York Times’s hatred of Israel has blinded it to reality]]></title>
             <description><![CDATA[By Jake Wallis Simons]]></description>
@@ -4010,14 +4018,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/desmond-morris-was-a-master-of-provocative-truths/?homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/desmond-morris-was-a-master-of-provocative-truths/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Alexander Fiskeharrison]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 13:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Were Neanderthals capable of complex speech?]]></title>
-            <description><![CDATA[Evolution]]></description>
-            <link>https://spectator.com/article/were-neanderthals-capable-of-complex-speech/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/were-neanderthals-capable-of-complex-speech/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Mike Pitts]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 13:59:13 GMT</pubDate>
         </item>
     </channel>

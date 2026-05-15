@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 02:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 06:25:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 02:15:14 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 06:25:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[All the gossip about Lady Chatterley’s Lover]]></title>
+            <description><![CDATA[By Frances Wilson]]></description>
+            <link>https://spectator.com/article/all-the-gossip-about-lady-chatterleys-lover/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/all-the-gossip-about-lady-chatterleys-lover/?edition=us</guid>
+            <dc:creator><![CDATA[Frances Wilson]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 06:25:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump needs a deal, but Xi needs it more]]></title>
+            <description><![CDATA[By Francis Pike]]></description>
+            <link>https://spectator.com/article/trump-needs-a-deal-but-xi-needs-it-more/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-needs-a-deal-but-xi-needs-it-more/?edition=us</guid>
+            <dc:creator><![CDATA[Francis Pike]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 06:25:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Things can always get worse]]></title>
             <description><![CDATA[By Douglas Murray]]></description>
@@ -290,15 +306,7 @@
         </item>
         <item>
             <title><![CDATA[Joe Biden’s memoir will humiliate him]]></title>
-            <description><![CDATA[Just before writing this piece, I saw Gary Oldman in a London production of Samuel Beckett’s Krapp’s Last Tape. For those unfamiliar, the play revolves around an old man listening to a series of tapes recorded by himself when he was younger, musing pompously on his hopes and dreams for the future. In his present, desiccated state, he can only scoff at his middle-aged self, before being overcome by the pathetic realization that it is all up for him and that he is doomed to a miserable, unhappy future.
-
-
-
-It is hard to think of ten people who will want to read the book, let alone ten million
-
-
-
-I suspect that much the same has been going on in Joe Biden’s household of late. If, of course he still knows what day of the week it is, or what his name is.]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/joe-bidens-memoir-will-humiliate-him/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/joe-bidens-memoir-will-humiliate-him/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -3999,22 +4007,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/easter-brings-pain-but-also-joy-to-those-who-mourn/?edition=us</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 14:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is what Trump means by ‘victory’ in Iran]]></title>
-            <description><![CDATA[By Irwin Stelzer]]></description>
-            <link>https://spectator.com/article/this-is-what-trump-means-by-victory-in-iran/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-is-what-trump-means-by-victory-in-iran/?edition=us</guid>
-            <dc:creator><![CDATA[Irwin Stelzer]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 12:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ignore the propaganda war]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/ignore-propaganda-war-operation-epic-fury/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ignore-propaganda-war-operation-epic-fury/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 11:32:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

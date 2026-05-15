@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 23:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 02:15:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 23:47:35 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 02:15:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Prince Harry’s fears for our ‘divided country’ are hard to swallow]]></title>
+            <description><![CDATA[By Josh Rom]]></description>
+            <link>https://spectator.com/article/prince-harrys-fears-for-our-divided-country-are-hard-to-swallow/</link>
+            <guid isPermaLink="true">https://spectator.com/article/prince-harrys-fears-for-our-divided-country-are-hard-to-swallow/</guid>
+            <dc:creator><![CDATA[Josh Rom]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 02:15:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wes Streeting would be a disastrous PM – but not for the reason you think]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/wes-streeting-would-be-a-disastrous-pm-but-not-for-the-reason-you-think/</link>
+            <guid isPermaLink="true">https://spectator.com/article/wes-streeting-would-be-a-disastrous-pm-but-not-for-the-reason-you-think/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 02:15:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump needs a deal, but Xi needs it more]]></title>
+            <description><![CDATA[By Francis Pike]]></description>
+            <link>https://spectator.com/article/trump-needs-a-deal-but-xi-needs-it-more/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-needs-a-deal-but-xi-needs-it-more/</guid>
+            <dc:creator><![CDATA[Francis Pike]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 02:15:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Michael Gove informs Cabinet of Burnham manoeuvres]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -3990,30 +4014,6 @@ For anyone not a self-proclaimed detractor, iced buns (also called Swiss buns or
             <link>https://spectator.com/article/people-need-to-calm-down-about-nigel-farages-bitcoin-wheeze/</link>
             <guid isPermaLink="true">https://spectator.com/article/people-need-to-calm-down-about-nigel-farages-bitcoin-wheeze/</guid>
             <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s time for Starmer to go]]></title>
-            <description><![CDATA[By The Spectator]]></description>
-            <link>https://spectator.com/article/its-time-for-starmer-to-go/</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-time-for-starmer-to-go/</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Even Corbyn at his worst never lost here’: how bad will it be for Labour in Wales?]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/even-corbyn-at-his-worst-never-lost-here-how-bad-will-it-be-for-labour-in-wales/</link>
-            <guid isPermaLink="true">https://spectator.com/article/even-corbyn-at-his-worst-never-lost-here-how-bad-will-it-be-for-labour-in-wales/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Tea-towel-gate’: another British travesty]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
-            <link>https://spectator.com/article/tea-towel-gate-is-everything-wrong-with-modern-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/tea-towel-gate-is-everything-wrong-with-modern-britain/</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 07:01:25 GMT</pubDate>
         </item>
     </channel>

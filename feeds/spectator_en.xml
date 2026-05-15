@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 09:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 11:48:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 09:39:56 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 11:48:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Andy Burnham is the next Nicola Sturgeon]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/why-andy-burnham-is-the-next-nicola-sturgeon/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-andy-burnham-is-the-next-nicola-sturgeon/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 11:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The seven Tory frontbenchers on course to lose to Reform]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/the-seven-tory-frontbenchers-on-course-to-lose-to-reform/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-seven-tory-frontbenchers-on-course-to-lose-to-reform/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 11:48:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stopping the boats shouldn’t require magical thinking]]></title>
             <description><![CDATA[By Matthew Parris]]></description>
@@ -4003,22 +4019,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/artificial-intelligence-will-bore-us-to-death-before-it-kills-us/</guid>
             <dc:creator><![CDATA[Henry Williams]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 13:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine won’t give up at the behest of Donald Trump]]></title>
-            <description><![CDATA[By John Foreman]]></description>
-            <link>https://spectator.com/article/ukraine-wont-give-up-at-the-behest-of-donald-trump/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ukraine-wont-give-up-at-the-behest-of-donald-trump/</guid>
-            <dc:creator><![CDATA[John Foreman]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 11:33:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia’s university recruitment drive is an act of desperation]]></title>
-            <description><![CDATA[By Oksana Kuzan]]></description>
-            <link>https://spectator.com/article/russias-university-recruitment-drive-is-an-act-of-desperation/</link>
-            <guid isPermaLink="true">https://spectator.com/article/russias-university-recruitment-drive-is-an-act-of-desperation/</guid>
-            <dc:creator><![CDATA[Oksana Kuzan]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 09:43:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

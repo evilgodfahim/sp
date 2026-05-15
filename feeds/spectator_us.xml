@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 20:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 21:51:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 20:55:17 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 21:51:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Kamala picks the ‘Minnesota Nice’ guy]]></title>
+            <description><![CDATA[By Jenna Stocker]]></description>
+            <link>https://spectator.com/article/kamala-picks-the-minnesota-nice-guy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/kamala-picks-the-minnesota-nice-guy/?edition=us</guid>
+            <dc:creator><![CDATA[Jenna Stocker]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 21:51:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The exquisitely dull life of Elizabeth II, expert on cap badges]]></title>
             <description><![CDATA[By Roger Lewis]]></description>
@@ -3998,14 +4006,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/why-aircraft-carriers-have-had-their-day/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/why-aircraft-carriers-have-had-their-day/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Andrew Cockburn]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 13:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tales of quiet intensity: The News from Dublin, by Colm Tóibín, reviewed]]></title>
-            <description><![CDATA[By Leyla Sanai]]></description>
-            <link>https://spectator.com/article/tales-of-quiet-intensity-the-news-from-dublin-by-colm-toibin-reviewed/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/tales-of-quiet-intensity-the-news-from-dublin-by-colm-toibin-reviewed/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Leyla Sanai]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 13:46:35 GMT</pubDate>
         </item>
     </channel>

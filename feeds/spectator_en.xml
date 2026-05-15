@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 06:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 09:39:56 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 06:25:25 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 09:39:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Stopping the boats shouldn’t require magical thinking]]></title>
+            <description><![CDATA[By Matthew Parris]]></description>
+            <link>https://spectator.com/article/stopping-the-boats-shouldnt-require-magical-thinking/</link>
+            <guid isPermaLink="true">https://spectator.com/article/stopping-the-boats-shouldnt-require-magical-thinking/</guid>
+            <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 09:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Streeting won’t tell us about his record as Health Secretary]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/what-streeting-wont-tell-us-about-his-record-as-health-secretary/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-streeting-wont-tell-us-about-his-record-as-health-secretary/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 09:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The voters of Makerfield should give Burnham the boot]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/the-voters-of-makerfield-should-give-burnham-the-boot/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-voters-of-makerfield-should-give-burnham-the-boot/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 09:39:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What do the French see in Ireland?]]></title>
             <description><![CDATA[By Melissa Kite]]></description>
@@ -3995,30 +4019,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/russias-university-recruitment-drive-is-an-act-of-desperation/</guid>
             <dc:creator><![CDATA[Oksana Kuzan]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 09:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Prince Harry has in common with Boris Johnson]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/what-prince-harry-has-in-common-with-boris-johnson/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-prince-harry-has-in-common-with-boris-johnson/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 09:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Gaza became one of the biggest issues of the local elections]]></title>
-            <description><![CDATA[By Robin Simcox]]></description>
-            <link>https://spectator.com/article/how-gaza-became-one-of-the-biggest-issues-of-the-local-elections/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-gaza-became-one-of-the-biggest-issues-of-the-local-elections/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Robin Simcox]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 06:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Desmond Morris was a master of provocative truths]]></title>
-            <description><![CDATA[The Naked Ape]]></description>
-            <link>https://spectator.com/article/desmond-morris-was-a-master-of-provocative-truths/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/desmond-morris-was-a-master-of-provocative-truths/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Alexander Fiskeharrison]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 06:16:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 21:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 22:37:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 21:40:41 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 22:37:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why the UK does so badly at Eurovision]]></title>
+            <description><![CDATA[By Fraser Nelson]]></description>
+            <link>https://spectator.com/article/nul-points-nous-why-the-uk-struggles-at-eurovision/</link>
+            <guid isPermaLink="true">https://spectator.com/article/nul-points-nous-why-the-uk-struggles-at-eurovision/</guid>
+            <dc:creator><![CDATA[Fraser Nelson]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 22:37:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Was Donald Trump’s great-uncle a Nazi?]]></title>
             <description><![CDATA[By Lisa Haseldine]]></description>
@@ -4006,14 +4014,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/trump-believes-britain-has-betrayed-the-sas/?homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-believes-britain-has-betrayed-the-sas/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Richard Williams]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 06:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the ban on Palestine Action should be upheld]]></title>
-            <description><![CDATA[Law and order]]></description>
-            <link>https://spectator.com/article/why-the-ban-on-palestine-action-should-be-upheld/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-ban-on-palestine-action-should-be-upheld/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Alexander Horne]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 06:55:52 GMT</pubDate>
         </item>
     </channel>

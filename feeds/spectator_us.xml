@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 07:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 09:23:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 07:51:26 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can British democracy survive the ‘bad chaps?’]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/can-our-democracy-survive-the-bad-chaps/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-our-democracy-survive-the-bad-chaps/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Romans would tax anything]]></title>
+            <description><![CDATA[Ancient and modern]]></description>
+            <link>https://spectator.com/article/the-romans-would-tax-anything/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-romans-would-tax-anything/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to dress a queen]]></title>
+            <description><![CDATA[Exhibitions]]></description>
+            <link>https://spectator.com/article/how-to-dress-a-queen/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-dress-a-queen/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Nicky Haslam]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The nightmare of filming A Hard Day’s Night]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-nightmare-of-filming-a-hard-days-night/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-nightmare-of-filming-a-hard-days-night/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Helen Barrett]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nigel Farage’s plan to win over the left]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/farages-plan-to-win-over-the-left/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/farages-plan-to-win-over-the-left/?edition=us</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Politics has robbed Eurovision of its silliness]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/eurovision-fanatics-are-ruining-the-contest/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/eurovision-fanatics-are-ruining-the-contest/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No, I’m not a CIA spy in Greenland]]></title>
             <description><![CDATA[By Drew Horn]]></description>
@@ -3959,54 +4007,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/how-pope-leo-xiv-is-quietly-reshaping-the-vatican/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 09:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What we really know about the first Easter]]></title>
-            <description><![CDATA[By Michael Coren]]></description>
-            <link>https://spectator.com/article/what-we-really-know-about-the-first-easter/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-we-really-know-about-the-first-easter/?edition=us</guid>
-            <dc:creator><![CDATA[Michael Coren]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 09:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran has offered Trump an olive branch]]></title>
-            <description><![CDATA[By Nicholas Hopton]]></description>
-            <link>https://spectator.com/article/iran-has-offered-trump-an-olive-branch/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/iran-has-offered-trump-an-olive-branch/?edition=us</guid>
-            <dc:creator><![CDATA[Nicholas Hopton]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 09:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The medical emergency in the Oval Office]]></title>
-            <description><![CDATA[By Neal Pollack]]></description>
-            <link>https://spectator.com/article/the-medical-emergency-in-the-oval-office/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-medical-emergency-in-the-oval-office/?edition=us</guid>
-            <dc:creator><![CDATA[Neal Pollack]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 06:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Markwayne Mullin: the Senate’s stoic brawler]]></title>
-            <description><![CDATA[By Ben Domenech]]></description>
-            <link>https://spectator.com/article/markwayne-mullin-the-senates-stoic-brawler/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/markwayne-mullin-the-senates-stoic-brawler/?edition=us</guid>
-            <dc:creator><![CDATA[Ben Domenech]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 01:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Pope Leo XIV is quietly reshaping the Vatican]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
-            <link>https://spectator.com/article/how-pope-leo-xiv-is-quietly-reshaping-the-vatican/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-pope-leo-xiv-is-quietly-reshaping-the-vatican/?edition=us</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 13:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The peptides market is exploding – but are they safe?]]></title>
-            <description><![CDATA[Pep rally]]></description>
-            <link>https://spectator.com/article/use-peptides-growing-rapidly-safe/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/use-peptides-growing-rapidly-safe/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Charles Cornish-Dale]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 13:46:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

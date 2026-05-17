@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 11:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 12:59:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 11:55:08 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 12:59:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The lapsed Catholic]]></title>
+            <description><![CDATA[Portrait Of]]></description>
+            <link>https://spectator.com/article/the-lapsed-catholic/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-lapsed-catholic/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Anonymous]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 12:59:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunday shows round-up: Nandy says Labour leadership speculation is ‘froth and nonsense’]]></title>
+            <description><![CDATA[By Joe Bedell-Brill]]></description>
+            <link>https://spectator.com/article/on-sky-news-this-morning-trevor-phillips-asked-culture-secretary-lisa-nandy-if-keir-starmer-would-be-gone-by-summer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/on-sky-news-this-morning-trevor-phillips-asked-culture-secretary-lisa-nandy-if-keir-starmer-would-be-gone-by-summer/</guid>
+            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 12:59:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Britain’s mobile download speeds are worse than Peru’s]]></title>
             <description><![CDATA[By Ben Cope]]></description>
@@ -58,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[The lapsed Catholic]]></title>
-            <description><![CDATA[By Anonymous]]></description>
+            <description><![CDATA[Dominic, known since his teens as Dom, enjoys telling people that he’s Catholic, or a ‘left-footer’ as he sometimes modestly describes himself. He feels it a distinction that gives him a bit of mystique in the financial services circles in which he moves. Non-Catholics are often mildly interested in his education by monks, his views of the papacy and whether he goes along with all the ‘rules’. But while Dom has lots to say on the matter, the truth is that the devout Catholicism of his upbringing is receding into distant memory, kept alive by a kind of niggling unease on Sunday mornings when he must decide whether or not to go to church.]]></description>
             <link>https://spectator.com/article/the-lapsed-catholic/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-lapsed-catholic/</guid>
             <dc:creator><![CDATA[Anonymous]]></dc:creator>
@@ -3998,22 +4014,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/how-gaza-became-one-of-the-biggest-issues-of-the-local-elections/?homepage-tracking=high_density-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/how-gaza-became-one-of-the-biggest-issues-of-the-local-elections/?homepage-tracking=high_density-article-1</guid>
             <dc:creator><![CDATA[Robin Simcox]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 05:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain has a Prime Minister problem]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/britain-has-a-prime-minister-problem/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-has-a-prime-minister-problem/</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 05:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The targeting of Trump tells its own tale]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/the-targeting-of-trump-tells-its-own-tale/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-targeting-of-trump-tells-its-own-tale/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 05:24:07 GMT</pubDate>
         </item>
     </channel>

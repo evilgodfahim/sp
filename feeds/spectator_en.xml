@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 06:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 08:59:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 06:14:45 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 08:59:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The truth about Kate Garraway and me]]></title>
+            <description><![CDATA[By Liam Halligan]]></description>
+            <link>https://spectator.com/article/the-truth-about-kate-garraway-and-me/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-kate-garraway-and-me/</guid>
+            <dc:creator><![CDATA[Liam Halligan]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 08:59:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Was Donald Trump’s great-uncle a Nazi?]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/was-donald-trumps-great-uncle-a-nazi/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/was-donald-trumps-great-uncle-a-nazi/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 08:59:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the public rejected anti-Israel theatrics at Eurovision]]></title>
+            <description><![CDATA[By Angela Epstein]]></description>
+            <link>https://spectator.com/article/theres-a-compelling-explanation-as-to-why-israel-soared-above-the-din-of-geopolitical-protest-to-power-into-second-place-at-last-nights-eurovision-song-contest/</link>
+            <guid isPermaLink="true">https://spectator.com/article/theres-a-compelling-explanation-as-to-why-israel-soared-above-the-din-of-geopolitical-protest-to-power-into-second-place-at-last-nights-eurovision-song-contest/</guid>
+            <dc:creator><![CDATA[Angela Epstein]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 08:59:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Britain should stop demonising Albania]]></title>
             <description><![CDATA[By Uran Ferizi]]></description>
@@ -3990,30 +4014,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/no-one-seems-sure-about-why-olly-robbins-had-to-go/?homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/no-one-seems-sure-about-why-olly-robbins-had-to-go/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Charles Moore]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 12:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shots fired at the White House Correspondents’ Dinner]]></title>
-            <description><![CDATA[Breaking]]></description>
-            <link>https://spectator.com/article/shots-fired-at-the-white-house-correspondents-dinner/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/shots-fired-at-the-white-house-correspondents-dinner/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 12:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London is becoming the home of climate litigation]]></title>
-            <description><![CDATA[ESG]]></description>
-            <link>https://spectator.com/article/london-is-becoming-the-home-of-climate-litigation/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/london-is-becoming-the-home-of-climate-litigation/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[James Graham]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 12:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Immigration has turned the Netherlands into a tinderbox]]></title>
-            <description><![CDATA[Europe]]></description>
-            <link>https://spectator.com/article/immigration-has-turned-the-netherlands-into-a-tinderbox/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/immigration-has-turned-the-netherlands-into-a-tinderbox/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 12:44:58 GMT</pubDate>
         </item>
     </channel>

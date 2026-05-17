@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 18:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 20:01:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 18:55:23 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 20:01:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Save Chagos’ push launched in Lords]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/save-chagos-push-launched-in-lords/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/save-chagos-push-launched-in-lords/?edition=us</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 20:01:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Giorgio Armani: coming to America]]></title>
             <description><![CDATA[By Peter Howarth]]></description>
@@ -3998,14 +4006,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/how-different-is-catholic-and-protestant-food-at-easter/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-different-is-catholic-and-protestant-food-at-easter/?edition=us</guid>
             <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 19:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Trump really obliterate Iran on Tuesday?]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/will-trump-really-obliterate-iran-on-tuesday/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-trump-really-obliterate-iran-on-tuesday/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 19:28:14 GMT</pubDate>
         </item>
     </channel>

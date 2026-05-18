@@ -4,13 +4,69 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 10:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 14:31:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 10:59:32 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Has Brexit really harmed Britain’s economy?]]></title>
+            <description><![CDATA[By Sam McPhail]]></description>
+            <link>https://spectator.com/article/has-brexit-really-harmed-britains-economy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/has-brexit-really-harmed-britains-economy/</guid>
+            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who’s backing whom for Labour leader?]]></title>
+            <description><![CDATA[By Coffee House]]></description>
+            <link>https://spectator.com/article/whos-backing-whom-for-labour-leader/</link>
+            <guid isPermaLink="true">https://spectator.com/article/whos-backing-whom-for-labour-leader/</guid>
+            <dc:creator><![CDATA[Coffee House]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scrapping the fuel duty hike would teach Reeves a useful lesson]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/scrapping-the-fuel-duty-hike-would-teach-reeves-a-useful-lesson/</link>
+            <guid isPermaLink="true">https://spectator.com/article/scrapping-the-fuel-duty-hike-would-teach-reeves-a-useful-lesson/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t kick Southampton out of the play-offs for spying]]></title>
+            <description><![CDATA[By Charles Walford]]></description>
+            <link>https://spectator.com/article/dont-kick-southampton-out-the-play-offs-for-spying/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-kick-southampton-out-the-play-offs-for-spying/</guid>
+            <dc:creator><![CDATA[Charles Walford]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did ‘millions’ attend the Unite the Kingdom rally?]]></title>
+            <description><![CDATA[Reality Check]]></description>
+            <link>https://spectator.com/article/did-millions-attend-the-unite-the-kingdom-rally/</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-millions-attend-the-unite-the-kingdom-rally/</guid>
+            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The problem with the Guardian’s top 100 books list]]></title>
+            <description><![CDATA[Literature]]></description>
+            <link>https://spectator.com/article/the-problem-with-the-guardians-top-100-books-list/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-the-guardians-top-100-books-list/</guid>
+            <dc:creator><![CDATA[Michael Henderson]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The EU is in terminal decline. Why would Britain rejoin?]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/the-eu-is-in-terminal-decline-why-would-britain-rejoin/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-eu-is-in-terminal-decline-why-would-britain-rejoin/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reform kickstarts Burnham attack blitz]]></title>
-            <description><![CDATA[By Steerpike]]></description>
+            <description><![CDATA[On the attack]]></description>
             <link>https://spectator.com/article/reform-kickstarts-burnham-attack-blitz/</link>
             <guid isPermaLink="true">https://spectator.com/article/reform-kickstarts-burnham-attack-blitz/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -26,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Scotland’s parliament is in thrall to transgender activists]]></title>
-            <description><![CDATA[Preferred pronouns]]></description>
+            <description><![CDATA[By Stephen Daisley]]></description>
             <link>https://spectator.com/article/scotlands-parliament-is-in-thrall-to-transgender-activists/</link>
             <guid isPermaLink="true">https://spectator.com/article/scotlands-parliament-is-in-thrall-to-transgender-activists/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
@@ -34,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Does the Labour leadership race really matter?]]></title>
-            <description><![CDATA[Political games]]></description>
+            <description><![CDATA[By Roger Mosey]]></description>
             <link>https://spectator.com/article/does-the-labour-leadership-race-really-matter/</link>
             <guid isPermaLink="true">https://spectator.com/article/does-the-labour-leadership-race-really-matter/</guid>
             <dc:creator><![CDATA[Roger Mosey]]></dc:creator>
@@ -106,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[Keir Starmer is an even worse PM than Boris Johnson]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
+            <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/keir-starmer-is-an-even-worse-pm-than-boris-johnson/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmer-is-an-even-worse-pm-than-boris-johnson/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
@@ -3959,62 +4015,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/the-joy-of-liquorice/?homepage-tracking=high_density-article-2</guid>
             <dc:creator><![CDATA[Peter Bear]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People need to calm down about Nigel Farage’s bitcoin wheeze]]></title>
-            <description><![CDATA[Any other business]]></description>
-            <link>https://spectator.com/article/people-need-to-calm-down-about-nigel-farages-bitcoin-wheeze/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/people-need-to-calm-down-about-nigel-farages-bitcoin-wheeze/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lawfare poses a grave risk to Britain’s military]]></title>
-            <description><![CDATA[By David Petraeus]]></description>
-            <link>https://spectator.com/article/lawfare-poses-a-grave-risk-to-britains-military/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lawfare-poses-a-grave-risk-to-britains-military/</guid>
-            <dc:creator><![CDATA[David Petraeus]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finland’s sad secret to happiness]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/finlands-found-the-sad-secret-to-happiness/</link>
-            <guid isPermaLink="true">https://spectator.com/article/finlands-found-the-sad-secret-to-happiness/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waitrose must leave bad taste in the Eighties]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/waitrose-must-leave-bad-taste-in-the-eighties/</link>
-            <guid isPermaLink="true">https://spectator.com/article/waitrose-must-leave-bad-taste-in-the-eighties/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Rolling Stones keep rocking]]></title>
-            <description><![CDATA[By Philip Patrick]]></description>
-            <link>https://spectator.com/article/how-the-rolling-stones-keep-rocking/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-the-rolling-stones-keep-rocking/</guid>
-            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The unlikely link between Nuremberg and The Devil Wears Prada]]></title>
-            <description><![CDATA[Author’s notebook]]></description>
-            <link>https://spectator.com/article/the-unlikely-link-between-nuremberg-and-the-devil-wears-prada/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-unlikely-link-between-nuremberg-and-the-devil-wears-prada/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Natalie Livingstone]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 05:51:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Rachel Reeves flirting with rent controls?]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/rachel-reeves-may-have-lost-the-plot-the-guardian-reports-that-the-chancellor-is-considering-a-one-year-rent-freeze-on-private-sector-flats-and-houses-in-england/</link>
-            <guid isPermaLink="true">https://spectator.com/article/rachel-reeves-may-have-lost-the-plot-the-guardian-reports-that-the-chancellor-is-considering-a-one-year-rent-freeze-on-private-sector-flats-and-houses-in-england/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 22:41:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

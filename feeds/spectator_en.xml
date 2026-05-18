@@ -4,13 +4,85 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 02:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 06:47:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 02:32:33 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Is TikTok slop to blame for the fertility crisis?]]></title>
+            <description><![CDATA[By Miriam Cates]]></description>
+            <link>https://spectator.com/article/is-tiktok-slop-to-blame-for-the-fertility-crisis/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-tiktok-slop-to-blame-for-the-fertility-crisis/</guid>
+            <dc:creator><![CDATA[Miriam Cates]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea Flower Show has lost its way]]></title>
+            <description><![CDATA[Dig it]]></description>
+            <link>https://spectator.com/article/chelsea-flower-show-has-lost-its-way/</link>
+            <guid isPermaLink="true">https://spectator.com/article/chelsea-flower-show-has-lost-its-way/</guid>
+            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The virility-signalling of French politicians]]></title>
+            <description><![CDATA[Punchy]]></description>
+            <link>https://spectator.com/article/the-virility-signalling-of-french-politicians/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-virility-signalling-of-french-politicians/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In defence of middle-class rock]]></title>
+            <description><![CDATA[Amped up]]></description>
+            <link>https://spectator.com/article/in-defence-of-middle-class-rock/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-middle-class-rock/</guid>
+            <dc:creator><![CDATA[Jimmy Nicholls]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The EU can’t save Labour]]></title>
+            <description><![CDATA[Desperate retreat]]></description>
+            <link>https://spectator.com/article/the-eu-cant-save-labour/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-eu-cant-save-labour/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Two Fat Ladies taught us about Britain]]></title>
+            <description><![CDATA[Culture]]></description>
+            <link>https://spectator.com/article/the-glorious-counter-culture-of-two-fat-ladies/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-glorious-counter-culture-of-two-fat-ladies/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What do the French see in Ireland?]]></title>
+            <description><![CDATA[Real life]]></description>
+            <link>https://spectator.com/article/what-do-the-french-see-in-ireland/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-do-the-french-see-in-ireland/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The EU can’t save Labour]]></title>
+            <description><![CDATA[Desperate retreat]]></description>
+            <link>https://spectator.com/article/the-eu-cant-save-labour/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-eu-cant-save-labour/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keir Starmer is an even worse PM than Boris Johnson]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/keir-starmer-is-an-even-worse-pm-than-boris-johnson/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-is-an-even-worse-pm-than-boris-johnson/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘Save Chagos’ push launched in Lords]]></title>
-            <description><![CDATA[By Steerpike]]></description>
+            <description><![CDATA[Peers]]></description>
             <link>https://spectator.com/article/save-chagos-push-launched-in-lords-2/</link>
             <guid isPermaLink="true">https://spectator.com/article/save-chagos-push-launched-in-lords-2/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -34,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Why was Starmer afraid of the Unite the Kingdom rally?]]></title>
-            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <description><![CDATA[Protest politics]]></description>
             <link>https://spectator.com/article/much-of-the-traditional-media-coverage-referred-to-these-two-marches-as-the-far-right-march-and-the-pro-palestine-march/</link>
             <guid isPermaLink="true">https://spectator.com/article/much-of-the-traditional-media-coverage-referred-to-these-two-marches-as-the-far-right-march-and-the-pro-palestine-march/</guid>
             <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
@@ -98,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Why the public rejected anti-Israel theatrics at Eurovision]]></title>
-            <description><![CDATA[By Angela Epstein]]></description>
+            <description><![CDATA[Pop politics]]></description>
             <link>https://spectator.com/article/theres-a-compelling-explanation-as-to-why-israel-soared-above-the-din-of-geopolitical-protest-to-power-into-second-place-at-last-nights-eurovision-song-contest/</link>
             <guid isPermaLink="true">https://spectator.com/article/theres-a-compelling-explanation-as-to-why-israel-soared-above-the-din-of-geopolitical-protest-to-power-into-second-place-at-last-nights-eurovision-song-contest/</guid>
             <dc:creator><![CDATA[Angela Epstein]]></dc:creator>
@@ -122,7 +194,7 @@
         </item>
         <item>
             <title><![CDATA[The lapsed Catholic]]></title>
-            <description><![CDATA[Dominic, known since his teens as Dom, enjoys telling people that he’s Catholic, or a ‘left-footer’ as he sometimes modestly describes himself. He feels it a distinction that gives him a bit of mystique in the financial services circles in which he moves. Non-Catholics are often mildly interested in his education by monks, his views of the papacy and whether he goes along with all the ‘rules’. But while Dom has lots to say on the matter, the truth is that the devout Catholicism of his upbringing is receding into distant memory, kept alive by a kind of niggling unease on Sunday mornings when he must decide whether or not to go to church.]]></description>
+            <description><![CDATA[By Anonymous]]></description>
             <link>https://spectator.com/article/the-lapsed-catholic/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-lapsed-catholic/</guid>
             <dc:creator><![CDATA[Anonymous]]></dc:creator>
@@ -186,7 +258,7 @@
         </item>
         <item>
             <title><![CDATA[What Makerfield makes of Burnham]]></title>
-            <description><![CDATA[By Ophira Gottlieb]]></description>
+            <description><![CDATA[He’s running!]]></description>
             <link>https://spectator.com/article/what-makerfield-makes-of-burnham/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-makerfield-makes-of-burnham/</guid>
             <dc:creator><![CDATA[Ophira Gottlieb]]></dc:creator>
@@ -322,7 +394,7 @@
         </item>
         <item>
             <title><![CDATA[What do the French see in Ireland?]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
+            <description><![CDATA[Real life]]></description>
             <link>https://spectator.com/article/what-do-the-french-see-in-ireland/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-do-the-french-see-in-ireland/</guid>
             <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
@@ -330,7 +402,7 @@
         </item>
         <item>
             <title><![CDATA[What the Two Fat Ladies taught us about Britain]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
+            <description><![CDATA[Culture]]></description>
             <link>https://spectator.com/article/the-glorious-counter-culture-of-two-fat-ladies/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-glorious-counter-culture-of-two-fat-ladies/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -537,7 +609,7 @@
             <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Farage’s plan to win over the left]]></title>
+            <title><![CDATA[Nigel Farage’s plan to win over the left]]></title>
             <description><![CDATA[By James Heale]]></description>
             <link>https://spectator.com/article/farages-plan-to-win-over-the-left/</link>
             <guid isPermaLink="true">https://spectator.com/article/farages-plan-to-win-over-the-left/</guid>
@@ -570,7 +642,7 @@
         </item>
         <item>
             <title><![CDATA[The unstoppable rise of stupidity]]></title>
-            <description><![CDATA[Knowledge]]></description>
+            <description><![CDATA[By Rod Liddle]]></description>
             <link>https://spectator.com/article/the-unstoppable-rise-of-stupidity/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-unstoppable-rise-of-stupidity/</guid>
             <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
@@ -3943,78 +4015,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/the-tyranny-of-the-restaurant-service-charge/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 14:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soft left to ‘soft launch’ programme]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/soft-left-to-soft-launch-programme/</link>
-            <guid isPermaLink="true">https://spectator.com/article/soft-left-to-soft-launch-programme/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 14:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Politics is making us more unhealthy]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/politics-is-making-us-more-unhealthy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/politics-is-making-us-more-unhealthy/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 14:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has a choice to make on Iran]]></title>
-            <description><![CDATA[By Jonathan Spyer]]></description>
-            <link>https://spectator.com/article/trump-must-up-the-pressure-if-he-wants-to-win-against-iran/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-must-up-the-pressure-if-he-wants-to-win-against-iran/</guid>
-            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 14:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The allure of bullfighting]]></title>
-            <description><![CDATA[By Mike Jakeman]]></description>
-            <link>https://spectator.com/article/the-allure-of-bullfighting/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-allure-of-bullfighting/</guid>
-            <dc:creator><![CDATA[Mike Jakeman]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 12:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A social media ban for kids puts all our privacy at risk]]></title>
-            <description><![CDATA[By Maya Thomas]]></description>
-            <link>https://spectator.com/article/a-social-media-ban-for-kids-puts-all-our-privacy-at-risk/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-social-media-ban-for-kids-puts-all-our-privacy-at-risk/</guid>
-            <dc:creator><![CDATA[Maya Thomas]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 10:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oxford’s grand new building reveals the university’s misplaced priorities]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/oxfords-grand-new-building-reveals-the-universitys-misplaced-priorities/</link>
-            <guid isPermaLink="true">https://spectator.com/article/oxfords-grand-new-building-reveals-the-universitys-misplaced-priorities/</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 08:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Book publishers must fight back against AI]]></title>
-            <description><![CDATA[By Ioan Marc Jones]]></description>
-            <link>https://spectator.com/article/book-publishers-must-fight-back-against-ai/</link>
-            <guid isPermaLink="true">https://spectator.com/article/book-publishers-must-fight-back-against-ai/</guid>
-            <dc:creator><![CDATA[Ioan Marc Jones]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 08:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans think they want the ‘real Ireland’. They don’t]]></title>
-            <description><![CDATA[Real life]]></description>
-            <link>https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 05:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is a chatbot deciding what books our children read?]]></title>
-            <description><![CDATA[Diary]]></description>
-            <link>https://spectator.com/article/why-is-a-chatbot-deciding-what-books-our-children-read/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-is-a-chatbot-deciding-what-books-our-children-read/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Peter James]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 05:24:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

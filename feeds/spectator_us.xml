@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 14:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 17:26:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 14:31:51 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 17:26:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did ‘millions’ attend Tommy Robinson’s Unite the Kingdom rally?]]></title>
+            <description><![CDATA[By John O’Neill]]></description>
+            <link>https://spectator.com/article/did-millions-attend-the-unite-the-kingdom-rally/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-millions-attend-the-unite-the-kingdom-rally/?edition=us</guid>
+            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 17:26:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How ticks became bioweapons]]></title>
             <description><![CDATA[By Kris Newby]]></description>
@@ -3999,14 +4007,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/why-artemis-ii-matters/?edition=us</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 19:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthemic angst from The Twilight Sad]]></title>
-            <description><![CDATA[By Graeme Thomson]]></description>
-            <link>https://spectator.com/article/anthemic-angst-from-the-twilight-sad/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/anthemic-angst-from-the-twilight-sad/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 15:39:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

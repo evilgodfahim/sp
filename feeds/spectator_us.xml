@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 17:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 19:26:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 17:26:36 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 19:26:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Disney ruined Star Wars]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/how-disney-ruined-star-wars/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-disney-ruined-star-wars/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 19:26:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did ‘millions’ attend Tommy Robinson’s Unite the Kingdom rally?]]></title>
             <description><![CDATA[By John O’Neill]]></description>
@@ -258,7 +266,7 @@
         </item>
         <item>
             <title><![CDATA[Rivals is an ode to Thatcherite excess]]></title>
-            <description><![CDATA[Today, Rivals returns for a second series on Disney+. The first series was that rarest of phenomena: an adaptation that didn’t hate its source material. Sure, the producers decided to cram the plot with more subtle-as-a-sledgehammer politics than appears in the actual book, but you could tell they revered Jilly Cooper and the world of Rutshire and wanted to do it justice. Cooper executively produced the first series but must have been away on some days (I can’t see her let a well-heeled huntswoman pronounce the Beaufort hunt "Boh-fore" rather than "Boh-fuht," particularly when a major scene in the book hinges on the pronunciation of "Belvoir").]]></description>
+            <description><![CDATA[By Ivo Delingpole]]></description>
             <link>https://spectator.com/article/rivals-is-an-ode-to-thatcherite-excess/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/rivals-is-an-ode-to-thatcherite-excess/?edition=us</guid>
             <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
@@ -3998,14 +4006,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/did-the-billionaire-binance-bro-pay-for-his-pardon/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/did-the-billionaire-binance-bro-pay-for-his-pardon/?edition=us</guid>
             <dc:creator><![CDATA[Jake Donoghue]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 19:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Artemis II matters]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
-            <link>https://spectator.com/article/why-artemis-ii-matters/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-artemis-ii-matters/?edition=us</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 19:46:06 GMT</pubDate>
         </item>
     </channel>

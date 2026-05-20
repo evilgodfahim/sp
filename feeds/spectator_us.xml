@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 06:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 10:20:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 06:41:34 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 10:20:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is May National Barbecue Month?]]></title>
+            <description><![CDATA[Pit stop]]></description>
+            <link>https://spectator.com/article/pit-stop-national-barbecue-month-may/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/pit-stop-national-barbecue-month-may/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 10:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Trump got immigration spectacularly right]]></title>
+            <description><![CDATA[Law and border]]></description>
+            <link>https://spectator.com/article/immigration-control-bright-spot-trump-second-term/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/immigration-control-bright-spot-trump-second-term/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 10:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I’m Never Rubio]]></title>
+            <description><![CDATA[Never Rubio]]></description>
+            <link>https://spectator.com/article/never-marco-rubio-ruse/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/never-marco-rubio-ruse/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Ann Coulter]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 10:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope Leo knows what his job is]]></title>
+            <description><![CDATA[By George Weigel]]></description>
+            <link>https://spectator.com/article/pope-leo-knows-what-his-job-is/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/pope-leo-knows-what-his-job-is/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[George Weigel]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 10:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where Thomas Massie went wrong]]></title>
+            <description><![CDATA[By Daniel McCarthy]]></description>
+            <link>https://spectator.com/article/where-thomas-massie-went-wrong/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/where-thomas-massie-went-wrong/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 10:20:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The benevolence trap]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -3975,46 +4015,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/trump-25th-amendment-iran-whole-civilization/?edition=us</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 20:38:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Ye the (similarly controversial) David Bowie of his age?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/is-ye-the-similarly-controversial-david-bowie-of-his-age/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-ye-the-similarly-controversial-david-bowie-of-his-age/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 19:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anna Paulina Luna’s #MeToo mission]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/anna-paulina-lunas-metoo-mission/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/anna-paulina-lunas-metoo-mission/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 19:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The US currency is under attack like never before]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/the-us-currency-is-under-attack-like-never-before/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-us-currency-is-under-attack-like-never-before/?edition=us</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 16:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meeting Karl Ove Knausgård]]></title>
-            <description><![CDATA[By Orson Fry]]></description>
-            <link>https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us</guid>
-            <dc:creator><![CDATA[Orson Fry]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 16:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the Stones ever play live again?]]></title>
-            <description><![CDATA[By Christopher Sandford]]></description>
-            <link>https://spectator.com/article/will-the-stones-ever-play-live-again/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-the-stones-ever-play-live-again/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Sandford]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 16:47:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

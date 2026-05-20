@@ -4,20 +4,52 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 06:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 10:20:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 10:20:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Are Labour members toughening on migration?]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/are-labour-members-hardening-on-immigration/</link>
+            <guid isPermaLink="true">https://spectator.com/article/are-labour-members-hardening-on-immigration/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 10:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The real reason inflation has fallen]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/the-real-reason-inflation-has-fallen/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-inflation-has-fallen/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 10:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour’s supermarket socialism will end in trouble]]></title>
+            <description><![CDATA[Basket case]]></description>
+            <link>https://spectator.com/article/a-supermarket-price-cap-could-turn-britain-into-an-economic-basket-case/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-supermarket-price-cap-could-turn-britain-into-an-economic-basket-case/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 10:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Andy Burnham take credit for Manchester’s success?]]></title>
+            <description><![CDATA[I am the resurrection]]></description>
+            <link>https://spectator.com/article/can-andy-burnham-take-credit-for-manchesters-success/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-andy-burnham-take-credit-for-manchesters-success/</guid>
+            <dc:creator><![CDATA[James Breckwoldt]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 10:20:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Married at First Sight has always been horrific]]></title>
-            <description><![CDATA[By Zoe Strimpel]]></description>
+            <description><![CDATA[Channel 4]]></description>
             <link>https://spectator.com/article/married-at-first-sight-has-always-been-horrific/</link>
             <guid isPermaLink="true">https://spectator.com/article/married-at-first-sight-has-always-been-horrific/</guid>
             <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
             <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I gave up drinking. Don’t call me teetotal.]]></title>
+            <title><![CDATA[I gave up drinking. Don’t call me teetotal]]></title>
             <description><![CDATA[On the Wagon]]></description>
             <link>https://spectator.com/article/i-hate-teetotallers-but-i-am-one/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-hate-teetotallers-but-i-am-one/</guid>
@@ -66,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Labour hasn’t won the battle for Britain’s borders. Far from it]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
+            <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/labour-hasnt-won-the-battle-for-britains-borders-far-from-it/</link>
             <guid isPermaLink="true">https://spectator.com/article/labour-hasnt-won-the-battle-for-britains-borders-far-from-it/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -74,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Why does the BBC think Afghan men are selling their daughters?]]></title>
-            <description><![CDATA[Medieval]]></description>
+            <description><![CDATA[By Brendan O’Neill]]></description>
             <link>https://spectator.com/article/why-does-the-bbc-think-afghan-men-are-selling-their-daughters/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-does-the-bbc-think-afghan-men-are-selling-their-daughters/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -82,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[How Disney spoiled Star Wars]]></title>
-            <description><![CDATA[Spent Force]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/how-disney-ruined-star-wars/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-disney-ruined-star-wars/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -122,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[London doesn’t deserve Dawn Butler as mayor]]></title>
-            <description><![CDATA[Khan’s successor?]]></description>
+            <description><![CDATA[By James Hanson]]></description>
             <link>https://spectator.com/article/london-doesnt-deserve-dawn-butler-as-mayor/</link>
             <guid isPermaLink="true">https://spectator.com/article/london-doesnt-deserve-dawn-butler-as-mayor/</guid>
             <dc:creator><![CDATA[James Hanson]]></dc:creator>
@@ -3983,38 +4015,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/the-golders-green-atrocity-is-the-final-straw/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 17:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which party leader is on the road the most?]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/which-party-leader-is-on-the-road-the-most/</link>
-            <guid isPermaLink="true">https://spectator.com/article/which-party-leader-is-on-the-road-the-most/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 15:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malcolm Offord and the heresy of achievement]]></title>
-            <description><![CDATA[Scotland]]></description>
-            <link>https://spectator.com/article/malcolm-offord-and-the-heresy-of-achievement/</link>
-            <guid isPermaLink="true">https://spectator.com/article/malcolm-offord-and-the-heresy-of-achievement/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 15:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer hasn’t done enough to save himself]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/keir-starmer-hasnt-done-enough-to-save-himself/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-hasnt-done-enough-to-save-himself/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 15:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Golders Green attack is an outrage]]></title>
-            <description><![CDATA[By Maia Roston]]></description>
-            <link>https://spectator.com/article/britains-jews-need-more-than-expressions-of-solidarity/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britains-jews-need-more-than-expressions-of-solidarity/</guid>
-            <dc:creator><![CDATA[Maia Roston]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 15:05:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

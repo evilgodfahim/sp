@@ -4,13 +4,85 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 02:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 06:41:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 02:36:25 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Married at First Sight has always been horrific]]></title>
+            <description><![CDATA[By Zoe Strimpel]]></description>
+            <link>https://spectator.com/article/married-at-first-sight-has-always-been-horrific/</link>
+            <guid isPermaLink="true">https://spectator.com/article/married-at-first-sight-has-always-been-horrific/</guid>
+            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I gave up drinking. Don’t call me teetotal.]]></title>
+            <description><![CDATA[On the Wagon]]></description>
+            <link>https://spectator.com/article/i-hate-teetotallers-but-i-am-one/</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-hate-teetotallers-but-i-am-one/</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the end of writing finally upon us?]]></title>
+            <description><![CDATA[Auto-correct]]></description>
+            <link>https://spectator.com/article/ai-is-the-end-of-writing-i-told-you-so/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ai-is-the-end-of-writing-i-told-you-so/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The National Trust needs children more than ever]]></title>
+            <description><![CDATA[Summer of play]]></description>
+            <link>https://spectator.com/article/the-national-trust-needs-children-more-than-ever/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-national-trust-needs-children-more-than-ever/</guid>
+            <dc:creator><![CDATA[Amy Gray]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The secret to Andrew Lloyd Webber’s racehorse success]]></title>
+            <description><![CDATA[The turf]]></description>
+            <link>https://spectator.com/article/the-secret-to-andrew-lloyd-webbers-racehorse-success/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-secret-to-andrew-lloyd-webbers-racehorse-success/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Charlie Brooks]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What do the French see in Ireland?]]></title>
+            <description><![CDATA[Real life]]></description>
+            <link>https://spectator.com/article/what-do-the-french-see-in-ireland/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-do-the-french-see-in-ireland/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[True freedom is wearing someone else’s pants]]></title>
+            <description><![CDATA[Best life]]></description>
+            <link>https://spectator.com/article/true-freedom-is-wearing-someone-elses-pants/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/true-freedom-is-wearing-someone-elses-pants/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour hasn’t won the battle for Britain’s borders. Far from it]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/labour-hasnt-won-the-battle-for-britains-borders-far-from-it/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-hasnt-won-the-battle-for-britains-borders-far-from-it/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does the BBC think Afghan men are selling their daughters?]]></title>
+            <description><![CDATA[Medieval]]></description>
+            <link>https://spectator.com/article/why-does-the-bbc-think-afghan-men-are-selling-their-daughters/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-does-the-bbc-think-afghan-men-are-selling-their-daughters/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 06:41:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Disney spoiled Star Wars]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Spent Force]]></description>
             <link>https://spectator.com/article/how-disney-ruined-star-wars/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-disney-ruined-star-wars/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -18,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Why Trump has wobbled on restarting the Iran war]]></title>
-            <description><![CDATA[Middle East]]></description>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
             <link>https://spectator.com/article/trump-wobbling-restarting-iran-war/</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-wobbling-restarting-iran-war/</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
@@ -58,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[Andy Burnham is making Keir Starmer look good at politics]]></title>
-            <description><![CDATA[Brexit U-turn]]></description>
+            <description><![CDATA[By Ross Clark]]></description>
             <link>https://spectator.com/article/andy-burnham-is-making-keir-starmer-look-good-at-politics/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-making-keir-starmer-look-good-at-politics/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -82,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[Your hormones aren’t linked to the stars]]></title>
-            <description><![CDATA[Mooning around]]></description>
+            <description><![CDATA[By Zoe Strimpel]]></description>
             <link>https://spectator.com/article/your-hormones-arent-linked-to-the-stars/</link>
             <guid isPermaLink="true">https://spectator.com/article/your-hormones-arent-linked-to-the-stars/</guid>
             <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
@@ -90,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[The steady rise of ‘Slow TV’]]></title>
-            <description><![CDATA[Marathon viewing]]></description>
+            <description><![CDATA[By Ettie Neil-Gallacher]]></description>
             <link>https://spectator.com/article/the-steady-rise-of-slow-tv/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-steady-rise-of-slow-tv/</guid>
             <dc:creator><![CDATA[Ettie Neil-Gallacher]]></dc:creator>
@@ -98,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Why real drivers prefer old bangers]]></title>
-            <description><![CDATA[Scrap value]]></description>
+            <description><![CDATA[By Katie Glass]]></description>
             <link>https://spectator.com/article/old-bangers-are-for-real-drivers/</link>
             <guid isPermaLink="true">https://spectator.com/article/old-bangers-are-for-real-drivers/</guid>
             <dc:creator><![CDATA[Katie Glass]]></dc:creator>
@@ -130,15 +202,15 @@
         </item>
         <item>
             <title><![CDATA[Who is the real Andy Burnham?]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
+            <description><![CDATA[Makerfield]]></description>
             <link>https://spectator.com/article/who-is-the-real-andy-burnham/</link>
             <guid isPermaLink="true">https://spectator.com/article/who-is-the-real-andy-burnham/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
             <pubDate>Tue, 19 May 2026 06:41:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My strange beef with Azealia Banks]]></title>
-            <description><![CDATA[Rapper’s delight]]></description>
+            <title><![CDATA[My strange beef with rapper Azealia Banks]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
             <link>https://spectator.com/article/my-strange-beef-with-rapper-azealia-banks/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-strange-beef-with-rapper-azealia-banks/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -1038,7 +1110,7 @@ Rosalia emerged in 2017 as the apparent saviour of flamenco – though flamenco 
         </item>
         <item>
             <title><![CDATA[A Beatles show without the love]]></title>
-            <description><![CDATA[Theatre]]></description>
+            <description><![CDATA[By Lloyd Evans]]></description>
             <link>https://spectator.com/article/a-beatles-show-without-the-love/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-beatles-show-without-the-love/</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
@@ -1054,7 +1126,7 @@ Rosalia emerged in 2017 as the apparent saviour of flamenco – though flamenco 
         </item>
         <item>
             <title><![CDATA[True freedom is wearing someone else’s pants]]></title>
-            <description><![CDATA[By Rachel Johnson]]></description>
+            <description><![CDATA[Best life]]></description>
             <link>https://spectator.com/article/true-freedom-is-wearing-someone-elses-pants/</link>
             <guid isPermaLink="true">https://spectator.com/article/true-freedom-is-wearing-someone-elses-pants/</guid>
             <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
@@ -1086,7 +1158,7 @@ Rosalia emerged in 2017 as the apparent saviour of flamenco – though flamenco 
         </item>
         <item>
             <title><![CDATA[The secret to Andrew Lloyd Webber’s racehorse success]]></title>
-            <description><![CDATA[By Charlie Brooks]]></description>
+            <description><![CDATA[The turf]]></description>
             <link>https://spectator.com/article/the-secret-to-andrew-lloyd-webbers-racehorse-success/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-secret-to-andrew-lloyd-webbers-racehorse-success/</guid>
             <dc:creator><![CDATA[Charlie Brooks]]></dc:creator>
@@ -3943,78 +4015,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/britains-jews-need-more-than-expressions-of-solidarity/</guid>
             <dc:creator><![CDATA[Maia Roston]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 15:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is the Barmy Army disowning this Reform candidate?]]></title>
-            <description><![CDATA[By Michael Henderson]]></description>
-            <link>https://spectator.com/article/why-is-the-barmy-army-disowning-this-reform-candidate/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-is-the-barmy-army-disowning-this-reform-candidate/</guid>
-            <dc:creator><![CDATA[Michael Henderson]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 12:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Róisín Murphy and the corrosiveness of cancel culture in the arts]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/roisin-murphy-and-corrosiveness-of-cancel-culture-in-the-arts/</link>
-            <guid isPermaLink="true">https://spectator.com/article/roisin-murphy-and-corrosiveness-of-cancel-culture-in-the-arts/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 10:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The UAE’s Opec exit is about much more than oil]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/the-uaes-opec-exit-is-about-much-more-than-oil/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-uaes-opec-exit-is-about-much-more-than-oil/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 10:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The state should keep its hands off your pension]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/the-state-should-keep-its-hands-off-your-pension/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-state-should-keep-its-hands-off-your-pension/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 10:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katie Lam rules out joining Reform]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/katie-lam-rules-out-joining-reform/</link>
-            <guid isPermaLink="true">https://spectator.com/article/katie-lam-rules-out-joining-reform/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 10:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The end is nigh for Opec]]></title>
-            <description><![CDATA[By Damien Phillips]]></description>
-            <link>https://spectator.com/article/the-end-is-nigh-for-opec/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-end-is-nigh-for-opec/</guid>
-            <dc:creator><![CDATA[Damien Phillips]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 08:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are women so anti-nuclear?]]></title>
-            <description><![CDATA[By Sam Dumitriu]]></description>
-            <link>https://spectator.com/article/why-are-women-so-anti-nuclear/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-are-women-so-anti-nuclear/</guid>
-            <dc:creator><![CDATA[Sam Dumitriu]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 08:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is ChatGPT losing its shine?]]></title>
-            <description><![CDATA[By Simon Hunt]]></description>
-            <link>https://spectator.com/article/is-chatgpt-losing-its-shine/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-chatgpt-losing-its-shine/</guid>
-            <dc:creator><![CDATA[Simon Hunt]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 08:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Airbnb killed off the B&B]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/how-airbnb-killed-off-the-bb/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-airbnb-killed-off-the-bb/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 05:46:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

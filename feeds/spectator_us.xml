@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 16:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 19:15:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 16:46:54 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 19:15:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The unbearable smugness of Arsenal fans]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/the-unbearable-smugness-of-arsenal-fans/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-unbearable-smugness-of-arsenal-fans/?edition=us</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 19:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s NATO troop reduction isn’t Europe’s biggest problem]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/trumps-nato-troop-reduction-isnt-europes-biggest-problem/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-nato-troop-reduction-isnt-europes-biggest-problem/?edition=us</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 19:15:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I gave up drinking. Don’t call me teetotal]]></title>
             <description><![CDATA[By Owen Matthews]]></description>
@@ -242,7 +258,11 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
         </item>
         <item>
             <title><![CDATA[How Disney ruined Star Wars]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[This week, the new Star Wars picture – the first live action film since 2019’s commercially successful but largely ridiculed Rise of Skywalker – will come out in cinemas. Clunkily entitled The Mandalorian and Grogu, it is a big-screen spin-off of the once-successful and now largely passé Mandalorian series. A lot is riding on its success, and Lucasfilm, now controlled by Dave Filoni, will be very relieved if it is a hit.
+
+
+
+Unfortunately, audiences don’t seem especially interested. Advance word on it has been mediocre for some time now – the words “feature-length television movie" have been used more than once – and the box office prediction for its opening weekend is currently somewhere between $70 and $85 million.]]></description>
             <link>https://spectator.com/article/how-disney-ruined-star-wars/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-disney-ruined-star-wars/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -3999,22 +4019,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/the-uae-and-oman-could-be-the-big-winners-from-the-iran-war/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Jonathan Aitken]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What will the Iran ceasefire cost Trump?]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/iran-ceasefire-cost-trump-10-point-plan/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/iran-ceasefire-cost-trump-10-point-plan/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 04:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Kanye West the David Bowie of his age?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/ye-kanye-west-david-bowie-age/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ye-kanye-west-david-bowie-age/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 22:30:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

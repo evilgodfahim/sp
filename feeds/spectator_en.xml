@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 16:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 19:15:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 16:46:58 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 19:15:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Net Zero Debate: bin it or back it?]]></title>
+            <description><![CDATA[By The Spectator]]></description>
+            <link>https://spectator.com/article/the-net-zero-debate-bin-it-or-back-it/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-net-zero-debate-bin-it-or-back-it/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 19:15:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Keir Starmer is resigned to resigning]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
@@ -4006,14 +4014,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/shameless-britain-we-are-a-nation-of-shoplifters/</link>
             <guid isPermaLink="true">https://spectator.com/article/shameless-britain-we-are-a-nation-of-shoplifters/</guid>
             <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 23:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What your whippet says about you]]></title>
-            <description><![CDATA[By Arabella Byrne]]></description>
-            <link>https://spectator.com/article/what-your-whippet-says-about-you/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-your-whippet-says-about-you/</guid>
-            <dc:creator><![CDATA[Arabella Byrne]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 23:45:20 GMT</pubDate>
         </item>
     </channel>

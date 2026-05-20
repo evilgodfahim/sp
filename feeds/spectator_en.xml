@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 10:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 13:32:24 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 10:20:39 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump’s Nato troop reduction isn’t Europe’s biggest problem]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/trumps-nato-troop-reduction-isnt-europes-biggest-problem/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-nato-troop-reduction-isnt-europes-biggest-problem/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s no surprise that Starmer’s ‘pompous’ tone annoys voters]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/its-no-surprise-that-starmers-pompous-tone-annoys-voters/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-no-surprise-that-starmers-pompous-tone-annoys-voters/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Sir Keir Starmer hails trade deal with ‘North Korea’]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-keir-starmer-hails-trade-deal-with-north-korea/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-keir-starmer-hails-trade-deal-with-north-korea/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Nova exhibition is a glimpse into the abyss of humanity]]></title>
+            <description><![CDATA[By Florit Shoihet]]></description>
+            <link>https://spectator.com/article/the-nova-exhibition-is-a-glimpse-into-the-abyss-of-humanity/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-nova-exhibition-is-a-glimpse-into-the-abyss-of-humanity/</guid>
+            <dc:creator><![CDATA[Florit Shoihet]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI paranoia has come for fiction]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/ai-paranoia-has-come-for-fiction/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ai-paranoia-has-come-for-fiction/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The disparate fortunes of Catherine Connolly and her sister]]></title>
+            <description><![CDATA[By Liz Walsh]]></description>
+            <link>https://spectator.com/article/the-disparate-fortunes-of-catherine-connolly-and-her-sister/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-disparate-fortunes-of-catherine-connolly-and-her-sister/</guid>
+            <dc:creator><![CDATA[Liz Walsh]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keir Starmer isn’t serious about getting tough on Putin]]></title>
+            <description><![CDATA[Oil sanctions]]></description>
+            <link>https://spectator.com/article/keir-starmer-isnt-serious-about-getting-tough-on-putin/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-isnt-serious-about-getting-tough-on-putin/</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unbearable smugness of Arsenal fans]]></title>
+            <description><![CDATA[Gooners]]></description>
+            <link>https://spectator.com/article/the-unbearable-smugness-of-arsenal-fans/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-unbearable-smugness-of-arsenal-fans/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are Labour members toughening on migration?]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -34,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Can Andy Burnham take credit for Manchester’s success?]]></title>
-            <description><![CDATA[I am the resurrection]]></description>
+            <description><![CDATA[By James Breckwoldt]]></description>
             <link>https://spectator.com/article/can-andy-burnham-take-credit-for-manchesters-success/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-andy-burnham-take-credit-for-manchesters-success/</guid>
             <dc:creator><![CDATA[James Breckwoldt]]></dc:creator>
@@ -3951,70 +4015,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/rose/</guid>
             <dc:creator><![CDATA[Henry Jeffreys]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 23:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fight for the Right: Conservatives vs Reform]]></title>
-            <description><![CDATA[By Lara Brown]]></description>
-            <link>https://spectator.com/article/reform-is-predicted-to-pull-off-sweeping-victories-in-councils-across-the-country-while-the-tories-are-preparing-to-shoulder-heavy-losses/</link>
-            <guid isPermaLink="true">https://spectator.com/article/reform-is-predicted-to-pull-off-sweeping-victories-in-councils-across-the-country-while-the-tories-are-preparing-to-shoulder-heavy-losses/</guid>
-            <dc:creator><![CDATA[Lara Brown]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 21:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Labour MP told to resign by Jewish constituents]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-labour-mp-told-to-resign-by-jewish-constituents/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-labour-mp-told-to-resign-by-jewish-constituents/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 20:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fight for the Right]]></title>
-            <description><![CDATA[By The Spectator]]></description>
-            <link>https://spectator.com/article/the-fight-for-the-right/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-fight-for-the-right/</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 19:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why America’s democracy needs the British monarchy]]></title>
-            <description><![CDATA[By Michael Auslin]]></description>
-            <link>https://spectator.com/article/for-america-britain-truly-is-special/</link>
-            <guid isPermaLink="true">https://spectator.com/article/for-america-britain-truly-is-special/</guid>
-            <dc:creator><![CDATA[Michael Auslin]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 19:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why won’t Starmer take the safety of Britain’s Jews seriously?]]></title>
-            <description><![CDATA[By Jonathan Sacerdoti]]></description>
-            <link>https://spectator.com/article/why-wont-starmer-take-the-safety-of-britains-jews-seriously/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-wont-starmer-take-the-safety-of-britains-jews-seriously/</guid>
-            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 17:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gwyn Jenkins: ‘Russia remains the gravest threat to our security’]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
-            <link>https://spectator.com/article/gwyn-jenkins-russia-remains-the-gravest-threat-to-our-security/</link>
-            <guid isPermaLink="true">https://spectator.com/article/gwyn-jenkins-russia-remains-the-gravest-threat-to-our-security/</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 17:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer thinks the public is too stupid to notice his incompetence]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/keir-starmer-thinks-the-public-is-too-stupid-to-notice-his-incompetence/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-thinks-the-public-is-too-stupid-to-notice-his-incompetence/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 17:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Golders Green atrocity is the final straw]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/the-golders-green-atrocity-is-the-final-straw/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-golders-green-atrocity-is-the-final-straw/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 17:19:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

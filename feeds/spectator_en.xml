@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 13:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 16:46:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 16:46:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Keir Starmer is resigned to resigning]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/keir-starmer-is-resigned-to-resigning/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-is-resigned-to-resigning/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 16:46:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HS2 is a national scandal]]></title>
+            <description><![CDATA[Off the rails]]></description>
+            <link>https://spectator.com/article/hs2-is-a-national-scandal/</link>
+            <guid isPermaLink="true">https://spectator.com/article/hs2-is-a-national-scandal/</guid>
+            <dc:creator><![CDATA[Christian Wolmar]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 16:46:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump’s Nato troop reduction isn’t Europe’s biggest problem]]></title>
             <description><![CDATA[By Eliot Wilson]]></description>
@@ -17,7 +33,7 @@
             <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[It’s no surprise that Starmer’s ‘pompous’ tone annoys voters]]></title>
+            <title><![CDATA[It’s no surprise Starmer’s ‘pompous’ tone annoys voters]]></title>
             <description><![CDATA[By Isabel Hardman]]></description>
             <link>https://spectator.com/article/its-no-surprise-that-starmers-pompous-tone-annoys-voters/</link>
             <guid isPermaLink="true">https://spectator.com/article/its-no-surprise-that-starmers-pompous-tone-annoys-voters/</guid>
@@ -57,8 +73,8 @@
             <pubDate>Wed, 20 May 2026 13:32:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Keir Starmer isn’t serious about getting tough on Putin]]></title>
-            <description><![CDATA[Oil sanctions]]></description>
+            <title><![CDATA[Starmer’s sanctions U-turn will put money in the Kremlin’s pocket]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
             <link>https://spectator.com/article/keir-starmer-isnt-serious-about-getting-tough-on-putin/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmer-isnt-serious-about-getting-tough-on-putin/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -170,7 +186,7 @@
         </item>
         <item>
             <title><![CDATA[Why does the BBC think Afghan men are selling their daughters?]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
+            <description><![CDATA[Medieval]]></description>
             <link>https://spectator.com/article/why-does-the-bbc-think-afghan-men-are-selling-their-daughters/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-does-the-bbc-think-afghan-men-are-selling-their-daughters/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -3998,22 +4014,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/what-your-whippet-says-about-you/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-your-whippet-says-about-you/</guid>
             <dc:creator><![CDATA[Arabella Byrne]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 23:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the country ready for Chancellor Ed Miliband?]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/is-the-country-ready-for-chancellor-ed-miliband/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-country-ready-for-chancellor-ed-miliband/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 23:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defence of celebrity rosé]]></title>
-            <description><![CDATA[By Henry Jeffreys]]></description>
-            <link>https://spectator.com/article/rose/</link>
-            <guid isPermaLink="true">https://spectator.com/article/rose/</guid>
-            <dc:creator><![CDATA[Henry Jeffreys]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 23:45:20 GMT</pubDate>
         </item>
     </channel>

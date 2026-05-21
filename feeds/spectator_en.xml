@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 10:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 13:56:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 10:32:58 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 13:56:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The planning catastrophe that stops homes being built in London]]></title>
+            <description><![CDATA[By Michael Hill]]></description>
+            <link>https://spectator.com/article/the-planning-catastrophe-that-stops-homes-being-built-in-the-capital/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-planning-catastrophe-that-stops-homes-being-built-in-the-capital/</guid>
+            <dc:creator><![CDATA[Michael Hill]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 13:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Net emigration isn’t soaring]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/net-emigration-isnt-soaring/</link>
+            <guid isPermaLink="true">https://spectator.com/article/net-emigration-isnt-soaring/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 13:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starmer’s Russia oil U-turn sends a clear message to Ukraine]]></title>
+            <description><![CDATA[By Alexander Kolyandr]]></description>
+            <link>https://spectator.com/article/the-last-thing-starmers-russian-oil-carve-out-does-is-help-ukraine/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-last-thing-starmers-russian-oil-carve-out-does-is-help-ukraine/</guid>
+            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 13:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour MPs are in no mood to celebrate falling migration]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/labour-mps-are-in-no-mood-to-celebrate-falling-migration/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-mps-are-in-no-mood-to-celebrate-falling-migration/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 13:56:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Rachel Reeves heckled by white van driver]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4003,38 +4035,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/the-problem-with-labours-toddler-screen-time-guidance/</guid>
             <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
             <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The secret to Rupert Murdoch’s strength]]></title>
-            <description><![CDATA[Diary]]></description>
-            <link>https://spectator.com/article/the-secret-to-rupert-murdochs-strength/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-secret-to-rupert-murdochs-strength/</guid>
-            <dc:creator><![CDATA[Kelvin MacKenzie]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is life expectancy really falling?]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/is-life-expectancy-really-falling/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-life-expectancy-really-falling/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 12:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bank of England holds interest rates – for now]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/the-bank-of-england-holds-interest-rates-for-now/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-bank-of-england-holds-interest-rates-for-now/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 12:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The long march of the Ukippers]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/the-long-march-of-the-ukippers/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-long-march-of-the-ukippers/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 12:09:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

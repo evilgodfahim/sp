@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 13:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 16:36:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 13:56:44 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 16:36:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The National Garden Scheme is the perfect antidote to Chelsea’s vanity]]></title>
+            <description><![CDATA[Open season]]></description>
+            <link>https://spectator.com/article/the-national-garden-scheme-is-the-perfect-antidote-to-chelseas-vanity/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-national-garden-scheme-is-the-perfect-antidote-to-chelseas-vanity/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 16:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The £10 pint explains the rise of Reform]]></title>
+            <description><![CDATA[The Spectator’s notes]]></description>
+            <link>https://spectator.com/article/the-10-pint-explains-the-rise-of-reform/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-10-pint-explains-the-rise-of-reform/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 16:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A glimpse of the extremes of Emily Brontë’s imagination]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/a-glimpse-of-the-extremes-of-emily-brontes-imagination/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-glimpse-of-the-extremes-of-emily-brontes-imagination/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Lucasta Miller]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 16:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our local nudists are running wild]]></title>
+            <description><![CDATA[Dolce vita]]></description>
+            <link>https://spectator.com/article/our-local-nudists-are-running-wild/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/our-local-nudists-are-running-wild/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 16:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin’s nuclear escalation is a sign of desperation]]></title>
+            <description><![CDATA[By Svitlana Morenets]]></description>
+            <link>https://spectator.com/article/putins-nuclear-escalation-is-a-sign-of-desperation/</link>
+            <guid isPermaLink="true">https://spectator.com/article/putins-nuclear-escalation-is-a-sign-of-desperation/</guid>
+            <dc:creator><![CDATA[Svitlana Morenets]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 16:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The bleak truth about falling net migration]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/the-bleak-truth-about-falling-net-migration/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-bleak-truth-about-falling-net-migration/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 16:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Streeting has abandoned the NHS like everyone else]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/streeting-has-abandoned-the-nhs-like-everyone-else/</link>
+            <guid isPermaLink="true">https://spectator.com/article/streeting-has-abandoned-the-nhs-like-everyone-else/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 16:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why did the Queen push for Andrew to become a trade envoy?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/why-did-the-queen-push-for-andrew-to-become-a-trade-envoy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-did-the-queen-push-for-andrew-to-become-a-trade-envoy/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 16:36:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The planning catastrophe that stops homes being built in London]]></title>
             <description><![CDATA[By Michael Hill]]></description>
@@ -74,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[If you think your bills are bad now, just wait]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
+            <description><![CDATA[Debt]]></description>
             <link>https://spectator.com/article/if-you-think-your-bills-are-bad-now-just-wait/</link>
             <guid isPermaLink="true">https://spectator.com/article/if-you-think-your-bills-are-bad-now-just-wait/</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
@@ -122,7 +186,7 @@ We drove on slowly, passing half a dozen or so parked cars with solitary men ins
         </item>
         <item>
             <title><![CDATA[My encounters with Wes Streeting]]></title>
-            <description><![CDATA[Labour]]></description>
+            <description><![CDATA[By Douglas Murray]]></description>
             <link>https://spectator.com/article/my-encounters-with-wes-streeting/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-encounters-with-wes-streeting/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -178,7 +242,7 @@ We drove on slowly, passing half a dozen or so parked cars with solitary men ins
         </item>
         <item>
             <title><![CDATA[The secret shame of being ‘Reform-curious’]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Rod Liddle]]></description>
             <link>https://spectator.com/article/the-secret-shame-of-being-reform-curious/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-secret-shame-of-being-reform-curious/</guid>
             <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
@@ -226,7 +290,7 @@ We drove on slowly, passing half a dozen or so parked cars with solitary men ins
         </item>
         <item>
             <title><![CDATA[The performative hypocrisy of the pro-Palestine mob]]></title>
-            <description><![CDATA[By James Kirchick]]></description>
+            <description><![CDATA[Oxford university]]></description>
             <link>https://spectator.com/article/the-performative-hypocrisy-of-the-pro-palestine-mob/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-performative-hypocrisy-of-the-pro-palestine-mob/</guid>
             <dc:creator><![CDATA[James Kirchick]]></dc:creator>
@@ -242,7 +306,7 @@ We drove on slowly, passing half a dozen or so parked cars with solitary men ins
         </item>
         <item>
             <title><![CDATA[What lists of our greatest novels get wrong]]></title>
-            <description><![CDATA[By Philip Hensher]]></description>
+            <description><![CDATA[Classic mistakes]]></description>
             <link>https://spectator.com/article/what-lists-of-our-greatest-novels-get-wrong/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-lists-of-our-greatest-novels-get-wrong/</guid>
             <dc:creator><![CDATA[Philip Hensher]]></dc:creator>
@@ -3971,70 +4035,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/why-does-mamdani-want-the-king-to-return-the-koh-i-noor/</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
             <pubDate>Thu, 30 Apr 2026 17:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia has failed to unload stolen Ukrainian grain in Israel]]></title>
-            <description><![CDATA[By Svitlana Morenets]]></description>
-            <link>https://spectator.com/article/russia-has-failed-to-unload-stolen-ukrainian-grain-in-israel/</link>
-            <guid isPermaLink="true">https://spectator.com/article/russia-has-failed-to-unload-stolen-ukrainian-grain-in-israel/</guid>
-            <dc:creator><![CDATA[Svitlana Morenets]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 17:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Streeting ready to be PM?]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/is-streeting-ready-to-be-pm/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-streeting-ready-to-be-pm/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 17:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Worried your child is being radicalised? Try this tip]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/worried-your-child-is-being-radicalised-try-this-tip/</link>
-            <guid isPermaLink="true">https://spectator.com/article/worried-your-child-is-being-radicalised-try-this-tip/</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the country ready for Chancellor Ed Miliband?]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/is-the-country-ready-for-chancellor-ed-miliband/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-country-ready-for-chancellor-ed-miliband/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Worried your child is being radicalised? Try this tip]]></title>
-            <description><![CDATA[No sacred cows]]></description>
-            <link>https://spectator.com/article/worried-your-child-is-being-radicalised-try-this-tip/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/worried-your-child-is-being-radicalised-try-this-tip/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My miracle match against the Vatican’s cricket team]]></title>
-            <description><![CDATA[Test of faith]]></description>
-            <link>https://spectator.com/article/my-miracle-match-against-the-vaticans-cricket-team/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-miracle-match-against-the-vaticans-cricket-team/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[Thomas Steventon]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People who say it’s no good throwing money at a problem have never been poor]]></title>
-            <description><![CDATA[Still life]]></description>
-            <link>https://spectator.com/article/people-who-say-its-no-good-throwing-money-at-a-problem-have-never-been-poor/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/people-who-say-its-no-good-throwing-money-at-a-problem-have-never-been-poor/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The problem with Labour’s toddler screen-time guidance]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
-            <link>https://spectator.com/article/the-problem-with-labours-toddler-screen-time-guidance/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-labours-toddler-screen-time-guidance/</guid>
-            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 15:01:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

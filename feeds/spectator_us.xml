@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 16:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 18:54:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 16:36:39 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 18:54:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why the Pentagon has Nigeria in its sights]]></title>
+            <description><![CDATA[By Geoff Hill]]></description>
+            <link>https://spectator.com/article/why-the-pentagon-has-nigeria-in-its-sights/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-pentagon-has-nigeria-in-its-sights/?edition=us</guid>
+            <dc:creator><![CDATA[Geoff Hill]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 18:54:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why did the Queen push for Andrew to become a trade envoy?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/why-did-the-queen-push-for-andrew-to-become-a-trade-envoy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-did-the-queen-push-for-andrew-to-become-a-trade-envoy/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 18:54:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[February in New York: where dreams come to die]]></title>
             <description><![CDATA[By Josie Cox]]></description>
@@ -4003,22 +4019,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/trumps-fantasy-of-victory/?edition=us</guid>
             <dc:creator><![CDATA[Paul Wood]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 15:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meeting Karl Ove Knausgård]]></title>
-            <description><![CDATA[Free radical]]></description>
-            <link>https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Orson Fry]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 13:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the UK’s Green party abandoned its environmental roots]]></title>
-            <description><![CDATA[By Angus Colwell]]></description>
-            <link>https://spectator.com/article/why-the-green-party-abandoned-its-environmental-roots/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-green-party-abandoned-its-environmental-roots/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 11:47:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

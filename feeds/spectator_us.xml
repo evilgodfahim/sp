@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 13:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 16:16:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 13:24:42 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 16:16:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why did police handcuff Henry Nowak?]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/why-did-the-police-cuff-henry-nowak/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-did-the-police-cuff-henry-nowak/?edition=us</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 16:16:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The benevolence trap]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -4010,14 +4018,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/why-the-green-party-abandoned-its-environmental-roots/?edition=us&amp;homepage-tracking=magazine-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-green-party-abandoned-its-environmental-roots/?edition=us&amp;homepage-tracking=magazine-article-3</guid>
             <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 15:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No one in the DC political class is cool]]></title>
-            <description><![CDATA[By Kelly Chapman]]></description>
-            <link>https://spectator.com/article/no-one-in-the-dc-political-class-is-cool/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/no-one-in-the-dc-political-class-is-cool/?edition=us</guid>
-            <dc:creator><![CDATA[Kelly Chapman]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 15:14:49 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 13:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 16:16:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 13:24:46 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 16:16:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Ministry of Defence is failing to prepare Britain for war]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/the-ministry-of-defence-is-failing-to-prepare-britain-for-war/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-ministry-of-defence-is-failing-to-prepare-britain-for-war/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 16:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France could block Britain from rejoining the EU]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/france-could-block-britain-from-rejoining-the-eu/</link>
+            <guid isPermaLink="true">https://spectator.com/article/france-could-block-britain-from-rejoining-the-eu/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 16:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When teenage rapists walk free]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/when-teenage-rapists-walk-free/</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-teenage-rapists-walk-free/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 16:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham’s faux insurgent act fools no one]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/andy-burnhams-faux-insurgent-act-fools-no-one/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-faux-insurgent-act-fools-no-one/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 16:16:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Green MP takes ‘burnout’ leave]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -3998,38 +4030,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/campings-great-lie/</link>
             <guid isPermaLink="true">https://spectator.com/article/campings-great-lie/</guid>
             <dc:creator><![CDATA[Matthew Donnelly]]></dc:creator>
-            <pubDate>Sat, 02 May 2026 04:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It is no wonder Jews want to leave Britain]]></title>
-            <description><![CDATA[By Josh Rom]]></description>
-            <link>https://spectator.com/article/it-is-no-wonder-jews-want-to-leave-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/it-is-no-wonder-jews-want-to-leave-britain/</guid>
-            <dc:creator><![CDATA[Josh Rom]]></dc:creator>
-            <pubDate>Sat, 02 May 2026 04:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should the Princess Diana tapes be released?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/should-the-princess-diana-tapes-be-released/</link>
-            <guid isPermaLink="true">https://spectator.com/article/should-the-princess-diana-tapes-be-released/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sat, 02 May 2026 04:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why can’t ministers admit the truth about what caused the Mandelson scandal?]]></title>
-            <description><![CDATA[By Matthew Gould]]></description>
-            <link>https://spectator.com/article/why-cant-ministers-admit-the-truth-about-what-caused-the-mandelson-scandal/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-cant-ministers-admit-the-truth-about-what-caused-the-mandelson-scandal/</guid>
-            <dc:creator><![CDATA[Matthew Gould]]></dc:creator>
-            <pubDate>Sat, 02 May 2026 04:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brian Cox is a world-class bore]]></title>
-            <description><![CDATA[By Michael Henderson]]></description>
-            <link>https://spectator.com/article/brian-cox-is-a-world-class-bore/</link>
-            <guid isPermaLink="true">https://spectator.com/article/brian-cox-is-a-world-class-bore/</guid>
-            <dc:creator><![CDATA[Michael Henderson]]></dc:creator>
             <pubDate>Sat, 02 May 2026 04:57:58 GMT</pubDate>
         </item>
     </channel>

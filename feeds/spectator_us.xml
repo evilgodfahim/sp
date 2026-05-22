@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 06:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 10:18:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 06:41:20 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 10:18:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Putin’s nuclear escalation is a sign of desperation]]></title>
+            <description><![CDATA[By Svitlana Morenets]]></description>
+            <link>https://spectator.com/article/putins-nuclear-escalation-is-a-sign-of-desperation/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/putins-nuclear-escalation-is-a-sign-of-desperation/?edition=us</guid>
+            <dc:creator><![CDATA[Svitlana Morenets]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 10:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colbert quit the stage with a whimper not a bang]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/colbert-quit-the-stage-with-a-whimper-not-a-bang/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/colbert-quit-the-stage-with-a-whimper-not-a-bang/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 10:18:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Woke language obviously doesn’t change the way we think]]></title>
             <description><![CDATA[By Patrick West]]></description>
@@ -4003,22 +4019,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/get-ready-for-epic-fury-part-ii/?edition=us</guid>
             <dc:creator><![CDATA[Michael Evans]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 10:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are aliens really out there?]]></title>
-            <description><![CDATA[By David Whitehouse]]></description>
-            <link>https://spectator.com/article/alien-concept/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/alien-concept/?edition=us</guid>
-            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 01:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The winners and losers of the Iran ceasefire deal]]></title>
-            <description><![CDATA[By Jonathan Spyer]]></description>
-            <link>https://spectator.com/article/the-winners-and-losers-of-the-iran-ceasefire-deal/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-winners-and-losers-of-the-iran-ceasefire-deal/?edition=us</guid>
-            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 16:52:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

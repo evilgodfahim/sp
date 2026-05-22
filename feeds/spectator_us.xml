@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 02:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 06:41:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 02:34:11 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 06:41:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Woke language obviously doesn’t change the way we think]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/woke-language-obviously-doesnt-change-the-way-we-think-2/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/woke-language-obviously-doesnt-change-the-way-we-think-2/?edition=us</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 06:41:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Down with the children’s birthday-industrial complex]]></title>
             <description><![CDATA[New York life]]></description>
@@ -4010,14 +4018,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/the-winners-and-losers-of-the-iran-ceasefire-deal/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-winners-and-losers-of-the-iran-ceasefire-deal/?edition=us</guid>
             <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 16:52:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We’re stuck at the worst possible oil price]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/were-stuck-at-the-worst-possible-oil-price/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/were-stuck-at-the-worst-possible-oil-price/?edition=us</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 16:52:48 GMT</pubDate>
         </item>
     </channel>

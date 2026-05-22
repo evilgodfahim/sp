@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 18:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 20:28:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 18:29:25 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 20:28:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump’s lawfare against lawfare]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/trump-lawfare-against-lawfare-americano-05-22-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-lawfare-against-lawfare-americano-05-22-26/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 20:28:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[President Trump won’t attend his son’s destination wedding]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -4010,14 +4018,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us&amp;homepage-tracking=magazine-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/meeting-norwegian-author-karl-ove-knausgard/?edition=us&amp;homepage-tracking=magazine-article-1</guid>
             <dc:creator><![CDATA[Orson Fry]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 15:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The real reason the left hates Israel]]></title>
-            <description><![CDATA[Anti-Semitism]]></description>
-            <link>https://spectator.com/article/the-real-reason-the-left-hates-israel/?edition=us&amp;homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-the-left-hates-israel/?edition=us&amp;homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 15:14:49 GMT</pubDate>
         </item>
     </channel>

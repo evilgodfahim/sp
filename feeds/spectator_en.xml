@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 10:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 11:55:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 10:22:31 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 11:55:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Our local nudists are running wild]]></title>
+            <description><![CDATA[By Nicholas Farrell]]></description>
+            <link>https://spectator.com/article/our-local-nudists-are-running-wild/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/our-local-nudists-are-running-wild/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why politicians love (to be seen) jogging]]></title>
+            <description><![CDATA[He's running]]></description>
+            <link>https://spectator.com/article/why-politicians-love-to-be-seen-jogging/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-politicians-love-to-be-seen-jogging/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the Ukrainian army’s art division]]></title>
+            <description><![CDATA[Cultural shield]]></description>
+            <link>https://spectator.com/article/inside-the-ukrainian-armys-art-division/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/inside-the-ukrainian-armys-art-division/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Matthew Palmer]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:55:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The National Garden Scheme is the perfect antidote to Chelsea’s vanity]]></title>
             <description><![CDATA[By Flora Watkins]]></description>
@@ -4003,30 +4027,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/is-reform-brave-enough-to-be-a-pro-family-party/</guid>
             <dc:creator><![CDATA[Joe Shalam]]></dc:creator>
             <pubDate>Sun, 03 May 2026 07:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia is running out of workers]]></title>
-            <description><![CDATA[By Alexander Kolyandr]]></description>
-            <link>https://spectator.com/article/russia-is-running-out-of-workers/</link>
-            <guid isPermaLink="true">https://spectator.com/article/russia-is-running-out-of-workers/</guid>
-            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
-            <pubDate>Sun, 03 May 2026 07:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need to talk about your water bottle]]></title>
-            <description><![CDATA[By Sam Merullo]]></description>
-            <link>https://spectator.com/article/we-need-to-talk-about-your-water-bottle/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-need-to-talk-about-your-water-bottle/</guid>
-            <dc:creator><![CDATA[Sam Merullo]]></dc:creator>
-            <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tories are on the verge of a surprise Westminster comeback]]></title>
-            <description><![CDATA[By Mary Dejevsky]]></description>
-            <link>https://spectator.com/article/the-tories-are-on-the-verge-of-a-surprise-westminster-comeback/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-tories-are-on-the-verge-of-a-surprise-westminster-comeback/</guid>
-            <dc:creator><![CDATA[Mary Dejevsky]]></dc:creator>
-            <pubDate>Sun, 03 May 2026 05:50:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,13 +4,29 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 15:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 16:53:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 15:56:10 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 16:53:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[No one recognised me on the Cannes red carpet!]]></title>
+            <description><![CDATA[By Joan Collins]]></description>
+            <link>https://spectator.com/article/no-one-recognised-me-on-the-cannes-red-carpet/</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-one-recognised-me-on-the-cannes-red-carpet/</guid>
+            <dc:creator><![CDATA[Joan Collins]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 16:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No one recognised me on the Cannes red carpet!]]></title>
+            <description><![CDATA[By Joan Collins]]></description>
+            <link>https://spectator.com/article/no-one-recognised-me-on-the-cannes-red-carpet/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-one-recognised-me-on-the-cannes-red-carpet/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Joan Collins]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 16:53:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump’s lawfare against lawfare]]></title>
-            <description><![CDATA[Lawfare]]></description>
+            <description><![CDATA[Banana republic]]></description>
             <link>https://spectator.com/article/trump-lawfare-against-lawfare-americano-05-22-26/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-lawfare-against-lawfare-americano-05-22-26/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
@@ -4016,22 +4032,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/how-to-silence-scottish-nationalists/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/how-to-silence-scottish-nationalists/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[John Ferry]]></dc:creator>
-            <pubDate>Sun, 03 May 2026 12:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are closer to AI extinction than we think]]></title>
-            <description><![CDATA[Rise of the machine]]></description>
-            <link>https://spectator.com/article/we-are-closer-to-ai-extinction-than-we-think/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-are-closer-to-ai-extinction-than-we-think/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Andrea Miotti]]></dc:creator>
-            <pubDate>Sun, 03 May 2026 12:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunday shows round-up: Labour minister attacks ‘disgusting’ Polanski]]></title>
-            <description><![CDATA[By Joe Bedell-Brill]]></description>
-            <link>https://spectator.com/article/sunday-shows-round-up-labour-minister-attacks-disgusting-polanski/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-labour-minister-attacks-disgusting-polanski/</guid>
-            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
             <pubDate>Sun, 03 May 2026 12:50:43 GMT</pubDate>
         </item>
     </channel>

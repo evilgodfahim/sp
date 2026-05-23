@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 14:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 15:56:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 14:54:21 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 15:56:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump’s lawfare against lawfare]]></title>
+            <description><![CDATA[Lawfare]]></description>
+            <link>https://spectator.com/article/trump-lawfare-against-lawfare-americano-05-22-26/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-lawfare-against-lawfare-americano-05-22-26/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 15:56:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Transnistria: the country that’s not a country]]></title>
+            <description><![CDATA[Time travel]]></description>
+            <link>https://spectator.com/article/welcome-to-transnistria-the-country-that-doesnt-exist/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/welcome-to-transnistria-the-country-that-doesnt-exist/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Ian Evans]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 15:56:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the Ukrainian army’s art division]]></title>
+            <description><![CDATA[Cultural shield]]></description>
+            <link>https://spectator.com/article/inside-the-ukrainian-armys-art-division/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/inside-the-ukrainian-armys-art-division/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Matthew Palmer]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 15:56:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our local nudists are running wild]]></title>
             <description><![CDATA[By Nicholas Farrell]]></description>
@@ -106,7 +130,13 @@
         </item>
         <item>
             <title><![CDATA[Welcome to Transnistria: the country that’s not a country]]></title>
-            <description><![CDATA[By Ian Evans]]></description>
+            <description><![CDATA[I’ve been on holiday to a country that doesn’t officially exist. It has its own border, passport, flag, currency and army but no one recognises it – not even its main sponsor, Vladimir Putin. Transnistria is sandwiched between its proper motherland Moldova – which is itself really Romania – and Ukraine, which Putin thinks is part of his motherland. Confused? It doesn’t get any easier. 
+
+
+
+
+
+In 1992 there was a short war between the newly created state of Moldova and separatist, ethnic Russians which resulted in nearly 1,000 deaths and the breakaway ‘country’ (via a peace accord) policed by Russian ‘peacekeepers’.]]></description>
             <link>https://spectator.com/article/welcome-to-transnistria-the-country-that-doesnt-exist/</link>
             <guid isPermaLink="true">https://spectator.com/article/welcome-to-transnistria-the-country-that-doesnt-exist/</guid>
             <dc:creator><![CDATA[Ian Evans]]></dc:creator>
@@ -4003,30 +4033,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-labour-minister-attacks-disgusting-polanski/</guid>
             <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
             <pubDate>Sun, 03 May 2026 12:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The case that shows jihadism is for losers]]></title>
-            <description><![CDATA[By Jonathan Sacerdoti]]></description>
-            <link>https://spectator.com/article/the-case-that-shows-jihadism-is-for-losers/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-case-that-shows-jihadism-is-for-losers/</guid>
-            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
-            <pubDate>Sun, 03 May 2026 09:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to silence Scottish nationalists]]></title>
-            <description><![CDATA[By John Ferry]]></description>
-            <link>https://spectator.com/article/how-to-silence-scottish-nationalists/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-silence-scottish-nationalists/</guid>
-            <dc:creator><![CDATA[John Ferry]]></dc:creator>
-            <pubDate>Sun, 03 May 2026 07:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Reform brave enough to be a pro-family party?]]></title>
-            <description><![CDATA[By Joe Shalam]]></description>
-            <link>https://spectator.com/article/is-reform-brave-enough-to-be-a-pro-family-party/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-reform-brave-enough-to-be-a-pro-family-party/</guid>
-            <dc:creator><![CDATA[Joe Shalam]]></dc:creator>
-            <pubDate>Sun, 03 May 2026 07:49:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

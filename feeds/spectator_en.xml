@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 06:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 09:15:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 06:29:47 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 09:15:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The global ramifications of China’s economic crisis]]></title>
+            <description><![CDATA[By James Price]]></description>
+            <link>https://spectator.com/article/the-global-ramifications-of-chinas-economic-crisis/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-global-ramifications-of-chinas-economic-crisis/</guid>
+            <dc:creator><![CDATA[James Price]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 09:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Prep School Mother]]></title>
             <description><![CDATA[Tilly’s children now refuse to tell her when another one bites the dust. Recently, they joke, they have been able to see the whites of her eyes when they say that Ludo or Verity has been pulled out of school because his or her parents have been hit by VAT on school fees. When Tilly quizzes them about the parents’ finances, they roll their eyes and tell her to stop being so nosy. 
@@ -4025,14 +4033,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/did-european-rule-in-asia-and-africa-really-make-colonised-people-poorer/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Tirthankar Roy]]></dc:creator>
             <pubDate>Mon, 04 May 2026 10:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI is revolutionising mathematics]]></title>
-            <description><![CDATA[By Ananyo Bhattacharya]]></description>
-            <link>https://spectator.com/article/ai-is-revolutionising-mathematics/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ai-is-revolutionising-mathematics/</guid>
-            <dc:creator><![CDATA[Ananyo Bhattacharya]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 08:20:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

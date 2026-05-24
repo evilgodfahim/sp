@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 21:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 22:49:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 21:47:27 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 22:49:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[China bans Boeing in targeted trade war shot]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/china-bans-boeing-in-targeted-trade-war-shot/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/china-bans-boeing-in-targeted-trade-war-shot/?edition=us</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 22:48:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Stylist: the blazer has evolved from clubhouse uniform to stylish wardrobe staple]]></title>
             <description><![CDATA[By Charlie Teasdale]]></description>
@@ -4011,14 +4019,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/if-only-taco-were-true/?edition=us</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 16:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the hell is going on with Melania Trump?]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
-            <link>https://spectator.com/article/what-the-hell-is-going-on-with-melania-trump/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-the-hell-is-going-on-with-melania-trump/?edition=us</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 14:13:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

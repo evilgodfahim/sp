@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 07:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 11:44:50 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 May 2026 07:04:49 GMT</pubDate>
+        <pubDate>Mon, 25 May 2026 11:44:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is Andy Burnham asking Sue Gray for advice?]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/why-is-andy-burnham-asking-sue-gray-for-advice/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-andy-burnham-asking-sue-gray-for-advice/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Mon, 25 May 2026 11:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Andrew investigation is looking increasingly desperate]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/the-andrew-investigation-is-looking-increasingly-desperate/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-andrew-investigation-is-looking-increasingly-desperate/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 25 May 2026 11:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peter Murrell pleads guilty to embezzling £400,000 from the SNP]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/peter-murrell-pleads-guilty-to-embezzling-400000-from-the-snp/</link>
+            <guid isPermaLink="true">https://spectator.com/article/peter-murrell-pleads-guilty-to-embezzling-400000-from-the-snp/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 25 May 2026 11:44:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We’ve lost our only anti-vaxxer friend in the village]]></title>
             <description><![CDATA[By Melissa Kite]]></description>
@@ -4002,30 +4026,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/reevess-mansion-tax-has-backfired-before-its-even-kicked-in/</link>
             <guid isPermaLink="true">https://spectator.com/article/reevess-mansion-tax-has-backfired-before-its-even-kicked-in/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 11:13:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why can’t Germany extradite the Madeleine McCann suspect?]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/why-cant-germany-extradite-the-madeleine-mccann-suspect/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-cant-germany-extradite-the-madeleine-mccann-suspect/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 11:13:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making homes more affordable won’t solve London’s housing crisis]]></title>
-            <description><![CDATA[By Sam McPhail]]></description>
-            <link>https://spectator.com/article/making-homes-more-affordable-wont-solve-londons-housing-crisis/</link>
-            <guid isPermaLink="true">https://spectator.com/article/making-homes-more-affordable-wont-solve-londons-housing-crisis/</guid>
-            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 11:13:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the pro-Palestine marches must stop]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/why-the-pro-palestine-marches-must-stop/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-pro-palestine-marches-must-stop/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
             <pubDate>Tue, 05 May 2026 11:13:47 GMT</pubDate>
         </item>
     </channel>

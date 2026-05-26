@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 13:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 17:22:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 13:49:17 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 17:22:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[RFK is America’s top witch doctor]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/rfk-america-top-witch-doctor-cockburn-diary-05-26-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/rfk-america-top-witch-doctor-cockburn-diary-05-26-26/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 17:22:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Pope Leo fears about AI]]></title>
+            <description><![CDATA[By Damian Thompson]]></description>
+            <link>https://spectator.com/article/what-pope-leo-fears-about-ai/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-pope-leo-fears-about-ai/?edition=us</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 17:22:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The return of animism]]></title>
             <description><![CDATA[By Katherine Dee]]></description>
@@ -4005,22 +4021,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/life-on-palm-beach-island-is-not-what-it-appears/?edition=us</guid>
             <dc:creator><![CDATA[Peter Watson]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 08:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do you believe Tara Reade?]]></title>
-            <description><![CDATA[By Michael Tracey]]></description>
-            <link>https://spectator.com/article/do-you-believe-tara-reade/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/do-you-believe-tara-reade/?edition=us</guid>
-            <dc:creator><![CDATA[Michael Tracey]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 06:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europe is not a museum]]></title>
-            <description><![CDATA[By Ben Judah]]></description>
-            <link>https://spectator.com/article/europe-is-not-a-museum/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/europe-is-not-a-museum/?edition=us</guid>
-            <dc:creator><![CDATA[Ben Judah]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 06:20:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

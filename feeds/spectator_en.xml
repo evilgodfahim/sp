@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 13:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 17:22:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 13:49:22 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 17:22:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Holyrood votes for second independence referendum]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/holyrood-votes-for-second-independence-referendum/</link>
+            <guid isPermaLink="true">https://spectator.com/article/holyrood-votes-for-second-independence-referendum/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 17:22:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Pope Leo fears about AI]]></title>
             <description><![CDATA[By Damian Thompson]]></description>
@@ -4019,14 +4027,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/a-new-banking-windfall-tax-would-be-a-terrible-idea/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t feel sorry for the business leaders who backed Labour]]></title>
-            <description><![CDATA[Economy]]></description>
-            <link>https://spectator.com/article/dont-feel-sorry-for-the-business-leaders-who-backed-labour/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-feel-sorry-for-the-business-leaders-who-backed-labour/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 10:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

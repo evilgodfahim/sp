@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 06:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 13:49:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 06:40:44 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 13:49:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The return of animism]]></title>
+            <description><![CDATA[By Katherine Dee]]></description>
+            <link>https://spectator.com/article/the-return-of-animism/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-return-of-animism/?edition=us</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan isn’t as safe as you think]]></title>
+            <description><![CDATA[By Philip Patrick]]></description>
+            <link>https://spectator.com/article/japan-isnt-as-safe-as-you-think/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/japan-isnt-as-safe-as-you-think/?edition=us</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The clash between Trump and Pope Leo shouldn’t shock Catholics]]></title>
+            <description><![CDATA[Prejudices]]></description>
+            <link>https://spectator.com/article/the-clash-between-trump-and-pope-leo-shouldnt-shock-catholics/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-clash-between-trump-and-pope-leo-shouldnt-shock-catholics/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zombie fillers: the super-rich are plumping themselves up with dead people’s fat]]></title>
+            <description><![CDATA[Horror show]]></description>
+            <link>https://spectator.com/article/zombie-fillers-super-rich-plumping-themselves-dead-people-fat/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/zombie-fillers-super-rich-plumping-themselves-dead-people-fat/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Leah McLaren]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Greta is so angry about Swedish immigration]]></title>
+            <description><![CDATA[By Fredrik Karrholm]]></description>
+            <link>https://spectator.com/article/why-greta-is-so-angry-about-swedish-immigration/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-greta-is-so-angry-about-swedish-immigration/?edition=us</guid>
+            <dc:creator><![CDATA[Fredrik Karrholm]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The return of animism]]></title>
+            <description><![CDATA[By Katherine Dee]]></description>
+            <link>https://spectator.com/article/the-return-of-animism/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-return-of-animism/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get ready for a Spencer Pratt Summer]]></title>
+            <description><![CDATA[By Peachy Keenan]]></description>
+            <link>https://spectator.com/article/get-ready-for-a-spencer-pratt-summer/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/get-ready-for-a-spencer-pratt-summer/?edition=us</guid>
+            <dc:creator><![CDATA[Peachy Keenan]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The end of Trumpism]]></title>
             <description><![CDATA[By Christopher Caldwell]]></description>
@@ -3965,60 +4021,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/europe-is-not-a-museum/?edition=us</guid>
             <dc:creator><![CDATA[Ben Judah]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 06:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Katie Porter scandal everyone is ignoring]]></title>
-            <description><![CDATA[By Matthew Foldi]]></description>
-            <link>https://spectator.com/article/the-katie-porter-scandal-everyone-is-ignoring/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-katie-porter-scandal-everyone-is-ignoring/?edition=us</guid>
-            <dc:creator><![CDATA[Matthew Foldi]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 18:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The arrogance of the tech-skeptics]]></title>
-            <description><![CDATA[Techno-haters]]></description>
-            <link>https://spectator.com/article/the-arrogance-of-the-tech-skeptics/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-arrogance-of-the-tech-skeptics/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 18:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swalwell sexual assault accusations detonate California governor’s race]]></title>
-            <link>https://spectator.com/article/swalwell-sexual-assault-accusations-detonate-california-governors-race/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/swalwell-sexual-assault-accusations-detonate-california-governors-race/?edition=us</guid>
-            <pubDate>Sat, 11 Apr 2026 18:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The trials and tribulations of cowboy college]]></title>
-            <description><![CDATA[By Jonathan Ray]]></description>
-            <link>https://spectator.com/article/the-trials-and-tribulations-of-cowboy-college/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-trials-and-tribulations-of-cowboy-college/?edition=us</guid>
-            <dc:creator><![CDATA[Jonathan Ray]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 14:30:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Road-tripping across blockaded Cuba]]></title>
-            <description><![CDATA[By Ruaridh Nicoll]]></description>
-            <link>https://spectator.com/article/road-tripping-across-blockaded-cuba/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/road-tripping-across-blockaded-cuba/?edition=us</guid>
-            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 14:30:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Artemis II returned to Earth]]></title>
-            <description><![CDATA[By David Whitehouse]]></description>
-            <link>https://spectator.com/article/how-artemis-ii-returned-to-earth/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-artemis-ii-returned-to-earth/?edition=us</guid>
-            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 10:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The golden years of David Bowie]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/golden-years-david-bowie/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/golden-years-david-bowie/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 09:33:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

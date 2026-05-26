@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 06:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 13:49:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 06:40:49 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 13:49:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What Pope Leo fears about AI]]></title>
+            <description><![CDATA[By Damian Thompson]]></description>
+            <link>https://spectator.com/article/what-pope-leo-fears-about-ai/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-pope-leo-fears-about-ai/</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gene-editing drugs are opening a new frontier in medicine]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/gene-editing-drugs-are-opening-a-new-frontier-in-medicine/</link>
+            <guid isPermaLink="true">https://spectator.com/article/gene-editing-drugs-are-opening-a-new-frontier-in-medicine/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yusuf and Jenrick clash on social housing]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/yusuf-and-jenrick-clash-on-social-housing/</link>
+            <guid isPermaLink="true">https://spectator.com/article/yusuf-and-jenrick-clash-on-social-housing/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump has a plan]]></title>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <link>https://spectator.com/article/donald-trump-has-a-plan/</link>
+            <guid isPermaLink="true">https://spectator.com/article/donald-trump-has-a-plan/</guid>
+            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Q Manivannan is perfect for the modern Green party]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/q-manivannan-is-perfect-for-the-modern-green-party/</link>
+            <guid isPermaLink="true">https://spectator.com/article/q-manivannan-is-perfect-for-the-modern-green-party/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Nicola Sturgeon the least curious woman on the planet?]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/is-nicola-sturgeon-the-least-curious-woman-on-the-planet/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-nicola-sturgeon-the-least-curious-woman-on-the-planet/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rupert Lowe: Nigel Farage is ‘managed opposition’]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/rupert-lowe-nigel-farage-is-managed-opposition/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rupert-lowe-nigel-farage-is-managed-opposition/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nicola Sturgeon still has questions to answer]]></title>
+            <description><![CDATA[Murrell scandal]]></description>
+            <link>https://spectator.com/article/nicola-sturgeon-still-has-questions-to-answer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/nicola-sturgeon-still-has-questions-to-answer/</guid>
+            <dc:creator><![CDATA[Euan McColm]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 13:49:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Rupert Murdoch destroyed the innocent enjoyment of watching sport]]></title>
             <description><![CDATA[Books]]></description>
@@ -26,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Why Greta is so angry about Swedish immigration]]></title>
-            <description><![CDATA[By Fredrik Karrholm]]></description>
+            <description><![CDATA[World]]></description>
             <link>https://spectator.com/article/why-greta-is-so-angry-about-swedish-immigration/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-greta-is-so-angry-about-swedish-immigration/</guid>
             <dc:creator><![CDATA[Fredrik Karrholm]]></dc:creator>
@@ -42,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[The problem with Andy Burnham’s ‘passion’]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
+            <description><![CDATA[Hot topics]]></description>
             <link>https://spectator.com/article/the-problem-with-andy-burnhams-passion/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-problem-with-andy-burnhams-passion/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -50,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Reform’s overtime policy is comically bad]]></title>
-            <description><![CDATA[Taxing decision]]></description>
+            <description><![CDATA[By Dan Neidle]]></description>
             <link>https://spectator.com/article/reforms-overtime-policy-is-comically-bad/</link>
             <guid isPermaLink="true">https://spectator.com/article/reforms-overtime-policy-is-comically-bad/</guid>
             <dc:creator><![CDATA[Dan Neidle]]></dc:creator>
@@ -114,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[Why is Andy Burnham asking Sue Gray for advice?]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Eliot Wilson]]></description>
             <link>https://spectator.com/article/why-is-andy-burnham-asking-sue-gray-for-advice/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-is-andy-burnham-asking-sue-gray-for-advice/</guid>
             <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
@@ -130,7 +194,7 @@
         </item>
         <item>
             <title><![CDATA[Peter Murrell pleads guilty to embezzling £400,000 from the SNP]]></title>
-            <description><![CDATA[Scotland]]></description>
+            <description><![CDATA[By Steerpike]]></description>
             <link>https://spectator.com/article/peter-murrell-pleads-guilty-to-embezzling-400000-from-the-snp/</link>
             <guid isPermaLink="true">https://spectator.com/article/peter-murrell-pleads-guilty-to-embezzling-400000-from-the-snp/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -3963,70 +4027,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/dont-feel-sorry-for-the-business-leaders-who-backed-labour/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
             <pubDate>Wed, 06 May 2026 10:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Football is a sport for right-wingers]]></title>
-            <description><![CDATA[By Chas Newkey-Burden]]></description>
-            <link>https://spectator.com/article/football-is-a-sport-for-right-wingers/</link>
-            <guid isPermaLink="true">https://spectator.com/article/football-is-a-sport-for-right-wingers/</guid>
-            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 10:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Green candidate thinks the UK is a ‘terrorist state’]]></title>
-            <description><![CDATA[Election watch]]></description>
-            <link>https://spectator.com/article/this-green-candidate-thinks-the-uk-is-a-terrorist-state/</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-green-candidate-thinks-the-uk-is-a-terrorist-state/</guid>
-            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 10:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polanski squirms on Red Cross claims]]></title>
-            <description><![CDATA[Greens]]></description>
-            <link>https://spectator.com/article/polanski-squirms-on-red-cross-claims/</link>
-            <guid isPermaLink="true">https://spectator.com/article/polanski-squirms-on-red-cross-claims/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 08:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kemi Badenoch: ‘I’m the one holding Labour to account’]]></title>
-            <description><![CDATA[Interview]]></description>
-            <link>https://spectator.com/article/kemi-badenoch-im-the-one-holding-labour-to-account/</link>
-            <guid isPermaLink="true">https://spectator.com/article/kemi-badenoch-im-the-one-holding-labour-to-account/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 08:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diets haven’t gone away]]></title>
-            <description><![CDATA[By Sybilla Hart]]></description>
-            <link>https://spectator.com/article/diets-havent-gone-away/</link>
-            <guid isPermaLink="true">https://spectator.com/article/diets-havent-gone-away/</guid>
-            <dc:creator><![CDATA[Sybilla Hart]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 05:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The secret to Rupert Murdoch’s strength]]></title>
-            <description><![CDATA[Diary]]></description>
-            <link>https://spectator.com/article/the-secret-to-rupert-murdochs-strength/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-secret-to-rupert-murdochs-strength/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Kelvin MacKenzie]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 05:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How interwar Germany became a breeding ground for evil]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/how-interwar-germany-became-a-breeding-ground-for-evil/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-interwar-germany-became-a-breeding-ground-for-evil/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Caroline Moorehead]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 05:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The dirty secrets of the Royal Festival Hall]]></title>
-            <description><![CDATA[Arts]]></description>
-            <link>https://spectator.com/article/the-dirty-secrets-of-the-royal-festival-hall/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-dirty-secrets-of-the-royal-festival-hall/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Calvin Po]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 05:49:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 14:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 17:53:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 14:21:08 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 17:53:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Wes Streeting wants to win over farmers]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/wes-streeting-wants-to-win-over-farmers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/wes-streeting-wants-to-win-over-farmers/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 17:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Greens’ Sarah Wakefield talks a load of nonsense]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/the-greens-sarah-wakefield-talks-a-load-of-nonsense/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-greens-sarah-wakefield-talks-a-load-of-nonsense/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 17:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[James Murray is facing his first big test]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/james-murray-is-facing-his-first-big-test/</link>
+            <guid isPermaLink="true">https://spectator.com/article/james-murray-is-facing-his-first-big-test/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 17:53:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reform hits back after Labour MPs urge ‘Islamophobia’ probe]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4002,30 +4026,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/starmergeddon/</link>
             <guid isPermaLink="true">https://spectator.com/article/starmergeddon/</guid>
             <dc:creator><![CDATA[Michael Gove]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get ready for the ugliest building in the City of London]]></title>
-            <description><![CDATA[By Simon Jenkins]]></description>
-            <link>https://spectator.com/article/get-ready-for-the-ugliest-building-in-the-city-of-london/</link>
-            <guid isPermaLink="true">https://spectator.com/article/get-ready-for-the-ugliest-building-in-the-city-of-london/</guid>
-            <dc:creator><![CDATA[Simon Jenkins]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russians no longer believe Putin’s war propaganda]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/russians-no-longer-believe-putins-war-propaganda/</link>
-            <guid isPermaLink="true">https://spectator.com/article/russians-no-longer-believe-putins-war-propaganda/</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are groupies so weird?]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/why-are-groupies-so-weird/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-are-groupies-so-weird/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
             <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
         </item>
     </channel>

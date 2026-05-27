@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 14:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 17:52:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 14:21:04 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 17:52:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Meet the anti-Gretas: the women celebrating nuclear energy]]></title>
+            <description><![CDATA[By Theo Zenou]]></description>
+            <link>https://spectator.com/article/meet-the-anti-gretas-the-women-making-nuclear-energy-hip/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/meet-the-anti-gretas-the-women-making-nuclear-energy-hip/?edition=us</guid>
+            <dc:creator><![CDATA[Theo Zenou]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 17:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France’s migration crisis will outlast Emmanuel Macron]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/frances-migration-crisis-will-outlast-emmanuel-macron/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/frances-migration-crisis-will-outlast-emmanuel-macron/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 17:52:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our local nudists are running wild]]></title>
             <description><![CDATA[By Nicholas Farrell]]></description>
@@ -4004,22 +4020,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/bettina-anderson-donald-trump-jr-waspy-fiancee/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/bettina-anderson-donald-trump-jr-waspy-fiancee/?edition=us</guid>
             <dc:creator><![CDATA[Neal Pollack]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 11:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Face died on the line]]></title>
-            <description><![CDATA[Diary]]></description>
-            <link>https://spectator.com/article/how-the-face-died-on-the-line/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-the-face-died-on-the-line/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Chris Black]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 11:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life on Palm Beach Island is not what it appears]]></title>
-            <description><![CDATA[By Peter Watson]]></description>
-            <link>https://spectator.com/article/life-on-palm-beach-island-is-not-what-it-appears/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/life-on-palm-beach-island-is-not-what-it-appears/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Peter Watson]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 11:27:54 GMT</pubDate>
         </item>
     </channel>

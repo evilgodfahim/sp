@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 10:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 14:21:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 14:21:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reform hits back after Labour MPs urge ‘Islamophobia’ probe]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/reform-hits-back-after-labour-mps-urges-islamophobia-probe/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reform-hits-back-after-labour-mps-urges-islamophobia-probe/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 14:21:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is ‘Q Manivannan’ doing in British politics?]]></title>
             <description><![CDATA[By Ed West]]></description>
@@ -4018,14 +4026,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/why-are-groupies-so-weird/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-are-groupies-so-weird/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is your wellness smoothie giving you cancer?]]></title>
-            <description><![CDATA[By Max Pemberton]]></description>
-            <link>https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/</guid>
-            <dc:creator><![CDATA[Max Pemberton]]></dc:creator>
             <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
         </item>
     </channel>

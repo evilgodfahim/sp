@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 23:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 02:37:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 23:02:02 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 02:37:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The future belongs to Hunter Biden]]></title>
+            <description><![CDATA[By Travis Aaroe]]></description>
+            <link>https://spectator.com/article/future-belongs-hunter-biden-candace-owens/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/future-belongs-hunter-biden-candace-owens/?edition=us</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 02:37:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RFK is America’s top witch doctor]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -4012,14 +4020,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/the-arrogance-of-the-tech-skeptics/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/the-arrogance-of-the-tech-skeptics/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 08:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life on Palm Beach Island is not what it appears]]></title>
-            <description><![CDATA[By Peter Watson]]></description>
-            <link>https://spectator.com/article/life-on-palm-beach-island-is-not-what-it-appears/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/life-on-palm-beach-island-is-not-what-it-appears/?edition=us</guid>
-            <dc:creator><![CDATA[Peter Watson]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 08:51:35 GMT</pubDate>
         </item>
     </channel>

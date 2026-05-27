@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 06:56:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 10:52:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 06:56:29 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 10:52:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What is ‘Q Manivannan’ doing in British politics?]]></title>
+            <description><![CDATA[By Ed West]]></description>
+            <link>https://spectator.com/article/what-is-q-manivannan-doing-in-british-politics/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-is-q-manivannan-doing-in-british-politics/</guid>
+            <dc:creator><![CDATA[Ed West]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 10:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir Tony Blair rounds on the left]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/tony-blair-rounds-on-the-left/</link>
+            <guid isPermaLink="true">https://spectator.com/article/tony-blair-rounds-on-the-left/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 10:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Sturgeon really have nothing to do with the SNP’s finances?]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/did-sturgeon-really-have-nothing-to-do-with-the-snps-finances/</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-sturgeon-really-have-nothing-to-do-with-the-snps-finances/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 10:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spare me the adolescent mush of Dear England]]></title>
+            <description><![CDATA[Football]]></description>
+            <link>https://spectator.com/article/spare-me-the-adolescent-mush-of-dear-england/</link>
+            <guid isPermaLink="true">https://spectator.com/article/spare-me-the-adolescent-mush-of-dear-england/</guid>
+            <dc:creator><![CDATA[Michael Henderson]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 10:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tony Blair is right about Britain – but can’t own up to his mistakes]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/tony-blair-is-right-about-britain-but-cant-own-up-to-his-mistakes/</link>
+            <guid isPermaLink="true">https://spectator.com/article/tony-blair-is-right-about-britain-but-cant-own-up-to-his-mistakes/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 10:52:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI Armageddon has replaced climate change hysteria]]></title>
             <description><![CDATA[No sacred cows]]></description>
@@ -66,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[France’s migration crisis will outlast Emmanuel Macron]]></title>
-            <description><![CDATA[Europe]]></description>
+            <description><![CDATA[By Gavin Mortimer]]></description>
             <link>https://spectator.com/article/frances-migration-crisis-will-outlast-emmanuel-macron/</link>
             <guid isPermaLink="true">https://spectator.com/article/frances-migration-crisis-will-outlast-emmanuel-macron/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
@@ -82,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[If kids are banned from social media, adults will be next]]></title>
-            <description><![CDATA[Reality Check]]></description>
+            <description><![CDATA[By John Power]]></description>
             <link>https://spectator.com/article/if-kids-are-banned-from-social-media-adults-will-be-next/</link>
             <guid isPermaLink="true">https://spectator.com/article/if-kids-are-banned-from-social-media-adults-will-be-next/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
@@ -146,7 +186,7 @@
         </item>
         <item>
             <title><![CDATA[Is Nicola Sturgeon the least curious woman on the planet?]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
+            <description><![CDATA[The Murrell maze]]></description>
             <link>https://spectator.com/article/is-nicola-sturgeon-the-least-curious-woman-on-the-planet/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-nicola-sturgeon-the-least-curious-woman-on-the-planet/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -3986,46 +4026,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/</guid>
             <dc:creator><![CDATA[Max Pemberton]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Students of theatrical history will adore David Hare’s Grace Pervades]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/students-of-theatrical-history-will-adore-david-hares-grace-pervades/</link>
-            <guid isPermaLink="true">https://spectator.com/article/students-of-theatrical-history-will-adore-david-hares-grace-pervades/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to win MasterChef]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/how-to-win-masterchef/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-win-masterchef/</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The return of orientalism]]></title>
-            <description><![CDATA[By Igor Toronyi-Lalic]]></description>
-            <link>https://spectator.com/article/the-art-of-noise/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-art-of-noise/</guid>
-            <dc:creator><![CDATA[Igor Toronyi-Lalic]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What really killed off the traditional B&B]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
-            <link>https://spectator.com/article/what-really-killed-off-the-traditional-bb/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-really-killed-off-the-traditional-bb/</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man vs lobster]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/man-vs-lobster/</link>
-            <guid isPermaLink="true">https://spectator.com/article/man-vs-lobster/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
             <pubDate>Wed, 06 May 2026 23:41:55 GMT</pubDate>
         </item>
     </channel>

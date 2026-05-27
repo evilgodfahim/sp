@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 06:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 10:52:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 06:56:24 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The trouble with yachts]]></title>
+            <description><![CDATA[By Peter Watson]]></description>
+            <link>https://spectator.com/article/trouble-yachts-palm-life/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/trouble-yachts-palm-life/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Peter Watson]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The return of animism]]></title>
+            <description><![CDATA[What’s real?]]></description>
+            <link>https://spectator.com/article/the-return-of-animism/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-return-of-animism/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zombie fillers: the super-rich are plumping themselves up with dead people’s fat]]></title>
+            <description><![CDATA[Horror show]]></description>
+            <link>https://spectator.com/article/zombie-fillers-super-rich-plumping-themselves-dead-people-fat/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/zombie-fillers-super-rich-plumping-themselves-dead-people-fat/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Leah McLaren]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rise of the Orienfluencers]]></title>
+            <description><![CDATA[By Margaret Mitchell]]></description>
+            <link>https://spectator.com/article/the-rise-of-the-orienfluencers/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-the-orienfluencers/?edition=us</guid>
+            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The drone delusion]]></title>
             <description><![CDATA[By Sean Rayment]]></description>
@@ -3989,38 +4021,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/of-course-these-peace-talks-would-fail/?edition=us</guid>
             <dc:creator><![CDATA[Irwin Stelzer]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 11:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Howard Stern disappeared years ago]]></title>
-            <description><![CDATA[By Larry O'Connor]]></description>
-            <link>https://spectator.com/article/howard-stern-disappeared-years-ago/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/howard-stern-disappeared-years-ago/?edition=us</guid>
-            <dc:creator><![CDATA[Larry O'Connor]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 08:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Face died on the line]]></title>
-            <description><![CDATA[By Chris Black]]></description>
-            <link>https://spectator.com/article/how-the-face-died-on-the-line/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-the-face-died-on-the-line/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Chris Black]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 08:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Hitler’s suave architect escaped the noose at Nuremberg]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/why-hitlers-suave-architect-escaped-the-noose-at-nuremberg/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-hitlers-suave-architect-escaped-the-noose-at-nuremberg/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Ian Buruma]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 08:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White working-class boys are being left behind]]></title>
-            <description><![CDATA[No sacred cows]]></description>
-            <link>https://spectator.com/article/white-working-class-boys-are-being-left-behind/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/white-working-class-boys-are-being-left-behind/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 08:51:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

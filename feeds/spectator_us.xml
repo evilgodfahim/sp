@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 17:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 20:02:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 17:52:28 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 20:02:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump or Hochul: who knows ball?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/trump-kathy-hochul-knows-ball-new-york-knicks/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-kathy-hochul-knows-ball-new-york-knicks/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 20:02:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet the anti-Gretas: the women celebrating nuclear energy]]></title>
             <description><![CDATA[By Theo Zenou]]></description>
@@ -4013,14 +4021,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/what-will-happen-to-iran-now/?edition=us</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 16:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Bettina Anderson, Donald Trump Jr.’s WASPy fiancée]]></title>
-            <description><![CDATA[By Neal Pollack]]></description>
-            <link>https://spectator.com/article/bettina-anderson-donald-trump-jr-waspy-fiancee/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/bettina-anderson-donald-trump-jr-waspy-fiancee/?edition=us</guid>
-            <dc:creator><![CDATA[Neal Pollack]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 11:27:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

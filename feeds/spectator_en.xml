@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 14:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 17:57:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 14:30:28 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 17:57:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We desperately need welfare reform]]></title>
+            <description><![CDATA[By Lana Hempsall]]></description>
+            <link>https://spectator.com/article/we-desperately-need-welfare-reform/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-desperately-need-welfare-reform/</guid>
+            <dc:creator><![CDATA[Lana Hempsall]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 17:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Henry Nowak and the evil of ‘anti-racism’]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/henry-nowak-and-the-evil-of-anti-racism/</link>
+            <guid isPermaLink="true">https://spectator.com/article/henry-nowak-and-the-evil-of-anti-racism/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 17:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham demands more state control]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/andy-burnham-demands-more-state-control/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-demands-more-state-control/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 17:57:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Blair revival is the only hope for Britain]]></title>
             <description><![CDATA[By Stephen Daisley]]></description>
@@ -3998,30 +4022,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/save-village-cricket/</link>
             <guid isPermaLink="true">https://spectator.com/article/save-village-cricket/</guid>
             <dc:creator><![CDATA[Mark Mason]]></dc:creator>
-            <pubDate>Fri, 08 May 2026 05:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Compelling: Cowboy Junkies at Queen’s Hall, Edinburgh, reviewed]]></title>
-            <description><![CDATA[Pop]]></description>
-            <link>https://spectator.com/article/compelling-cowboy-junkies-at-queens-hall-edinburgh-reviewed/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/compelling-cowboy-junkies-at-queens-hall-edinburgh-reviewed/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
-            <pubDate>Fri, 08 May 2026 05:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reform can thank Starmer for its success]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/reform-can-thank-starmer-for-its-success/</link>
-            <guid isPermaLink="true">https://spectator.com/article/reform-can-thank-starmer-for-its-success/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Fri, 08 May 2026 05:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farage is the local election winner – again]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/farage-is-the-local-election-winner-again/</link>
-            <guid isPermaLink="true">https://spectator.com/article/farage-is-the-local-election-winner-again/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Fri, 08 May 2026 05:24:03 GMT</pubDate>
         </item>
     </channel>

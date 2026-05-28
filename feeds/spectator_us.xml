@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 20:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 22:27:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 20:17:19 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 22:27:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Was Marcel Duchamp’s notorious ‘Fountain’ even his own work?]]></title>
+            <description><![CDATA[By Lynn Barber]]></description>
+            <link>https://spectator.com/article/was-marcel-duchamps-notorious-fountain-even-his-own-work/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/was-marcel-duchamps-notorious-fountain-even-his-own-work/?edition=us</guid>
+            <dc:creator><![CDATA[Lynn Barber]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 22:27:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tom Steyer should hire a financial advisor]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -858,11 +866,7 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
         </item>
         <item>
             <title><![CDATA[How Disney ruined Star Wars]]></title>
-            <description><![CDATA[This week, the new Star Wars picture – the first live action film since 2019’s commercially successful but largely ridiculed Rise of Skywalker – will come out in cinemas. Clunkily entitled The Mandalorian and Grogu, it is a big-screen spin-off of the once-successful and now largely passé Mandalorian series. A lot is riding on its success, and Lucasfilm, now controlled by Dave Filoni, will be very relieved if it is a hit.
-
-
-
-Unfortunately, audiences don’t seem especially interested. Advance word on it has been mediocre for some time now – the words “feature-length television movie" have been used more than once – and the box office prediction for its opening weekend is currently somewhere between $70 and $85 million.]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/how-disney-ruined-star-wars/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-disney-ruined-star-wars/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -4013,14 +4017,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/israel-wont-stop-in-lebanon-until-hezbollah-is-crushed/?edition=us</guid>
             <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 16:55:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orbán’s defeat is a warning to MAGA]]></title>
-            <description><![CDATA[By Travis Aaroe]]></description>
-            <link>https://spectator.com/article/orbans-defeat-is-a-warning-to-maga/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/orbans-defeat-is-a-warning-to-maga/?edition=us</guid>
-            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 15:09:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

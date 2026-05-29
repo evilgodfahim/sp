@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 05:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 09:37:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 05:06:57 GMT</pubDate>
+        <pubDate>Fri, 29 May 2026 09:37:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Don’t listen to the health fascists — drink up]]></title>
+            <description><![CDATA[By Christopher Snowdon]]></description>
+            <link>https://spectator.com/article/dont-listen-to-the-health-fascists-drink-up/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-listen-to-the-health-fascists-drink-up/?edition=us</guid>
+            <dc:creator><![CDATA[Christopher Snowdon]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 09:37:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are Trump and Netanyahu heading for a showdown?]]></title>
+            <description><![CDATA[By Daniel DePetris]]></description>
+            <link>https://spectator.com/article/are-trump-and-netanyahu-heading-for-a-showdown/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/are-trump-and-netanyahu-heading-for-a-showdown/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 09:37:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Was Marcel Duchamp’s notorious ‘Fountain’ even his own work?]]></title>
             <description><![CDATA[By Lynn Barber]]></description>
@@ -4001,22 +4017,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/the-truth-about-pakistans-role-in-the-us-iran-conflict/?edition=us</guid>
             <dc:creator><![CDATA[Francis Pike]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 17:55:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yes, Europe’s civilization is being erased]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/yes-europes-civilization-is-being-erased/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/yes-europes-civilization-is-being-erased/?edition=us</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 16:55:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel won’t stop in Lebanon until Hezbollah is crushed]]></title>
-            <description><![CDATA[By Jonathan Spyer]]></description>
-            <link>https://spectator.com/article/israel-wont-stop-in-lebanon-until-hezbollah-is-crushed/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/israel-wont-stop-in-lebanon-until-hezbollah-is-crushed/?edition=us</guid>
-            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 16:55:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

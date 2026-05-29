@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 09:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 12:42:24 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 09:37:43 GMT</pubDate>
+        <pubDate>Fri, 29 May 2026 12:42:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Weight-loss drugs killed my appetite for life]]></title>
+            <description><![CDATA[By Damian Thompson]]></description>
+            <link>https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/</link>
+            <guid isPermaLink="true">https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 12:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whitehall’s missing list]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/whitehall-cannot-recall-its-foreign-agreements/</link>
+            <guid isPermaLink="true">https://spectator.com/article/whitehall-cannot-recall-its-foreign-agreements/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 12:42:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The rise of the child-haters]]></title>
             <description><![CDATA[By Mary Wakefield]]></description>
@@ -4019,22 +4035,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/what-really-killed-off-the-traditional-bb/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
             <pubDate>Fri, 08 May 2026 15:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Robert Jenrick reunites with political ex]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-robert-reunites-with-political-ex/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-robert-reunites-with-political-ex/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Fri, 08 May 2026 13:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it time to start feeling sorry for Keir Starmer?]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/is-it-time-to-start-feeling-sorry-for-keir-starmer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-it-time-to-start-feeling-sorry-for-keir-starmer/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Fri, 08 May 2026 13:14:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

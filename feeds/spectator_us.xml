@@ -4,12 +4,52 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 16:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 19:28:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 16:37:01 GMT</pubDate>
+        <pubDate>Fri, 29 May 2026 19:28:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Get ready for rudest midterms ever]]></title>
+            <title><![CDATA[My points-based system for choosing our leaders]]></title>
+            <description><![CDATA[By Rory Sutherland]]></description>
+            <link>https://spectator.com/article/a-foolproof-way-to-pick-a-leader/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-foolproof-way-to-pick-a-leader/?edition=us</guid>
+            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The secret shame of being ‘Reform-curious’]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/the-secret-shame-of-being-reform-curious/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-secret-shame-of-being-reform-curious/?edition=us</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When does a drama become a psychodrama?]]></title>
+            <description><![CDATA[By Dot Wordsworth]]></description>
+            <link>https://spectator.com/article/when-does-a-drama-become-a-psychodrama/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-does-a-drama-become-a-psychodrama/?edition=us</guid>
+            <dc:creator><![CDATA[Dot Wordsworth]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No one likes Arsenal, we don’t care]]></title>
+            <description><![CDATA[By Piers Morgan]]></description>
+            <link>https://spectator.com/article/no-one-likes-arsenal-we-dont-care/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-one-likes-arsenal-we-dont-care/?edition=us</guid>
+            <dc:creator><![CDATA[Piers Morgan]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can you put on a ‘nonpartisan’ concert in Trump’s Washington?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/put-nonpartisan-concert-trump-washington-cockburn-diary-05-29-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/put-nonpartisan-concert-trump-washington-cockburn-diary-05-29-26/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get ready for the rudest midterms ever]]></title>
             <description><![CDATA[By Freddy Gray]]></description>
             <link>https://spectator.com/article/get-ready-for-rudest-midterms-ever/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/get-ready-for-rudest-midterms-ever/?edition=us</guid>
@@ -3983,44 +4023,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/my-name-orson-welles-exhibition/?edition=us</guid>
             <dc:creator><![CDATA[David Platzer]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 23:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mary Vought exits as Heritage comms chief… for $500k payout: source]]></title>
-            <link>https://spectator.com/article/mary-vought-exits-as-heritage-comms-chief-for-500k-payout-source/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/mary-vought-exits-as-heritage-comms-chief-for-500k-payout-source/?edition=us</guid>
-            <pubDate>Tue, 14 Apr 2026 20:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defense of paranoia]]></title>
-            <description><![CDATA[By Bridget Phetasy]]></description>
-            <link>https://spectator.com/article/in-defense-of-paranoia/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defense-of-paranoia/?edition=us</guid>
-            <dc:creator><![CDATA[Bridget Phetasy]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 16:56:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arcade Fire extinguished]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/arcade-fire-extinguished/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/arcade-fire-extinguished/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 13:05:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The sadness at the heart of Harry and Meghan’s Australia trip]]></title>
-            <description><![CDATA[By Terry Barnes]]></description>
-            <link>https://spectator.com/article/harry-and-meghans-australia-trip-is-a-pathetic-cry-for-public-love/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/harry-and-meghans-australia-trip-is-a-pathetic-cry-for-public-love/?edition=us</guid>
-            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The great soccer World Cup swindle]]></title>
-            <description><![CDATA[By Philip Patrick]]></description>
-            <link>https://spectator.com/article/the-great-soccer-world-cup-swindle/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-great-soccer-world-cup-swindle/?edition=us</guid>
-            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 23:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 02:12:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 23:04:49 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 02:12:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Silicon Valley wants to control the economy]]></title>
+            <description><![CDATA[By Max Horder]]></description>
+            <link>https://spectator.com/article/silicon-valley-control-economy-llm/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/silicon-valley-control-economy-llm/?edition=us</guid>
+            <dc:creator><![CDATA[Max Horder]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 02:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Arthur Miller is back in the limelight]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/arthur-miller-back-limelight/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/arthur-miller-back-limelight/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 02:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the New Glenn explosion put America behind China in the Moon race?]]></title>
+            <description><![CDATA[By David Whitehouse]]></description>
+            <link>https://spectator.com/article/new-glenn-explosion-america-behind-china-moon-race/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/new-glenn-explosion-america-behind-china-moon-race/?edition=us</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 02:12:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Weight-loss drugs killed my appetite for life]]></title>
             <description><![CDATA[By Damian Thompson]]></description>
@@ -3994,30 +4018,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/how-the-face-died-on-the-line/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/how-the-face-died-on-the-line/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Chris Black]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With Orbán’s loss, Russia has lost its European foothold]]></title>
-            <description><![CDATA[By Alexander Kolyandr]]></description>
-            <link>https://spectator.com/article/with-orbans-loss-russia-has-lost-its-european-foothold/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/with-orbans-loss-russia-has-lost-its-european-foothold/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White working-class boys are being left behind in Britain]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/white-working-class-boys-are-being-left-behind/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/white-working-class-boys-are-being-left-behind/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The lesson of Orbán: Trump must tackle corruption]]></title>
-            <description><![CDATA[By John Fund]]></description>
-            <link>https://spectator.com/article/the-lesson-of-orban-trump-must-tackle-corruption/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-lesson-of-orban-trump-must-tackle-corruption/?edition=us</guid>
-            <dc:creator><![CDATA[John Fund]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 11:50:57 GMT</pubDate>
         </item>
     </channel>

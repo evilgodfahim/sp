@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 18:00:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 19:23:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 18:00:11 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 19:23:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Riots for thee, but not for me]]></title>
+            <description><![CDATA[By Amy Holmes]]></description>
+            <link>https://spectator.com/article/riots-for-thee-but-not-for-me/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/riots-for-thee-but-not-for-me/?edition=us</guid>
+            <dc:creator><![CDATA[Amy Holmes]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 19:23:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A tale of two safaris]]></title>
             <description><![CDATA[By Estella Shardlow]]></description>
@@ -4011,14 +4019,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/whats-really-behind-trumps-clash-with-the-pope/?edition=us</guid>
             <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[George ‘R&R’ Martin takes it easy]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/george-r-r-martin-takes-it-easy-knight-seven-kingdoms/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/george-r-r-martin-takes-it-easy-knight-seven-kingdoms/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 20:40:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

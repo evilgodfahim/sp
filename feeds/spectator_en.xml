@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 21:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 22:51:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 21:52:01 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 22:51:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No one likes Arsenal, we don’t care]]></title>
+            <description><![CDATA[By Piers Morgan]]></description>
+            <link>https://spectator.com/article/no-one-likes-arsenal-we-dont-care/</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-one-likes-arsenal-we-dont-care/</guid>
+            <dc:creator><![CDATA[Piers Morgan]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 22:51:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How the office has come to haunt us]]></title>
             <description><![CDATA[By Margaret Mitchell]]></description>
@@ -4018,14 +4026,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/today-was-seismic-for-the-reorientation-of-british-politics/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/today-was-seismic-for-the-reorientation-of-british-politics/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 12:56:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Piers Morgan Uncensored giving conspiracy theories airtime?]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/why-i-defended-israel-on-piers-morgan-uncensored/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-i-defended-israel-on-piers-morgan-uncensored/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
             <pubDate>Sat, 09 May 2026 12:56:50 GMT</pubDate>
         </item>
     </channel>

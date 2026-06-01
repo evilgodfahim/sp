@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 16:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 20:50:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 20:50:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Elon Musk is deluded about life on Mars]]></title>
+            <description><![CDATA[By David Whitehouse]]></description>
+            <link>https://spectator.com/article/space-oddity-musk-deluded-life-mars/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/space-oddity-musk-deluded-life-mars/?edition=us</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 20:50:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet Alex Bruesewitz, Trump’s Gen Z celebrity whisperer]]></title>
+            <description><![CDATA[By Ben Clerkin]]></description>
+            <link>https://spectator.com/article/alex-bruesewitz-almighty-trump-generation-z-celebrity-whisperer/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/alex-bruesewitz-almighty-trump-generation-z-celebrity-whisperer/?edition=us</guid>
+            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 20:50:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk is deluded about life on Mars]]></title>
+            <description><![CDATA[By David Whitehouse]]></description>
+            <link>https://spectator.com/article/space-oddity-musk-deluded-life-mars/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/space-oddity-musk-deluded-life-mars/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 20:50:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elon Musk is deluded about life on Mars]]></title>
             <description><![CDATA[By David Whitehouse]]></description>
@@ -3995,30 +4019,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/people-are-at-breaking-point-on-the-road-with-the-irish-fuel-protestors/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 11:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump badly needs a victory]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trumps-foe-bashing-wont-save-his-capsizing-presidency/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-foe-bashing-wont-save-his-capsizing-presidency/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 10:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former British archbishop: ‘There’s something demonic in US political culture’]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/rowan-williams-theres-something-demonic-in-us-political-culture/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/rowan-williams-theres-something-demonic-in-us-political-culture/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 10:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malbec: a conundrum worth solving]]></title>
-            <description><![CDATA[In vino veritas]]></description>
-            <link>https://spectator.com/article/malbec-conundrum-worth-solving/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/malbec-conundrum-worth-solving/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 21:36:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

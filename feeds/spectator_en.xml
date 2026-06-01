@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 16:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 20:50:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 16:33:06 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 20:50:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The desperate sycophancy of Mandy’s campaign for the Oxford chancellorship]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/after-months-of-back-and-forth-today-the-government-finally-released-the-latest-tranche-of-the-mandy-documents/</link>
+            <guid isPermaLink="true">https://spectator.com/article/after-months-of-back-and-forth-today-the-government-finally-released-the-latest-tranche-of-the-mandy-documents/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 20:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does a stray drone constitute an attack?]]></title>
+            <description><![CDATA[By Elisabeth Braw]]></description>
+            <link>https://spectator.com/article/does-a-stray-drone-constitute-an-attack/</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-a-stray-drone-constitute-an-attack/</guid>
+            <dc:creator><![CDATA[Elisabeth Braw]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 20:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Britain really need an autonomous Navy?]]></title>
+            <description><![CDATA[By John Foreman]]></description>
+            <link>https://spectator.com/article/does-britain-really-need-an-autonomous-navy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-britain-really-need-an-autonomous-navy/</guid>
+            <dc:creator><![CDATA[John Foreman]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 20:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada is misremembering the Komagata Maru incident]]></title>
+            <description><![CDATA[By Jane Stannus]]></description>
+            <link>https://spectator.com/article/canada-is-misremembering-the-komagata-maru-incident/</link>
+            <guid isPermaLink="true">https://spectator.com/article/canada-is-misremembering-the-komagata-maru-incident/</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 20:50:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rachel Reeves represents Labour’s short-termism at its worst]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
@@ -3995,38 +4027,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/rent-reforms-havent-fixed-the-main-problem/</guid>
             <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
             <pubDate>Mon, 11 May 2026 06:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The madness of British sunbathing]]></title>
-            <description><![CDATA[By Matthew Donnelly]]></description>
-            <link>https://spectator.com/article/the-madness-of-british-sunbathing/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-madness-of-british-sunbathing/</guid>
-            <dc:creator><![CDATA[Matthew Donnelly]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 06:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer’s big speech can’t save him]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/starmers-big-speech-cant-save-him-now/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmers-big-speech-cant-save-him-now/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 06:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Romans would tax anything]]></title>
-            <description><![CDATA[By Peter Jones]]></description>
-            <link>https://spectator.com/article/the-romans-would-tax-anything/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-romans-would-tax-anything/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 15:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Ring doorbell is killing journalism]]></title>
-            <description><![CDATA[Death of the doorknock]]></description>
-            <link>https://spectator.com/article/how-the-ring-doorbell-is-killing-journalism/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-the-ring-doorbell-is-killing-journalism/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[John Sturgis]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 15:43:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

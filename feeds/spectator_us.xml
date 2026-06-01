@@ -4,10 +4,82 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 10:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 16:33:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 10:11:40 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Elon Musk is deluded about life on Mars]]></title>
+            <description><![CDATA[By David Whitehouse]]></description>
+            <link>https://spectator.com/article/space-oddity-2/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/space-oddity-2/?edition=us</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine’s Jehovah’s Witnesses are refusing to go to war]]></title>
+            <description><![CDATA[By Theodore Griffin]]></description>
+            <link>https://spectator.com/article/ukraines-jehovahs-witnesses-are-refusing-to-go-to-war/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ukraines-jehovahs-witnesses-are-refusing-to-go-to-war/?edition=us</guid>
+            <dc:creator><![CDATA[Theodore Griffin]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk is deluded about life on Mars]]></title>
+            <description><![CDATA[By David Whitehouse]]></description>
+            <link>https://spectator.com/article/space-oddity-2/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/space-oddity-2/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Silicon Valley wants to control the economy]]></title>
+            <description><![CDATA[Cogs in the machine]]></description>
+            <link>https://spectator.com/article/silicon-valley-control-economy-llm/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/silicon-valley-control-economy-llm/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Max Horder]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weight-loss drugs killed my appetite for life]]></title>
+            <description><![CDATA[Warning shot]]></description>
+            <link>https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Arthur Miller is back in the limelight]]></title>
+            <description><![CDATA[New tricks]]></description>
+            <link>https://spectator.com/article/arthur-miller-back-limelight/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/arthur-miller-back-limelight/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belgium has a free speech problem]]></title>
+            <description><![CDATA[By Arnout Nuijt]]></description>
+            <link>https://spectator.com/article/belgium-has-a-free-speech-problem/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/belgium-has-a-free-speech-problem/?edition=us</guid>
+            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marilyn Monroe was just like the rest of us]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/marilyn-monroe-was-as-complicated-as-the-rest-of-us/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/marilyn-monroe-was-as-complicated-as-the-rest-of-us/?edition=us</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How warfare became welfare]]></title>
+            <description><![CDATA[By Maximillian Garely]]></description>
+            <link>https://spectator.com/article/the-warfare-state/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-warfare-state/?edition=us</guid>
+            <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No one likes Arsenal, we don’t care]]></title>
             <description><![CDATA[Winner’s notebook]]></description>
@@ -3947,78 +4019,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/malbec-conundrum-worth-solving/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 21:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s goals in Iran have always been clear]]></title>
-            <description><![CDATA[War]]></description>
-            <link>https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-goals-in-iran-have-always-been-clear/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 21:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who’s actually winning the wars in the Middle East?]]></title>
-            <description><![CDATA[By Charles Lipson]]></description>
-            <link>https://spectator.com/article/actually-winning-wars-middle-east-israel-iran-lebanon/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/actually-winning-wars-middle-east-israel-iran-lebanon/?edition=us</guid>
-            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 21:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Meghan says she was ‘the most trolled person in the entire world’]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/watch-meghan-says-she-was-the-most-trolled-person-in-the-entire-world/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-meghan-says-she-was-the-most-trolled-person-in-the-entire-world/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 19:00:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump is making life increasingly hard for his allies]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/trump-is-making-life-increasingly-hard-for-his-allies/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-is-making-life-increasingly-hard-for-his-allies/?edition=us</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 19:00:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The banality of Meghan the Martyr]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/the-banality-of-meghan-the-martyr/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-banality-of-meghan-the-martyr/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 17:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s really behind Trump’s clash with the Pope?]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
-            <link>https://spectator.com/article/really-behind-trump-clash-with-pope/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/really-behind-trump-clash-with-pope/?edition=us</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 15:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘People are at breaking point’: on the road with the Irish fuel protesters]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
-            <link>https://spectator.com/article/people-are-at-breaking-point-on-the-road-with-the-irish-fuel-protestors/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/people-are-at-breaking-point-on-the-road-with-the-irish-fuel-protestors/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 11:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malbec: a conundrum worth solving]]></title>
-            <description><![CDATA[In vino veritas]]></description>
-            <link>https://spectator.com/article/malbec-conundrum-worth-solving/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/malbec-conundrum-worth-solving/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 11:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White working-class boys are being left behind in Britain]]></title>
-            <description><![CDATA[No sacred cows]]></description>
-            <link>https://spectator.com/article/white-working-class-boys-are-being-left-behind/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/white-working-class-boys-are-being-left-behind/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 11:54:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

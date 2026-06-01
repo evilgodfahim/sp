@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 10:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 16:33:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 10:11:46 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 16:33:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rachel Reeves represents Labour’s short-termism at its worst]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/rachel-reeves-represents-labours-short-termism-at-its-worst/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rachel-reeves-represents-labours-short-termism-at-its-worst/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Brexit really harm economic growth?]]></title>
+            <description><![CDATA[Reality check]]></description>
+            <link>https://spectator.com/article/did-brexit-really-harm-economic-growth/</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-brexit-really-harm-economic-growth/</guid>
+            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Mandelson files tell us about Labour’s predicament]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/what-the-mandelson-files-tell-us-about-labours-predicament/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-the-mandelson-files-tell-us-about-labours-predicament/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Danny Kruger: Reform will make Britain a great power again]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/danny-kruger-reform-will-make-britain-a-great-power-again/</link>
+            <guid isPermaLink="true">https://spectator.com/article/danny-kruger-reform-will-make-britain-a-great-power-again/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five highlights of the Mandelson files]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/five-highlights-of-the-mandelson-files/</link>
+            <guid isPermaLink="true">https://spectator.com/article/five-highlights-of-the-mandelson-files/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why would France help Britain stop the boats?]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/why-would-france-help-britain-stop-the-boats/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-would-france-help-britain-stop-the-boats/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the Tories win the Aberdeen South by-election?]]></title>
+            <description><![CDATA[By William Atkinson]]></description>
+            <link>https://spectator.com/article/will-the-tories-win-the-aberdeen-south-by-election/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-the-tories-win-the-aberdeen-south-by-election/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s a bit late for Cenk Uygur’s supporters to cry about free speech]]></title>
+            <description><![CDATA[Liberty]]></description>
+            <link>https://spectator.com/article/its-a-bit-late-for-cenk-uygurs-supporters-to-cry-about-free-speech/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-a-bit-late-for-cenk-uygurs-supporters-to-cry-about-free-speech/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:33:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Health Secretary: I’ve changed my mind on trans]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -42,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Is Britain right to ban Cenk Uygur?]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
             <link>https://spectator.com/article/is-britain-right-to-ban-cenk-uygur/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-britain-right-to-ban-cenk-uygur/</guid>
             <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
@@ -90,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[What’s the real reason Nigel Farage has never been on Desert Island Discs?]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[Off air]]></description>
             <link>https://spectator.com/article/whats-the-real-reason-nigel-farage-has-never-been-on-desert-island-discs/</link>
             <guid isPermaLink="true">https://spectator.com/article/whats-the-real-reason-nigel-farage-has-never-been-on-desert-island-discs/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -3963,70 +4027,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/how-the-ring-doorbell-is-killing-journalism/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[John Sturgis]]></dc:creator>
             <pubDate>Sun, 10 May 2026 15:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The plague of bad behaviour in primary schools is getting worse]]></title>
-            <description><![CDATA[Suspended]]></description>
-            <link>https://spectator.com/article/the-plague-of-bad-behaviour-in-primary-schools-is-getting-worse/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-plague-of-bad-behaviour-in-primary-schools-is-getting-worse/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 15:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin’s paranoia was plain to see at Moscow’s Victory Day parade]]></title>
-            <description><![CDATA[Russia]]></description>
-            <link>https://spectator.com/article/putins-paranoia-was-plain-to-see-at-moscows-victory-day-parade/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/putins-paranoia-was-plain-to-see-at-moscows-victory-day-parade/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 15:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunday shows round-up: Phillipson says Catherine West is ‘completely wrong’]]></title>
-            <description><![CDATA[By Joe Bedell-Brill]]></description>
-            <link>https://spectator.com/article/sunday-shows-round-up-phillipson-says-catherine-west-is-completely-wrong/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-phillipson-says-catherine-west-is-completely-wrong/</guid>
-            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 12:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did antisemitism cost the Greens at the local elections?]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
-            <link>https://spectator.com/article/did-antisemitism-cost-the-greens-at-the-local-elections/</link>
-            <guid isPermaLink="true">https://spectator.com/article/did-antisemitism-cost-the-greens-at-the-local-elections/</guid>
-            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 12:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer is shedding support across Labour]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/starmer-is-shedding-support-across-labour/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-is-shedding-support-across-labour/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 10:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The political gossip]]></title>
-            <description><![CDATA[By Anonymous]]></description>
-            <link>https://spectator.com/article/the-political-gossip/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-political-gossip/</guid>
-            <dc:creator><![CDATA[Anonymous]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 05:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The plague of bad behaviour in primary schools is getting worse]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
-            <link>https://spectator.com/article/the-plague-of-bad-behaviour-in-primary-schools-is-getting-worse/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-plague-of-bad-behaviour-in-primary-schools-is-getting-worse/</guid>
-            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 05:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China’s theft of American AI tech is becoming more brazen]]></title>
-            <description><![CDATA[By Ian Williams]]></description>
-            <link>https://spectator.com/article/chinas-theft-of-american-ai-tech-is-becoming-more-brazen/</link>
-            <guid isPermaLink="true">https://spectator.com/article/chinas-theft-of-american-ai-tech-is-becoming-more-brazen/</guid>
-            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 05:56:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

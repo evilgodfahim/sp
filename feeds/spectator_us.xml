@@ -4,9 +4,9 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 20:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 22:57:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 20:50:48 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 22:57:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Elon Musk is deluded about life on Mars]]></title>
@@ -3562,8 +3562,10 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
         </item>
         <item>
             <title><![CDATA[Congress’s #MeToo 2.0]]></title>
+            <description><![CDATA[By Cockburn]]></description>
             <link>https://spectator.com/article/congresss-metoo-2-0/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/congresss-metoo-2-0/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 20:05:22 GMT</pubDate>
         </item>
         <item>

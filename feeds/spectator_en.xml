@@ -4,17 +4,93 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 05:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 10:06:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 05:24:06 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[I have sympathy with Peter Murrell’s toilet paper panic buying]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/i-have-sympathy-with-peter-murrells-toilet-paper-panic-buying/</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-have-sympathy-with-peter-murrells-toilet-paper-panic-buying/</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nigel Farage: Enough of anti-white prejudice]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/nigel-farage-enough-of-anti-white-prejudice/</link>
+            <guid isPermaLink="true">https://spectator.com/article/nigel-farage-enough-of-anti-white-prejudice/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What really happened in the Manchester airport brawl case?]]></title>
+            <description><![CDATA[By John O'Neill]]></description>
+            <link>https://spectator.com/article/what-happened-in-the-manchester-airport-brawl-case/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-happened-in-the-manchester-airport-brawl-case/</guid>
+            <dc:creator><![CDATA[John O'Neill]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If only Peter Mandelson were still in government]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/if-only-peter-mandelson-were-still-in-government/</link>
+            <guid isPermaLink="true">https://spectator.com/article/if-only-peter-mandelson-were-still-in-government/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weight-loss drugs killed my appetite for life]]></title>
+            <description><![CDATA[Warning shot]]></description>
+            <link>https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The indomitable spirit of the Wigmore Hall]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-indomitable-spirit-of-the-wigmore-hall/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-indomitable-spirit-of-the-wigmore-hall/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Alexandra Coghlan]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When did Sturgeon first notice her husband’s kleptomania?]]></title>
+            <description><![CDATA[SNP]]></description>
+            <link>https://spectator.com/article/when-did-sturgeon-first-notice-her-husbands-kleptomania/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-did-sturgeon-first-notice-her-husbands-kleptomania/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The indomitable spirit of the Wigmore Hall]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-indomitable-spirit-of-the-wigmore-hall/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-indomitable-spirit-of-the-wigmore-hall/</guid>
+            <dc:creator><![CDATA[Alexandra Coghlan]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The treatment of Henry Nowak’s killer was all about race]]></title>
+            <description><![CDATA[By Gus Carter]]></description>
+            <link>https://spectator.com/article/the-treatment-of-henry-nowaks-killer-was-all-about-race/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-treatment-of-henry-nowaks-killer-was-all-about-race/</guid>
+            <dc:creator><![CDATA[Gus Carter]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael Grade is right to worry about the BBC’s future]]></title>
+            <description><![CDATA[Off air]]></description>
+            <link>https://spectator.com/article/michael-grade-is-right-to-worry-about-the-bbcs-future/</link>
+            <guid isPermaLink="true">https://spectator.com/article/michael-grade-is-right-to-worry-about-the-bbcs-future/</guid>
+            <dc:creator><![CDATA[Roger Mosey]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 10:06:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[All aboard Jeremy Hosking’s luxury train]]></title>
-            <description><![CDATA[Train travel is so expensive these days, but £25,000? For that you get a couple of nights stay on board, with double bed, bathroom, sitting room, views down the track as it recedes into the distance and a rear balcony should you come over all Harry S. Truman.  
-
-
-
-This is the master bedroom on The Chairman’s Train, puffing into action in July as the UK’s first fully private heritage train for hire. And yes, for £45,000 - a day - you and your 15 guests can have the whole thing, its dining carriage and many comfy rooms pulled by the locomotive of your choice, electric, diesel or steam.]]></description>
+            <description><![CDATA[Choo choo]]></description>
             <link>https://spectator.com/article/the-glamour-of-train-travel-can-be-yours-for-15000-a-ticket/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-glamour-of-train-travel-can-be-yours-for-15000-a-ticket/</guid>
             <dc:creator><![CDATA[Josh Sims]]></dc:creator>
@@ -22,7 +98,7 @@ This is the master bedroom on The Chairman’s Train, puffing into action in Jul
         </item>
         <item>
             <title><![CDATA[Is this how private schools die?]]></title>
-            <description><![CDATA[By Emma Park]]></description>
+            <description><![CDATA[Off the books]]></description>
             <link>https://spectator.com/article/is-this-how-private-schools-die/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-this-how-private-schools-die/</guid>
             <dc:creator><![CDATA[Emma Park]]></dc:creator>
@@ -30,7 +106,7 @@ This is the master bedroom on The Chairman’s Train, puffing into action in Jul
         </item>
         <item>
             <title><![CDATA[Don’t write off second-hand books]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Shelf life]]></description>
             <link>https://spectator.com/article/dont-write-off-second-hand-books/</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-write-off-second-hand-books/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -38,7 +114,7 @@ This is the master bedroom on The Chairman’s Train, puffing into action in Jul
         </item>
         <item>
             <title><![CDATA[Bonnie Blue and the truth about the pro-life movement]]></title>
-            <description><![CDATA[By Lois McLatchie Miller]]></description>
+            <description><![CDATA[Baby shower scandal]]></description>
             <link>https://spectator.com/article/bonnie-blue-and-the-truth-about-the-pro-life-movement/</link>
             <guid isPermaLink="true">https://spectator.com/article/bonnie-blue-and-the-truth-about-the-pro-life-movement/</guid>
             <dc:creator><![CDATA[Lois McLatchie Miller]]></dc:creator>
@@ -62,7 +138,7 @@ This is the master bedroom on The Chairman’s Train, puffing into action in Jul
         </item>
         <item>
             <title><![CDATA[Emily Thornberry isn’t a real Gooner]]></title>
-            <description><![CDATA[By Paul Burke]]></description>
+            <description><![CDATA[Off the ball]]></description>
             <link>https://spectator.com/article/emily-thornberry-isnt-a-real-gooner/</link>
             <guid isPermaLink="true">https://spectator.com/article/emily-thornberry-isnt-a-real-gooner/</guid>
             <dc:creator><![CDATA[Paul Burke]]></dc:creator>
@@ -78,7 +154,7 @@ This is the master bedroom on The Chairman’s Train, puffing into action in Jul
         </item>
         <item>
             <title><![CDATA[The desperate sycophancy of Mandy’s campaign for the Oxford chancellorship]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
+            <description><![CDATA[Oxford blues]]></description>
             <link>https://spectator.com/article/after-months-of-back-and-forth-today-the-government-finally-released-the-latest-tranche-of-the-mandy-documents/</link>
             <guid isPermaLink="true">https://spectator.com/article/after-months-of-back-and-forth-today-the-government-finally-released-the-latest-tranche-of-the-mandy-documents/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -262,7 +338,7 @@ This is the master bedroom on The Chairman’s Train, puffing into action in Jul
         </item>
         <item>
             <title><![CDATA[The life and times of Spectator columnist Alice Thomas Ellis]]></title>
-            <description><![CDATA[Woman's work]]></description>
+            <description><![CDATA[By Robin Ashenden]]></description>
             <link>https://spectator.com/article/the-life-and-loves-of-spectator-columnist-alice-thomas-ellis/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-life-and-loves-of-spectator-columnist-alice-thomas-ellis/</guid>
             <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
@@ -270,7 +346,7 @@ This is the master bedroom on The Chairman’s Train, puffing into action in Jul
         </item>
         <item>
             <title><![CDATA[The terrible convenience of the meal deal]]></title>
-            <description><![CDATA[Crumbs]]></description>
+            <description><![CDATA[By Richard Crampton Platt]]></description>
             <link>https://spectator.com/article/we-dont-need-a-breakfast-meal-deal/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-dont-need-a-breakfast-meal-deal/</guid>
             <dc:creator><![CDATA[Richard Crampton Platt]]></dc:creator>
@@ -278,7 +354,7 @@ This is the master bedroom on The Chairman’s Train, puffing into action in Jul
         </item>
         <item>
             <title><![CDATA[Why are Gen Z afraid to speak on the telephone?]]></title>
-            <description><![CDATA[Hold the line]]></description>
+            <description><![CDATA[By Rohan Banerjee]]></description>
             <link>https://spectator.com/article/why-are-gen-z-afraid-to-pick-up-the-phone/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-are-gen-z-afraid-to-pick-up-the-phone/</guid>
             <dc:creator><![CDATA[Rohan Banerjee]]></dc:creator>
@@ -518,7 +594,7 @@ This is the master bedroom on The Chairman’s Train, puffing into action in Jul
         </item>
         <item>
             <title><![CDATA[Weight-loss drugs killed my appetite for life]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
+            <description><![CDATA[Warning shot]]></description>
             <link>https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/</link>
             <guid isPermaLink="true">https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/</guid>
             <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
@@ -726,7 +802,7 @@ This is the master bedroom on The Chairman’s Train, puffing into action in Jul
         </item>
         <item>
             <title><![CDATA[When did Sturgeon first notice her husband’s kleptomania?]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
+            <description><![CDATA[SNP]]></description>
             <link>https://spectator.com/article/when-did-sturgeon-first-notice-her-husbands-kleptomania/</link>
             <guid isPermaLink="true">https://spectator.com/article/when-did-sturgeon-first-notice-her-husbands-kleptomania/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -850,7 +926,7 @@ Anne Lister was a real figure, a moneyed gentlewoman in early 19th-century Yorks
         </item>
         <item>
             <title><![CDATA[The perfect jazz song to play at your funeral]]></title>
-            <description><![CDATA[Jazz]]></description>
+            <description><![CDATA[By Andrew Martin]]></description>
             <link>https://spectator.com/article/the-perfect-jazz-song-to-play-at-your-funeral/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-perfect-jazz-song-to-play-at-your-funeral/</guid>
             <dc:creator><![CDATA[Andrew Martin]]></dc:creator>
@@ -906,7 +982,7 @@ Anne Lister was a real figure, a moneyed gentlewoman in early 19th-century Yorks
         </item>
         <item>
             <title><![CDATA[Your mocktail is pathetic]]></title>
-            <description><![CDATA[Low spirits]]></description>
+            <description><![CDATA[By Julie Burchill]]></description>
             <link>https://spectator.com/article/mocktails-are-pathetic/</link>
             <guid isPermaLink="true">https://spectator.com/article/mocktails-are-pathetic/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
@@ -3951,86 +4027,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/how-dangerous-is-the-cruise-ship-hantavirus/</guid>
             <dc:creator><![CDATA[Chris Smith]]></dc:creator>
             <pubDate>Mon, 11 May 2026 13:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The disturbing truth about Britain’s Islamopopulism movement]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
-            <link>https://spectator.com/article/the-disturbing-truth-about-britains-islamopopulism-movement/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-disturbing-truth-about-britains-islamopopulism-movement/</guid>
-            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 13:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The crass anti-politics of the Lib Dems]]></title>
-            <description><![CDATA[By Travis Aaroe]]></description>
-            <link>https://spectator.com/article/the-crass-anti-politics-of-the-lib-dems/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-crass-anti-politics-of-the-lib-dems/</guid>
-            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 13:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer’s ‘reset’ was just more slop]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/keir-starmers-reset-was-just-more-slop/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmers-reset-was-just-more-slop/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 13:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s all too late for Keir Starmer]]></title>
-            <description><![CDATA[Goner]]></description>
-            <link>https://spectator.com/article/its-all-too-late-for-keir-starmer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-all-too-late-for-keir-starmer/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 13:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The trouble with Gordon Brown]]></title>
-            <description><![CDATA[By Tom Goodenough]]></description>
-            <link>https://spectator.com/article/the-trouble-with-gordon-brown/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-trouble-with-gordon-brown/</guid>
-            <dc:creator><![CDATA[Tom Goodenough]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 13:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polanski exaggerates his CV (again)]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/polanski-exaggerates-his-cv-again/</link>
-            <guid isPermaLink="true">https://spectator.com/article/polanski-exaggerates-his-cv-again/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 06:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lewisham shows why Labour is doomed]]></title>
-            <description><![CDATA[By Jide Ehizele]]></description>
-            <link>https://spectator.com/article/lewisham-shows-why-labour-is-doomed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lewisham-shows-why-labour-is-doomed/</guid>
-            <dc:creator><![CDATA[Jide Ehizele]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 06:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Badenoch is the perfect Tory leader]]></title>
-            <description><![CDATA[By William Atkinson]]></description>
-            <link>https://spectator.com/article/badenoch-is-the-perfect-tory-leader/</link>
-            <guid isPermaLink="true">https://spectator.com/article/badenoch-is-the-perfect-tory-leader/</guid>
-            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 06:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taking my cat on holiday is like a military campaign]]></title>
-            <description><![CDATA[By Robin Ashenden]]></description>
-            <link>https://spectator.com/article/taking-my-cat-on-holiday-is-like-a-military-campaign/</link>
-            <guid isPermaLink="true">https://spectator.com/article/taking-my-cat-on-holiday-is-like-a-military-campaign/</guid>
-            <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 06:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is maternity care in Britain getting worse?]]></title>
-            <description><![CDATA[Mothers’ ruin]]></description>
-            <link>https://spectator.com/article/why-is-maternity-care-in-britain-getting-worse/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-is-maternity-care-in-britain-getting-worse/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 06:30:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

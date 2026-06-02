@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 14:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 18:33:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 14:44:21 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 18:33:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Livestream: Enoch Powell’s complicated legacy]]></title>
+            <description><![CDATA[By The Spectator]]></description>
+            <link>https://spectator.com/article/livestream-enoch-powells-complicated-legacy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/livestream-enoch-powells-complicated-legacy/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 18:33:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MP assisted dying hopes on life support]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -18,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[Has America been hacking the phones of Kremlin officials?]]></title>
-            <description><![CDATA[By Mark Galeotti]]></description>
+            <description><![CDATA[Espionage]]></description>
             <link>https://spectator.com/article/has-america-been-hacking-the-phones-of-kremlin-officials/</link>
             <guid isPermaLink="true">https://spectator.com/article/has-america-been-hacking-the-phones-of-kremlin-officials/</guid>
             <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
@@ -42,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[I have sympathy with Peter Murrell’s toilet paper panic buying]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
+            <description><![CDATA[SNP scandal]]></description>
             <link>https://spectator.com/article/i-have-sympathy-with-peter-murrells-toilet-paper-panic-buying/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-have-sympathy-with-peter-murrells-toilet-paper-panic-buying/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -50,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Nigel Farage: Enough of anti-white prejudice]]></title>
-            <description><![CDATA[By Steerpike]]></description>
+            <description><![CDATA[Justice denied]]></description>
             <link>https://spectator.com/article/nigel-farage-enough-of-anti-white-prejudice/</link>
             <guid isPermaLink="true">https://spectator.com/article/nigel-farage-enough-of-anti-white-prejudice/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -114,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Michael Grade is right to worry about the BBC’s future]]></title>
-            <description><![CDATA[Off air]]></description>
+            <description><![CDATA[By Roger Mosey]]></description>
             <link>https://spectator.com/article/michael-grade-is-right-to-worry-about-the-bbcs-future/</link>
             <guid isPermaLink="true">https://spectator.com/article/michael-grade-is-right-to-worry-about-the-bbcs-future/</guid>
             <dc:creator><![CDATA[Roger Mosey]]></dc:creator>
@@ -146,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[Bonnie Blue and the truth about the pro-life movement]]></title>
-            <description><![CDATA[Baby shower scandal]]></description>
+            <description><![CDATA[Baby shower]]></description>
             <link>https://spectator.com/article/bonnie-blue-and-the-truth-about-the-pro-life-movement/</link>
             <guid isPermaLink="true">https://spectator.com/article/bonnie-blue-and-the-truth-about-the-pro-life-movement/</guid>
             <dc:creator><![CDATA[Lois McLatchie Miller]]></dc:creator>
@@ -170,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[Emily Thornberry isn’t a real Gooner]]></title>
-            <description><![CDATA[Off the ball]]></description>
+            <description><![CDATA[By Paul Burke]]></description>
             <link>https://spectator.com/article/emily-thornberry-isnt-a-real-gooner/</link>
             <guid isPermaLink="true">https://spectator.com/article/emily-thornberry-isnt-a-real-gooner/</guid>
             <dc:creator><![CDATA[Paul Burke]]></dc:creator>
@@ -4017,14 +4025,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <description><![CDATA[By Steerpike]]></description>
             <link>https://spectator.com/article/ministers-ponder-resignation/</link>
             <guid isPermaLink="true">https://spectator.com/article/ministers-ponder-resignation/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 16:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham backer’s hypocrisy revealed]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/burnham-backers-hypocrisy-revealed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-backers-hypocrisy-revealed/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Mon, 11 May 2026 16:25:21 GMT</pubDate>
         </item>

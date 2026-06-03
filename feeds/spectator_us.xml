@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Jun 2026 18:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 21:42:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jun 2026 18:17:52 GMT</pubDate>
+        <pubDate>Wed, 03 Jun 2026 21:42:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The madcap effort to ban farming, fishing and hunting in Oregon]]></title>
+            <description><![CDATA[By Sabrina Philip]]></description>
+            <link>https://spectator.com/article/madcap-effort-ban-farming-fishing-hunting-oregon/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/madcap-effort-ban-farming-fishing-hunting-oregon/?edition=us</guid>
+            <dc:creator><![CDATA[Sabrina Philip]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 21:42:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Ogles goes both ways: congressman flip-flops on ‘homosexuality’ post]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/andy-ogles-flip-flops-homosexuality-post/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-ogles-flip-flops-homosexuality-post/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 21:42:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[California’s Democratic establishment battles insurgents]]></title>
+            <description><![CDATA[By Charles Lipson]]></description>
+            <link>https://spectator.com/article/california-democratic-establishment-battles-insurgents/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/california-democratic-establishment-battles-insurgents/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 21:42:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Henry Nowak and the politics of deflection]]></title>
             <description><![CDATA[By Andrew Doyle]]></description>
@@ -66,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[How the YouTubers beat Star Wars]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Last weekend saw the most unlikely battle between David and Goliath. The little film that could was none other than the psychological horror film Backrooms. It was made on a microscopic budget (in relative terms) of $10 million, yet went on to gross a staggering $81.4 million in the US alone in its opening weekend. And the big film that couldn’t was the not-so-eagerly awaited The Mandalorian and Grogu, which had a 70 percent drop at the box office from its (relatively) underwhelming opening weekend. Unless something wholly unexpected happens, it will conclude its run as the lowest-grossing Star Wars property, confirming the predictions of those who suggested that Disney have run the brand into the ground spectacularly.]]></description>
             <link>https://spectator.com/article/how-the-youtubers-beat-star-wars/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-the-youtubers-beat-star-wars/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -4003,30 +4027,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/melania-trump-mysterious-messaging/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Sarah Beth Spraggins]]></dc:creator>
             <pubDate>Mon, 20 Apr 2026 16:56:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What happened to Provence?]]></title>
-            <description><![CDATA[By Matthew Fraser]]></description>
-            <link>https://spectator.com/article/what-happened-to-provence/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-happened-to-provence/?edition=us</guid>
-            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 11:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gentleman’s Relish is no more]]></title>
-            <description><![CDATA[Patum Peperium]]></description>
-            <link>https://spectator.com/article/gentlemans-relish-is-no-more/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/gentlemans-relish-is-no-more/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 09:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t blame Kanye for his abject idiocy]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
-            <link>https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-blame-kanye-for-his-abject-idiocy/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 09:50:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

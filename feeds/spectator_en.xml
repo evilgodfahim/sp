@@ -4,10 +4,98 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Jun 2026 02:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 08:09:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jun 2026 02:53:53 GMT</pubDate>
+        <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who ruined the Southbank Centre?]]></title>
+            <description><![CDATA[Culture bores]]></description>
+            <link>https://spectator.com/article/who-ruined-the-southbank-centre/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-ruined-the-southbank-centre/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Michael Henderson]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the office has come to haunt us]]></title>
+            <description><![CDATA[Cinema]]></description>
+            <link>https://spectator.com/article/how-the-office-has-come-to-haunt-us/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-office-has-come-to-haunt-us/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump is hollowing out America’s intelligence agencies]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/trump-is-hollowing-out-americas-intelligence-agencies/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-is-hollowing-out-americas-intelligence-agencies/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vickrum Digwa is no Sikh]]></title>
+            <description><![CDATA[Crime]]></description>
+            <link>https://spectator.com/article/vickrum-digwa-is-no-sikh/</link>
+            <guid isPermaLink="true">https://spectator.com/article/vickrum-digwa-is-no-sikh/</guid>
+            <dc:creator><![CDATA[Hardeep Singh]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aid cuts didn’t cause ebola]]></title>
+            <description><![CDATA[Bitter pill]]></description>
+            <link>https://spectator.com/article/aid-cuts-didnt-cause-ebola/</link>
+            <guid isPermaLink="true">https://spectator.com/article/aid-cuts-didnt-cause-ebola/</guid>
+            <dc:creator><![CDATA[Ian Birrell]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t pretend to like football]]></title>
+            <description><![CDATA[Own goal]]></description>
+            <link>https://spectator.com/article/the-world-cup-is-football-for-part-timers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-world-cup-is-football-for-part-timers/</guid>
+            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confessions of a speechwriter]]></title>
+            <description><![CDATA[Pitch perfect]]></description>
+            <link>https://spectator.com/article/confessions-of-a-speechwriter/</link>
+            <guid isPermaLink="true">https://spectator.com/article/confessions-of-a-speechwriter/</guid>
+            <dc:creator><![CDATA[Mark Kitto]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I’m a recovering biscuit addict]]></title>
+            <description><![CDATA[Hobnobbed]]></description>
+            <link>https://spectator.com/article/im-a-recovering-biscuit-addict/</link>
+            <guid isPermaLink="true">https://spectator.com/article/im-a-recovering-biscuit-addict/</guid>
+            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Save the curlew!]]></title>
+            <description><![CDATA[Ruffled feathers]]></description>
+            <link>https://spectator.com/article/save-the-curlew/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/save-the-curlew/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Henry Nowak and the problem with ‘anti-racism’]]></title>
+            <description><![CDATA[By Stephen Daisley]]></description>
+            <link>https://spectator.com/article/henry-nowak-and-the-problem-with-anti-racism/</link>
+            <guid isPermaLink="true">https://spectator.com/article/henry-nowak-and-the-problem-with-anti-racism/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why union members turned their backs on Labour – and switched to Reform]]></title>
+            <description><![CDATA[Trade off]]></description>
+            <link>https://spectator.com/article/why-union-members-turned-their-backs-on-labour-and-switched-to-reform/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-union-members-turned-their-backs-on-labour-and-switched-to-reform/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:09:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Livestream: Enoch Powell’s complicated legacy]]></title>
             <description><![CDATA[By The Spectator]]></description>
@@ -50,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[I have sympathy with Peter Murrell’s toilet paper panic buying]]></title>
-            <description><![CDATA[SNP scandal]]></description>
+            <description><![CDATA[By Gareth Roberts]]></description>
             <link>https://spectator.com/article/i-have-sympathy-with-peter-murrells-toilet-paper-panic-buying/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-have-sympathy-with-peter-murrells-toilet-paper-panic-buying/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -58,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Nigel Farage: Enough of anti-white prejudice]]></title>
-            <description><![CDATA[Justice denied]]></description>
+            <description><![CDATA[By Steerpike]]></description>
             <link>https://spectator.com/article/nigel-farage-enough-of-anti-white-prejudice/</link>
             <guid isPermaLink="true">https://spectator.com/article/nigel-farage-enough-of-anti-white-prejudice/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -130,7 +218,7 @@
         </item>
         <item>
             <title><![CDATA[All aboard Jeremy Hosking’s luxury train]]></title>
-            <description><![CDATA[Choo choo]]></description>
+            <description><![CDATA[By Josh Sims]]></description>
             <link>https://spectator.com/article/the-glamour-of-train-travel-can-be-yours-for-15000-a-ticket/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-glamour-of-train-travel-can-be-yours-for-15000-a-ticket/</guid>
             <dc:creator><![CDATA[Josh Sims]]></dc:creator>
@@ -138,7 +226,7 @@
         </item>
         <item>
             <title><![CDATA[Is this how private schools die?]]></title>
-            <description><![CDATA[Off the books]]></description>
+            <description><![CDATA[By Emma Park]]></description>
             <link>https://spectator.com/article/is-this-how-private-schools-die/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-this-how-private-schools-die/</guid>
             <dc:creator><![CDATA[Emma Park]]></dc:creator>
@@ -146,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[Don’t write off second-hand books]]></title>
-            <description><![CDATA[Shelf life]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/dont-write-off-second-hand-books/</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-write-off-second-hand-books/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -418,7 +506,7 @@
         </item>
         <item>
             <title><![CDATA[How the office has come to haunt us]]></title>
-            <description><![CDATA[By Margaret Mitchell]]></description>
+            <description><![CDATA[Cinema]]></description>
             <link>https://spectator.com/article/how-the-office-has-come-to-haunt-us/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-the-office-has-come-to-haunt-us/</guid>
             <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
@@ -946,7 +1034,7 @@
         </item>
         <item>
             <title><![CDATA[Save the curlew!]]></title>
-            <description><![CDATA[By Matt Ridley]]></description>
+            <description><![CDATA[Ruffled feathers]]></description>
             <link>https://spectator.com/article/save-the-curlew/</link>
             <guid isPermaLink="true">https://spectator.com/article/save-the-curlew/</guid>
             <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
@@ -3939,94 +4027,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/?homepage-tracking=high_density-article-1</guid>
             <dc:creator><![CDATA[Max Pemberton]]></dc:creator>
             <pubDate>Tue, 12 May 2026 05:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What no one tells you about dairy farming]]></title>
-            <description><![CDATA[Farming notebook]]></description>
-            <link>https://spectator.com/article/what-no-one-tells-you-about-dairy-farming/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-no-one-tells-you-about-dairy-farming/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Ruari Clark]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 05:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who cares if fridge magnets are naff?]]></title>
-            <description><![CDATA[Notes on...]]></description>
-            <link>https://spectator.com/article/who-cares-if-fridge-magnets-are-naff/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-cares-if-fridge-magnets-are-naff/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Justin Marozzi]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 05:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham is no saviour]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
-            <link>https://spectator.com/article/andy-burnham-is-no-saviour/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-no-saviour/</guid>
-            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 05:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could Reform take Greater Manchester?]]></title>
-            <description><![CDATA[By Luke Tryl]]></description>
-            <link>https://spectator.com/article/could-reform-take-greater-manchester/</link>
-            <guid isPermaLink="true">https://spectator.com/article/could-reform-take-greater-manchester/</guid>
-            <dc:creator><![CDATA[Luke Tryl]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 05:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mary Seacole is celebrated for all the wrong reasons]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/mary-seacole-is-celebrated-for-all-the-wrong-reasons/</link>
-            <guid isPermaLink="true">https://spectator.com/article/mary-seacole-is-celebrated-for-all-the-wrong-reasons/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 05:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why non-Jews didn’t come to the Extinguish Antisemitism rally]]></title>
-            <description><![CDATA[By Tanya Gold]]></description>
-            <link>https://spectator.com/article/why-non-jews-didnt-come-to-the-extinguish-antisemitism-rally/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-non-jews-didnt-come-to-the-extinguish-antisemitism-rally/</guid>
-            <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 05:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The changing economics of war]]></title>
-            <description><![CDATA[By James Lawson]]></description>
-            <link>https://spectator.com/article/the-changing-economics-of-war/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-changing-economics-of-war/</guid>
-            <dc:creator><![CDATA[James Lawson]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 02:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer’s position is looking increasingly untenable]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/keir-starmers-position-is-looking-increasingly-untenable-2/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmers-position-is-looking-increasingly-untenable-2/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 20:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The charts that show Angela Rayner is wrong about Britain]]></title>
-            <description><![CDATA[By Michael Simmons and John Power]]></description>
-            <link>https://spectator.com/article/the-charts-that-disprove-rayners-remedy-for-a-broken-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-charts-that-disprove-rayners-remedy-for-a-broken-britain/</guid>
-            <dc:creator><![CDATA[Michael Simmons and John Power]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 18:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer’s position is looking increasingly untenable]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/keir-starmers-position-is-looking-increasingly-untenable/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmers-position-is-looking-increasingly-untenable/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 18:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ministers ponder resignation]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/ministers-ponder-resignation/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ministers-ponder-resignation/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 16:25:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Jun 2026 02:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 08:09:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jun 2026 02:53:48 GMT</pubDate>
+        <pubDate>Wed, 03 Jun 2026 08:09:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[France’s hidden immigration reality]]></title>
+            <description><![CDATA[By Charles Cornish-Dale]]></description>
+            <link>https://spectator.com/article/france-hidden-immigration-reality-renaud-camus/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/france-hidden-immigration-reality-renaud-camus/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Cornish-Dale]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 08:08:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Has America been hacking the phones of Kremlin officials?]]></title>
             <description><![CDATA[By Mark Galeotti]]></description>
@@ -4019,14 +4027,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/will-pope-leo-stand-up-to-islam/?edition=us</guid>
             <dc:creator><![CDATA[Joseph D'Hippolito]]></dc:creator>
             <pubDate>Sun, 19 Apr 2026 06:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can I read Trump’s mind?]]></title>
-            <description><![CDATA[By Oz Pearlman]]></description>
-            <link>https://spectator.com/article/read-trump-mind-whcd-oz-pearlman-diary/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/read-trump-mind-whcd-oz-pearlman-diary/?edition=us</guid>
-            <dc:creator><![CDATA[Oz Pearlman]]></dc:creator>
-            <pubDate>Sun, 19 Apr 2026 01:52:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

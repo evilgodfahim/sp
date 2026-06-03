@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Jun 2026 13:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 18:17:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jun 2026 13:08:59 GMT</pubDate>
+        <pubDate>Wed, 03 Jun 2026 18:17:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BBC apologises to Farage as Badenoch takes fight to Reform]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/bbc-apologises-to-farage/</link>
+            <guid isPermaLink="true">https://spectator.com/article/bbc-apologises-to-farage/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 18:17:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Named: The MPs gunning to overturn trans guidance]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/named-the-mps-gunning-to-overturn-trans-guidance/</link>
+            <guid isPermaLink="true">https://spectator.com/article/named-the-mps-gunning-to-overturn-trans-guidance/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 18:17:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starmer and Badenoch can’t avoid the politics of Henry Nowak’s death]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/starmer-and-badenoch-cant-avoid-the-fallout-from-henry-novaks-death/</link>
+            <guid isPermaLink="true">https://spectator.com/article/starmer-and-badenoch-cant-avoid-the-fallout-from-henry-novaks-death/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 18:17:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keir Starmer can’t keep deluding himself about two-tier policing]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/keir-starmer-cant-keep-deluding-himself-about-two-tier-policing/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-cant-keep-deluding-himself-about-two-tier-policing/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 18:17:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why don’t you agree with William Dalrymple?]]></title>
+            <description><![CDATA[White Mughal]]></description>
+            <link>https://spectator.com/article/why-dont-you-agree-with-william-dalrymple/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-dont-you-agree-with-william-dalrymple/</guid>
+            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 18:17:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why did Henry Nowak’s last words count for so little?]]></title>
             <description><![CDATA[By Ian Acheson]]></description>
@@ -26,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Why Israel will struggle to achieve peace with Lebanon]]></title>
-            <description><![CDATA[By Jonathan Spyer]]></description>
+            <description><![CDATA[Middle East]]></description>
             <link>https://spectator.com/article/why-israel-will-struggle-to-achieve-peace-with-lebanon/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-israel-will-struggle-to-achieve-peace-with-lebanon/</guid>
             <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
@@ -66,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Vickrum Digwa is no Sikh]]></title>
-            <description><![CDATA[By Hardeep Singh]]></description>
+            <description><![CDATA[Crime]]></description>
             <link>https://spectator.com/article/vickrum-digwa-is-no-sikh/</link>
             <guid isPermaLink="true">https://spectator.com/article/vickrum-digwa-is-no-sikh/</guid>
             <dc:creator><![CDATA[Hardeep Singh]]></dc:creator>
@@ -74,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Aid cuts didn’t cause Ebola]]></title>
-            <description><![CDATA[Bitter pill]]></description>
+            <description><![CDATA[By Ian Birrell]]></description>
             <link>https://spectator.com/article/aid-cuts-didnt-cause-ebola/</link>
             <guid isPermaLink="true">https://spectator.com/article/aid-cuts-didnt-cause-ebola/</guid>
             <dc:creator><![CDATA[Ian Birrell]]></dc:creator>
@@ -122,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[Why union members turned their backs on Labour – and switched to Reform]]></title>
-            <description><![CDATA[Trade off]]></description>
+            <description><![CDATA[By Ameer Kotecha]]></description>
             <link>https://spectator.com/article/why-union-members-turned-their-backs-on-labour-and-switched-to-reform/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-union-members-turned-their-backs-on-labour-and-switched-to-reform/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
@@ -3987,46 +4027,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/louise-haighs-economic-plan-would-hasten-britains-decline/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
             <pubDate>Tue, 12 May 2026 11:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer has one card left to play]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/keir-starmer-digs-his-heels-in/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-digs-his-heels-in/</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 11:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer is done]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/keir-starmer-is-done/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-is-done/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 11:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer’s ‘chaos’ hypocrisy]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
-            <link>https://spectator.com/article/keir-starmers-chaos-hypocrisy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmers-chaos-hypocrisy/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 08:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What no one tells you about dairy farming]]></title>
-            <description><![CDATA[Farming notebook]]></description>
-            <link>https://spectator.com/article/what-no-one-tells-you-about-dairy-farming/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-no-one-tells-you-about-dairy-farming/</guid>
-            <dc:creator><![CDATA[Ruari Clark]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 05:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who cares if fridge magnets are naff?]]></title>
-            <description><![CDATA[Notes on...]]></description>
-            <link>https://spectator.com/article/who-cares-if-fridge-magnets-are-naff/</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-cares-if-fridge-magnets-are-naff/</guid>
-            <dc:creator><![CDATA[Justin Marozzi]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 05:59:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

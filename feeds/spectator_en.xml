@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 10:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 13:54:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 10:55:45 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 13:54:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Labour’s growing pains]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/labours-growing-pains/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labours-growing-pains/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 13:54:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who fancies a pint in Rachel Reeves’s ideal pub?]]></title>
             <description><![CDATA[By Lionel Shriver]]></description>
@@ -4028,14 +4036,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <link>https://spectator.com/article/starmers-kings-speech-response-bore-little-resemblance-to-reality/</link>
             <guid isPermaLink="true">https://spectator.com/article/starmers-kings-speech-response-bore-little-resemblance-to-reality/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 17:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Support for independence is not surging in Scotland]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/support-for-independence-is-not-surging-in-scotland/</link>
-            <guid isPermaLink="true">https://spectator.com/article/support-for-independence-is-not-surging-in-scotland/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Wed, 13 May 2026 17:09:59 GMT</pubDate>
         </item>
     </channel>

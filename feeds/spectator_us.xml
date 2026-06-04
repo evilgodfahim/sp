@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 13:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 16:46:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 13:54:22 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 16:46:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russia is relying on drones to bring it victory in Ukraine]]></title>
+            <description><![CDATA[By Lisa Haseldine]]></description>
+            <link>https://spectator.com/article/russia-is-relying-on-drones-to-bring-it-victory-in-ukraine/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/russia-is-relying-on-drones-to-bring-it-victory-in-ukraine/?edition=us</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 16:46:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[If you think your bills are bad now, just wait]]></title>
             <description><![CDATA[Debt]]></description>
@@ -4018,14 +4026,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/how-trump-loses-friends-and-alienates-people/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-trump-loses-friends-and-alienates-people/?edition=us</guid>
             <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 08:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A change has come over Trump]]></title>
-            <description><![CDATA[By Christopher Caldwell]]></description>
-            <link>https://spectator.com/article/a-change-has-come-over-trump/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-change-has-come-over-trump/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 08:28:29 GMT</pubDate>
         </item>
     </channel>

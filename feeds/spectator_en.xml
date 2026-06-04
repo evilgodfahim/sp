@@ -4,13 +4,61 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 02:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 07:17:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Kemi gives me hope]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/kemi-gives-me-hope/</link>
+            <guid isPermaLink="true">https://spectator.com/article/kemi-gives-me-hope/</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[True neoliberalism has never been tried]]></title>
+            <description><![CDATA[Neo con]]></description>
+            <link>https://spectator.com/article/true-neoliberalism-has-never-been-tried/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/true-neoliberalism-has-never-been-tried/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The art of resurrecting forgotten artists]]></title>
+            <description><![CDATA[Art]]></description>
+            <link>https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Robin Simon]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decluttering is the ultimate act of love]]></title>
+            <description><![CDATA[Coming clean]]></description>
+            <link>https://spectator.com/article/decluttering-is-the-ultimate-act-of-love/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/decluttering-is-the-ultimate-act-of-love/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Olenka Hamilton]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Insufferable martinet or inspirational hero? Field Marshal Montgomery was both]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/insufferable-martinet-or-inspirational-hero-field-marshal-montgomery-was-both/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/insufferable-martinet-or-inspirational-hero-field-marshal-montgomery-was-both/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Allan Mallinson]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: the missing Mandelson messages]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/revealed-the-missing-mandelson-messages/</link>
+            <guid isPermaLink="true">https://spectator.com/article/revealed-the-missing-mandelson-messages/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The lessons from Henry Nowak’s murder]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
+            <description><![CDATA[Police]]></description>
             <link>https://spectator.com/article/the-lessons-from-henry-nowaks-murder/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-lessons-from-henry-nowaks-murder/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -83,12 +131,8 @@ Bleurrggghhhhh.]]></description>
             <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can Reform see off the threat from Restore?]]></title>
-            <description><![CDATA[Nigel Farage has always prided himself on being able to see off any threat from his right flank. But now a new force has emerged in the form of his ex-colleague Rupert Lowe. When the two Reform MPs fell out 15 months ago, friends shared memes of Farage’s past fallen rivals ascending to heaven. ‘Come and join us, Rupert!’ they exhorted. Instead, Lowe fought back, setting up his own party, Restore Britain. In the Makerfield by-election on 18 June, one poll puts Restore on 7 per cent– enough to stop Reform and hand the seat to Labour’s Andy Burnham.
-
-
-
-Restore’s strategy is simple: use Farage’s playbook against him. Like Farage, Lowe has put his faith in social media, building up a noisy following that can then be turned into a campaigning force.]]></description>
+            <title><![CDATA[Rebellion]]></title>
+            <description><![CDATA[By James Heale]]></description>
             <link>https://spectator.com/article/can-reform-see-off-the-threat-from-restore/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-reform-see-off-the-threat-from-restore/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -184,7 +228,7 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
         </item>
         <item>
             <title><![CDATA[Why don’t you agree with William Dalrymple?]]></title>
-            <description><![CDATA[White Mughal]]></description>
+            <description><![CDATA[By Max Jeffery]]></description>
             <link>https://spectator.com/article/why-dont-you-agree-with-william-dalrymple/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-dont-you-agree-with-william-dalrymple/</guid>
             <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
@@ -208,7 +252,7 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
         </item>
         <item>
             <title><![CDATA[Why Israel will struggle to achieve peace with Lebanon]]></title>
-            <description><![CDATA[Middle East]]></description>
+            <description><![CDATA[By Jonathan Spyer]]></description>
             <link>https://spectator.com/article/why-israel-will-struggle-to-achieve-peace-with-lebanon/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-israel-will-struggle-to-achieve-peace-with-lebanon/</guid>
             <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
@@ -216,7 +260,7 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
         </item>
         <item>
             <title><![CDATA[Zia Yusuf’s attack on Kemi Badenoch shows he is a hypocrite]]></title>
-            <description><![CDATA[Henry Nowak]]></description>
+            <description><![CDATA[By Stephen Pollard]]></description>
             <link>https://spectator.com/article/zia-yusufs-attack-on-kemi-badenoch-shows-he-is-a-hypocrite/</link>
             <guid isPermaLink="true">https://spectator.com/article/zia-yusufs-attack-on-kemi-badenoch-shows-he-is-a-hypocrite/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -264,7 +308,7 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
         </item>
         <item>
             <title><![CDATA[Don’t pretend to like football]]></title>
-            <description><![CDATA[Own goal]]></description>
+            <description><![CDATA[By Chas Newkey-Burden]]></description>
             <link>https://spectator.com/article/the-world-cup-is-football-for-part-timers/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-world-cup-is-football-for-part-timers/</guid>
             <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
@@ -272,7 +316,7 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
         </item>
         <item>
             <title><![CDATA[Confessions of a speechwriter]]></title>
-            <description><![CDATA[Pitch perfect]]></description>
+            <description><![CDATA[By Mark Kitto]]></description>
             <link>https://spectator.com/article/confessions-of-a-speechwriter/</link>
             <guid isPermaLink="true">https://spectator.com/article/confessions-of-a-speechwriter/</guid>
             <dc:creator><![CDATA[Mark Kitto]]></dc:creator>
@@ -280,7 +324,7 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
         </item>
         <item>
             <title><![CDATA[I’m a recovering biscuit addict]]></title>
-            <description><![CDATA[Hobnobbed]]></description>
+            <description><![CDATA[By Zoe Strimpel]]></description>
             <link>https://spectator.com/article/im-a-recovering-biscuit-addict/</link>
             <guid isPermaLink="true">https://spectator.com/article/im-a-recovering-biscuit-addict/</guid>
             <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
@@ -3993,54 +4037,6 @@ The timing horrified MPs even on Streeting’s wing of the party. A cabinet mini
             <guid isPermaLink="true">https://spectator.com/article/why-is-the-labour-party-bad-at-coups/</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
             <pubDate>Wed, 13 May 2026 11:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour needs Europe strike a deal on ECHR migration reform]]></title>
-            <description><![CDATA[By Alexander Horne]]></description>
-            <link>https://spectator.com/article/labour-needs-europe-strike-a-deal-on-echr-migration-reform/</link>
-            <guid isPermaLink="true">https://spectator.com/article/labour-needs-europe-strike-a-deal-on-echr-migration-reform/</guid>
-            <dc:creator><![CDATA[Alexander Horne]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 11:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer-Streeting coffee summit lasts 16 minutes]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/streeting-starmer-coffee-summit-lasts-16-minutes/</link>
-            <guid isPermaLink="true">https://spectator.com/article/streeting-starmer-coffee-summit-lasts-16-minutes/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 11:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Food shortages don’t worry the Falklands]]></title>
-            <description><![CDATA[By Robert Taylor]]></description>
-            <link>https://spectator.com/article/food-shortages-dont-worry-the-falklands/</link>
-            <guid isPermaLink="true">https://spectator.com/article/food-shortages-dont-worry-the-falklands/</guid>
-            <dc:creator><![CDATA[Robert Taylor]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 09:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will bond markets ‘have to fall into line’ with Andy Burnham?]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/claim-bond-markets-will-have-to-fall-into-line-with-andy-burnham/</link>
-            <guid isPermaLink="true">https://spectator.com/article/claim-bond-markets-will-have-to-fall-into-line-with-andy-burnham/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 09:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain is sick of the Starmer psychodrama]]></title>
-            <description><![CDATA[By Lawrence Newport]]></description>
-            <link>https://spectator.com/article/britain-is-sick-of-the-starmer-psychodrama/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-is-sick-of-the-starmer-psychodrama/</guid>
-            <dc:creator><![CDATA[Lawrence Newport]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 09:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The inevitable horror of an Ed Miliband premiership]]></title>
-            <description><![CDATA[Post-Starmer]]></description>
-            <link>https://spectator.com/article/the-inevitable-horror-of-an-ed-miliband-premiership/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-inevitable-horror-of-an-ed-miliband-premiership/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 09:37:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 20:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 22:10:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 20:46:11 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 22:10:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How to reclaim your life]]></title>
+            <description><![CDATA[By George Farmer]]></description>
+            <link>https://spectator.com/article/reclaim-life-george-farmer-diary/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/reclaim-life-george-farmer-diary/?edition=us</guid>
+            <dc:creator><![CDATA[George Farmer]]></dc:creator>
+            <pubDate>Fri, 05 Jun 2026 22:10:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did former prince Andrew need to charge his tenants full rent?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4019,14 +4027,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/congress-needs-ethics-overhaul-anna-paulina-luna/?edition=us</guid>
             <dc:creator><![CDATA[Anna Paulina Luna]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 17:53:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Iran war is giving Xi the upper hand with Trump]]></title>
-            <description><![CDATA[By Ian Williams]]></description>
-            <link>https://spectator.com/article/the-iran-war-is-giving-xi-the-upper-hand-with-trump/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-iran-war-is-giving-xi-the-upper-hand-with-trump/?edition=us</guid>
-            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 16:50:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

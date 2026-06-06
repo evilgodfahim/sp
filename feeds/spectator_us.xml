@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 15:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 17:02:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jun 2026 15:06:45 GMT</pubDate>
+        <pubDate>Sat, 06 Jun 2026 17:02:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My annual pilgrimage along the route of the Berlin Wall]]></title>
+            <description><![CDATA[Walk of life]]></description>
+            <link>https://spectator.com/article/walk-life-annual-pilgrimage-berlin-wall/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/walk-life-annual-pilgrimage-berlin-wall/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[William Cook]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 17:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let AI eat the universities]]></title>
+            <description><![CDATA[Educated few]]></description>
+            <link>https://spectator.com/article/let-ai-eat-the-universities/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/let-ai-eat-the-universities/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 17:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where did all the funny Republicans go?]]></title>
+            <description><![CDATA[By Alex Diggins]]></description>
+            <link>https://spectator.com/article/where-did-all-the-funny-republicans-go/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/where-did-all-the-funny-republicans-go/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 17:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We’ve lost our only anti-vaxxer friend in the village]]></title>
+            <description><![CDATA[Real life]]></description>
+            <link>https://spectator.com/article/weve-lost-our-only-anti-vaxxer-friend-in-the-village/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/weve-lost-our-only-anti-vaxxer-friend-in-the-village/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 17:02:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Three delicious but unpronounceable wines]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -3995,38 +4027,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/photographer-connects-bob-dylan-beatles-barry-feinstein/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Anne Margaret Daniel]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 11:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Russia’s economy really on its last legs?]]></title>
-            <description><![CDATA[By Alexander Kolyandr]]></description>
-            <link>https://spectator.com/article/how-weak-is-russias-economy-exactly/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-weak-is-russias-economy-exactly/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 11:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A change has come over Trump]]></title>
-            <description><![CDATA[By Christopher Caldwell]]></description>
-            <link>https://spectator.com/article/a-change-has-come-over-trump/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-change-has-come-over-trump/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 11:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virginia referendum loss adds to Trump’s woes]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/virginia-referendum-loss-adds-to-trumps-woes/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/virginia-referendum-loss-adds-to-trumps-woes/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 10:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bonnie Blue: I stand with Nigel Farage]]></title>
-            <description><![CDATA[By Bonnie Blue]]></description>
-            <link>https://spectator.com/article/i-stand-with-nigel-farage-2/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-stand-with-nigel-farage-2/?edition=us</guid>
-            <dc:creator><![CDATA[Bonnie Blue]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 06:52:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

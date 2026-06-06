@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 15:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 17:02:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jun 2026 15:06:50 GMT</pubDate>
+        <pubDate>Sat, 06 Jun 2026 17:02:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reform Scotland poach GB News man]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/reform-scotland-poach-gb-news-man/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reform-scotland-poach-gb-news-man/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 17:02:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The three faces of Andy Burnham]]></title>
             <description><![CDATA[Makerfield]]></description>
@@ -4014,14 +4022,6 @@ Eventually Montgomery Clift was cast instead, which was just as well because Fre
             <link>https://spectator.com/article/is-keir-starmer-too-boring-to-be-prime-minister/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-keir-starmer-too-boring-to-be-prime-minister/</guid>
             <dc:creator><![CDATA[Mark Mason]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cling on, Sir Keir]]></title>
-            <description><![CDATA[By Charles Moore]]></description>
-            <link>https://spectator.com/article/cling-on-sir-keir/</link>
-            <guid isPermaLink="true">https://spectator.com/article/cling-on-sir-keir/</guid>
-            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
             <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
         </item>
     </channel>

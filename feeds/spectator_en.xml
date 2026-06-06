@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 11:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 13:10:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jun 2026 11:18:23 GMT</pubDate>
+        <pubDate>Sat, 06 Jun 2026 13:10:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The three faces of Andy Burnham]]></title>
+            <description><![CDATA[Makerfield]]></description>
+            <link>https://spectator.com/article/the-three-faces-of-andy-burnham/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-three-faces-of-andy-burnham/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 13:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What will become of Paris’s ugliest building?]]></title>
+            <description><![CDATA[Bricking it]]></description>
+            <link>https://spectator.com/article/what-will-become-of-pariss-ugliest-building/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-will-become-of-pariss-ugliest-building/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 13:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putting wildlife on British banknotes ignores the elephant in the room]]></title>
+            <description><![CDATA[Money trouble]]></description>
+            <link>https://spectator.com/article/putting-wildlife-on-british-banknotes-ignores-the-elephant-in-the-room/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/putting-wildlife-on-british-banknotes-ignores-the-elephant-in-the-room/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 13:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Iran turned Trump’s propaganda against him]]></title>
+            <description><![CDATA[By Peter Pomerantsev]]></description>
+            <link>https://spectator.com/article/how-iran-turned-trumps-propaganda-against-him/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-iran-turned-trumps-propaganda-against-him/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Peter Pomerantsev]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 13:10:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rosamund Pike was right to berate her phone-using audience]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -3990,38 +4022,6 @@ Eventually Montgomery Clift was cast instead, which was just as well because Fre
             <link>https://spectator.com/article/cling-on-sir-keir/</link>
             <guid isPermaLink="true">https://spectator.com/article/cling-on-sir-keir/</guid>
             <dc:creator><![CDATA[Charles Moore]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The three things Trump wants from his China trip]]></title>
-            <description><![CDATA[Power trip]]></description>
-            <link>https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does a propensity for crime depend on one’s DNA?]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/does-a-propensity-for-crime-depend-on-ones-dna/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-a-propensity-for-crime-depend-on-ones-dna/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Bryan Appleyard]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farage’s plan to win over the left]]></title>
-            <description><![CDATA[Reform]]></description>
-            <link>https://spectator.com/article/farages-plan-to-win-over-the-left/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/farages-plan-to-win-over-the-left/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First they came for Mandelson…]]></title>
-            <description><![CDATA[No sacred cows]]></description>
-            <link>https://spectator.com/article/first-they-came-for-mandelson/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/first-they-came-for-mandelson/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
             <pubDate>Thu, 14 May 2026 11:45:20 GMT</pubDate>
         </item>
     </channel>

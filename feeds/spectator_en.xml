@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 10:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 12:16:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 Jun 2026 10:06:31 GMT</pubDate>
+        <pubDate>Sun, 07 Jun 2026 12:16:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[I’m finally out of hospital]]></title>
+            <description><![CDATA[By Julie Burchill]]></description>
+            <link>https://spectator.com/article/im-finally-out-of-hospital/</link>
+            <guid isPermaLink="true">https://spectator.com/article/im-finally-out-of-hospital/</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Sun, 07 Jun 2026 12:16:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Young Wine Drinker]]></title>
             <description><![CDATA[Milo – born Rupert Myles Baxter-Stuart-Lane – is a self-proclaimed ‘wine wanker’. He is 27 years old, works at a B-Corp production and social content agency, lives in Stoke Newington, and dreams of running a wine bar in Clapton in the hope that Topjaw might someday notice him. His favourite film is Sideways. He watched it for the first time last month. He even has a tattoo to prove it: ‘I am NOT drinking any fucking Merlot.’ The tattoo is on his left buttock. After enough biodynamic Zweigelt, he’ll be happy to show it to you. 
@@ -4021,14 +4029,6 @@ Eventually Montgomery Clift was cast instead, which was just as well because Fre
             <guid isPermaLink="true">https://spectator.com/article/the-glorious-counter-culture-of-two-fat-ladies/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
             <pubDate>Fri, 15 May 2026 06:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prince Harry’s fears for our ‘divided country’ are hard to swallow]]></title>
-            <description><![CDATA[By Josh Rom]]></description>
-            <link>https://spectator.com/article/prince-harrys-fears-for-our-divided-country-are-hard-to-swallow/</link>
-            <guid isPermaLink="true">https://spectator.com/article/prince-harrys-fears-for-our-divided-country-are-hard-to-swallow/</guid>
-            <dc:creator><![CDATA[Josh Rom]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 02:15:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

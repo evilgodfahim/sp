@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 12:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 14:46:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 Jun 2026 12:16:23 GMT</pubDate>
+        <pubDate>Sun, 07 Jun 2026 14:46:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[This luxury Italian menswear house has a new not-so-fancy man]]></title>
+            <description><![CDATA[By Peter Howarth]]></description>
+            <link>https://spectator.com/article/this-luxury-italian-menswear-house-has-a-new-not-so-fancy-man/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-luxury-italian-menswear-house-has-a-new-not-so-fancy-man/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Howarth]]></dc:creator>
+            <pubDate>Sun, 07 Jun 2026 14:46:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Montblanc proves the pen is mightier than the sword]]></title>
+            <description><![CDATA[By Kitty Tucker]]></description>
+            <link>https://spectator.com/article/defending-the-romantic-tangibility-of-writing-with-elegant-accouterments-mightier-than-the-sword/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/defending-the-romantic-tangibility-of-writing-with-elegant-accouterments-mightier-than-the-sword/?edition=us</guid>
+            <dc:creator><![CDATA[Kitty Tucker]]></dc:creator>
+            <pubDate>Sun, 07 Jun 2026 14:46:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[George ‘R&R’ Martin takes it easy]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4011,22 +4027,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/its-hardly-surprising-that-an-israeli-soldier-was-caught-desecrating-a-crucifix/?edition=us</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 15:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Michael Jackson biopic ignores half his life]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/michael-jackson-is-christlike-in-new-biopic/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/michael-jackson-is-christlike-in-new-biopic/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 15:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The tragedy of Laura Loomer]]></title>
-            <description><![CDATA[Loomered]]></description>
-            <link>https://spectator.com/article/tragedy-laura-loomer-roger-stone/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/tragedy-laura-loomer-roger-stone/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Roger Stone]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 11:54:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

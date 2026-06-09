@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 10:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 13:38:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 10:52:35 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2026 13:38:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The many versions of ‘Come Saturday Morning’]]></title>
+            <description><![CDATA[By Bill Kauffman]]></description>
+            <link>https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us</guid>
+            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 13:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The urgent case for fixing California’s broken elections]]></title>
+            <description><![CDATA[By John Fund]]></description>
+            <link>https://spectator.com/article/the-urgent-case-for-fixing-californias-broken-elections/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-urgent-case-for-fixing-californias-broken-elections/?edition=us</guid>
+            <dc:creator><![CDATA[John Fund]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 13:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A weary trek in the steps of Garibaldi and his Redshirts]]></title>
             <description><![CDATA[Books]]></description>
@@ -4011,22 +4027,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/palantir-sham-synthesis-between-populism-globalism/?edition=us</guid>
             <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 20:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Julia Varvaro did nothing wrong]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/julia-varvaro-did-nothing-wrong/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/julia-varvaro-did-nothing-wrong/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 19:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The contempt Trump feels for his NATO allies is mutual]]></title>
-            <description><![CDATA[By Daniel DePetris]]></description>
-            <link>https://spectator.com/article/the-contempt-trump-feels-for-his-nato-allies-is-mutual/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-contempt-trump-feels-for-his-nato-allies-is-mutual/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 18:38:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

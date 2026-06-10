@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 23:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 02:36:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 23:13:09 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 02:36:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The luvvies are out for Reform. Is anyone listening?]]></title>
+            <description><![CDATA[By Joanna Williams]]></description>
+            <link>https://spectator.com/article/the-luvvies-are-out-for-reform-is-anyone-listening/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-luvvies-are-out-for-reform-is-anyone-listening/</guid>
+            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 02:36:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zia Yusuf to address MAGAworld]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4014,14 +4022,6 @@ Eventually Montgomery Clift was cast instead, which was just as well because Fre
             <link>https://spectator.com/article/the-eu-cant-save-labour/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-eu-cant-save-labour/</guid>
             <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer is an even worse PM than Boris Johnson]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/keir-starmer-is-an-even-worse-pm-than-boris-johnson/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-is-an-even-worse-pm-than-boris-johnson/</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
             <pubDate>Mon, 18 May 2026 06:47:14 GMT</pubDate>
         </item>
     </channel>

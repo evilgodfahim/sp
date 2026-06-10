@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 11:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 14:55:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jun 2026 11:31:23 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 14:55:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Keir Starmer’s weakness was on display at PMQs]]></title>
+            <description><![CDATA[Defence muddle]]></description>
+            <link>https://spectator.com/article/keir-starmers-weakness-was-on-display-at-pmqs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmers-weakness-was-on-display-at-pmqs/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 14:55:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: the Green party’s workers woes]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/revealed-the-green-partys-workers-woes/</link>
+            <guid isPermaLink="true">https://spectator.com/article/revealed-the-green-partys-workers-woes/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 14:55:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belfast and the truth about ‘alien cultures’]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/belfast-and-the-truth-about-alien-cultures/</link>
+            <guid isPermaLink="true">https://spectator.com/article/belfast-and-the-truth-about-alien-cultures/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 14:55:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Should Europe shelter Sudan’s refugees?]]></title>
             <description><![CDATA[By Gavin Mortimer]]></description>
@@ -18,14 +42,14 @@
         </item>
         <item>
             <title><![CDATA[The Belfast border loophole that leaves us all unsafe]]></title>
-            <description><![CDATA[By David Shipley]]></description>
+            <description><![CDATA[Border farce]]></description>
             <link>https://spectator.com/article/the-border-loophole-that-led-to-horror-in-belfast/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-border-loophole-that-led-to-horror-in-belfast/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 11:31:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reeves has turned the labour market into a bewildering mess]]></title>
+            <title><![CDATA[How Labour ruined the labour market]]></title>
             <description><![CDATA[By Ross Clark]]></description>
             <link>https://spectator.com/article/reeves-has-turned-the-labour-market-into-a-bewildering-mess/</link>
             <guid isPermaLink="true">https://spectator.com/article/reeves-has-turned-the-labour-market-into-a-bewildering-mess/</guid>
@@ -74,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Kemi Badenoch’s equality reforms don’t go far enough]]></title>
-            <description><![CDATA[Deep rot]]></description>
+            <description><![CDATA[By Ameer Kotecha]]></description>
             <link>https://spectator.com/article/kemi-badenochs-equality-reforms-dont-go-far-enough/</link>
             <guid isPermaLink="true">https://spectator.com/article/kemi-badenochs-equality-reforms-dont-go-far-enough/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
@@ -130,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[The luvvies are out for Reform. Is anyone listening?]]></title>
-            <description><![CDATA[By Joanna Williams]]></description>
+            <description><![CDATA['A negative force']]></description>
             <link>https://spectator.com/article/the-luvvies-are-out-for-reform-is-anyone-listening/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-luvvies-are-out-for-reform-is-anyone-listening/</guid>
             <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
@@ -146,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Westminster can’t escape blame for the Murrell scandal]]></title>
-            <description><![CDATA[SNP inquiry]]></description>
+            <description><![CDATA[By Stephen Daisley]]></description>
             <link>https://spectator.com/article/westminster-cant-escape-blame-for-the-murrell-scandal/</link>
             <guid isPermaLink="true">https://spectator.com/article/westminster-cant-escape-blame-for-the-murrell-scandal/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
@@ -354,7 +378,7 @@
         </item>
         <item>
             <title><![CDATA[Bombing Iran is the perfect way to celebrate Pride]]></title>
-            <description><![CDATA[Middle East]]></description>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
             <link>https://spectator.com/article/bombing-iran-is-the-perfect-way-to-celebrate-pride/</link>
             <guid isPermaLink="true">https://spectator.com/article/bombing-iran-is-the-perfect-way-to-celebrate-pride/</guid>
             <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
@@ -3998,30 +4022,6 @@ Eventually Montgomery Clift was cast instead, which was just as well because Fre
             <link>https://spectator.com/article/has-brexit-really-harmed-britains-economy/</link>
             <guid isPermaLink="true">https://spectator.com/article/has-brexit-really-harmed-britains-economy/</guid>
             <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who’s backing whom for Labour leader?]]></title>
-            <description><![CDATA[By Coffee House]]></description>
-            <link>https://spectator.com/article/whos-backing-whom-for-labour-leader/</link>
-            <guid isPermaLink="true">https://spectator.com/article/whos-backing-whom-for-labour-leader/</guid>
-            <dc:creator><![CDATA[Coffee House]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scrapping the fuel duty hike would teach Reeves a useful lesson]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/scrapping-the-fuel-duty-hike-would-teach-reeves-a-useful-lesson/</link>
-            <guid isPermaLink="true">https://spectator.com/article/scrapping-the-fuel-duty-hike-would-teach-reeves-a-useful-lesson/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t kick Southampton out of the play-offs for spying]]></title>
-            <description><![CDATA[By Charles Walford]]></description>
-            <link>https://spectator.com/article/dont-kick-southampton-out-the-play-offs-for-spying/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-kick-southampton-out-the-play-offs-for-spying/</guid>
-            <dc:creator><![CDATA[Charles Walford]]></dc:creator>
             <pubDate>Mon, 18 May 2026 14:31:57 GMT</pubDate>
         </item>
     </channel>

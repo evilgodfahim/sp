@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 17:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 20:13:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jun 2026 17:52:34 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 20:13:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[FIFA aren’t the only ones to blame for rip-off World Cup ticket prices]]></title>
+            <description><![CDATA[By Sam McPhail]]></description>
+            <link>https://spectator.com/article/fifa-arent-the-only-ones-to-blame-for-rip-off-world-cup-ticket-prices/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/fifa-arent-the-only-ones-to-blame-for-rip-off-world-cup-ticket-prices/?edition=us</guid>
+            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 20:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump can’t give up on diplomacy with Iran]]></title>
+            <description><![CDATA[By Daniel DePetris]]></description>
+            <link>https://spectator.com/article/trump-cant-give-up-diplomacy-iran/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-cant-give-up-diplomacy-iran/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 20:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UFC Freedom 250 is straight from the ‘bread-and-circuses’ playbook]]></title>
+            <description><![CDATA[By Damian Reilly]]></description>
+            <link>https://spectator.com/article/ufc-freedom-250-straight-bread-circuses-playbook/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ufc-freedom-250-straight-bread-circuses-playbook/?edition=us</guid>
+            <dc:creator><![CDATA[Damian Reilly]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 20:13:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My annual pilgrimage along the route of the Berlin Wall]]></title>
             <description><![CDATA[By William Cook]]></description>
@@ -4003,30 +4027,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/white-house-correspondents-dinner-wasnt-cockburn-diary-04-26-26/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 01:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The killer in your backyard]]></title>
-            <description><![CDATA[House hunting]]></description>
-            <link>https://spectator.com/article/killer-backyard-hunting/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/killer-backyard-hunting/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[J. Shane Townsend]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 09:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Treasure Britain’s last railway dining car while you still can]]></title>
-            <description><![CDATA[By Julian Glover]]></description>
-            <link>https://spectator.com/article/treasure-britains-last-railway-dining-car-while-you-still-can/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/treasure-britains-last-railway-dining-car-while-you-still-can/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Julian Glover]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 09:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Living in the shadow of Etna]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/living-in-the-shadow-of-etna/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/living-in-the-shadow-of-etna/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Caroline Moorehead]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 09:45:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

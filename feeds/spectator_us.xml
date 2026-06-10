@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 07:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 11:31:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jun 2026 07:00:52 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 11:31:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The difficult pursuit of happiness]]></title>
+            <description><![CDATA[Prejudices]]></description>
+            <link>https://spectator.com/article/the-difficult-pursuit-of-happiness/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-difficult-pursuit-of-happiness/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 11:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How California disrupted the French wine industry]]></title>
+            <description><![CDATA[By Christopher Sandford]]></description>
+            <link>https://spectator.com/article/how-california-disrupted-the-french-wine-industry/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-california-disrupted-the-french-wine-industry/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Christopher Sandford]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 11:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The case for the administrative state]]></title>
+            <description><![CDATA[Deep state]]></description>
+            <link>https://spectator.com/article/the-case-for-the-administrative-state/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-case-for-the-administrative-state/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 11:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The many versions of ‘Come Saturday Morning’]]></title>
+            <description><![CDATA[Local life]]></description>
+            <link>https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 11:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s ballroom drone port is no joke]]></title>
+            <description><![CDATA[By Keith Kellogg]]></description>
+            <link>https://spectator.com/article/trumps-ballroom-drone-port-is-no-joke/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-ballroom-drone-port-is-no-joke/?edition=us</guid>
+            <dc:creator><![CDATA[Keith Kellogg]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 11:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why America is still immune to the soccer virus]]></title>
+            <description><![CDATA[By Bill Kauffman]]></description>
+            <link>https://spectator.com/article/why-america-is-still-immune-to-the-soccer-virus/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-america-is-still-immune-to-the-soccer-virus/?edition=us</guid>
+            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 11:31:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My annual pilgrimage along the route of the Berlin Wall]]></title>
             <description><![CDATA[By William Cook]]></description>
@@ -3979,54 +4027,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/shots-fired-at-the-white-house-correspondents-dinner/?edition=us</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 04:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump believes Britain has betrayed the SAS]]></title>
-            <description><![CDATA[By Richard Williams]]></description>
-            <link>https://spectator.com/article/trump-believes-britain-has-betrayed-the-sas/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-believes-britain-has-betrayed-the-sas/?edition=us</guid>
-            <dc:creator><![CDATA[Richard Williams]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 15:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The killer in your backyard]]></title>
-            <description><![CDATA[By J. Shane Townsend]]></description>
-            <link>https://spectator.com/article/killer-backyard-hunting/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/killer-backyard-hunting/?edition=us</guid>
-            <dc:creator><![CDATA[J. Shane Townsend]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 13:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Palantir manifesto doesn’t go far enough]]></title>
-            <description><![CDATA[By Travis Aaroe]]></description>
-            <link>https://spectator.com/article/the-palantir-manifesto-doesnt-go-far-enough/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-palantir-manifesto-doesnt-go-far-enough/?edition=us</guid>
-            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 13:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine won’t give up at the behest of Donald Trump]]></title>
-            <description><![CDATA[By John Foreman]]></description>
-            <link>https://spectator.com/article/ukraine-wont-give-up-at-the-behest-of-donald-trump/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ukraine-wont-give-up-at-the-behest-of-donald-trump/?edition=us</guid>
-            <dc:creator><![CDATA[John Foreman]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 12:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The killer in your backyard]]></title>
-            <description><![CDATA[By J. Shane Townsend]]></description>
-            <link>https://spectator.com/article/killer-backyard-hunting/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/killer-backyard-hunting/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[J. Shane Townsend]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 09:43:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The noble work of chairlift diplomacy]]></title>
-            <description><![CDATA[No sacred cows]]></description>
-            <link>https://spectator.com/article/the-noble-work-of-chairlift-diplomacy/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-noble-work-of-chairlift-diplomacy/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 09:43:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

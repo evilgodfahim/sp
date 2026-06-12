@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 14:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 17:32:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Jun 2026 14:37:31 GMT</pubDate>
+        <pubDate>Fri, 12 Jun 2026 17:32:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will peace be the perfect gift for the President?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/will-peace-be-the-perfect-gift-for-the-president/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-peace-be-the-perfect-gift-for-the-president/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 12 Jun 2026 17:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World Cup’s critics must give it a chance]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/the-world-cups-critics-need-to-give-it-a-chance/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-world-cups-critics-need-to-give-it-a-chance/?edition=us</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Fri, 12 Jun 2026 17:32:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wham! How George Michael shot to stardom straight from school]]></title>
             <description><![CDATA[It turns out that the writer Sathnam Sanghera, “the boy with the topknot,” has been a besotted George Michael fan since the age of eight, when he started listening to his older sisters’ Wham! records. This was an unusual thing to be as a Sikh growing up in Wolverhampton and it got him teased at school. But he stuck with it. So when a friend suggested that he write something fun to compensate for the years of heavy historical research he’d put into his excellent book Empireland, he decided to set off on a sort of pilgrimage in search of his dead hero.
@@ -29,7 +45,7 @@ First stop was Mondial Cars, a showroom in Northwood, north London, which used t
             <pubDate>Fri, 12 Jun 2026 11:36:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The politically incorrect heyday of noughties gaming]]></title>
+            <title><![CDATA[The politically incorrect heyday of 2000s gaming]]></title>
             <description><![CDATA[By Jimmy Nicholls]]></description>
             <link>https://spectator.com/article/noughties-gaming-culture-wasnt-toxic/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/noughties-gaming-culture-wasnt-toxic/?edition=us</guid>
@@ -4015,22 +4031,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/zohran-mamdani-charles-iii-idea-british-crown/?edition=us</guid>
             <dc:creator><![CDATA[Peter Wood]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 02:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The US is back in charge of the oil industry]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/us-back-charge-oil-industry-uae-opec/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/us-back-charge-oil-industry-uae-opec/?edition=us</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 02:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The King’s speech: disagreement should not become divorce]]></title>
-            <description><![CDATA[By Lee Cohen]]></description>
-            <link>https://spectator.com/article/the-kings-speech-disagreement-should-not-become-divorce/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-kings-speech-disagreement-should-not-become-divorce/?edition=us</guid>
-            <dc:creator><![CDATA[Lee Cohen]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 21:00:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 23:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 02:34:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Jun 2026 23:09:38 GMT</pubDate>
+        <pubDate>Sat, 13 Jun 2026 02:34:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My Memorial Day pilgrimage to a Pennsylvania Walmart]]></title>
+            <description><![CDATA[By Josie Cox]]></description>
+            <link>https://spectator.com/article/memorial-day-pilgrimage-pennsylvania-walmart/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/memorial-day-pilgrimage-pennsylvania-walmart/?edition=us</guid>
+            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
+            <pubDate>Sat, 13 Jun 2026 02:34:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How iPhones became birth control]]></title>
+            <description><![CDATA[By Freya India]]></description>
+            <link>https://spectator.com/article/iphones-became-birth-control/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/iphones-became-birth-control/?edition=us</guid>
+            <dc:creator><![CDATA[Freya India]]></dc:creator>
+            <pubDate>Sat, 13 Jun 2026 02:34:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why I’m increasingly drawn to optimistic sci-fi]]></title>
             <description><![CDATA[By James Delingpole]]></description>
@@ -26,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[The importance of fairy tales in testing times]]></title>
-            <description><![CDATA[By Elizabeth Garner]]></description>
+            <description><![CDATA[In the realm of magic and imagination, human nature can be better understood than in the world of our everyday lives: “The best of our tales do not lie or die.” It is a bold claim, which the folklorist Jack Zipes explores across continents and class in a series of essays. He guides the reader from the origin of oral storytelling, through medieval writings, to 17th-century literary salons and finally to today’s cinema screens. In the course of this journey, he focuses on the specific genre of the “wonder tale,” in which “those who are naive and simple are able to succeed because they are untainted and can recognize the wondrous signs... They have not been spoiled by conventionalism, power or rationalism.]]></description>
             <link>https://spectator.com/article/the-importance-of-fairy-tales-in-testing-times/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-importance-of-fairy-tales-in-testing-times/?edition=us</guid>
             <dc:creator><![CDATA[Elizabeth Garner]]></dc:creator>
@@ -4011,22 +4027,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/why-trump-will-resume-bombing-iran/?edition=us</guid>
             <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
             <pubDate>Thu, 30 Apr 2026 05:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finland’s sad secret to happiness]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/finlands-found-the-sad-secret-to-happiness/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/finlands-found-the-sad-secret-to-happiness/?edition=us</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 19:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The spies who are loved]]></title>
-            <description><![CDATA[By Travis Aaroe]]></description>
-            <link>https://spectator.com/article/spies-loved-james-comey/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/spies-loved-james-comey/?edition=us</guid>
-            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 19:11:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

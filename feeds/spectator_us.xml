@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 04:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 08:37:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 04:25:11 GMT</pubDate>
+        <pubDate>Sun, 14 Jun 2026 08:37:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is your therapist trying to brainwash you?]]></title>
+            <description><![CDATA[By Robin Atkins]]></description>
+            <link>https://spectator.com/article/is-your-therapist-trying-to-brainwash-you/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-your-therapist-trying-to-brainwash-you/?edition=us</guid>
+            <dc:creator><![CDATA[Robin Atkins]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 08:37:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Trump’s birthday extravaganza his last hurrah?]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/trumps-birthday-extravaganza-is-his-last-hurrah/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-birthday-extravaganza-is-his-last-hurrah/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 08:37:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arcade Fire extinguished]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -98,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[The importance of fairy tales in testing times]]></title>
-            <description><![CDATA[By Elizabeth Garner]]></description>
+            <description><![CDATA[In the realm of magic and imagination, human nature can be better understood than in the world of our everyday lives: “The best of our tales do not lie or die.” It is a bold claim, which the folklorist Jack Zipes explores across continents and class in a series of essays. He guides the reader from the origin of oral storytelling, through medieval writings, to 17th-century literary salons and finally to today’s cinema screens. In the course of this journey, he focuses on the specific genre of the “wonder tale,” in which “those who are naive and simple are able to succeed because they are untainted and can recognize the wondrous signs... They have not been spoiled by conventionalism, power or rationalism.]]></description>
             <link>https://spectator.com/article/the-importance-of-fairy-tales-in-testing-times/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-importance-of-fairy-tales-in-testing-times/?edition=us</guid>
             <dc:creator><![CDATA[Elizabeth Garner]]></dc:creator>
@@ -4011,22 +4027,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <guid isPermaLink="true">https://spectator.com/article/the-cattle-rustlers-have-returned/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Aidan Hartley]]></dc:creator>
             <pubDate>Fri, 01 May 2026 10:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bermuda is loyal to the King]]></title>
-            <description><![CDATA[By Paolo Odoli]]></description>
-            <link>https://spectator.com/article/bermuda-loyal-king-charles-iii/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/bermuda-loyal-king-charles-iii/?edition=us</guid>
-            <dc:creator><![CDATA[Paolo Odoli]]></dc:creator>
-            <pubDate>Fri, 01 May 2026 02:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reflections on the Moon]]></title>
-            <description><![CDATA[By Bill Kauffman]]></description>
-            <link>https://spectator.com/article/reflections-on-the-moon/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/reflections-on-the-moon/?edition=us</guid>
-            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 20:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

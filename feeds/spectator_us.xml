@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 11:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 13:41:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 11:24:35 GMT</pubDate>
+        <pubDate>Sun, 14 Jun 2026 13:41:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A 147-year-old British shoemaker from Northampton has designs on your loafers]]></title>
+            <description><![CDATA[By Eric Walker]]></description>
+            <link>https://spectator.com/article/a-147-year-old-british-shoemaker-from-northampton-has-designs-on-your-loafers/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-147-year-old-british-shoemaker-from-northampton-has-designs-on-your-loafers/?edition=us</guid>
+            <dc:creator><![CDATA[Eric Walker]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 13:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A murder-free cruise down the Nile on the 1920s steam ship that inspired an Agatha Christie classic]]></title>
+            <description><![CDATA[By Joanne Glasbey]]></description>
+            <link>https://spectator.com/article/a-murder-free-cruise-down-the-nile-on-the-1920s-steam-ship-that-inspired-an-agatha-christie-classic/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-murder-free-cruise-down-the-nile-on-the-1920s-steam-ship-that-inspired-an-agatha-christie-classic/?edition=us</guid>
+            <dc:creator><![CDATA[Joanne Glasbey]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 13:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s birthday UFC fight is a seminal moment in US politics]]></title>
+            <description><![CDATA[By Maximillian Garely]]></description>
+            <link>https://spectator.com/article/trumps-birthday-ufc-fight-is-a-seminal-moment-in-us-politics/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-birthday-ufc-fight-is-a-seminal-moment-in-us-politics/?edition=us</guid>
+            <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 13:41:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is your therapist trying to brainwash you?]]></title>
             <description><![CDATA[By Robin Atkins]]></description>
@@ -4002,30 +4026,6 @@ Trump has, on Truth Social at least, extended his ceasefire “indefinitely” w
             <link>https://spectator.com/article/my-night-under-fire-at-the-white-house-correspondents-dinner/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/my-night-under-fire-at-the-white-house-correspondents-dinner/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Fri, 01 May 2026 10:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The real reason we should be burning our own gas]]></title>
-            <description><![CDATA[The Wiki Man]]></description>
-            <link>https://spectator.com/article/the-real-reason-we-should-be-burning-our-own-gas/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-we-should-be-burning-our-own-gas/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
-            <pubDate>Fri, 01 May 2026 10:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How will Trump solve the Iran problem?]]></title>
-            <description><![CDATA[By Spectator Editorial]]></description>
-            <link>https://spectator.com/article/how-will-trump-solve-the-iran-problem/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-will-trump-solve-the-iran-problem/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Fri, 01 May 2026 10:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The cattle rustlers have returned]]></title>
-            <description><![CDATA[Wild life]]></description>
-            <link>https://spectator.com/article/the-cattle-rustlers-have-returned/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-cattle-rustlers-have-returned/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Aidan Hartley]]></dc:creator>
             <pubDate>Fri, 01 May 2026 10:17:15 GMT</pubDate>
         </item>
     </channel>

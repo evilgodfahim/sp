@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 15:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 17:10:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 15:43:42 GMT</pubDate>
+        <pubDate>Sun, 14 Jun 2026 17:10:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump is treating AI like a nuclear bomb]]></title>
+            <description><![CDATA[By Maximillian Garely]]></description>
+            <link>https://spectator.com/article/trump-is-treating-ai-like-a-nuclear-bomb/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-is-treating-ai-like-a-nuclear-bomb/</guid>
+            <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 17:10:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My love for black and white birds]]></title>
             <description><![CDATA[By William Atkinson]]></description>
@@ -4030,14 +4038,6 @@ Eventually Montgomery Clift was cast instead, which was just as well because Fre
             <link>https://spectator.com/article/was-marcel-duchamps-notorious-fountain-even-his-own-work/?homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/was-marcel-duchamps-notorious-fountain-even-his-own-work/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Lynn Barber]]></dc:creator>
-            <pubDate>Fri, 22 May 2026 13:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s wrong with supermarkets making money?]]></title>
-            <description><![CDATA[By Matthew Bowles]]></description>
-            <link>https://spectator.com/article/whats-wrong-with-supermarkets-making-money/</link>
-            <guid isPermaLink="true">https://spectator.com/article/whats-wrong-with-supermarkets-making-money/</guid>
-            <dc:creator><![CDATA[Matthew Bowles]]></dc:creator>
             <pubDate>Fri, 22 May 2026 13:24:46 GMT</pubDate>
         </item>
     </channel>

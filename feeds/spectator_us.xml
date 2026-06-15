@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 12:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 17:58:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jun 2026 12:59:02 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 17:58:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spencer Pratt teams up with Karen Bass’s brother to sue Mayor for ‘reckless negligence’ during fires]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/spencer-pratt-karen-bass-brother-sue-mayor-negligence-fires/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/spencer-pratt-karen-bass-brother-sue-mayor-negligence-fires/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 17:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa’s migration warning to the West]]></title>
+            <description><![CDATA[By Robert King]]></description>
+            <link>https://spectator.com/article/south-africas-migration-warning-to-the-west/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/south-africas-migration-warning-to-the-west/?edition=us</guid>
+            <dc:creator><![CDATA[Robert King]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 17:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many people did Australia’s backpacker murderer kill?]]></title>
+            <description><![CDATA[By Terry Barnes]]></description>
+            <link>https://spectator.com/article/how-many-people-did-australias-backpacker-murderer-kill/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-many-people-did-australias-backpacker-murderer-kill/?edition=us</guid>
+            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 17:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Keir Starmer’s under-16 social media ban actually work?]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/will-starmers-under-16-social-media-ban-actually-work/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-starmers-under-16-social-media-ban-actually-work/?edition=us</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 17:58:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Decluttering is the ultimate act of love]]></title>
             <description><![CDATA[By Olenka Hamilton]]></description>
@@ -3987,38 +4019,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/shameless-britain-we-are-a-nation-of-shoplifters/?edition=us</guid>
             <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
             <pubDate>Fri, 01 May 2026 22:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[J.G. Ballard’s surreal fiction continues to resonate through the century]]></title>
-            <description><![CDATA[By Michael Moorcock]]></description>
-            <link>https://spectator.com/article/j-g-ballards-surreal-fiction-continues-to-resonate-through-the-century/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/j-g-ballards-surreal-fiction-continues-to-resonate-through-the-century/?edition=us</guid>
-            <dc:creator><![CDATA[Michael Moorcock]]></dc:creator>
-            <pubDate>Fri, 01 May 2026 22:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Olly Robbins’s next move]]></title>
-            <description><![CDATA[By Charles Moore]]></description>
-            <link>https://spectator.com/article/no-one-seems-sure-about-why-olly-robbins-had-to-go/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/no-one-seems-sure-about-why-olly-robbins-had-to-go/?edition=us</guid>
-            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
-            <pubDate>Fri, 01 May 2026 21:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Britain ready for Chancellor Ed Miliband?]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/is-the-country-ready-for-chancellor-ed-miliband/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-country-ready-for-chancellor-ed-miliband/?edition=us</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Fri, 01 May 2026 21:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans think they want the ‘real Ireland.’ They don’t]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
-            <link>https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/americans-think-they-want-the-real-ireland-they-dont/?edition=us</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Fri, 01 May 2026 21:44:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

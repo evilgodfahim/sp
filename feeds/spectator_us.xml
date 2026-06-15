@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 20:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 22:57:24 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jun 2026 20:46:53 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 22:57:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[None of McCartney’s new songs will trouble his setlist for long]]></title>
+            <description><![CDATA[By Graeme Thomson]]></description>
+            <link>https://spectator.com/article/none-of-mccartneys-new-songs-will-trouble-his-setlist-for-long/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/none-of-mccartneys-new-songs-will-trouble-his-setlist-for-long/?edition=us</guid>
+            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 22:57:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spencer Pratt teams up with Karen Bass’s brother to sue Mayor for ‘reckless negligence’ during fires]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -242,7 +250,7 @@
         </item>
         <item>
             <title><![CDATA[The importance of fairy tales in testing times]]></title>
-            <description><![CDATA[In the realm of magic and imagination, human nature can be better understood than in the world of our everyday lives: “The best of our tales do not lie or die.” It is a bold claim, which the folklorist Jack Zipes explores across continents and class in a series of essays. He guides the reader from the origin of oral storytelling, through medieval writings, to 17th-century literary salons and finally to today’s cinema screens. In the course of this journey, he focuses on the specific genre of the “wonder tale,” in which “those who are naive and simple are able to succeed because they are untainted and can recognize the wondrous signs... They have not been spoiled by conventionalism, power or rationalism.]]></description>
+            <description><![CDATA[By Elizabeth Garner]]></description>
             <link>https://spectator.com/article/the-importance-of-fairy-tales-in-testing-times/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-importance-of-fairy-tales-in-testing-times/?edition=us</guid>
             <dc:creator><![CDATA[Elizabeth Garner]]></dc:creator>
@@ -4010,14 +4018,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <link>https://spectator.com/article/greenshirts-on-the-march/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/greenshirts-on-the-march/?edition=us</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
-            <pubDate>Fri, 01 May 2026 22:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shameless Britain: we are a nation of shoplifters]]></title>
-            <description><![CDATA[By Mary Wakefield]]></description>
-            <link>https://spectator.com/article/shameless-britain-we-are-a-nation-of-shoplifters/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/shameless-britain-we-are-a-nation-of-shoplifters/?edition=us</guid>
-            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
             <pubDate>Fri, 01 May 2026 22:41:39 GMT</pubDate>
         </item>
     </channel>

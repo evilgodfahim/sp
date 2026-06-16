@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 22:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 00:28:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jun 2026 22:57:29 GMT</pubDate>
+        <pubDate>Tue, 16 Jun 2026 00:28:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Twenty ways to fix Doctor Who]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/twenty-ways-to-fix-doctor-who/</link>
+            <guid isPermaLink="true">https://spectator.com/article/twenty-ways-to-fix-doctor-who/</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Tue, 16 Jun 2026 00:28:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Assisted suicide is morally inadmissible]]></title>
             <description><![CDATA[Vote it down]]></description>
@@ -4027,14 +4035,6 @@ He has produced the most powerful political document of the year, taking on the 
             <guid isPermaLink="true">https://spectator.com/article/inside-the-ukrainian-armys-art-division/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Matthew Palmer]]></dc:creator>
             <pubDate>Sat, 23 May 2026 11:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The National Garden Scheme is the perfect antidote to Chelsea’s vanity]]></title>
-            <description><![CDATA[By Flora Watkins]]></description>
-            <link>https://spectator.com/article/the-national-garden-scheme-is-the-perfect-antidote-to-chelseas-vanity/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-national-garden-scheme-is-the-perfect-antidote-to-chelseas-vanity/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
-            <pubDate>Sat, 23 May 2026 08:24:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

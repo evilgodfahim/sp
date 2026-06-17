@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Jun 2026 14:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 17:45:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Jun 2026 14:53:15 GMT</pubDate>
+        <pubDate>Wed, 17 Jun 2026 17:45:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The strange divide at Labour’s Makerfield HQ]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/the-strange-divide-at-labours-makerfield-hq/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-strange-divide-at-labours-makerfield-hq/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 17:45:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Civil service grifting hits new heights]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -17,7 +25,7 @@
             <pubDate>Wed, 17 Jun 2026 14:53:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I know the perfect two words to describe this zombie parliament]]></title>
+            <title><![CDATA[The perfect two words to describe this zombie parliament]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
             <link>https://spectator.com/article/i-know-the-perfect-two-words-to-describe-this-zombie-parliament/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-know-the-perfect-two-words-to-describe-this-zombie-parliament/</guid>
@@ -98,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Will the Iran deal destroy J.D. Vance?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
+            <description><![CDATA[Battle for peace]]></description>
             <link>https://spectator.com/article/will-the-iran-deal-destroy-j-d-vance/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-the-iran-deal-destroy-j-d-vance/</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
@@ -4026,14 +4034,6 @@ He has produced the most powerful political document of the year, taking on the 
             <link>https://spectator.com/article/why-greta-is-so-angry-about-swedish-immigration/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-greta-is-so-angry-about-swedish-immigration/</guid>
             <dc:creator><![CDATA[Fredrik Karrholm]]></dc:creator>
-            <pubDate>Tue, 26 May 2026 06:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The war in Iran has taken the colour out of Japan’s crisps]]></title>
-            <description><![CDATA[By Philip Patrick]]></description>
-            <link>https://spectator.com/article/the-war-in-iran-has-taken-the-colour-out-of-japans-crisps/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-war-in-iran-has-taken-the-colour-out-of-japans-crisps/</guid>
-            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
             <pubDate>Tue, 26 May 2026 06:40:49 GMT</pubDate>
         </item>
     </channel>

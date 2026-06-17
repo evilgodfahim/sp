@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Jun 2026 00:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 06:02:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Jun 2026 00:10:43 GMT</pubDate>
+        <pubDate>Wed, 17 Jun 2026 06:02:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump is in a sea of trouble over Iran]]></title>
+            <description><![CDATA[TACO]]></description>
+            <link>https://spectator.com/article/trump-is-in-a-sea-of-trouble-over-iran/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-is-in-a-sea-of-trouble-over-iran/</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 06:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A toff’s guide to Ascot]]></title>
+            <description><![CDATA[Good sport]]></description>
+            <link>https://spectator.com/article/how-to-be-an-ascot-lady/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-be-an-ascot-lady/</guid>
+            <dc:creator><![CDATA[Sybilla Hart]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 06:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The safety features in my car are downright dangerous]]></title>
+            <description><![CDATA[Highway to hell]]></description>
+            <link>https://spectator.com/article/the-safety-features-on-my-car-are-dangerous/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-safety-features-on-my-car-are-dangerous/</guid>
+            <dc:creator><![CDATA[Esther Walker]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 06:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why do I get stuck with bores at parties?]]></title>
+            <description><![CDATA[Yawn]]></description>
+            <link>https://spectator.com/article/why-do-i-get-stuck-with-bores-at-parties/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-do-i-get-stuck-with-bores-at-parties/</guid>
+            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 06:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Norman Balon was much more than ‘London’s rudest landlord’]]></title>
+            <description><![CDATA[Raising the bar]]></description>
+            <link>https://spectator.com/article/norman-balon-was-much-more-than-londons-rudest-landlord/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/norman-balon-was-much-more-than-londons-rudest-landlord/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Christopher Howse]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 06:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beware the ‘matrescence’ con]]></title>
+            <description><![CDATA[Motherhood]]></description>
+            <link>https://spectator.com/article/beware-the-matrescence-con/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/beware-the-matrescence-con/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Lara Prendergast]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 06:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Islamism, the Muslim Brotherhood and the limits of Labour’s resolve]]></title>
+            <description><![CDATA[By Dean Godson]]></description>
+            <link>https://spectator.com/article/islamism-the-muslim-brotherhood-and-the-limits-of-labours-resolve/</link>
+            <guid isPermaLink="true">https://spectator.com/article/islamism-the-muslim-brotherhood-and-the-limits-of-labours-resolve/</guid>
+            <dc:creator><![CDATA[Dean Godson]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 06:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It was inevitable that Prince George would go to Eton]]></title>
+            <description><![CDATA[Royal family]]></description>
+            <link>https://spectator.com/article/it-was-inevitable-that-prince-george-would-go-to-eton/</link>
+            <guid isPermaLink="true">https://spectator.com/article/it-was-inevitable-that-prince-george-would-go-to-eton/</guid>
+            <dc:creator><![CDATA[Harry Mount]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 06:02:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kemi Badenoch: Starmer must stop pony slaughter]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -66,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[Has America given up on Israel?]]></title>
-            <description><![CDATA[By Arieh Kovler]]></description>
+            <description><![CDATA[Iran deal]]></description>
             <link>https://spectator.com/article/has-american-given-up-on-israel/</link>
             <guid isPermaLink="true">https://spectator.com/article/has-american-given-up-on-israel/</guid>
             <dc:creator><![CDATA[Arieh Kovler]]></dc:creator>
@@ -98,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[Tips for the first three days of Royal Ascot]]></title>
-            <description><![CDATA[Race bets]]></description>
+            <description><![CDATA[By Penworthy]]></description>
             <link>https://spectator.com/article/tips-for-the-first-three-days-of-royal-ascot/</link>
             <guid isPermaLink="true">https://spectator.com/article/tips-for-the-first-three-days-of-royal-ascot/</guid>
             <dc:creator><![CDATA[Penworthy]]></dc:creator>
@@ -106,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Meet my snooty AI sommelier]]></title>
-            <description><![CDATA[Bottle shock]]></description>
+            <description><![CDATA[By Zoe Strimpel]]></description>
             <link>https://spectator.com/article/meet-my-sommelier-claude/</link>
             <guid isPermaLink="true">https://spectator.com/article/meet-my-sommelier-claude/</guid>
             <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
@@ -186,7 +250,7 @@
         </item>
         <item>
             <title><![CDATA[David Hockney was a style icon]]></title>
-            <description><![CDATA[The splash]]></description>
+            <description><![CDATA[By Josh Sims]]></description>
             <link>https://spectator.com/article/david-hockney-was-a-style-icon/</link>
             <guid isPermaLink="true">https://spectator.com/article/david-hockney-was-a-style-icon/</guid>
             <dc:creator><![CDATA[Josh Sims]]></dc:creator>
@@ -194,7 +258,7 @@
         </item>
         <item>
             <title><![CDATA[Twenty ways to fix Doctor Who]]></title>
-            <description><![CDATA[BBC]]></description>
+            <description><![CDATA[By Gareth Roberts]]></description>
             <link>https://spectator.com/article/twenty-ways-to-fix-doctor-who/</link>
             <guid isPermaLink="true">https://spectator.com/article/twenty-ways-to-fix-doctor-who/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -974,7 +1038,7 @@ Spring has not been cancelled. Neither have the arts ceased to function. David H
         </item>
         <item>
             <title><![CDATA[Beware the ‘matrescence’ con]]></title>
-            <description><![CDATA[By Lara Prendergast]]></description>
+            <description><![CDATA[Motherhood]]></description>
             <link>https://spectator.com/article/beware-the-matrescence-con/</link>
             <guid isPermaLink="true">https://spectator.com/article/beware-the-matrescence-con/</guid>
             <dc:creator><![CDATA[Lara Prendergast]]></dc:creator>
@@ -1186,7 +1250,7 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
         </item>
         <item>
             <title><![CDATA[Norman Balon was much more than ‘London’s rudest landlord’]]></title>
-            <description><![CDATA[By Christopher Howse]]></description>
+            <description><![CDATA[Raising the bar]]></description>
             <link>https://spectator.com/article/norman-balon-was-much-more-than-londons-rudest-landlord/</link>
             <guid isPermaLink="true">https://spectator.com/article/norman-balon-was-much-more-than-londons-rudest-landlord/</guid>
             <dc:creator><![CDATA[Christopher Howse]]></dc:creator>
@@ -1202,7 +1266,7 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
         </item>
         <item>
             <title><![CDATA[From Holbein to Snapchat, how royals have mastered their own image]]></title>
-            <description><![CDATA[Golden rules]]></description>
+            <description><![CDATA[By Wendy Holden]]></description>
             <link>https://spectator.com/article/from-holbein-to-snapchat-how-royals-have-mastered-their-own-image/</link>
             <guid isPermaLink="true">https://spectator.com/article/from-holbein-to-snapchat-how-royals-have-mastered-their-own-image/</guid>
             <dc:creator><![CDATA[Wendy Holden]]></dc:creator>
@@ -3971,70 +4035,6 @@ He has produced the most powerful political document of the year, taking on the 
             <guid isPermaLink="true">https://spectator.com/article/the-global-ramifications-of-chinas-economic-crisis/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[James Price]]></dc:creator>
             <pubDate>Mon, 25 May 2026 07:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The war in Iran has taken the colour out of Japan’s crisps]]></title>
-            <description><![CDATA[Shortages]]></description>
-            <link>https://spectator.com/article/the-war-in-iran-has-taken-the-colour-out-of-japans-crisps/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-war-in-iran-has-taken-the-colour-out-of-japans-crisps/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 07:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My pet transport hell]]></title>
-            <description><![CDATA[By Lynne O’Donnell]]></description>
-            <link>https://spectator.com/article/my-pet-transport-hell/</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-pet-transport-hell/</guid>
-            <dc:creator><![CDATA[Lynne O’Donnell]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 07:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Blob is already getting ready to take down Reform]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
-            <link>https://spectator.com/article/the-blob-is-already-getting-ready-to-take-down-reform/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-blob-is-already-getting-ready-to-take-down-reform/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 07:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A painful pension crunch is coming for Generation X]]></title>
-            <description><![CDATA[By James Kirkup]]></description>
-            <link>https://spectator.com/article/a-painful-pension-crunch-is-coming-for-generation-x/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-painful-pension-crunch-is-coming-for-generation-x/</guid>
-            <dc:creator><![CDATA[James Kirkup]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 07:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about the peacocks of Punta Marina]]></title>
-            <description><![CDATA[By Nicholas Farrell]]></description>
-            <link>https://spectator.com/article/peacocks-havent-invaded-this-italian-town/</link>
-            <guid isPermaLink="true">https://spectator.com/article/peacocks-havent-invaded-this-italian-town/</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 07:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Celebration Day isn’t nonsense]]></title>
-            <description><![CDATA[By Prue Leith]]></description>
-            <link>https://spectator.com/article/why-celebration-day-isnt-nonsense/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-celebration-day-isnt-nonsense/</guid>
-            <dc:creator><![CDATA[Prue Leith]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 07:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are Trump’s would-be assassins so forgettable?]]></title>
-            <description><![CDATA[White House shooting]]></description>
-            <link>https://spectator.com/article/why-are-trumps-would-be-assassins-so-forgettable/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-are-trumps-would-be-assassins-so-forgettable/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 07:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Enhanced Games isn’t what you think it is]]></title>
-            <description><![CDATA[By Mike Jakeman]]></description>
-            <link>https://spectator.com/article/the-enhanced-games-isnt-what-you-think-it-is/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-enhanced-games-isnt-what-you-think-it-is/</guid>
-            <dc:creator><![CDATA[Mike Jakeman]]></dc:creator>
-            <pubDate>Sun, 24 May 2026 14:56:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

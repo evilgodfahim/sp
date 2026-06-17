@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Jun 2026 06:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 11:28:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Jun 2026 06:02:04 GMT</pubDate>
+        <pubDate>Wed, 17 Jun 2026 11:28:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My new job at the Amazon packing factory]]></title>
+            <description><![CDATA[No life]]></description>
+            <link>https://spectator.com/article/my-new-job-at-the-amazon-packing-factory/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-new-job-at-the-amazon-packing-factory/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 11:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump has betrayed voters on inflation]]></title>
+            <description><![CDATA[Sunk costs]]></description>
+            <link>https://spectator.com/article/trump-has-betrayed-voters-on-inflation/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-has-betrayed-voters-on-inflation/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 11:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump has been humbled over Iran]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/trump-has-been-humbled-over-iran/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-has-been-humbled-over-iran/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 11:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘great man’ era is passing away]]></title>
+            <description><![CDATA[By Daniel McCarthy]]></description>
+            <link>https://spectator.com/article/the-great-man-era-is-passing-away/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-great-man-era-is-passing-away/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 11:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The President is winning the geopolitical battle with China]]></title>
+            <description><![CDATA[Trump’s global coup]]></description>
+            <link>https://spectator.com/article/the-president-is-winning-the-geopolitical-battle-with-china/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-president-is-winning-the-geopolitical-battle-with-china/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Francis Pike]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 11:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the Iran deal destroy J.D. Vance?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/will-the-iran-deal-destroy-j-d-vance/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-the-iran-deal-destroy-j-d-vance/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 11:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The coming storm against MAGA]]></title>
+            <description><![CDATA[By Blake Neff]]></description>
+            <link>https://spectator.com/article/coming-storm-maga-demagafication/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/coming-storm-maga-demagafication/?edition=us</guid>
+            <dc:creator><![CDATA[Blake Neff]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 11:28:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[J.D. Vance versus The View]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -3967,62 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/donroe-doctrine-really-change-venezuela/?edition=us</guid>
             <dc:creator><![CDATA[Carlos Flores]]></dc:creator>
             <pubDate>Tue, 05 May 2026 05:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life is a Cabaret: inside Liza Minnelli’s memoir]]></title>
-            <description><![CDATA[By Roger Lewis]]></description>
-            <link>https://spectator.com/article/life-cabaret-inside-liza-minnelli-memoir/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/life-cabaret-inside-liza-minnelli-memoir/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Lewis]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 02:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voters get the politicians they deserve – so Britain should get ready for PM Polanski]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
-            <link>https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/?edition=us</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 02:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s the corruption, stupid!]]></title>
-            <description><![CDATA[By John Fund]]></description>
-            <link>https://spectator.com/article/corruption-stupid-trump-administration/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/corruption-stupid-trump-administration/?edition=us</guid>
-            <dc:creator><![CDATA[John Fund]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 02:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The internet is dying and so are we]]></title>
-            <description><![CDATA[By Bridget Phetasy]]></description>
-            <link>https://spectator.com/article/the-internet-is-dying-and-so-are-we/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-internet-is-dying-and-so-are-we/?edition=us</guid>
-            <dc:creator><![CDATA[Bridget Phetasy]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 20:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia is running out of workers]]></title>
-            <description><![CDATA[By Alexander Kolyandr]]></description>
-            <link>https://spectator.com/article/russia-is-running-out-of-workers/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/russia-is-running-out-of-workers/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 15:05:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venezuela has become another American puppet state]]></title>
-            <description><![CDATA[By Niko Vorobyov]]></description>
-            <link>https://spectator.com/article/venezuela-has-become-another-american-puppet-state/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/venezuela-has-become-another-american-puppet-state/?edition=us</guid>
-            <dc:creator><![CDATA[Niko Vorobyov]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 15:05:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain is facing an Islamist insurgency]]></title>
-            <description><![CDATA[By Simon Diggins]]></description>
-            <link>https://spectator.com/article/we-have-it-should-be-clear-to-all-a-major-problem-that-we-are-not-addressing-a-failure-would-not-just-be-another-crisis/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-have-it-should-be-clear-to-all-a-major-problem-that-we-are-not-addressing-a-failure-would-not-just-be-another-crisis/?edition=us</guid>
-            <dc:creator><![CDATA[Simon Diggins]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 15:05:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

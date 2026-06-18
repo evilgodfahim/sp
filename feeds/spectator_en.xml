@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 16:54:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 19:19:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 16:54:37 GMT</pubDate>
+        <pubDate>Thu, 18 Jun 2026 19:19:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Watch: Reform MP’s bizarre domestic violence football message]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-reform-mps-bizarre-domestic-violence-football-message/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-reform-mps-bizarre-domestic-violence-football-message/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 19:19:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Only Iran is happy with Trump’s peace deal]]></title>
             <description><![CDATA[By Daniel DePetris]]></description>
@@ -4026,14 +4034,6 @@ Anne Lister was a real figure, a moneyed gentlewoman in early 19th-century Yorks
             <link>https://spectator.com/article/the-perfect-jazz-song-to-play-at-your-funeral/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-perfect-jazz-song-to-play-at-your-funeral/</guid>
             <dc:creator><![CDATA[Andrew Martin]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 23:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The appeal of doom, stoner and sludge metal]]></title>
-            <description><![CDATA[By Michael Hann]]></description>
-            <link>https://spectator.com/article/the-appeal-of-doom-stoner-and-sludge-metal/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-appeal-of-doom-stoner-and-sludge-metal/</guid>
-            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
             <pubDate>Wed, 27 May 2026 23:55:19 GMT</pubDate>
         </item>
     </channel>

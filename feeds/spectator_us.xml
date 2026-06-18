@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 10:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 13:57:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 10:07:26 GMT</pubDate>
+        <pubDate>Thu, 18 Jun 2026 13:57:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is it OK to be a horse guy?]]></title>
+            <description><![CDATA[By Gage Klipper]]></description>
+            <link>https://spectator.com/article/is-it-ok-to-be-a-horse-guy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-it-ok-to-be-a-horse-guy/?edition=us</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 13:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keir Starmer’s delusion is becoming tragic]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/keir-starmers-delusion-is-becoming-tragic/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmers-delusion-is-becoming-tragic/?edition=us</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 13:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet my snooty AI sommelier]]></title>
+            <description><![CDATA[By Zoe Strimpel]]></description>
+            <link>https://spectator.com/article/meet-my-sommelier-claude/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/meet-my-sommelier-claude/?edition=us</guid>
+            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 13:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America’s Anthropic blackout won’t make the world safer]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/americas-anthropic-blackout-wont-make-the-world-safer/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/americas-anthropic-blackout-wont-make-the-world-safer/?edition=us</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 13:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The New York Times’s twisted reporting of Henry Nowak’s murder]]></title>
+            <description><![CDATA[By Lionel Shriver]]></description>
+            <link>https://spectator.com/article/the-new-york-timess-twisted-reporting-of-henry-nowaks-murder/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-new-york-timess-twisted-reporting-of-henry-nowaks-murder/?edition=us</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 13:57:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My new job at the Amazon packing factory]]></title>
             <description><![CDATA[No life]]></description>
@@ -3983,46 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/we-all-know-how-cole-tomas-allen-was-radicalized/?edition=us&amp;homepage-tracking=magazine-article-4</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
             <pubDate>Tue, 05 May 2026 15:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the Iran ceasefire crumbling?]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/is-the-iran-ceasefire-crumbling/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-iran-ceasefire-crumbling/?edition=us</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 15:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fight me, Jim Acosta: Michael Tracey]]></title>
-            <description><![CDATA[Pundit duel]]></description>
-            <link>https://spectator.com/article/fight-me-jim-acosta-michael-tracey/?edition=us&amp;homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/fight-me-jim-acosta-michael-tracey/?edition=us&amp;homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Michael Tracey]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 15:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The nightmare of filming A Hard Day’s Night]]></title>
-            <description><![CDATA[By Helen Barrett]]></description>
-            <link>https://spectator.com/article/the-nightmare-of-filming-a-hard-days-night/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-nightmare-of-filming-a-hard-days-night/?edition=us</guid>
-            <dc:creator><![CDATA[Helen Barrett]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 13:17:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How good are the Rolling Stones’ alter egos, the Cockroaches?]]></title>
-            <description><![CDATA[By Graeme Thomson]]></description>
-            <link>https://spectator.com/article/how-good-are-the-rolling-stones-alter-egos-the-cockroaches/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-good-are-the-rolling-stones-alter-egos-the-cockroaches/?edition=us</guid>
-            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 13:17:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI could never replace me]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/ai-could-never-replace-me/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ai-could-never-replace-me/?edition=us</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 13:17:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

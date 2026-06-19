@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 12:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 15:56:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 12:49:55 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 15:56:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will Vance regret being the face of the Iran deal?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/will-vance-regret-being-the-face-of-the-iran-deal/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-vance-regret-being-the-face-of-the-iran-deal/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 15:56:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is it OK to be a horse guy?]]></title>
             <description><![CDATA[Country life]]></description>
@@ -4014,14 +4022,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <link>https://spectator.com/article/corruption-stupid-trump-administration/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/corruption-stupid-trump-administration/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[John Fund]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Tea-towel-gate’: another British travesty]]></title>
-            <description><![CDATA[Killjoys]]></description>
-            <link>https://spectator.com/article/tea-towel-gate-is-everything-wrong-with-modern-britain/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/tea-towel-gate-is-everything-wrong-with-modern-britain/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
         </item>
     </channel>

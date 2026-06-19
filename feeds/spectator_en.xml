@@ -4,12 +4,20 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 15:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 17:50:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 15:56:37 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 17:50:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Labour are heading for a catastrophic collision with reality]]></title>
+            <title><![CDATA[The nine contenders to be Burnham’s chancellor]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/the-nine-contenders-to-be-burnhams-chancellor/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-nine-contenders-to-be-burnhams-chancellor/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 17:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour’s heading for a catastrophic collision with reality]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
             <link>https://spectator.com/article/labour-are-heading-for-a-catastrophic-collision-with-reality/</link>
             <guid isPermaLink="true">https://spectator.com/article/labour-are-heading-for-a-catastrophic-collision-with-reality/</guid>
@@ -149,7 +157,7 @@ I think his horse, DARN HOT GALLOP has a big chance today of winning the Sandrin
             <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nigel Farage has questions to answer over Reform’s defeat]]></title>
+            <title><![CDATA[Nigel Farage has questions to answer over Reform’s defeat in Makerfield]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
             <link>https://spectator.com/article/nigel-farage-has-questions-to-answer-over-reforms-defeat-in-makerfield/</link>
             <guid isPermaLink="true">https://spectator.com/article/nigel-farage-has-questions-to-answer-over-reforms-defeat-in-makerfield/</guid>
@@ -4034,14 +4042,6 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
             <link>https://spectator.com/article/beef-olives-classic-comfort-food-without-an-olive-in-sight/</link>
             <guid isPermaLink="true">https://spectator.com/article/beef-olives-classic-comfort-food-without-an-olive-in-sight/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 10:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MPs don’t want to confront the youth worklessness crisis]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/the-obvious-solution-to-the-youth-worklessness-crisis/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-obvious-solution-to-the-youth-worklessness-crisis/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
             <pubDate>Thu, 28 May 2026 10:46:13 GMT</pubDate>
         </item>
     </channel>

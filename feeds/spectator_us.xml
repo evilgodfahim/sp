@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 03:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 08:59:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 03:29:09 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 08:59:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What will Iran do next?]]></title>
+            <description><![CDATA[By Charlie Gammell]]></description>
+            <link>https://spectator.com/article/iran-is-a-losers-victory/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/iran-is-a-losers-victory/?edition=us</guid>
+            <dc:creator><![CDATA[Charlie Gammell]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 08:59:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For J.D. Vance, Israel is the new Ukraine]]></title>
+            <description><![CDATA[By Ben Clerkin]]></description>
+            <link>https://spectator.com/article/for-j-d-vance-israel-is-the-new-ukraine/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/for-j-d-vance-israel-is-the-new-ukraine/?edition=us</guid>
+            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 08:59:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Paula White-Cain guides Trump through evangelical America]]></title>
             <description><![CDATA[By Sarah Beth Spraggins]]></description>
@@ -4007,22 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/can-ai-make-spencer-pratt-mayor/?edition=us</guid>
             <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What today’s Iran headlines don’t reveal about ‘Project Freedom’]]></title>
-            <description><![CDATA[By Andrew Cockburn]]></description>
-            <link>https://spectator.com/article/what-todays-iran-headlines-dont-reveal-about-project-freedom/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-todays-iran-headlines-dont-reveal-about-project-freedom/?edition=us</guid>
-            <dc:creator><![CDATA[Andrew Cockburn]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Abigail Spanberger want you to be fat and crazy?]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/does-abigail-spanberger-want-you-to-be-fat-and-crazy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-abigail-spanberger-want-you-to-be-fat-and-crazy/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 20:54:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

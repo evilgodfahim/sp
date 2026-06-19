@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 08:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 12:50:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 12:50:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Iran deal is not as good for the mullahs as it looks]]></title>
+            <description><![CDATA[By Charlie Gammell]]></description>
+            <link>https://spectator.com/article/iran-is-a-losers-victory/</link>
+            <guid isPermaLink="true">https://spectator.com/article/iran-is-a-losers-victory/</guid>
+            <dc:creator><![CDATA[Charlie Gammell]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 12:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Tories really beat the SNP in Aberdeen South]]></title>
+            <description><![CDATA[By Euan McColm]]></description>
+            <link>https://spectator.com/article/why-the-tories-really-beat-the-snp-in-aberdeen-south/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-tories-really-beat-the-snp-in-aberdeen-south/</guid>
+            <dc:creator><![CDATA[Euan McColm]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 12:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Makerfield backed Burnham]]></title>
+            <description><![CDATA[By Luke Tryl]]></description>
+            <link>https://spectator.com/article/why-makerfield-backed-burnham/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-makerfield-backed-burnham/</guid>
+            <dc:creator><![CDATA[Luke Tryl]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 12:50:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Four more Royal Ascot tips after a 25-1 winner]]></title>
             <description><![CDATA[Newmarket handler James Tate has his string in sparkling form and he doesn’t waste bullets by sending horses to Royal Ascot unless they have a chance of winning.
@@ -4019,30 +4043,6 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
             <guid isPermaLink="true">https://spectator.com/article/ai-ozzy-osbourne-is-a-terrible-idea/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Thu, 28 May 2026 10:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We cannot stop the small boats]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/we-cannot-stop-the-small-boats/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-cannot-stop-the-small-boats/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 10:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why don’t striking doctors tell the full story?]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/why-dont-striking-doctors-tell-the-full-story/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-dont-striking-doctors-tell-the-full-story/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 10:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When did Sturgeon first notice her husband’s kleptomania?]]></title>
-            <description><![CDATA[SNP]]></description>
-            <link>https://spectator.com/article/when-did-sturgeon-first-notice-her-husbands-kleptomania/</link>
-            <guid isPermaLink="true">https://spectator.com/article/when-did-sturgeon-first-notice-her-husbands-kleptomania/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 06:44:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

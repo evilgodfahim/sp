@@ -4,12 +4,36 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 08:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 12:49:55 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 08:59:39 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 12:49:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What will Iran do next?]]></title>
+            <title><![CDATA[Is it OK to be a horse guy?]]></title>
+            <description><![CDATA[Country life]]></description>
+            <link>https://spectator.com/article/is-it-ok-to-be-a-horse-guy/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-it-ok-to-be-a-horse-guy/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 12:49:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I take frog poison]]></title>
+            <description><![CDATA[By Patrick Smith]]></description>
+            <link>https://spectator.com/article/why-i-take-frog-poison/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-i-take-frog-poison/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Patrick Smith]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 12:49:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bond makes a great video game]]></title>
+            <description><![CDATA[The gamer]]></description>
+            <link>https://spectator.com/article/bond-makes-a-great-video-game/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/bond-makes-a-great-video-game/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 12:49:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran’s loser victory]]></title>
             <description><![CDATA[By Charlie Gammell]]></description>
             <link>https://spectator.com/article/iran-is-a-losers-victory/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/iran-is-a-losers-victory/?edition=us</guid>
@@ -17,7 +41,7 @@
             <pubDate>Fri, 19 Jun 2026 08:59:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[For J.D. Vance, Israel is the new Ukraine]]></title>
+            <title><![CDATA[Israel is the new Ukraine]]></title>
             <description><![CDATA[By Ben Clerkin]]></description>
             <link>https://spectator.com/article/for-j-d-vance-israel-is-the-new-ukraine/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/for-j-d-vance-israel-is-the-new-ukraine/?edition=us</guid>
@@ -3998,30 +4022,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <link>https://spectator.com/article/tea-towel-gate-is-everything-wrong-with-modern-britain/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/tea-towel-gate-is-everything-wrong-with-modern-britain/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The marvels of Cuba’s national botanic gardens]]></title>
-            <description><![CDATA[Havana life]]></description>
-            <link>https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voters get the politicians they deserve – so Britain should get ready for PM Polanski]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/voters-get-the-politicians-they-deserve-so-get-ready-for-pm-polanski/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can AI make Spencer Pratt mayor?]]></title>
-            <description><![CDATA[By Travis Aaroe]]></description>
-            <link>https://spectator.com/article/can-ai-make-spencer-pratt-mayor/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-ai-make-spencer-pratt-mayor/?edition=us</guid>
-            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
         </item>
     </channel>

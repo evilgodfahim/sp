@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 08:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 11:09:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 08:42:09 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 11:09:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why did the Bedford train accident happen?]]></title>
+            <description><![CDATA[By Christian Wolmar]]></description>
+            <link>https://spectator.com/article/why-did-the-bedford-train-accident-happen/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-did-the-bedford-train-accident-happen/</guid>
+            <dc:creator><![CDATA[Christian Wolmar]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 11:09:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham is going to be yet another terrible prime minister]]></title>
+            <description><![CDATA[By Ian Leslie]]></description>
+            <link>https://spectator.com/article/andy-burnham-is-going-to-be-yet-another-terrible-prime-minister/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-going-to-be-yet-another-terrible-prime-minister/</guid>
+            <dc:creator><![CDATA[Ian Leslie]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 11:09:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We found the limit of free speech at the Oxford Union]]></title>
             <description><![CDATA[Islam debate]]></description>
@@ -4028,22 +4044,6 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
             <link>https://spectator.com/article/do-you-know-the-local-mp-aye-she-runs-the-sauna-my-shetland-dispatch/?homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/do-you-know-the-local-mp-aye-she-runs-the-sauna-my-shetland-dispatch/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 09:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The vexed relationship of Winston Churchill and George V]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-vexed-relationship-of-winston-churchill-and-george-v/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-vexed-relationship-of-winston-churchill-and-george-v/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Andrew Roberts]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 09:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did ‘neoliberalism’ really wreck Britain?]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/did-neoliberalism-really-wreck-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/did-neoliberalism-really-wreck-britain/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
             <pubDate>Fri, 29 May 2026 09:37:43 GMT</pubDate>
         </item>
     </channel>

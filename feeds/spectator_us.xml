@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 11:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 13:30:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 11:09:09 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 13:30:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Not all portrayals of Sherlock Holmes hit the mark]]></title>
+            <description><![CDATA[By Julia Yost]]></description>
+            <link>https://spectator.com/article/not-all-portrayals-of-sherlock-holmes-hit-the-mark/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/not-all-portrayals-of-sherlock-holmes-hit-the-mark/?edition=us</guid>
+            <dc:creator><![CDATA[Julia Yost]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 13:30:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exploring Bologna from above]]></title>
+            <description><![CDATA[By Richard Koenig]]></description>
+            <link>https://spectator.com/article/exploring-bologna-from-above/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/exploring-bologna-from-above/?edition=us</guid>
+            <dc:creator><![CDATA[Richard Koenig]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 13:30:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are we becoming post-literate?]]></title>
             <description><![CDATA[By Katherine Dee]]></description>
@@ -4007,22 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/meloni-is-being-haunted-by-the-ghost-of-berlusconi/?edition=us</guid>
             <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
             <pubDate>Wed, 06 May 2026 19:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The slow death of Diversity, Equity and Inclusion]]></title>
-            <description><![CDATA[By Joanna Williams]]></description>
-            <link>https://spectator.com/article/the-slow-death-of-diversity-equity-and-inclusion/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-slow-death-of-diversity-equity-and-inclusion/?edition=us</guid>
-            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 19:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does The Odyssey confirm that Christopher Nolan is camp?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/does-the-odyssey-confirm-that-sir-christopher-nolan-is-camp/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-the-odyssey-confirm-that-sir-christopher-nolan-is-camp/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 17:23:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

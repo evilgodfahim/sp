@@ -4,10 +4,84 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 00:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 05:04:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 00:01:40 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How the King can help save Dartmoor’s ponies]]></title>
+            <description><![CDATA[By Alexander Fiske-Harrison]]></description>
+            <link>https://spectator.com/article/how-the-king-can-help-save-dartmoors-ponies/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-king-can-help-save-dartmoors-ponies/</guid>
+            <dc:creator><![CDATA[Alexander Fiske-Harrison]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir Christopher Wren’s one country church]]></title>
+            <description><![CDATA[Sir Christopher Wren did it all. 51 City Churches after the Great Fire of London. St Paul’s Cathedral. Hampton Court, Greenwich Hospital, Royal Hospital Chelsea… But he never built an English country church. Or did he? This weekend, I went to an enchanting service at St Mary’s, Ingestre, Staffordshire, to celebrate its 350th anniversary.
+
+
+
+
+
+There is only one document connecting Wren to the church – his design for ‘Mr Chetwynd’s tower’. The Chetwynds built the neighbouring pile, Ingestre Hall. Their descendant, Aaron Chetwynd, lives in the neighbouring stables and kindly asked me to give a talk on Wren at the Ingestre Hall orangery after the church service.
+
+
+
+Walk inside St Mary’s and it's spine-tinglingly moving.]]></description>
+            <link>https://spectator.com/article/sir-christopher-wrens-singular-country-church/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sir-christopher-wrens-singular-country-church/</guid>
+            <dc:creator><![CDATA[Harry Mount]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ben Stokes affair is unfortunate but funny]]></title>
+            <description><![CDATA[By Mike Jakeman]]></description>
+            <link>https://spectator.com/article/the-ben-stokes-affair-is-regrettably-quite-funny/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-ben-stokes-affair-is-regrettably-quite-funny/</guid>
+            <dc:creator><![CDATA[Mike Jakeman]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did the Iran war work?]]></title>
+            <description><![CDATA[By Vahid Beheshti]]></description>
+            <link>https://spectator.com/article/did-the-iran-war-work/</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-the-iran-war-work/</guid>
+            <dc:creator><![CDATA[Vahid Beheshti]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The BBC’s kids’ shows are worse than what’s on YouTube]]></title>
+            <description><![CDATA[By Joanna Williams]]></description>
+            <link>https://spectator.com/article/the-bbcs-kids-shows-are-worse-than-whats-on-youtube/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-bbcs-kids-shows-are-worse-than-whats-on-youtube/</guid>
+            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Ed Miliband want to ban your tumble dryer?]]></title>
+            <description><![CDATA[By John O'Neill]]></description>
+            <link>https://spectator.com/article/does-ed-miliband-want-to-ban-your-tumble-dryer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-ed-miliband-want-to-ban-your-tumble-dryer/</guid>
+            <dc:creator><![CDATA[John O'Neill]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We found the limit of free speech at the Oxford Union]]></title>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <link>https://spectator.com/article/we-found-the-limit-of-free-speech-at-the-oxford-union/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-found-the-limit-of-free-speech-at-the-oxford-union/</guid>
+            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The hard part starts now for Andy Burnham]]></title>
+            <description><![CDATA[By James Kirkup]]></description>
+            <link>https://spectator.com/article/the-hard-part-starts-now-for-andy-burnham/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-hard-part-starts-now-for-andy-burnham/</guid>
+            <dc:creator><![CDATA[James Kirkup]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The nine contenders to be Burnham’s chancellor]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -58,19 +132,7 @@
         </item>
         <item>
             <title><![CDATA[Four more Royal Ascot tips after a 25-1 winner]]></title>
-            <description><![CDATA[Newmarket handler James Tate has his string in sparkling form and he doesn’t waste bullets by sending horses to Royal Ascot unless they have a chance of winning.
-
-
-
-Tate has enjoyed six winners from 19 runners over the past fortnight for a winning strike rate of 32 per cent. His only runner so far this week at Royal Ascot, Blue Rc, was second in the Royal Hunt Cup at 28-1 to a well-handicapped horse in Rogue Diplomat.
-
-
-
-Tate doesn’t waste bullets by sending horses to Royal Ascot unless they have a chance of winning
-
-
-
-I think his horse, DARN HOT GALLOP has a big chance today of winning the Sandringham Stakes (5 p.m.). She is three wins from four races, her only defeat coming when she was outclassed in the Betfred 1,000 Guineas at Newmarket in early May.]]></description>
+            <description><![CDATA[By Penworthy]]></description>
             <link>https://spectator.com/article/four-more-royal-ascot-tips-after-a-25-1-winner/</link>
             <guid isPermaLink="true">https://spectator.com/article/four-more-royal-ascot-tips-after-a-25-1-winner/</guid>
             <dc:creator><![CDATA[Penworthy]]></dc:creator>
@@ -406,7 +468,11 @@ I think his horse, DARN HOT GALLOP has a big chance today of winning the Sandrin
         </item>
         <item>
             <title><![CDATA[The glorious silliness of tribute band names]]></title>
-            <description><![CDATA[By Anthony Whitehead]]></description>
+            <description><![CDATA[Seeing a tribute band can be a strange experience. There are your heroes on stage once more, magically rejuvenated and playing the music of your youth. You too feel briefly young again – until you notice everyone else at the gig is also at least 57.
+
+
+
+But as often as not the band is brilliant. They have lovingly tracked down the right guitars, effect pedals and amp settings in search of the perfect sound. They have styled their hair just so, applied the requisite tattoos and, at some obvious expense, commissioned perfect replicas of signature stage outfits. See Björn Again and the girls might come complete with the purple capes worn for Abba’s 1980 world tour before changing into the white-booted ‘SOS’ look.]]></description>
             <link>https://spectator.com/article/the-glorious-silliness-of-tribute-band-names/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-glorious-silliness-of-tribute-band-names/</guid>
             <dc:creator><![CDATA[Anthony Whitehead]]></dc:creator>
@@ -3979,70 +4045,6 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
             <guid isPermaLink="true">https://spectator.com/article/are-trump-and-netanyahu-heading-for-a-showdown/</guid>
             <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
             <pubDate>Fri, 29 May 2026 05:07:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We desperately need welfare reform]]></title>
-            <description><![CDATA[By Lana Hempsall]]></description>
-            <link>https://spectator.com/article/we-desperately-need-welfare-reform/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-desperately-need-welfare-reform/</guid>
-            <dc:creator><![CDATA[Lana Hempsall]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 17:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Henry Nowak and the evil of ‘anti-racism’]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/henry-nowak-and-the-evil-of-anti-racism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/henry-nowak-and-the-evil-of-anti-racism/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 17:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham demands more state control]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/andy-burnham-demands-more-state-control/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-demands-more-state-control/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 17:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Blair revival is the only hope for Britain]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/a-blair-revival-is-the-only-hope-for-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-blair-revival-is-the-only-hope-for-britain/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 14:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why doctors like me strike]]></title>
-            <description><![CDATA[By Mark Dawson]]></description>
-            <link>https://spectator.com/article/why-doctors-like-me-strike/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-doctors-like-me-strike/</guid>
-            <dc:creator><![CDATA[Mark Dawson]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 14:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The British Museum has let Jew hate win]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
-            <link>https://spectator.com/article/the-british-museum-has-let-jew-hate-win/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-british-museum-has-let-jew-hate-win/</guid>
-            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 14:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which party leader really rules social media?]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/which-party-leader-really-rules-social-media/</link>
-            <guid isPermaLink="true">https://spectator.com/article/which-party-leader-really-rules-social-media/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 14:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beef olives – classic comfort food, without an olive in sight]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
-            <link>https://spectator.com/article/beef-olives-classic-comfort-food-without-an-olive-in-sight/</link>
-            <guid isPermaLink="true">https://spectator.com/article/beef-olives-classic-comfort-food-without-an-olive-in-sight/</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 10:46:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 00:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 05:04:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 00:01:35 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 05:04:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[America is in a state of mass formation paralysis]]></title>
+            <description><![CDATA[By John Mac Ghlionn]]></description>
+            <link>https://spectator.com/article/america-is-in-a-state-of-mass-formation-paralysis/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-is-in-a-state-of-mass-formation-paralysis/?edition=us</guid>
+            <dc:creator><![CDATA[John Mac Ghlionn]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:04:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gabbard 2028, anyone?]]></title>
             <description><![CDATA[By Freddy Gray]]></description>
@@ -4015,14 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/maga-isnt-finished-its-just-getting-started/?edition=us</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
             <pubDate>Wed, 06 May 2026 15:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The marvels of Cuba’s national botanic gardens]]></title>
-            <description><![CDATA[By Ruaridh Nicoll]]></description>
-            <link>https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us</guid>
-            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

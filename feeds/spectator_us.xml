@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 22:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 00:01:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 22:44:29 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 00:01:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gabbard 2028, anyone?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/gabbard-2028-anyone/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/gabbard-2028-anyone/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 00:01:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will Vance regret being the face of the Iran deal?]]></title>
             <description><![CDATA[By Freddy Gray]]></description>
@@ -4014,14 +4022,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <link>https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us</guid>
             <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s the corruption, stupid!]]></title>
-            <description><![CDATA[By John Fund]]></description>
-            <link>https://spectator.com/article/corruption-stupid-trump-administration/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/corruption-stupid-trump-administration/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[John Fund]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:27:06 GMT</pubDate>
         </item>
     </channel>

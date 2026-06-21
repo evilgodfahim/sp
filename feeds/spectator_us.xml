@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 00:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 05:53:56 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 00:08:02 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 05:53:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did Billie Eilish get me deported?]]></title>
+            <description><![CDATA[By Drew Pavlou]]></description>
+            <link>https://spectator.com/article/billie-eilish-deported-drew-pavlo/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/billie-eilish-deported-drew-pavlo/?edition=us</guid>
+            <dc:creator><![CDATA[Drew Pavlou]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:53:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cocktails for a merry, tipsy Christmas]]></title>
+            <description><![CDATA[By Ross Anderson]]></description>
+            <link>https://spectator.com/article/cocktails-for-a-merry-tipsy-christmas/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/cocktails-for-a-merry-tipsy-christmas/?edition=us</guid>
+            <dc:creator><![CDATA[Ross Anderson]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:53:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The small Dutch town that said no to more asylum seekers]]></title>
+            <description><![CDATA[By Arnout Nuijt]]></description>
+            <link>https://spectator.com/article/the-small-dutch-town-that-said-no-to-more-asylum/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-small-dutch-town-that-said-no-to-more-asylum/?edition=us</guid>
+            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:53:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Make Germany normal again’: an interview with Germany’s exiled spy chief]]></title>
             <description><![CDATA[By Elisabeth Dampier]]></description>
@@ -3999,30 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/palm-beach-religious-about-real-estate/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Peter Watson]]></dc:creator>
             <pubDate>Thu, 07 May 2026 11:02:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Apple’s new CEO will play it safe]]></title>
-            <description><![CDATA[By Geoffrey Cain]]></description>
-            <link>https://spectator.com/article/apple-new-ceo-will-play-safe-john-ternus/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/apple-new-ceo-will-play-safe-john-ternus/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 11:02:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump is clinging to a mirage in the Middle East]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trump-is-clinging-to-a-mirage-in-the-middle-east/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-is-clinging-to-a-mirage-in-the-middle-east/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 11:02:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The message behind the US pavilion at the Venice Biennale]]></title>
-            <description><![CDATA[By James Panero]]></description>
-            <link>https://spectator.com/article/message-behind-us-pavilion-venice-biennale/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/message-behind-us-pavilion-venice-biennale/?edition=us</guid>
-            <dc:creator><![CDATA[James Panero]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 02:03:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

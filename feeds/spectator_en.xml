@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 00:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 05:54:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 00:08:08 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Second Homeowner]]></title>
+            <description><![CDATA[Camilla bought their place in the Burnhams when she discovered she was pregnant with her third child – following a heavy après sesh at La Folie Douce in Megève. Realising they’d never ski again as a family of four, and with memories of the Costa Smeralda fading like an over-exposed Polaroid, she convinced Johnnie that getting a holiday cottage made financial sense. ‘Because they’re virtually giving away buy-to-let mortgages.’ And as Kirsty Allsopp, who went to the same school as Camilla but was at least ten years older, always says, it’s an income stream.]]></description>
+            <link>https://spectator.com/article/the-second-homeowner/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-second-homeowner/</guid>
+            <dc:creator><![CDATA[Anonymous]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What use are the Lords Spiritual?]]></title>
+            <description><![CDATA[By Edward Skidelsky]]></description>
+            <link>https://spectator.com/article/what-use-are-the-lords-spiritual/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-use-are-the-lords-spiritual/</guid>
+            <dc:creator><![CDATA[Edward Skidelsky]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris’s Left Bank is dying]]></title>
+            <description><![CDATA[By Matthew Fraser]]></description>
+            <link>https://spectator.com/article/pariss-left-bank-is-dying/</link>
+            <guid isPermaLink="true">https://spectator.com/article/pariss-left-bank-is-dying/</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In praise of the millennial dad]]></title>
+            <description><![CDATA[By Liam Deacon]]></description>
+            <link>https://spectator.com/article/millennial-dads-are-doing-things-differently/</link>
+            <guid isPermaLink="true">https://spectator.com/article/millennial-dads-are-doing-things-differently/</guid>
+            <dc:creator><![CDATA[Liam Deacon]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Hiddleston must be stopped]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/tom-hiddleston-must-be-stopped/</link>
+            <guid isPermaLink="true">https://spectator.com/article/tom-hiddleston-must-be-stopped/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The small Dutch town that said no to more asylum seekers]]></title>
+            <description><![CDATA[By Arnout Nuijt]]></description>
+            <link>https://spectator.com/article/the-small-dutch-town-that-said-no-to-more-asylum/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-small-dutch-town-that-said-no-to-more-asylum/</guid>
+            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What happened to the Bournemouth I knew?]]></title>
+            <description><![CDATA[By Andy Jones]]></description>
+            <link>https://spectator.com/article/what-happened-to-the-bournemouth-i-knew/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-happened-to-the-bournemouth-i-knew/</guid>
+            <dc:creator><![CDATA[Andy Jones]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why wasn’t Preston Davey’s foster carer listened to?]]></title>
+            <description><![CDATA[By Rosie Lewis]]></description>
+            <link>https://spectator.com/article/why-wasnt-preston-daveys-foster-carer-listened-to/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-wasnt-preston-daveys-foster-carer-listened-to/</guid>
+            <dc:creator><![CDATA[Rosie Lewis]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why did the Bedford train accident happen?]]></title>
             <description><![CDATA[By Christian Wolmar]]></description>
@@ -66,17 +130,7 @@
         </item>
         <item>
             <title><![CDATA[Sir Christopher Wren’s one country church]]></title>
-            <description><![CDATA[Sir Christopher Wren did it all. 51 City Churches after the Great Fire of London. St Paul’s Cathedral. Hampton Court, Greenwich Hospital, Royal Hospital Chelsea… But he never built an English country church. Or did he? This weekend, I went to an enchanting service at St Mary’s, Ingestre, Staffordshire, to celebrate its 350th anniversary.
-
-
-
-
-
-There is only one document connecting Wren to the church – his design for ‘Mr Chetwynd’s tower’. The Chetwynds built the neighbouring pile, Ingestre Hall. Their descendant, Aaron Chetwynd, lives in the neighbouring stables and kindly asked me to give a talk on Wren at the Ingestre Hall orangery after the church service.
-
-
-
-Walk inside St Mary’s and it's spine-tinglingly moving.]]></description>
+            <description><![CDATA[By Harry Mount]]></description>
             <link>https://spectator.com/article/sir-christopher-wrens-singular-country-church/</link>
             <guid isPermaLink="true">https://spectator.com/article/sir-christopher-wrens-singular-country-church/</guid>
             <dc:creator><![CDATA[Harry Mount]]></dc:creator>
@@ -3981,70 +4035,6 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
             <guid isPermaLink="true">https://spectator.com/article/britain-is-facing-huge-demographic-change/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
             <pubDate>Fri, 29 May 2026 16:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You don’t need AI to tell you if an asylum seeker is lying]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/you-dont-need-ai-to-tell-you-if-an-asylum-seeker-is-lying/</link>
-            <guid isPermaLink="true">https://spectator.com/article/you-dont-need-ai-to-tell-you-if-an-asylum-seeker-is-lying/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 16:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weight-loss drugs killed my appetite for life]]></title>
-            <description><![CDATA[Warning shot]]></description>
-            <link>https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/</link>
-            <guid isPermaLink="true">https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 12:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whitehall’s missing list]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/whitehall-cannot-recall-its-foreign-agreements/</link>
-            <guid isPermaLink="true">https://spectator.com/article/whitehall-cannot-recall-its-foreign-agreements/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 12:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of the child-haters]]></title>
-            <description><![CDATA[By Mary Wakefield]]></description>
-            <link>https://spectator.com/article/the-rise-of-the-child-haters/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-the-child-haters/</guid>
-            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 09:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two bets for the weekend]]></title>
-            <description><![CDATA[By Penworthy]]></description>
-            <link>https://spectator.com/article/two-bets-for-the-weekend/</link>
-            <guid isPermaLink="true">https://spectator.com/article/two-bets-for-the-weekend/</guid>
-            <dc:creator><![CDATA[Penworthy]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 09:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weight-loss drugs killed my appetite for life]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
-            <link>https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 09:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Devolution makes corruption likelier]]></title>
-            <description><![CDATA[The Spectator’s notes]]></description>
-            <link>https://spectator.com/article/devolution-makes-corruption-likelier/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/devolution-makes-corruption-likelier/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 09:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Do you know the local MP?’ ‘Aye, she runs the sauna’: my Shetland dispatch]]></title>
-            <description><![CDATA[Thule errand]]></description>
-            <link>https://spectator.com/article/do-you-know-the-local-mp-aye-she-runs-the-sauna-my-shetland-dispatch/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/do-you-know-the-local-mp-aye-she-runs-the-sauna-my-shetland-dispatch/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 09:37:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

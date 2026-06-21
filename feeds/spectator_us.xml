@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 22:58:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 00:08:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 22:58:58 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 00:08:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Make Germany normal again’: an interview with Germany’s exiled spy chief]]></title>
+            <description><![CDATA[By Elisabeth Dampier]]></description>
+            <link>https://spectator.com/article/make-germany-normal-again-an-interview-with-germanys-exiled-spy-chief/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/make-germany-normal-again-an-interview-with-germanys-exiled-spy-chief/?edition=us</guid>
+            <dc:creator><![CDATA[Elisabeth Dampier]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 00:08:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Not all portrayals of Sherlock Holmes hit the mark]]></title>
             <description><![CDATA[By Julia Yost]]></description>
@@ -4015,14 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/message-behind-us-pavilion-venice-biennale/?edition=us</guid>
             <dc:creator><![CDATA[James Panero]]></dc:creator>
             <pubDate>Thu, 07 May 2026 02:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meloni is being haunted by the ghost of Berlusconi]]></title>
-            <description><![CDATA[By Nicholas Farrell]]></description>
-            <link>https://spectator.com/article/meloni-is-being-haunted-by-the-ghost-of-berlusconi/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/meloni-is-being-haunted-by-the-ghost-of-berlusconi/?edition=us</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 19:24:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

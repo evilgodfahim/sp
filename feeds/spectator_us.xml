@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 21:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 23:12:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 21:28:35 GMT</pubDate>
+        <pubDate>Mon, 22 Jun 2026 23:12:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did conservatives win the culture war?]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/did-conservatives-win-the-culture-war/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-conservatives-win-the-culture-war/?edition=us</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 23:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The marvels of Cuba’s national botanic gardens]]></title>
+            <description><![CDATA[By Ruaridh Nicoll]]></description>
+            <link>https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us</guid>
+            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 23:12:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What I saw at the Montréal shooting]]></title>
             <description><![CDATA[By Ben Clerkin]]></description>
@@ -4007,22 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/the-bbcs-shameful-treatment-of-top-cat/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
             <pubDate>Sat, 09 May 2026 10:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The unlikely link between Nuremberg and The Devil Wears Prada]]></title>
-            <description><![CDATA[By Natalie Livingstone]]></description>
-            <link>https://spectator.com/article/the-unlikely-link-between-nuremberg-and-the-devil-wears-prada/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-unlikely-link-between-nuremberg-and-the-devil-wears-prada/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Natalie Livingstone]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 10:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russiagate was worse than we thought]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/russiagate-was-worse-than-we-thought/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/russiagate-was-worse-than-we-thought/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 05:43:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

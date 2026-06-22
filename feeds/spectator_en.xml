@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 23:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 02:52:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 23:02:09 GMT</pubDate>
+        <pubDate>Mon, 22 Jun 2026 02:52:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Keir and loathing: the hatred of Starmer has gone too far]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/keir-and-loathing-the-hatred-of-starmer-has-gone-too-far/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-and-loathing-the-hatred-of-starmer-has-gone-too-far/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 02:52:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What too few people know about the Holocaust and Operation Barbarossa]]></title>
+            <description><![CDATA[By Andy Pearce]]></description>
+            <link>https://spectator.com/article/what-too-few-people-know-about-the-holocaust-and-operation-barbarossa/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-too-few-people-know-about-the-holocaust-and-operation-barbarossa/</guid>
+            <dc:creator><![CDATA[Andy Pearce]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 02:52:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why it all went wrong for Reform]]></title>
             <description><![CDATA[By Jack Rankin]]></description>
@@ -4018,22 +4034,6 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
             <link>https://spectator.com/article/dont-forget-the-evil-of-the-iranian-regime/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-forget-the-evil-of-the-iranian-regime/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Michael Day]]></dc:creator>
-            <pubDate>Sat, 30 May 2026 09:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belgium has a free speech problem]]></title>
-            <description><![CDATA[Van Langenhove]]></description>
-            <link>https://spectator.com/article/belgium-has-a-free-speech-problem/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/belgium-has-a-free-speech-problem/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
-            <pubDate>Sat, 30 May 2026 09:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You don’t need AI to tell you if an asylum seeker is lying]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/you-dont-need-ai-to-tell-you-if-an-asylum-seeker-is-lying/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/you-dont-need-ai-to-tell-you-if-an-asylum-seeker-is-lying/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
             <pubDate>Sat, 30 May 2026 09:10:27 GMT</pubDate>
         </item>
     </channel>

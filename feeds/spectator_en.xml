@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 13:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 16:22:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 13:37:28 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 16:22:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why aren’t conservatives more excited about Kemi Badenoch?]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/why-arent-conservatives-more-excited-about-kemi-badenoch/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-arent-conservatives-more-excited-about-kemi-badenoch/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 16:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voters may never trust the DUP again after Jeffrey Donaldson’s downfall]]></title>
+            <description><![CDATA[By Owen Polley]]></description>
+            <link>https://spectator.com/article/voters-may-never-trust-the-dup-again-after-jeffrey-donaldsons-downfall/</link>
+            <guid isPermaLink="true">https://spectator.com/article/voters-may-never-trust-the-dup-again-after-jeffrey-donaldsons-downfall/</guid>
+            <dc:creator><![CDATA[Owen Polley]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 16:22:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Murrell scandal is far from over]]></title>
             <description><![CDATA[Scotland]]></description>
@@ -4019,22 +4035,6 @@ Restore’s strategy is simple: use Farage’s playbook against him. Like Farage
             <guid isPermaLink="true">https://spectator.com/article/theres-nothing-like-the-isle-of-man-tt/</guid>
             <dc:creator><![CDATA[Ed Vaizey]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The desperate sycophancy of Mandy’s campaign for the Oxford chancellorship]]></title>
-            <description><![CDATA[Oxford blues]]></description>
-            <link>https://spectator.com/article/after-months-of-back-and-forth-today-the-government-finally-released-the-latest-tranche-of-the-mandy-documents/</link>
-            <guid isPermaLink="true">https://spectator.com/article/after-months-of-back-and-forth-today-the-government-finally-released-the-latest-tranche-of-the-mandy-documents/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 20:50:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does a stray drone constitute an attack?]]></title>
-            <description><![CDATA[By Elisabeth Braw]]></description>
-            <link>https://spectator.com/article/does-a-stray-drone-constitute-an-attack/</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-a-stray-drone-constitute-an-attack/</guid>
-            <dc:creator><![CDATA[Elisabeth Braw]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 20:50:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

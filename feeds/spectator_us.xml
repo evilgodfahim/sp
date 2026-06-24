@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 00:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 04:58:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jun 2026 00:02:44 GMT</pubDate>
+        <pubDate>Wed, 24 Jun 2026 04:58:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The trouble with muzzled liberals]]></title>
+            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
+            <link>https://spectator.com/article/the-trouble-with-muzzled-liberals/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-trouble-with-muzzled-liberals/?edition=us</guid>
+            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 04:58:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The possibilities of a US-Indo alliance are YUGE]]></title>
             <description><![CDATA[By Sumantra Maitra]]></description>
@@ -4014,14 +4022,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <link>https://spectator.com/article/the-unlikely-link-between-nuremberg-and-the-devil-wears-prada/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/the-unlikely-link-between-nuremberg-and-the-devil-wears-prada/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Natalie Livingstone]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 15:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My heated argument about Italy’s birthrate]]></title>
-            <description><![CDATA[Dolce vita]]></description>
-            <link>https://spectator.com/article/my-heated-argument-about-italys-birthrate/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-heated-argument-about-italys-birthrate/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
             <pubDate>Sun, 10 May 2026 15:43:39 GMT</pubDate>
         </item>
     </channel>

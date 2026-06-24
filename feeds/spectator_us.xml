@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 18:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 20:28:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jun 2026 18:53:33 GMT</pubDate>
+        <pubDate>Wed, 24 Jun 2026 20:28:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who’s listening to AI music?]]></title>
+            <description><![CDATA[By Max Horder]]></description>
+            <link>https://spectator.com/article/whos-listening-to-ai-music/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/whos-listening-to-ai-music/?edition=us</guid>
+            <dc:creator><![CDATA[Max Horder]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 20:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The French love affair with Scotland]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/faux-ami-why-the-french-love-the-scots/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/faux-ami-why-the-french-love-the-scots/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 20:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Northern Ireland has been the biggest loser from Brexit]]></title>
+            <description><![CDATA[By Andrew McQuillan]]></description>
+            <link>https://spectator.com/article/northern-ireland-has-been-the-biggest-loser-from-brexit/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/northern-ireland-has-been-the-biggest-loser-from-brexit/?edition=us</guid>
+            <dc:creator><![CDATA[Andrew McQuillan]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 20:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Jack Schlossberg lost]]></title>
+            <description><![CDATA[By Anastasia Brown]]></description>
+            <link>https://spectator.com/article/jack-schlossberg-lost-new-york-democrats/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/jack-schlossberg-lost-new-york-democrats/?edition=us</guid>
+            <dc:creator><![CDATA[Anastasia Brown]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 20:28:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Jeff Taylor came back from the dead]]></title>
             <description><![CDATA[By Bill Kauffman]]></description>
@@ -3991,38 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/the-rise-of-blueanon/?edition=us</guid>
             <dc:creator><![CDATA[Amber Duke]]></dc:creator>
             <pubDate>Tue, 12 May 2026 02:09:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s not that hard to not be overweight]]></title>
-            <description><![CDATA[By Teresa Mull]]></description>
-            <link>https://spectator.com/article/its-not-that-hard-to-not-be-overweight/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-not-that-hard-to-not-be-overweight/?edition=us</guid>
-            <dc:creator><![CDATA[Teresa Mull]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 23:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My perilous pursuit of Colombia’s birdlife]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/my-perilous-pursuit-of-colombias-birdlife/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-perilous-pursuit-of-colombias-birdlife/?edition=us</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 22:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Croquet hasn’t quite gone away]]></title>
-            <description><![CDATA[Country life]]></description>
-            <link>https://spectator.com/article/croquet-hasnt-quite-gone-away/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/croquet-hasnt-quite-gone-away/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 21:58:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My heated argument about Italy’s birthrate]]></title>
-            <description><![CDATA[Dolce vita]]></description>
-            <link>https://spectator.com/article/my-heated-argument-about-italys-birthrate/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-heated-argument-about-italys-birthrate/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 21:58:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

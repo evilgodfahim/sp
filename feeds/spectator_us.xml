@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 23:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 03:53:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jun 2026 23:59:43 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 03:53:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rise of the leftist groypers]]></title>
+            <description><![CDATA[By Gearóid Ó Riain]]></description>
+            <link>https://spectator.com/article/rise-of-the-leftist-groypers/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/rise-of-the-leftist-groypers/?edition=us</guid>
+            <dc:creator><![CDATA[Gearóid Ó Riain]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 03:53:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who’s listening to AI music?]]></title>
             <description><![CDATA[By Max Horder]]></description>
@@ -4015,14 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/joe-bidens-memoir-will-humiliate-him/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Tue, 12 May 2026 05:59:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of BlueAnon]]></title>
-            <description><![CDATA[By Amber Duke]]></description>
-            <link>https://spectator.com/article/the-rise-of-blueanon/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-blueanon/?edition=us</guid>
-            <dc:creator><![CDATA[Amber Duke]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 02:09:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

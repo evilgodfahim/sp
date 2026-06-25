@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 10:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 13:11:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 10:35:04 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 13:11:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Burnham can avoid Starmer’s fate]]></title>
+            <description><![CDATA[Northern soul]]></description>
+            <link>https://spectator.com/article/how-burnham-can-avoid-starmers-fate/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-burnham-can-avoid-starmers-fate/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 13:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are the Belgians so bad at football?]]></title>
+            <description><![CDATA[Sport]]></description>
+            <link>https://spectator.com/article/why-are-the-belgians-so-bad-at-football/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-are-the-belgians-so-bad-at-football/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Roger Alton]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 13:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘It’s going to make Liz Truss look like a savant’: Are you ready for Burnham’s first Budget?]]></title>
+            <description><![CDATA[Reality check]]></description>
+            <link>https://spectator.com/article/its-going-to-make-liz-truss-look-like-a-savant-are-you-ready-for-burnhams-first-budget/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-going-to-make-liz-truss-look-like-a-savant-are-you-ready-for-burnhams-first-budget/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 13:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thank god for Jodie Foster]]></title>
+            <description><![CDATA[Cinema]]></description>
+            <link>https://spectator.com/article/thank-god-for-jodie-foster/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/thank-god-for-jodie-foster/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 13:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Israel fend off Hezbollah without alienating America?]]></title>
+            <description><![CDATA[By Jonathan Spyer]]></description>
+            <link>https://spectator.com/article/can-israel-fend-off-hezbollah-without-alienating-america/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-israel-fend-off-hezbollah-without-alienating-america/</guid>
+            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 13:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain can’t afford to lose easyJet]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/britain-cant-afford-to-lose-easyjet/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-cant-afford-to-lose-easyjet/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 13:11:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Iran could learn from Denmark]]></title>
             <description><![CDATA[By James Lewisohn]]></description>
@@ -90,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham’s worryingly vague vision for Britain]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
+            <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/burnhams-worryingly-vague-vision-for-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnhams-worryingly-vague-vision-for-britain/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -194,7 +242,7 @@ These are the same authorities who want us to refer to batsmen as batters. Some 
         </item>
         <item>
             <title><![CDATA[The Iran war is Trump’s Suez crisis]]></title>
-            <description><![CDATA[US politics]]></description>
+            <description><![CDATA[By Paul Wood]]></description>
             <link>https://spectator.com/article/the-iran-war-is-trumps-suez-crisis/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-iran-war-is-trumps-suez-crisis/</guid>
             <dc:creator><![CDATA[Paul Wood]]></dc:creator>
@@ -202,7 +250,7 @@ These are the same authorities who want us to refer to batsmen as batters. Some 
         </item>
         <item>
             <title><![CDATA[Can I save Britain from war with Russia?]]></title>
-            <description><![CDATA[Editor’s notebook]]></description>
+            <description><![CDATA[By Michael Gove]]></description>
             <link>https://spectator.com/article/can-i-save-britain-from-war-with-russia/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-i-save-britain-from-war-with-russia/</guid>
             <dc:creator><![CDATA[Michael Gove]]></dc:creator>
@@ -234,7 +282,7 @@ These are the same authorities who want us to refer to batsmen as batters. Some 
         </item>
         <item>
             <title><![CDATA[The secret to dressing exceptionally well]]></title>
-            <description><![CDATA[By Henry Jeffreys]]></description>
+            <description><![CDATA[Resale therapy]]></description>
             <link>https://spectator.com/article/the-secret-to-dressing-exceptionally-well/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-secret-to-dressing-exceptionally-well/</guid>
             <dc:creator><![CDATA[Henry Jeffreys]]></dc:creator>
@@ -3990,58 +4038,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <link>https://spectator.com/article/a-first-class-production-of-puccinis-western/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-first-class-production-of-puccinis-western/</guid>
             <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The art of resurrecting forgotten artists]]></title>
-            <description><![CDATA[By Robin Simon]]></description>
-            <link>https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/</guid>
-            <dc:creator><![CDATA[Robin Simon]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tequila slammers all round!]]></title>
-            <description><![CDATA[By Flora Watkins]]></description>
-            <link>https://spectator.com/article/tequila-slammers-all-round/</link>
-            <guid isPermaLink="true">https://spectator.com/article/tequila-slammers-all-round/</guid>
-            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I take frog poison]]></title>
-            <description><![CDATA[Leap of faith]]></description>
-            <link>https://spectator.com/article/why-i-take-frog-poison/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-i-take-frog-poison/</guid>
-            <dc:creator><![CDATA[Patrick Smith]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Reform see off the threat from Restore?]]></title>
-            <description><![CDATA[Nigel Farage has always prided himself on being able to see off any threat from his right flank. But now a new force has emerged in the form of his ex-colleague Rupert Lowe. When the two Reform MPs fell out 15 months ago, friends shared memes of Farage’s past fallen rivals ascending to heaven. ‘Come and join us, Rupert!’ they exhorted. Instead, Lowe fought back, setting up his own party, Restore Britain. In the Makerfield by-election on 18 June, one poll puts Restore on 7 per cent– enough to stop Reform and hand the seat to Labour’s Andy Burnham.
-
-
-
-Restore’s strategy is simple: use Farage’s playbook against him. Like Farage, Lowe has put his faith in social media, building up a noisy following that can then be turned into a campaigning force.]]></description>
-            <link>https://spectator.com/article/can-reform-see-off-the-threat-from-restore/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-reform-see-off-the-threat-from-restore/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decluttering is the ultimate act of love]]></title>
-            <description><![CDATA[By Olenka Hamilton]]></description>
-            <link>https://spectator.com/article/decluttering-is-the-ultimate-act-of-love/</link>
-            <guid isPermaLink="true">https://spectator.com/article/decluttering-is-the-ultimate-act-of-love/</guid>
-            <dc:creator><![CDATA[Olenka Hamilton]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia won’t give up Armenia without a fight]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
-            <link>https://spectator.com/article/russia-wont-give-up-armenia-without-a-fight/</link>
-            <guid isPermaLink="true">https://spectator.com/article/russia-wont-give-up-armenia-without-a-fight/</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
         </item>
     </channel>

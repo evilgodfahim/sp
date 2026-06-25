@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 13:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 16:16:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 13:11:52 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 16:16:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Chicken Milanese is the king of homemade fast food]]></title>
+            <description><![CDATA[By Olivia Potts]]></description>
+            <link>https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?edition=us</guid>
+            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 16:16:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Israel fend off Hezbollah without alienating America?]]></title>
+            <description><![CDATA[By Jonathan Spyer]]></description>
+            <link>https://spectator.com/article/can-israel-fend-off-hezbollah-without-alienating-america/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-israel-fend-off-hezbollah-without-alienating-america/?edition=us</guid>
+            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 16:16:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Iran could learn from Denmark]]></title>
             <description><![CDATA[By James Lewisohn]]></description>
@@ -4007,22 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/americas-trump-card-in-china/?edition=us</guid>
             <dc:creator><![CDATA[Michael Sobolik]]></dc:creator>
             <pubDate>Tue, 12 May 2026 17:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Croquet hasn’t quite gone away]]></title>
-            <description><![CDATA[By Gage Klipper]]></description>
-            <link>https://spectator.com/article/croquet-hasnt-quite-gone-away/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/croquet-hasnt-quite-gone-away/?edition=us</guid>
-            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 14:02:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new vintage]]></title>
-            <description><![CDATA[By Bridget Arsenault]]></description>
-            <link>https://spectator.com/article/a-new-vintage/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-new-vintage/?edition=us</guid>
-            <dc:creator><![CDATA[Bridget Arsenault]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 11:13:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

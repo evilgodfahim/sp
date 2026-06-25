@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 16:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 19:02:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 16:16:53 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 19:02:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tapped out of government]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/tapped-out-of-government/</link>
+            <guid isPermaLink="true">https://spectator.com/article/tapped-out-of-government/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 19:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A surgeon for Burnham’s Cabinet?]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/a-surgeon-for-burnhams-cabinet/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-surgeon-for-burnhams-cabinet/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 19:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour’s conversion therapy bill is extremely dangerous]]></title>
+            <description><![CDATA[By Debbie Hayton]]></description>
+            <link>https://spectator.com/article/labours-conversion-therapy-bill-is-extremely-dangerous/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labours-conversion-therapy-bill-is-extremely-dangerous/</guid>
+            <dc:creator><![CDATA[Debbie Hayton]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 19:02:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is air conditioning actually bad for the planet?]]></title>
             <description><![CDATA[By Sam McPhail]]></description>
@@ -4015,30 +4039,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <guid isPermaLink="true">https://spectator.com/article/insufferable-martinet-or-inspirational-hero-field-marshal-montgomery-was-both/?homepage-tracking=magazine-article-4</guid>
             <dc:creator><![CDATA[Allan Mallinson]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: the missing Mandelson messages]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/revealed-the-missing-mandelson-messages/</link>
-            <guid isPermaLink="true">https://spectator.com/article/revealed-the-missing-mandelson-messages/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The lessons from Henry Nowak’s murder]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/the-lessons-from-henry-nowaks-murder/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-lessons-from-henry-nowaks-murder/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[None of McCartney’s new songs will trouble his setlist for long]]></title>
-            <description><![CDATA[By Graeme Thomson]]></description>
-            <link>https://spectator.com/article/none-of-mccartneys-new-songs-will-trouble-his-setlist-for-long/</link>
-            <guid isPermaLink="true">https://spectator.com/article/none-of-mccartneys-new-songs-will-trouble-his-setlist-for-long/</guid>
-            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 02:49:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

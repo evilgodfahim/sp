@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 16:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 19:02:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 16:16:49 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 19:02:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[I spent 25 years fighting neocons. Then Trump became one]]></title>
+            <description><![CDATA[By Scott McConnell]]></description>
+            <link>https://spectator.com/article/25-years-neocons-trump-scott-mcconnell-diary/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/25-years-neocons-trump-scott-mcconnell-diary/?edition=us</guid>
+            <dc:creator><![CDATA[Scott McConnell]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 19:02:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chicken Milanese is the king of homemade fast food]]></title>
             <description><![CDATA[By Olivia Potts]]></description>
@@ -4014,14 +4022,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <link>https://spectator.com/article/will-trump-strike-a-deal-on-iran-in-china/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/will-trump-strike-a-deal-on-iran-in-china/?edition=us</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 17:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America’s Trump card in China]]></title>
-            <description><![CDATA[By Michael Sobolik]]></description>
-            <link>https://spectator.com/article/americas-trump-card-in-china/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/americas-trump-card-in-china/?edition=us</guid>
-            <dc:creator><![CDATA[Michael Sobolik]]></dc:creator>
             <pubDate>Tue, 12 May 2026 17:06:04 GMT</pubDate>
         </item>
     </channel>

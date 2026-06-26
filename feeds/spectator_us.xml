@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 20:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 22:03:53 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 20:27:42 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 22:03:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Housing with Hamadeh]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/housing-with-hamadeh-cockburn-diary-06-26-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/housing-with-hamadeh-cockburn-diary-06-26-26/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 22:03:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The highs and lows of life as an artist]]></title>
+            <description><![CDATA[By Catriona Olding]]></description>
+            <link>https://spectator.com/article/the-highs-and-lows-of-life-as-an-artist/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-highs-and-lows-of-life-as-an-artist/?edition=us</guid>
+            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 22:03:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Brexit decade: was it worth it?]]></title>
             <description><![CDATA[By Michael Gove]]></description>
@@ -4006,22 +4022,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <link>https://spectator.com/article/its-time-to-uncancel-enoch-powell/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/its-time-to-uncancel-enoch-powell/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Simon Heffer]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 11:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An excuse to drink]]></title>
-            <description><![CDATA[In vino veritas]]></description>
-            <link>https://spectator.com/article/an-excuse-to-drink/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/an-excuse-to-drink/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 11:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Trump and Xi get what they want?]]></title>
-            <description><![CDATA[Power trip]]></description>
-            <link>https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
             <pubDate>Thu, 14 May 2026 11:45:15 GMT</pubDate>
         </item>
     </channel>

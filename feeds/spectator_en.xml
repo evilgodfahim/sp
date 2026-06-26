@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 13:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 16:07:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 13:04:15 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 16:07:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who can save America’s 250th birthday?]]></title>
+            <description><![CDATA[By Matt McDonald]]></description>
+            <link>https://spectator.com/article/keith-krach-save-america-250th-birthday/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keith-krach-save-america-250th-birthday/</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 16:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela’s earthquake is the cruellest blow]]></title>
+            <description><![CDATA[By Catherine Ellis]]></description>
+            <link>https://spectator.com/article/venezuelas-earthquake-is-the-cruellest-blow/</link>
+            <guid isPermaLink="true">https://spectator.com/article/venezuelas-earthquake-is-the-cruellest-blow/</guid>
+            <dc:creator><![CDATA[Catherine Ellis]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 16:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parliament has become dangerously mawkish]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/parliament-has-become-dangerously-mawkish/</link>
+            <guid isPermaLink="true">https://spectator.com/article/parliament-has-become-dangerously-mawkish/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 16:07:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bring back lunchtime drinking]]></title>
             <description><![CDATA[By Richard Madeley]]></description>
@@ -17,7 +41,7 @@
             <pubDate>Fri, 26 Jun 2026 13:04:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revealed: The Green Party proposal for menstrual leave]]></title>
+            <title><![CDATA[The Green Party proposal for menstrual leave]]></title>
             <description><![CDATA[By Noa Hoffman]]></description>
             <link>https://spectator.com/article/revealed-the-green-party-proposal-for-menstrual-leave/</link>
             <guid isPermaLink="true">https://spectator.com/article/revealed-the-green-party-proposal-for-menstrual-leave/</guid>
@@ -4018,30 +4042,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <link>https://spectator.com/article/why-cant-elon-musk-leave-britain-alone/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-cant-elon-musk-leave-britain-alone/</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 06:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s leadership ambitions have fooled no one]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/the-strange-state-of-labours-leadership-contest/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-strange-state-of-labours-leadership-contest/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 06:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The disturbing truth about the National Association of Muslim Police]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
-            <link>https://spectator.com/article/the-disturbing-truth-about-the-national-association-of-muslim-police/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-disturbing-truth-about-the-national-association-of-muslim-police/</guid>
-            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 06:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My post-divorce Tinder career]]></title>
-            <description><![CDATA[By Andrew Watts]]></description>
-            <link>https://spectator.com/article/my-post-divorce-tinder-career/</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-post-divorce-tinder-career/</guid>
-            <dc:creator><![CDATA[Andrew Watts]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 06:59:55 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 13:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 16:07:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 16:07:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What went wrong with the Madonna biopic?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 16:07:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who can save America’s 250th birthday?]]></title>
+            <description><![CDATA[By Matt McDonald]]></description>
+            <link>https://spectator.com/article/keith-krach-save-america-250th-birthday/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/keith-krach-save-america-250th-birthday/?edition=us</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 16:07:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andy Burnham’s worryingly vague vision for Britain]]></title>
             <description><![CDATA[By Douglas Murray]]></description>
@@ -794,7 +810,7 @@
         </item>
         <item>
             <title><![CDATA[Is the Armie Hammer comeback going to happen?]]></title>
-            <description><![CDATA[When the actor Armie Hammer looked like he was on the verge of becoming a big star, it was an endless source of amusement for gossip columnists and sarcastic online commenters that he never quite got to the A-list. It wasn’t that he didn’t get the roles; leads in everything from The Lone Ranger to The Man From U.N.C.L.E looked, on paper, as if they should catapult him into the stratosphere. His chiseled good looks and muscular physique seemed to suggest that he had all the ingredients for Hollywood longevity. And he could act, too, as could be seen by his much-acclaimed roles in Call Me By Your Name and his breakthrough part in David Fincher’s The Social Network. But then it all went horribly, bizarrely wrong.]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/is-the-armie-hammer-comeback-going-to-happen/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/is-the-armie-hammer-comeback-going-to-happen/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -4006,22 +4022,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <link>https://spectator.com/article/the-genius-of-zurbaran-and-why-he-vanished/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/the-genius-of-zurbaran-and-why-he-vanished/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Jaspreet Singh Boparai and Jonathan Ruffer]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 17:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The battle for the neoconservative soul]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/the-battle-for-the-neoconservative-soul/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-battle-for-the-neoconservative-soul/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 17:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An excuse to drink]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/an-excuse-to-drink/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/an-excuse-to-drink/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
             <pubDate>Wed, 13 May 2026 17:09:55 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 06:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 10:15:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 06:44:45 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 10:15:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is King Charles really being open about his finances?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/is-king-charles-really-being-open-about-his-finances/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-king-charles-really-being-open-about-his-finances/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 10:15:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Three bets for the big all-weather meeting]]></title>
             <description><![CDATA[Newcastle stages some quality all-weather racing this weekend, the highlight of which is tomorrow’s JenningsBet Northumberland Plate (3.15 p.m.). As I feared in last week’s column, my main fancy for the race has not made the “cut” and is instead in the consolation race.
@@ -81,7 +89,7 @@ There are two main reasons why the quality of this meeting, run on an artificial
             <pubDate>Fri, 26 Jun 2026 06:44:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prime minister Andy Burnham spells trouble for the south east]]></title>
+            <title><![CDATA[Prime minister Andy Burnham spells trouble for the southeast]]></title>
             <description><![CDATA[By Ross Clark]]></description>
             <link>https://spectator.com/article/why-pm-andy-burnham-spells-trouble-for-the-south-east/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-pm-andy-burnham-spells-trouble-for-the-south-east/</guid>
@@ -4035,14 +4043,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <guid isPermaLink="true">https://spectator.com/article/darren-jones-mandy-memory-failure/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 16:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour’s growing pains]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/labours-growing-pains/</link>
-            <guid isPermaLink="true">https://spectator.com/article/labours-growing-pains/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 13:54:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

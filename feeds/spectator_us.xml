@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 10:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 13:04:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 10:15:31 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Andy Burnham’s worryingly vague vision for Britain]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/burnhams-worryingly-vague-vision-for-britain/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-worryingly-vague-vision-for-britain/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Spectator’s role in the birth of America]]></title>
+            <description><![CDATA[A special relationship]]></description>
+            <link>https://spectator.com/article/the-spectators-role-in-the-birth-of-america/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-spectators-role-in-the-birth-of-america/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Gus Carter]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fourth of July barbecue traditions through the years]]></title>
+            <description><![CDATA[Pit stop]]></description>
+            <link>https://spectator.com/article/fourth-of-july-barbecue-traditions-through-the-years/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/fourth-of-july-barbecue-traditions-through-the-years/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will robots simply bore us to extinction?]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/will-robots-simply-bore-us-to-extinction/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-robots-simply-bore-us-to-extinction/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Christopher Webb]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa now has its answer to ICE]]></title>
+            <description><![CDATA[By Geoff Hill]]></description>
+            <link>https://spectator.com/article/south-africa-now-has-its-answer-to-ice/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/south-africa-now-has-its-answer-to-ice/?edition=us</guid>
+            <dc:creator><![CDATA[Geoff Hill]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Bibi go into exile?]]></title>
+            <description><![CDATA[By Arieh Kovler]]></description>
+            <link>https://spectator.com/article/will-bibi-go-into-exile/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-bibi-go-into-exile/?edition=us</guid>
+            <dc:creator><![CDATA[Arieh Kovler]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who can save America’s 250th birthday?]]></title>
+            <description><![CDATA[By Matt McDonald]]></description>
+            <link>https://spectator.com/article/can-keith-krach-save-america-250/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-keith-krach-save-america-250/?edition=us</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Viola’s Room is beguiling]]></title>
             <description><![CDATA[By Clarissa Sebag-Montefiore]]></description>
@@ -3967,62 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/an-excuse-to-drink/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
             <pubDate>Wed, 13 May 2026 17:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An excuse to drink]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/an-excuse-to-drink/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/an-excuse-to-drink/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 14:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Trump and Xi get what they want?]]></title>
-            <description><![CDATA[By Geoffrey Cain]]></description>
-            <link>https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-trump-and-xi-give-each-other-what-they-want/?edition=us</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 14:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monte Carlo isn’t glamorous]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/the-nightmare-of-monte-carlo/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-nightmare-of-monte-carlo/?edition=us</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 11:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France is throwing a tantrum at Trump]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/france-is-throwing-a-tantrum-at-trump/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/france-is-throwing-a-tantrum-at-trump/?edition=us</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 11:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain is sick of the Westminster psychodrama]]></title>
-            <description><![CDATA[By Lawrence Newport]]></description>
-            <link>https://spectator.com/article/britain-is-sick-of-the-starmer-psychodrama/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-is-sick-of-the-starmer-psychodrama/?edition=us</guid>
-            <dc:creator><![CDATA[Lawrence Newport]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 11:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani, the fraud abroad]]></title>
-            <description><![CDATA[By Neal Pollack]]></description>
-            <link>https://spectator.com/article/mamdani-the-fraud-abroad/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/mamdani-the-fraud-abroad/?edition=us</guid>
-            <dc:creator><![CDATA[Neal Pollack]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 02:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer has one card left to play]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/keir-starmer-digs-his-heels-in/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-digs-his-heels-in/?edition=us</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 19:29:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

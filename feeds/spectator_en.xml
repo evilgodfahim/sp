@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 10:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 13:04:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 10:15:36 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 13:04:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bring back lunchtime drinking]]></title>
+            <description><![CDATA[By Richard Madeley]]></description>
+            <link>https://spectator.com/article/bring-back-lunchtime-drinking/</link>
+            <guid isPermaLink="true">https://spectator.com/article/bring-back-lunchtime-drinking/</guid>
+            <dc:creator><![CDATA[Richard Madeley]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 13:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: The Green Party proposal for menstrual leave]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/revealed-the-green-party-proposal-for-menstrual-leave/</link>
+            <guid isPermaLink="true">https://spectator.com/article/revealed-the-green-party-proposal-for-menstrual-leave/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 13:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who can save America’s 250th birthday?]]></title>
+            <description><![CDATA[By Matt McDonald]]></description>
+            <link>https://spectator.com/article/can-keith-krach-save-america-250/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-keith-krach-save-america-250/</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 13:04:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is King Charles really being open about his finances?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4019,30 +4043,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <guid isPermaLink="true">https://spectator.com/article/my-post-divorce-tinder-career/</guid>
             <dc:creator><![CDATA[Andrew Watts]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 06:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kemi gives me hope]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
-            <link>https://spectator.com/article/kemi-gives-me-hope/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/kemi-gives-me-hope/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 06:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emotional politicians create bad policies]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/emotional-politicians-make-bad-policy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/emotional-politicians-make-bad-policy/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 16:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darren Jones’ Mandy memory failure]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/darren-jones-mandy-memory-failure/</link>
-            <guid isPermaLink="true">https://spectator.com/article/darren-jones-mandy-memory-failure/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 16:46:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 23:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 02:33:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 23:09:12 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 02:33:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Prime minister Andy Burnham spells trouble for the south east]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/why-pm-andy-burnham-spells-trouble-for-the-south-east/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-pm-andy-burnham-spells-trouble-for-the-south-east/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 02:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why won’t the UN believe all women, including Jews?]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/why-wont-the-un-believe-all-women-including-jews/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-wont-the-un-believe-all-women-including-jews/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 02:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the crackdown on Raise the Colours might be good news]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/why-the-crackdown-on-raise-the-colours-might-be-good-news/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-crackdown-on-raise-the-colours-might-be-good-news/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 02:33:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tapped out of government]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4014,30 +4038,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <link>https://spectator.com/article/true-neoliberalism-has-never-been-tried/?homepage-tracking=magazine-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/true-neoliberalism-has-never-been-tried/?homepage-tracking=magazine-article-1</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The art of resurrecting forgotten artists]]></title>
-            <description><![CDATA[Art]]></description>
-            <link>https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Robin Simon]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decluttering is the ultimate act of love]]></title>
-            <description><![CDATA[Coming clean]]></description>
-            <link>https://spectator.com/article/decluttering-is-the-ultimate-act-of-love/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/decluttering-is-the-ultimate-act-of-love/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[Olenka Hamilton]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Insufferable martinet or inspirational hero? Field Marshal Montgomery was both]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/insufferable-martinet-or-inspirational-hero-field-marshal-montgomery-was-both/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/insufferable-martinet-or-inspirational-hero-field-marshal-montgomery-was-both/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Allan Mallinson]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 07:17:15 GMT</pubDate>
         </item>
     </channel>

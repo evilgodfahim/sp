@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 09:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 11:21:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 09:23:58 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 11:21:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Britain has a medicine shortage]]></title>
+            <description><![CDATA[Medical emergency]]></description>
+            <link>https://spectator.com/article/it-is-no-surprise-that-britain-has-a-medicine-shortage/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/it-is-no-surprise-that-britain-has-a-medicine-shortage/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 11:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Burnham can learn from the Baldwin trap]]></title>
+            <description><![CDATA[‘Guilty Man’]]></description>
+            <link>https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[John Keiger]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 11:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The real reason for the Dartmoor pony cull]]></title>
+            <description><![CDATA[By Melissa Kite]]></description>
+            <link>https://spectator.com/article/the-real-reason-for-the-dartmoor-pony-cull/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-for-the-dartmoor-pony-cull/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 11:21:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is the Princess of Wales watermaxxing?]]></title>
             <description><![CDATA[By Arabella Byrne]]></description>
@@ -4011,30 +4035,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <guid isPermaLink="true">https://spectator.com/article/lord-hermer-echr-critics-want-migrants-to-drown/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 16:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer vows to fight on]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/sir-keir-starmer-vows-to-fight-on/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sir-keir-starmer-vows-to-fight-on/</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 16:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Once we Brexiteers get our Irish passports, we can go anywhere]]></title>
-            <description><![CDATA[Real life]]></description>
-            <link>https://spectator.com/article/once-we-brexiteers-get-our-irish-passports-we-can-go-anywhere/</link>
-            <guid isPermaLink="true">https://spectator.com/article/once-we-brexiteers-get-our-irish-passports-we-can-go-anywhere/</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 10:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MPs don’t drink enough]]></title>
-            <description><![CDATA[By Bruce Anderson]]></description>
-            <link>https://spectator.com/article/mps-dont-drink-enough/</link>
-            <guid isPermaLink="true">https://spectator.com/article/mps-dont-drink-enough/</guid>
-            <dc:creator><![CDATA[Bruce Anderson]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 10:50:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

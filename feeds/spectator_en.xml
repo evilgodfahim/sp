@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 15:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 16:59:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 15:09:27 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 16:59:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Burnham brave enough to scrap the triple lock?]]></title>
+            <description><![CDATA[Economic millstone]]></description>
+            <link>https://spectator.com/article/the-reason-no-politician-has-dared-to-scrap-the-triple-lock/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-reason-no-politician-has-dared-to-scrap-the-triple-lock/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[James Kirkup]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 16:59:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chicken Milanese is the king of homemade fast food]]></title>
+            <description><![CDATA[By Olivia Potts]]></description>
+            <link>https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 16:59:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five things I’m hearing about the Burnham ascendancy]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/five-things-im-hearing-about-the-burnham-ascendancy/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/five-things-im-hearing-about-the-burnham-ascendancy/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 16:59:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Britain has a medicine shortage]]></title>
             <description><![CDATA[Medical emergency]]></description>
@@ -4011,30 +4035,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <guid isPermaLink="true">https://spectator.com/article/why-i-take-frog-poison/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Patrick Smith]]></dc:creator>
             <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The three faces of Andy Burnham]]></title>
-            <description><![CDATA[Makerfield]]></description>
-            <link>https://spectator.com/article/the-three-faces-of-andy-burnham/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-three-faces-of-andy-burnham/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 18:54:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham’s U-turns: a full list]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/andy-burnhams-manifesto-a-full-list/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-manifesto-a-full-list/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 16:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lord Hermer: ECHR critics want migrants to drown]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/lord-hermer-echr-critics-want-migrants-to-drown/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lord-hermer-echr-critics-want-migrants-to-drown/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 16:26:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

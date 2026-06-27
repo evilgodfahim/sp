@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 13:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 15:09:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 13:13:43 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 15:09:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Britain’s National Health Service believes in fairness – they treat everyone with equal contempt]]></title>
+            <description><![CDATA[By Lloyd Evans]]></description>
+            <link>https://spectator.com/article/the-nhs-believes-in-fairness-they-treat-everyone-with-equal-contempt/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-nhs-believes-in-fairness-they-treat-everyone-with-equal-contempt/?edition=us</guid>
+            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 15:09:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Even Andy Burnham doesn’t know what Andy Burnham stands for]]></title>
+            <description><![CDATA[By Charles Moore]]></description>
+            <link>https://spectator.com/article/even-andy-burnham-doesnt-know-what-andy-burnham-stands-for/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/even-andy-burnham-doesnt-know-what-andy-burnham-stands-for/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 15:09:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Mark Carney sold Canada to China]]></title>
             <description><![CDATA[By Jane Stannus]]></description>
@@ -66,7 +82,15 @@
         </item>
         <item>
             <title><![CDATA[Toy Story 5 contains delicious touches]]></title>
-            <description><![CDATA[By Deborah Ross]]></description>
+            <description><![CDATA[Toy Story 5 – do we need it? One worries for the narrative integrity of characters when an IP is thrashed to death like this. The latest ​installment, however, does address one of the most pressing dilemmas of modern childhood (screen time) and whether it will be the end of toys. (‘Extinction… Not again!’ cries Rex, the dinosaur.)
+
+
+
+It is timely, with some delicious touches – Woody now has a bald spot
+
+
+
+So it is timely, with some delicious touches – Woody now has a bald spot. And while it isn’t as entertaining as the first three and stumbles at the finishing line, it may be better than the fourth, with its horrible doll Gabby Gabby.]]></description>
             <link>https://spectator.com/article/toy-story-5-contains-delicious-touches/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/toy-story-5-contains-delicious-touches/?edition=us</guid>
             <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
@@ -4007,22 +4031,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/wes-streeting-finally-resigns/?edition=us</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Thu, 14 May 2026 20:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Macron slapped because of this Iranian actress?]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/was-macron-slapped-because-of-this-iranian-actress/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/was-macron-slapped-because-of-this-iranian-actress/?edition=us</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 20:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Sebastian Gorka brave enough to face Tucker Carlson?]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/tucker-carlson-sebastian-gorka-brave-interview/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/tucker-carlson-sebastian-gorka-brave-interview/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 18:30:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

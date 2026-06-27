@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 18:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 20:03:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 18:04:59 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 20:03:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Farewell to the school I founded]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/farewell-to-the-school-i-founded/</link>
+            <guid isPermaLink="true">https://spectator.com/article/farewell-to-the-school-i-founded/</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 20:03:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Burnham brave enough to scrap the triple lock?]]></title>
             <description><![CDATA[Economic millstone]]></description>
@@ -4026,14 +4034,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <link>https://spectator.com/article/do-the-french-really-do-things-better-than-us/</link>
             <guid isPermaLink="true">https://spectator.com/article/do-the-french-really-do-things-better-than-us/</guid>
             <dc:creator><![CDATA[Barney Campbell]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I take frog poison]]></title>
-            <description><![CDATA[By Patrick Smith]]></description>
-            <link>https://spectator.com/article/why-i-take-frog-poison/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-i-take-frog-poison/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Patrick Smith]]></dc:creator>
             <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
         </item>
     </channel>

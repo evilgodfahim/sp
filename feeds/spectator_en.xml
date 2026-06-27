@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 23:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 02:36:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 23:56:27 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 02:36:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Britain has a medicine shortage]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/it-is-no-surprise-that-britain-has-a-medicine-shortage/</link>
+            <guid isPermaLink="true">https://spectator.com/article/it-is-no-surprise-that-britain-has-a-medicine-shortage/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 02:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six ways the BBC could save money]]></title>
+            <description><![CDATA[By Jonathan Maitland]]></description>
+            <link>https://spectator.com/article/six-ways-the-bbc-could-save-itself-money/</link>
+            <guid isPermaLink="true">https://spectator.com/article/six-ways-the-bbc-could-save-itself-money/</guid>
+            <dc:creator><![CDATA[Jonathan Maitland]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 02:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Burnham avoid the Baldwin trap?]]></title>
+            <description><![CDATA[By John Keiger]]></description>
+            <link>https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/</guid>
+            <dc:creator><![CDATA[John Keiger]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 02:36:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Five things I’m hearing about the Burnham ascendancy]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -4018,30 +4042,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <link>https://spectator.com/article/true-neoliberalism-has-never-been-tried/?homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/true-neoliberalism-has-never-been-tried/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 06:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham is doing himself no favours with the bond markets]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/andy-burnham-is-doing-himself-no-favours-with-the-bond-markets/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-doing-himself-no-favours-with-the-bond-markets/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 06:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does government spending pay for itself?]]></title>
-            <description><![CDATA[By John O'Neill]]></description>
-            <link>https://spectator.com/article/does-government-spending-pay-for-itself/</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-government-spending-pay-for-itself/</guid>
-            <dc:creator><![CDATA[John O'Neill]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 06:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The classical beauty of the ‘Turkish Riviera’]]></title>
-            <description><![CDATA[By Sean Thomas]]></description>
-            <link>https://spectator.com/article/the-classical-ingenuity-of-the-turkish-riviera/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-classical-ingenuity-of-the-turkish-riviera/</guid>
-            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 06:59:55 GMT</pubDate>
         </item>
     </channel>

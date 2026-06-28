@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 16:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 17:59:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 16:03:18 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 17:59:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Long holidays are the worst]]></title>
+            <description><![CDATA[By Ysenda Maxtone Graham]]></description>
+            <link>https://spectator.com/article/long-holidays-are-the-worst/</link>
+            <guid isPermaLink="true">https://spectator.com/article/long-holidays-are-the-worst/</guid>
+            <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 17:59:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sunday shows round-up: should Labour call an early election?]]></title>
             <description><![CDATA[By Joe Bedell-Brill]]></description>
@@ -4033,14 +4041,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <guid isPermaLink="true">https://spectator.com/article/the-1986-world-cup-was-better-than-this-years-could-ever-be/</guid>
             <dc:creator><![CDATA[Neil Clark]]></dc:creator>
             <pubDate>Sun, 07 Jun 2026 06:59:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reform Scotland poach GB News man]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/reform-scotland-poach-gb-news-man/</link>
-            <guid isPermaLink="true">https://spectator.com/article/reform-scotland-poach-gb-news-man/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 17:02:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

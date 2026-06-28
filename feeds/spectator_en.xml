@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 02:57:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 07:00:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Trump’s quest for peace doomed?]]></title>
+            <description><![CDATA[Nixon moment]]></description>
+            <link>https://spectator.com/article/president-trump-quest-peace-doomed-iran/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/president-trump-quest-peace-doomed-iran/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six ways the BBC could save money]]></title>
+            <description><![CDATA[Cost-cutting]]></description>
+            <link>https://spectator.com/article/six-ways-the-bbc-could-save-itself-money/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/six-ways-the-bbc-could-save-itself-money/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Jonathan Maitland]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham’s reality TV show rise]]></title>
+            <description><![CDATA[By Julie Burchill]]></description>
+            <link>https://spectator.com/article/andy-burnhams-reality-tv-show-rise/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-reality-tv-show-rise/</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour’s latest immigration plan is pure insanity]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/labours-latest-immigration-plan-is-pure-insanity/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labours-latest-immigration-plan-is-pure-insanity/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Reform Couple]]></title>
+            <description><![CDATA[By Anonymous]]></description>
+            <link>https://spectator.com/article/the-reform-couple/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-reform-couple/</guid>
+            <dc:creator><![CDATA[Anonymous]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long holidays are the worst]]></title>
+            <description><![CDATA[By Ysenda Maxtone Graham]]></description>
+            <link>https://spectator.com/article/long-holidays-are-the-worst/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/long-holidays-are-the-worst/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Burnham can learn from the Baldwin trap]]></title>
+            <description><![CDATA[‘Guilty Man’]]></description>
+            <link>https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[John Keiger]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Britain doomed?]]></title>
             <description><![CDATA[By David Shipley]]></description>
@@ -33,7 +89,7 @@
             <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[It turns out being a hunter-gather wasn’t so great after all]]></title>
+            <title><![CDATA[It turns out being a hunter-gatherer wasn’t so great after all]]></title>
             <description><![CDATA[By Mike Pitts]]></description>
             <link>https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/</link>
             <guid isPermaLink="true">https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/</guid>
@@ -145,7 +201,7 @@
             <pubDate>Sat, 27 Jun 2026 06:23:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is Burnham brave enough to scrap the state pension triple lock?]]></title>
+            <title><![CDATA[Is Burnham brave enough to scrap the triple lock?]]></title>
             <description><![CDATA[By James Kirkup]]></description>
             <link>https://spectator.com/article/the-reason-no-politician-has-dared-to-scrap-the-triple-lock/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-reason-no-politician-has-dared-to-scrap-the-triple-lock/</guid>
@@ -3979,62 +4035,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <guid isPermaLink="true">https://spectator.com/article/putting-wildlife-on-british-banknotes-ignores-the-elephant-in-the-room/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
             <pubDate>Sat, 06 Jun 2026 13:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Iran turned Trump’s propaganda against him]]></title>
-            <description><![CDATA[By Peter Pomerantsev]]></description>
-            <link>https://spectator.com/article/how-iran-turned-trumps-propaganda-against-him/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-iran-turned-trumps-propaganda-against-him/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Peter Pomerantsev]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 13:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rosamund Pike was right to berate her phone-using audience]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/rosamund-pike-was-right-to-berate-her-phone-using-audience/</link>
-            <guid isPermaLink="true">https://spectator.com/article/rosamund-pike-was-right-to-berate-her-phone-using-audience/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 09:20:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What will become of Paris’s ugliest building?]]></title>
-            <description><![CDATA[By Matthew Fraser]]></description>
-            <link>https://spectator.com/article/what-will-become-of-pariss-ugliest-building/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-will-become-of-pariss-ugliest-building/</guid>
-            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putting wildlife on British banknotes ignores the elephant in the room]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/putting-wildlife-on-british-banknotes-ignores-the-elephant-in-the-room/</link>
-            <guid isPermaLink="true">https://spectator.com/article/putting-wildlife-on-british-banknotes-ignores-the-elephant-in-the-room/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What will become of Paris’s ugliest building?]]></title>
-            <description><![CDATA[Bricking it]]></description>
-            <link>https://spectator.com/article/what-will-become-of-pariss-ugliest-building/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-will-become-of-pariss-ugliest-building/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putting wildlife on British banknotes ignores the elephant in the room]]></title>
-            <description><![CDATA[Money trouble]]></description>
-            <link>https://spectator.com/article/putting-wildlife-on-british-banknotes-ignores-the-elephant-in-the-room/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/putting-wildlife-on-british-banknotes-ignores-the-elephant-in-the-room/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The three faces of Andy Burnham]]></title>
-            <description><![CDATA[Makerfield]]></description>
-            <link>https://spectator.com/article/the-three-faces-of-andy-burnham/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-three-faces-of-andy-burnham/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

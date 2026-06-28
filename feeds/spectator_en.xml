@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 23:56:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 02:57:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 23:56:57 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Britain doomed?]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/is-britain-doomed/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-britain-doomed/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farage and Kemi’s pitch for conservative hearts and minds]]></title>
+            <description><![CDATA[By Ameer Kotecha]]></description>
+            <link>https://spectator.com/article/farage-and-kemis-pitch-for-conservative-hearts-and-minds/</link>
+            <guid isPermaLink="true">https://spectator.com/article/farage-and-kemis-pitch-for-conservative-hearts-and-minds/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the US-Israel special relationship over?]]></title>
+            <description><![CDATA[By Yossi Melman]]></description>
+            <link>https://spectator.com/article/is-the-us-israel-special-relationship-over/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-us-israel-special-relationship-over/</guid>
+            <dc:creator><![CDATA[Yossi Melman]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It turns out being a hunter-gather wasn’t so great after all]]></title>
+            <description><![CDATA[By Mike Pitts]]></description>
+            <link>https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/</link>
+            <guid isPermaLink="true">https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/</guid>
+            <dc:creator><![CDATA[Mike Pitts]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Farewell to the school I founded]]></title>
             <description><![CDATA[By Toby Young]]></description>
@@ -4002,38 +4034,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <link>https://spectator.com/article/the-three-faces-of-andy-burnham/?homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/the-three-faces-of-andy-burnham/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[J.D. Vance is right about Henry Nowak’s death]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
-            <link>https://spectator.com/article/j-d-vance-is-right-to-defend-the-anger-over-henry-nowaks-death/</link>
-            <guid isPermaLink="true">https://spectator.com/article/j-d-vance-is-right-to-defend-the-anger-over-henry-nowaks-death/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine is preparing to prosecute Russia’s crimes against humanity]]></title>
-            <description><![CDATA[By Tom Watling]]></description>
-            <link>https://spectator.com/article/ukraine-is-preparing-to-prosecute-russias-crimes-against-humanity/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ukraine-is-preparing-to-prosecute-russias-crimes-against-humanity/</guid>
-            <dc:creator><![CDATA[Tom Watling]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did Haringey’s new Labour leader once defend Jihadi John?]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
-            <link>https://spectator.com/article/haringeys-new-labour-leader-once-called-jihadi-john-a-lovely-boy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/haringeys-new-labour-leader-once-called-jihadi-john-a-lovely-boy/</guid>
-            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the French do everything better]]></title>
-            <description><![CDATA[By Barney Campbell]]></description>
-            <link>https://spectator.com/article/do-the-french-really-do-things-better-than-us/</link>
-            <guid isPermaLink="true">https://spectator.com/article/do-the-french-really-do-things-better-than-us/</guid>
-            <dc:creator><![CDATA[Barney Campbell]]></dc:creator>
             <pubDate>Sat, 06 Jun 2026 06:47:43 GMT</pubDate>
         </item>
     </channel>

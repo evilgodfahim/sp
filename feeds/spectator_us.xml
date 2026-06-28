@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 23:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 02:57:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 23:56:52 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 02:57:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Grandma Moses’s art shaped American history]]></title>
+            <description><![CDATA[By Anastasia Brown]]></description>
+            <link>https://spectator.com/article/grandma-moses-art-shaped-american-history/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/grandma-moses-art-shaped-american-history/?edition=us</guid>
+            <dc:creator><![CDATA[Anastasia Brown]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 02:57:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Michael Jackson biopic ignores half his life]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -122,15 +130,7 @@
         </item>
         <item>
             <title><![CDATA[Toy Story 5 contains delicious touches]]></title>
-            <description><![CDATA[Toy Story 5 – do we need it? One worries for the narrative integrity of characters when an IP is thrashed to death like this. The latest ​installment, however, does address one of the most pressing dilemmas of modern childhood (screen time) and whether it will be the end of toys. (‘Extinction… Not again!’ cries Rex, the dinosaur.)
-
-
-
-It is timely, with some delicious touches – Woody now has a bald spot
-
-
-
-So it is timely, with some delicious touches – Woody now has a bald spot. And while it isn’t as entertaining as the first three and stumbles at the finishing line, it may be better than the fourth, with its horrible doll Gabby Gabby.]]></description>
+            <description><![CDATA[By Deborah Ross]]></description>
             <link>https://spectator.com/article/toy-story-5-contains-delicious-touches/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/toy-story-5-contains-delicious-touches/?edition=us</guid>
             <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
@@ -4022,14 +4022,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <link>https://spectator.com/article/will-canada-kill-its-mentally-ill/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/will-canada-kill-its-mentally-ill/?edition=us</guid>
             <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 11:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All the gossip about Lady Chatterley’s Lover]]></title>
-            <description><![CDATA[By Frances Wilson]]></description>
-            <link>https://spectator.com/article/all-the-gossip-about-lady-chatterleys-lover/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/all-the-gossip-about-lady-chatterleys-lover/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Frances Wilson]]></dc:creator>
             <pubDate>Fri, 15 May 2026 11:48:39 GMT</pubDate>
         </item>
     </channel>

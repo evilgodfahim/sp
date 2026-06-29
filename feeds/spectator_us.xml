@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 10:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 14:42:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 10:24:19 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Serena Williams no longer belongs at Wimbledon]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/serena-williams-no-longer-belongs-at-wimbledon/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/serena-williams-no-longer-belongs-at-wimbledon/?edition=us</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Founding Fathers of AI]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain’s National Health Service believes in fairness – they treat everyone with equal contempt]]></title>
+            <description><![CDATA[No life]]></description>
+            <link>https://spectator.com/article/the-nhs-believes-in-fairness-they-treat-everyone-with-equal-contempt/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-nhs-believes-in-fairness-they-treat-everyone-with-equal-contempt/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Toy Story 5 contains delicious touches]]></title>
+            <description><![CDATA[Movie theater]]></description>
+            <link>https://spectator.com/article/toy-story-5-contains-delicious-touches/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/toy-story-5-contains-delicious-touches/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The secret to dressing exceptionally well]]></title>
+            <description><![CDATA[Resale therapy]]></description>
+            <link>https://spectator.com/article/the-secret-to-dressing-exceptionally-well/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-secret-to-dressing-exceptionally-well/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Henry Jeffreys]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the US-Israel special relationship over?]]></title>
+            <description><![CDATA[By Yossi Melman]]></description>
+            <link>https://spectator.com/article/is-the-us-israel-special-relationship-over/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-us-israel-special-relationship-over/?edition=us</guid>
+            <dc:creator><![CDATA[Yossi Melman]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It turns out being a hunter-gatherer wasn’t so great after all]]></title>
+            <description><![CDATA[By Mike Pitts]]></description>
+            <link>https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/?edition=us</guid>
+            <dc:creator><![CDATA[Mike Pitts]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France’s ideological war on air conditioning]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/frances-ideological-war-on-air-conditioning/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/frances-ideological-war-on-air-conditioning/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forget White Fragility: here are 10 books America should be reading about race]]></title>
             <description><![CDATA[By Thomas Chatterton Williams]]></description>
@@ -3959,70 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/the-exquisitely-dull-life-of-elizabeth-ii-expert-on-cap-badges/?edition=us</guid>
             <dc:creator><![CDATA[Roger Lewis]]></dc:creator>
             <pubDate>Fri, 15 May 2026 20:55:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The art of flowers]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/the-art-of-flowers/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-art-of-flowers/?edition=us</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 19:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rivals is an ode to Thatcherite excess]]></title>
-            <description><![CDATA[By Ivo Delingpole]]></description>
-            <link>https://spectator.com/article/rivals-is-an-ode-to-thatcherite-excess/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/rivals-is-an-ode-to-thatcherite-excess/?edition=us</guid>
-            <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 19:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did the Trump/Xi summit achieve anything?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/trump-xi-summit-achieve-anything/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-xi-summit-achieve-anything/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 19:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can British democracy survive the ‘bad chaps?’]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/can-our-democracy-survive-the-bad-chaps/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-our-democracy-survive-the-bad-chaps/?edition=us</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 17:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Romans would tax anything]]></title>
-            <description><![CDATA[By Peter Jones]]></description>
-            <link>https://spectator.com/article/the-romans-would-tax-anything/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-romans-would-tax-anything/?edition=us</guid>
-            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 17:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to dress a queen]]></title>
-            <description><![CDATA[By Nicky Haslam]]></description>
-            <link>https://spectator.com/article/how-to-dress-a-queen/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-dress-a-queen/?edition=us</guid>
-            <dc:creator><![CDATA[Nicky Haslam]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 17:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the outgoing Border Patrol chief a sex tourist?]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/is-the-outgoing-border-patrol-chief-a-sex-tourist/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-outgoing-border-patrol-chief-a-sex-tourist/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 17:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How anti-data center activists are taking on Big Tech – and winning]]></title>
-            <description><![CDATA[By Robert Bryce]]></description>
-            <link>https://spectator.com/article/anti-data-center-activists-big-tech/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/anti-data-center-activists-big-tech/?edition=us</guid>
-            <dc:creator><![CDATA[Robert Bryce]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 15:57:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

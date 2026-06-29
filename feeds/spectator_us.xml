@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 14:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 17:28:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 17:28:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Founding Fathers of AI]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/founding-fathers-of-ai/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/founding-fathers-of-ai/?edition=us</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 17:28:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Iran war is Trump’s Suez crisis]]></title>
+            <description><![CDATA[By Paul Wood]]></description>
+            <link>https://spectator.com/article/the-iran-war-is-trumps-suez-crisis/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-iran-war-is-trumps-suez-crisis/?edition=us</guid>
+            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 17:28:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Serena Williams no longer belongs at Wimbledon]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
@@ -4007,22 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/why-is-jeremy-boreing-exiting-the-daily-wire/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Sat, 16 May 2026 02:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kamala picks the ‘Minnesota Nice’ guy]]></title>
-            <description><![CDATA[By Jenna Stocker]]></description>
-            <link>https://spectator.com/article/kamala-picks-the-minnesota-nice-guy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/kamala-picks-the-minnesota-nice-guy/?edition=us</guid>
-            <dc:creator><![CDATA[Jenna Stocker]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 21:51:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The exquisitely dull life of Elizabeth II, expert on cap badges]]></title>
-            <description><![CDATA[By Roger Lewis]]></description>
-            <link>https://spectator.com/article/the-exquisitely-dull-life-of-elizabeth-ii-expert-on-cap-badges/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-exquisitely-dull-life-of-elizabeth-ii-expert-on-cap-badges/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Lewis]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 20:55:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

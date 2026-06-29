@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 00:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 05:23:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 00:02:19 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 05:23:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How divorce never ends]]></title>
+            <description><![CDATA[By Bridget Phetasy]]></description>
+            <link>https://spectator.com/article/how-divorce-never-ends/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-divorce-never-ends/?edition=us</guid>
+            <dc:creator><![CDATA[Bridget Phetasy]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 05:23:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hitting the bricks: Click by click, Lego has built its way to the apex of mechanical culture]]></title>
             <description><![CDATA[By James Gurney]]></description>
@@ -4015,14 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/why-trump-haters-have-set-their-sights-on-j-d-vance/?edition=us</guid>
             <dc:creator><![CDATA[Christopher Buskirk]]></dc:creator>
             <pubDate>Fri, 15 May 2026 13:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The incredible case of Dr. Gorka]]></title>
-            <description><![CDATA[Spode returns]]></description>
-            <link>https://spectator.com/article/incredible-case-dr-sebastian-gorka/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/incredible-case-dr-sebastian-gorka/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 11:48:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

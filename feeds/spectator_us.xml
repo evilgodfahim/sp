@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 16:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 18:29:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 16:17:10 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 18:29:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Yesteryear is the controversial bestseller of 2026]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/why-yesteryear-is-the-controversial-bestseller-of-2026/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-yesteryear-is-the-controversial-bestseller-of-2026/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 18:29:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[America at 250 remains an exceptional country]]></title>
             <description><![CDATA[Who could ever have imagined what was being unleashed on the world when Thomas Gage ordered 700 Redcoats to march out from Boston and seize supplies in the town of Concord? Who could have dreamed, 250 years ago, what would be built by the descendants of those 56 men who put their names to the Declaration of Independence while gathered in the Pennsylvania State House?
@@ -254,11 +262,7 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
         </item>
         <item>
             <title><![CDATA[How Grandma Moses’s art shaped American history]]></title>
-            <description><![CDATA[Growing up on the border of Pennsylvania and Ohio, I am well acquainted with a good country fair – that uniquely rural convergence of rodeo games, fried food, barnyard smells and arts and crafts. Washington DC too is now relishing the American-ness of state fairs by hosting the Great American State Fair in the weeks leading up to the semi-quincentennial. And the Smithsonian American Art Museum has prepared a temporary exhibition celebrating a quintessential American artist who first debuted her works at state fairs in rural New York.
-
-
-
-That gallery is Grandma Moses: A Good Day’s Work, a collection of 88 paintings which will be in DC until July 12, and then heads on tour.]]></description>
+            <description><![CDATA[By Anastasia Brown]]></description>
             <link>https://spectator.com/article/grandma-moses-art-shaped-american-history/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/grandma-moses-art-shaped-american-history/?edition=us</guid>
             <dc:creator><![CDATA[Anastasia Brown]]></dc:creator>
@@ -4023,14 +4027,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/mayor-mamdani-south-africa-model-new-york/?edition=us</guid>
             <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
             <pubDate>Mon, 18 May 2026 06:47:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South America is flush with Nazi-looted art]]></title>
-            <description><![CDATA[By Jonathan Petropoulos]]></description>
-            <link>https://spectator.com/article/south-america-is-flush-with-nazi-looted-art/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/south-america-is-flush-with-nazi-looted-art/?edition=us</guid>
-            <dc:creator><![CDATA[Jonathan Petropoulos]]></dc:creator>
-            <pubDate>Sun, 17 May 2026 23:51:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

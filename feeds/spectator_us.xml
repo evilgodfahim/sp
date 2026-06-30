@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 18:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 20:52:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 18:29:33 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 20:52:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A full-throated endorsement of the Pelosi Center]]></title>
+            <description><![CDATA[By Peter Wood]]></description>
+            <link>https://spectator.com/article/a-full-throated-endorsement-of-the-pelosi-center/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-full-throated-endorsement-of-the-pelosi-center/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 20:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fetterman fights Shapiro over crayons]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/fetterman-fights-shapiro-over-crayons-cockburn-diary-06-30-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/fetterman-fights-shapiro-over-crayons-cockburn-diary-06-30-26/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 20:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Supreme Court is not in Trump’s thrall]]></title>
+            <description><![CDATA[By Chris Mondics]]></description>
+            <link>https://spectator.com/article/the-supreme-court-is-not-in-trumps-thrall/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-supreme-court-is-not-in-trumps-thrall/?edition=us</guid>
+            <dc:creator><![CDATA[Chris Mondics]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 20:52:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Yesteryear is the controversial bestseller of 2026]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4003,30 +4027,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/the-moscow-beijing-pyongyang-axis-is-here-to-stay/?edition=us</guid>
             <dc:creator><![CDATA[Edward Howell]]></dc:creator>
             <pubDate>Mon, 18 May 2026 10:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The virility-signaling of French politicians]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/the-virility-signalling-of-french-politicians/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-virility-signalling-of-french-politicians/?edition=us</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 10:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let’s ditch the idea of the ‘black vote’]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
-            <link>https://spectator.com/article/lets-ditch-the-idea-of-the-black-vote/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/lets-ditch-the-idea-of-the-black-vote/?edition=us</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 10:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mayor Mamdani: South Africa is the model for New York]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/mayor-mamdani-south-africa-model-new-york/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/mayor-mamdani-south-africa-model-new-york/?edition=us</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 06:47:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

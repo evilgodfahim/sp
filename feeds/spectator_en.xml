@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 18:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 20:52:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 18:29:37 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 20:52:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will Starmer’s last defender please turn out the lights]]></title>
+            <description><![CDATA[DIP]]></description>
+            <link>https://spectator.com/article/will-starmers-last-defender-please-turn-out-the-lights/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-starmers-last-defender-please-turn-out-the-lights/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 20:52:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Road rage in the Foreign Office]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -58,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Why white working-class kids fail]]></title>
-            <description><![CDATA[School's out]]></description>
+            <description><![CDATA[By Kristina ﻿Murkett]]></description>
             <link>https://spectator.com/article/why-white-working-class-kids-fail/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-white-working-class-kids-fail/</guid>
             <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
@@ -4026,14 +4034,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <link>https://spectator.com/article/rachel-reeves-should-scrap-stamp-duty/</link>
             <guid isPermaLink="true">https://spectator.com/article/rachel-reeves-should-scrap-stamp-duty/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 10:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Now Ireland wants to boycott Israeli football games]]></title>
-            <description><![CDATA[By Angela Epstein]]></description>
-            <link>https://spectator.com/article/now-ireland-wants-to-boycott-israeli-football-games/</link>
-            <guid isPermaLink="true">https://spectator.com/article/now-ireland-wants-to-boycott-israeli-football-games/</guid>
-            <dc:creator><![CDATA[Angela Epstein]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 10:52:41 GMT</pubDate>
         </item>
     </channel>

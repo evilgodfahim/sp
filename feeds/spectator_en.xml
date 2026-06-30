@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 06:49:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 10:26:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 10:26:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is the New York Times celebrating slave-trading Vikings?]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/new-york-times-celebrating-slave-trading-vikings/</link>
+            <guid isPermaLink="true">https://spectator.com/article/new-york-times-celebrating-slave-trading-vikings/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 10:26:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The peerless Penelope Keith]]></title>
             <description><![CDATA[In memoriam]]></description>
@@ -17,7 +25,7 @@
             <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Social media will save glossy magazines]]></title>
+            <title><![CDATA[The social media ban will save glossy magazines]]></title>
             <description><![CDATA[In vogue]]></description>
             <link>https://spectator.com/article/social-media-will-save-glossy-magazines/</link>
             <guid isPermaLink="true">https://spectator.com/article/social-media-will-save-glossy-magazines/</guid>
@@ -73,7 +81,7 @@
             <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Asylum seekers will struggle to pay back their accommodation costs]]></title>
+            <title><![CDATA[Why asylum seekers probably won’t have to pay back their accommodation costs]]></title>
             <description><![CDATA[Migration]]></description>
             <link>https://spectator.com/article/asylum-seekers-will-never-pay-back-their-accommodation-costs/</link>
             <guid isPermaLink="true">https://spectator.com/article/asylum-seekers-will-never-pay-back-their-accommodation-costs/</guid>
@@ -4026,14 +4034,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <link>https://spectator.com/article/why-im-increasingly-drawn-to-optimistic-sci-fi/?homepage-tracking=high_density-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/why-im-increasingly-drawn-to-optimistic-sci-fi/?homepage-tracking=high_density-article-2</guid>
             <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 07:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Once we Brexiteers get our Irish passports, we can go anywhere]]></title>
-            <description><![CDATA[Real life]]></description>
-            <link>https://spectator.com/article/once-we-brexiteers-get-our-irish-passports-we-can-go-anywhere/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/once-we-brexiteers-get-our-irish-passports-we-can-go-anywhere/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 07:38:21 GMT</pubDate>
         </item>
     </channel>

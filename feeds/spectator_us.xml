@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 06:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 10:26:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 06:48:58 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 10:26:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The problem with ‘queer art’]]></title>
+            <description><![CDATA[By Peter Parker]]></description>
+            <link>https://spectator.com/article/the-problem-with-queer-art/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-queer-art/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Parker]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 10:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Iran war is Trump’s Suez crisis]]></title>
+            <description><![CDATA[By Paul Wood]]></description>
+            <link>https://spectator.com/article/the-iran-war-is-trumps-suez-crisis/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-iran-war-is-trumps-suez-crisis/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 10:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Founding Fathers of AI]]></title>
+            <description><![CDATA[Tech barons]]></description>
+            <link>https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 10:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The problem with ‘queer art’]]></title>
+            <description><![CDATA[Arts]]></description>
+            <link>https://spectator.com/article/the-problem-with-queer-art/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-queer-art/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Peter Parker]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 10:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Constitutionally, America is an English country]]></title>
+            <description><![CDATA[By Christopher Caldwell]]></description>
+            <link>https://spectator.com/article/anglo-inheritance/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/anglo-inheritance/?edition=us</guid>
+            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 10:26:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I miss Roger Federer]]></title>
             <description><![CDATA[By Daniel Seifert]]></description>
@@ -3983,46 +4023,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <guid isPermaLink="true">https://spectator.com/article/america-has-a-serious-chinese-spying-problem/?edition=us</guid>
             <dc:creator><![CDATA[Ian Williams]]></dc:creator>
             <pubDate>Sat, 16 May 2026 10:55:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can British democracy survive the ‘bad chaps?’]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/can-our-democracy-survive-the-bad-chaps/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-our-democracy-survive-the-bad-chaps/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Romans would tax anything]]></title>
-            <description><![CDATA[Ancient and modern]]></description>
-            <link>https://spectator.com/article/the-romans-would-tax-anything/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-romans-would-tax-anything/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to dress a queen]]></title>
-            <description><![CDATA[Exhibitions]]></description>
-            <link>https://spectator.com/article/how-to-dress-a-queen/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-dress-a-queen/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Nicky Haslam]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The nightmare of filming A Hard Day’s Night]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-nightmare-of-filming-a-hard-days-night/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-nightmare-of-filming-a-hard-days-night/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Helen Barrett]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nigel Farage’s plan to win over the left]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/farages-plan-to-win-over-the-left/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/farages-plan-to-win-over-the-left/?edition=us</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 09:23:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,13 +4,61 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 04:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 08:44:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 04:11:17 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 08:44:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Would the ancients have appreciated David Hockney?]]></title>
+            <description><![CDATA[Ancient and modern]]></description>
+            <link>https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 08:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The tree that nearly sent me over the edge]]></title>
+            <description><![CDATA[Real life]]></description>
+            <link>https://spectator.com/article/the-tree-that-nearly-sent-me-over-the-edge/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tree-that-nearly-sent-me-over-the-edge/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 08:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farewell to the school I founded]]></title>
+            <description><![CDATA[School’s out for ever]]></description>
+            <link>https://spectator.com/article/farewell-to-the-school-i-founded/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/farewell-to-the-school-i-founded/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 08:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hong Kong activists defying China by remembering the past]]></title>
+            <description><![CDATA[By Danny Vincent]]></description>
+            <link>https://spectator.com/article/the-hong-kong-activists-defying-china-by-remembering-the-past/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-hong-kong-activists-defying-china-by-remembering-the-past/</guid>
+            <dc:creator><![CDATA[Danny Vincent]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 08:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The problem with Burnham’s call for kinder, gentler politics]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/the-problem-with-burnhams-call-for-kinder-gentler-politics/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-burnhams-call-for-kinder-gentler-politics/</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 08:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The tree that nearly sent me over the edge]]></title>
+            <description><![CDATA[Real life]]></description>
+            <link>https://spectator.com/article/the-tree-that-nearly-sent-me-over-the-edge/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tree-that-nearly-sent-me-over-the-edge/</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 08:44:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Italy is misunderstood]]></title>
-            <description><![CDATA[By Robin Ashenden]]></description>
+            <description><![CDATA[Bel Paese]]></description>
             <link>https://spectator.com/article/italy-is-misunderstood/</link>
             <guid isPermaLink="true">https://spectator.com/article/italy-is-misunderstood/</guid>
             <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
@@ -18,13 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Longevity is not the meaning of life]]></title>
-            <description><![CDATA[So you want to live forever? Excellent. You’ve come to the right place. Here at Gilgamesh-Makropulos Limited, we know a thing or two about immortality. First, we need to track your metrics: biological age versus chronological age, average number of erections per night, metabolic health, maximal oxygen consumption, heart rate variability, stool volume and colour and salivary flow rate. Sound good? My assistant will fetch the paperwork. 
-
-
-
-
-
-This might seem like the beginning of a potboiler sci-fi rip-off. But it’s actually closer to our reality than Bernard Williams would have liked. While we still haven’t achieved immortality, the cult of ‘longevity’ has become something of a gold rush in recent years.]]></description>
+            <description><![CDATA[Quack medicine]]></description>
             <link>https://spectator.com/article/longevity-is-not-the-meaning-of-life/</link>
             <guid isPermaLink="true">https://spectator.com/article/longevity-is-not-the-meaning-of-life/</guid>
             <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
@@ -32,7 +74,7 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
         </item>
         <item>
             <title><![CDATA[Love is easier in a warm climate]]></title>
-            <description><![CDATA[By Andrew Watts]]></description>
+            <description><![CDATA[Courtly Love]]></description>
             <link>https://spectator.com/article/love-is-easier-in-a-warm-climate/</link>
             <guid isPermaLink="true">https://spectator.com/article/love-is-easier-in-a-warm-climate/</guid>
             <dc:creator><![CDATA[Andrew Watts]]></dc:creator>
@@ -40,7 +82,7 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
         </item>
         <item>
             <title><![CDATA[Devolution has failed. Try telling Andy Burnham]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
+            <description><![CDATA[Power trip]]></description>
             <link>https://spectator.com/article/devolution-has-failed-try-telling-andy-burnham/</link>
             <guid isPermaLink="true">https://spectator.com/article/devolution-has-failed-try-telling-andy-burnham/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
@@ -48,7 +90,7 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
         </item>
         <item>
             <title><![CDATA[A love note to Thomas Tuchel]]></title>
-            <description><![CDATA[By Damian Reilly]]></description>
+            <description><![CDATA[England expects]]></description>
             <link>https://spectator.com/article/a-love-note-to-thomas-tuchel/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-love-note-to-thomas-tuchel/</guid>
             <dc:creator><![CDATA[Damian Reilly]]></dc:creator>
@@ -88,7 +130,7 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
         </item>
         <item>
             <title><![CDATA[The defence investment plan is Starmer’s sad swansong]]></title>
-            <description><![CDATA[Funding row]]></description>
+            <description><![CDATA[By Lisa Haseldine]]></description>
             <link>https://spectator.com/article/the-defence-investment-plan-is-starmers-sad-swansong/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-defence-investment-plan-is-starmers-sad-swansong/</guid>
             <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
@@ -104,7 +146,7 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
         </item>
         <item>
             <title><![CDATA[What is Andy Burnham hiding?]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Stephen Pollard]]></description>
             <link>https://spectator.com/article/what-is-andy-burnham-hiding/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-is-andy-burnham-hiding/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -136,7 +178,7 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
         </item>
         <item>
             <title><![CDATA[The peerless Penelope Keith]]></title>
-            <description><![CDATA[In memoriam]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/the-peerless-penelope-keith/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-peerless-penelope-keith/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -144,7 +186,7 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
         </item>
         <item>
             <title><![CDATA[The social media ban will save glossy magazines]]></title>
-            <description><![CDATA[In vogue]]></description>
+            <description><![CDATA[By Madeleine Silver]]></description>
             <link>https://spectator.com/article/social-media-will-save-glossy-magazines/</link>
             <guid isPermaLink="true">https://spectator.com/article/social-media-will-save-glossy-magazines/</guid>
             <dc:creator><![CDATA[Madeleine Silver]]></dc:creator>
@@ -152,7 +194,7 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
         </item>
         <item>
             <title><![CDATA[Pick your poison in the Himalayan desert]]></title>
-            <description><![CDATA[High life]]></description>
+            <description><![CDATA[By Jonathan Ray]]></description>
             <link>https://spectator.com/article/pick-your-poison-in-the-himalayan-desert/</link>
             <guid isPermaLink="true">https://spectator.com/article/pick-your-poison-in-the-himalayan-desert/</guid>
             <dc:creator><![CDATA[Jonathan Ray]]></dc:creator>
@@ -239,8 +281,8 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
             <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revealed: How the Treasury abandoned numeracy to boost diversity]]></title>
-            <description><![CDATA[By John Connolly]]></description>
+            <title><![CDATA[How the Treasury abandoned numeracy to boost diversity]]></title>
+            <description><![CDATA[Revealed:]]></description>
             <link>https://spectator.com/article/revealed-how-the-treasury-abandoned-numeracy-to-boost-diversity/</link>
             <guid isPermaLink="true">https://spectator.com/article/revealed-how-the-treasury-abandoned-numeracy-to-boost-diversity/</guid>
             <dc:creator><![CDATA[John Connolly]]></dc:creator>
@@ -552,7 +594,7 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
         </item>
         <item>
             <title><![CDATA[Farewell to the school I founded]]></title>
-            <description><![CDATA[By Toby Young]]></description>
+            <description><![CDATA[School’s out for ever]]></description>
             <link>https://spectator.com/article/farewell-to-the-school-i-founded/</link>
             <guid isPermaLink="true">https://spectator.com/article/farewell-to-the-school-i-founded/</guid>
             <dc:creator><![CDATA[Toby Young]]></dc:creator>
@@ -1072,7 +1114,7 @@ This might seem like the beginning of a potboiler sci-fi rip-off. But it’s act
         </item>
         <item>
             <title><![CDATA[Who needs an Italian beach when we have our own lidos?]]></title>
-            <description><![CDATA[Books]]></description>
+            <description><![CDATA[By Peter Bradshaw]]></description>
             <link>https://spectator.com/article/who-needs-an-italian-beach-when-we-have-our-own-lidos/</link>
             <guid isPermaLink="true">https://spectator.com/article/who-needs-an-italian-beach-when-we-have-our-own-lidos/</guid>
             <dc:creator><![CDATA[Peter Bradshaw]]></dc:creator>
@@ -3993,54 +4035,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <guid isPermaLink="true">https://spectator.com/article/the-luvvies-are-out-for-reform-is-anyone-listening/</guid>
             <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 02:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zia Yusuf to address MAGAworld]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/zia-yusuf-to-meet-trump-border-czar/</link>
-            <guid isPermaLink="true">https://spectator.com/article/zia-yusuf-to-meet-trump-border-czar/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 21:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Westminster can’t escape blame for the Murrell scandal]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/westminster-cant-escape-blame-for-the-murrell-scandal/</link>
-            <guid isPermaLink="true">https://spectator.com/article/westminster-cant-escape-blame-for-the-murrell-scandal/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 16:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sudanese knife attack suspect ‘had leave to remain’]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/sudanese-knife-attack-suspect-had-leave-to-remain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sudanese-knife-attack-suspect-had-leave-to-remain/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 16:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kemi’s equality reform proposals are long overdue]]></title>
-            <description><![CDATA[By Ian Acheson]]></description>
-            <link>https://spectator.com/article/kemis-equality-reform-proposals-are-long-overdue/</link>
-            <guid isPermaLink="true">https://spectator.com/article/kemis-equality-reform-proposals-are-long-overdue/</guid>
-            <dc:creator><![CDATA[Ian Acheson]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 13:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kemi Badenoch: James Bond must not be woke]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/kemi-badenoch-james-bond-must-not-be-woke/</link>
-            <guid isPermaLink="true">https://spectator.com/article/kemi-badenoch-james-bond-must-not-be-woke/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 13:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Idris Elba is right about James Bond]]></title>
-            <description><![CDATA[Licence to thrill]]></description>
-            <link>https://spectator.com/article/idris-elba-is-right-james-bond-shouldnt-be-woke/</link>
-            <guid isPermaLink="true">https://spectator.com/article/idris-elba-is-right-james-bond-shouldnt-be-woke/</guid>
-            <dc:creator><![CDATA[James Hanson]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 13:38:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

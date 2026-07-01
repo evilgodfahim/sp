@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 19:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 21:19:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 19:40:27 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 21:19:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spectator summer party 2026, in pictures]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/spectator-summer-party-2026-in-pictures/</link>
+            <guid isPermaLink="true">https://spectator.com/article/spectator-summer-party-2026-in-pictures/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 21:19:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham’s chancellor could decide his fate]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -4026,14 +4034,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <link>https://spectator.com/article/the-border-loophole-that-led-to-horror-in-belfast/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-border-loophole-that-led-to-horror-in-belfast/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 11:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Labour ruined the labour market]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/reeves-has-turned-the-labour-market-into-a-bewildering-mess/</link>
-            <guid isPermaLink="true">https://spectator.com/article/reeves-has-turned-the-labour-market-into-a-bewildering-mess/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 11:31:23 GMT</pubDate>
         </item>
     </channel>

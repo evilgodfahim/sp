@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 08:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 11:52:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 08:44:43 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 11:52:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[I hope Ben Stokes finds peace]]></title>
+            <description><![CDATA[By Henry Blofeld]]></description>
+            <link>https://spectator.com/article/i-hope-ben-stokes-finds-peace/</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-hope-ben-stokes-finds-peace/</guid>
+            <dc:creator><![CDATA[Henry Blofeld]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 11:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berlin should preserve, not destroy, its Nazi bunkers]]></title>
+            <description><![CDATA[By Nigel Jones]]></description>
+            <link>https://spectator.com/article/berlin-should-preserve-not-destroy-its-nazi-bunkers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/berlin-should-preserve-not-destroy-its-nazi-bunkers/</guid>
+            <dc:creator><![CDATA[Nigel Jones]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 11:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There are no quick wins in Mahmood’s immigration bill]]></title>
+            <description><![CDATA[By Alexander Horne]]></description>
+            <link>https://spectator.com/article/there-are-no-quick-wins-in-mahmoods-immigration-bill/</link>
+            <guid isPermaLink="true">https://spectator.com/article/there-are-no-quick-wins-in-mahmoods-immigration-bill/</guid>
+            <dc:creator><![CDATA[Alexander Horne]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 11:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the World Cup ball rigged?]]></title>
+            <description><![CDATA[By Sam McPhail]]></description>
+            <link>https://spectator.com/article/is-the-world-cup-ball-rigged/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-world-cup-ball-rigged/</guid>
+            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 11:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are we edging closer to peace in Ukraine?]]></title>
+            <description><![CDATA[By Simon Diggins]]></description>
+            <link>https://spectator.com/article/are-we-edging-closer-to-peace-in-ukraine/</link>
+            <guid isPermaLink="true">https://spectator.com/article/are-we-edging-closer-to-peace-in-ukraine/</guid>
+            <dc:creator><![CDATA[Simon Diggins]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 11:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why shouldn’t Queen Camilla meet J.K. Rowling?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/why-shouldnt-queen-camilla-meet-with-j-k-rowling/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-shouldnt-queen-camilla-meet-with-j-k-rowling/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 11:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Brand Scotland conquered America]]></title>
+            <description><![CDATA[By Ed West]]></description>
+            <link>https://spectator.com/article/how-brand-scotland-conquered-america/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-brand-scotland-conquered-america/</guid>
+            <dc:creator><![CDATA[Ed West]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 11:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The failure to deport the Rochdale grooming gang leader shames Britain]]></title>
+            <description><![CDATA[Crime]]></description>
+            <link>https://spectator.com/article/shabir-ahmed-is-everything-wrong-with-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/shabir-ahmed-is-everything-wrong-with-britain/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 11:52:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Would the ancients have appreciated David Hockney?]]></title>
             <description><![CDATA[Ancient and modern]]></description>
@@ -58,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Italy is misunderstood]]></title>
-            <description><![CDATA[Bel Paese]]></description>
+            <description><![CDATA[Bel paese]]></description>
             <link>https://spectator.com/article/italy-is-misunderstood/</link>
             <guid isPermaLink="true">https://spectator.com/article/italy-is-misunderstood/</guid>
             <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
@@ -90,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[A love note to Thomas Tuchel]]></title>
-            <description><![CDATA[England expects]]></description>
+            <description><![CDATA[By Damian Reilly]]></description>
             <link>https://spectator.com/article/a-love-note-to-thomas-tuchel/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-love-note-to-thomas-tuchel/</guid>
             <dc:creator><![CDATA[Damian Reilly]]></dc:creator>
@@ -98,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[Why Scots will never support England at the World Cup]]></title>
-            <description><![CDATA[By Dominic Midgley]]></description>
+            <description><![CDATA[Football]]></description>
             <link>https://spectator.com/article/why-scotland-wont-be-supporting-england-in-the-world-cup/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-scotland-wont-be-supporting-england-in-the-world-cup/</guid>
             <dc:creator><![CDATA[Dominic Midgley]]></dc:creator>
@@ -106,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Will Starmer’s last defender please turn out the lights]]></title>
-            <description><![CDATA[DIP]]></description>
+            <description><![CDATA[By Madeline Grant]]></description>
             <link>https://spectator.com/article/will-starmers-last-defender-please-turn-out-the-lights/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-starmers-last-defender-please-turn-out-the-lights/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -282,7 +346,7 @@
         </item>
         <item>
             <title><![CDATA[How the Treasury abandoned numeracy to boost diversity]]></title>
-            <description><![CDATA[Revealed:]]></description>
+            <description><![CDATA[Revealed]]></description>
             <link>https://spectator.com/article/revealed-how-the-treasury-abandoned-numeracy-to-boost-diversity/</link>
             <guid isPermaLink="true">https://spectator.com/article/revealed-how-the-treasury-abandoned-numeracy-to-boost-diversity/</guid>
             <dc:creator><![CDATA[John Connolly]]></dc:creator>
@@ -3971,70 +4035,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <guid isPermaLink="true">https://spectator.com/article/why-the-bbc-wont-be-presenting-the-world-cup-from-america/</guid>
             <dc:creator><![CDATA[Roger Mosey]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 07:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kemi Badenoch’s equality reforms don’t go far enough]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
-            <link>https://spectator.com/article/kemi-badenochs-equality-reforms-dont-go-far-enough/</link>
-            <guid isPermaLink="true">https://spectator.com/article/kemi-badenochs-equality-reforms-dont-go-far-enough/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 07:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wonder of nature’s ability to heal itself]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-wonder-of-natures-ability-to-heal-itself/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wonder-of-natures-ability-to-heal-itself/</guid>
-            <dc:creator><![CDATA[Philip Marsden]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 07:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My annual pilgrimage along the route of the Berlin Wall]]></title>
-            <description><![CDATA[Walk of life]]></description>
-            <link>https://spectator.com/article/my-annual-pilgrimage-along-the-route-of-the-berlin-wall/</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-annual-pilgrimage-along-the-route-of-the-berlin-wall/</guid>
-            <dc:creator><![CDATA[William Cook]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 07:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Boomers get wrong about Neets]]></title>
-            <description><![CDATA[By Ivo Delingpole]]></description>
-            <link>https://spectator.com/article/why-boomers-misunderstand-neets/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-boomers-misunderstand-neets/</guid>
-            <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 07:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The politically incorrect heyday of noughties gaming]]></title>
-            <description><![CDATA[By Jimmy Nicholls]]></description>
-            <link>https://spectator.com/article/noughties-gaming-culture-wasnt-toxic/</link>
-            <guid isPermaLink="true">https://spectator.com/article/noughties-gaming-culture-wasnt-toxic/</guid>
-            <dc:creator><![CDATA[Jimmy Nicholls]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 07:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can we trust Palantir?]]></title>
-            <description><![CDATA[Any other business]]></description>
-            <link>https://spectator.com/article/can-we-trust-palantir/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-we-trust-palantir/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 07:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wonder of nature’s ability to heal itself]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-wonder-of-natures-ability-to-heal-itself/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wonder-of-natures-ability-to-heal-itself/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Philip Marsden]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 07:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The luvvies are out for Reform. Is anyone listening?]]></title>
-            <description><![CDATA['A negative force']]></description>
-            <link>https://spectator.com/article/the-luvvies-are-out-for-reform-is-anyone-listening/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-luvvies-are-out-for-reform-is-anyone-listening/</guid>
-            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 02:36:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

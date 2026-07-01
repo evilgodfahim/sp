@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 11:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 14:11:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 11:52:40 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 14:11:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Watch: CCHQ spoofs Burnham’s cringe AI clip]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-cchq-spoofs-burnhams-cringe-ai-clip/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-cchq-spoofs-burnhams-cringe-ai-clip/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 14:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch attacks Starmer over defence at PMQs]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/badenoch-attacks-starmer-over-defence-at-pmqs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/badenoch-attacks-starmer-over-defence-at-pmqs/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 14:11:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I hope Ben Stokes finds peace]]></title>
             <description><![CDATA[By Henry Blofeld]]></description>
@@ -4019,22 +4035,6 @@ Yet it is also the most sordid period of Zelensky’s presidency.]]></descriptio
             <guid isPermaLink="true">https://spectator.com/article/can-china-keep-north-korea-in-check/</guid>
             <dc:creator><![CDATA[Edward Howell]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 11:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My new job at the Amazon packing factory]]></title>
-            <description><![CDATA[No life]]></description>
-            <link>https://spectator.com/article/my-new-job-at-the-amazon-packing-factory/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-new-job-at-the-amazon-packing-factory/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 07:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the BBC won’t be presenting the World Cup from America]]></title>
-            <description><![CDATA[Football]]></description>
-            <link>https://spectator.com/article/why-the-bbc-wont-be-presenting-the-world-cup-from-america/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-bbc-wont-be-presenting-the-world-cup-from-america/</guid>
-            <dc:creator><![CDATA[Roger Mosey]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 07:00:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 23:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 04:11:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 23:59:47 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 04:11:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Loving and tweaking the Long Island Iced Tea]]></title>
+            <description><![CDATA[By Ross Anderson]]></description>
+            <link>https://spectator.com/article/loving-and-tweaking-the-long-island-iced-tea/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/loving-and-tweaking-the-long-island-iced-tea/?edition=us</guid>
+            <dc:creator><![CDATA[Ross Anderson]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 04:11:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A full-throated endorsement of the Pelosi Center]]></title>
             <description><![CDATA[By Peter Wood]]></description>
@@ -77,7 +85,7 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <pubDate>Tue, 30 Jun 2026 13:04:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clarkson’s Farm remains the best drama on TV]]></title>
+            <title><![CDATA[The Roswell incident is the setting for an enjoyably old-fashioned caper]]></title>
             <description><![CDATA[By James Delingpole]]></description>
             <link>https://spectator.com/article/clarksons-farm-remains-the-best-drama-on-tv/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/clarksons-farm-remains-the-best-drama-on-tv/?edition=us</guid>
@@ -4018,14 +4026,6 @@ Such criticisms miss the point. The Trump administration has tackled the worst o
             <link>https://spectator.com/article/how-write-diary-cressida-bonas-notebook/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/how-write-diary-cressida-bonas-notebook/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Cressida Bonas]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 10:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Moscow-Beijing-Pyongyang axis is here to stay]]></title>
-            <description><![CDATA[By Edward Howell]]></description>
-            <link>https://spectator.com/article/the-moscow-beijing-pyongyang-axis-is-here-to-stay/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-moscow-beijing-pyongyang-axis-is-here-to-stay/?edition=us</guid>
-            <dc:creator><![CDATA[Edward Howell]]></dc:creator>
             <pubDate>Mon, 18 May 2026 10:59:28 GMT</pubDate>
         </item>
     </channel>

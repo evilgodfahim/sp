@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 06:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 09:53:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 09:53:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The confessions of J.D. Vance]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/the-confessions-of-j-d-vance/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-confessions-of-j-d-vance/</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 09:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Non-hunting people will never understand the loss of a horse]]></title>
+            <description><![CDATA[By James Delingpole]]></description>
+            <link>https://spectator.com/article/non-hunting-people-will-never-understand-the-lose-of-a-horse/</link>
+            <guid isPermaLink="true">https://spectator.com/article/non-hunting-people-will-never-understand-the-lose-of-a-horse/</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 09:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is Giorgia Meloni courting Emmanuel Macron?]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/why-is-giorgia-meloni-courting-emmanuel-macron/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-giorgia-meloni-courting-emmanuel-macron/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 09:53:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[After 26 years, it’s farewell to Wild Life]]></title>
             <description><![CDATA[By Aidan Hartley]]></description>
@@ -4014,30 +4038,6 @@ Spring has not been cancelled. Neither have the arts ceased to function. David H
             <link>https://spectator.com/article/might-england-just-do-it-in-the-world-cup/</link>
             <guid isPermaLink="true">https://spectator.com/article/might-england-just-do-it-in-the-world-cup/</guid>
             <dc:creator><![CDATA[Charlie Methven]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 05:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thanks to Trump, Tehran is winning]]></title>
-            <description><![CDATA[Iran war]]></description>
-            <link>https://spectator.com/article/thanks-to-trump-tehran-is-winning/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/thanks-to-trump-tehran-is-winning/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Justin Marozzi]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 05:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The sham shaman: the fantastic lies of Carlos Castaneda]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-sham-shaman-the-fantastic-lies-of-carlos-castaneda/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-sham-shaman-the-fantastic-lies-of-carlos-castaneda/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Mick Brown]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 05:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: Andy Burnham’s reassuringly bland Cambridge years]]></title>
-            <description><![CDATA[A solid 2:1]]></description>
-            <link>https://spectator.com/article/revealed-andy-burnhams-reassuringly-bland-cambridge-years/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/revealed-andy-burnhams-reassuringly-bland-cambridge-years/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[Lara Brown]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 05:22:32 GMT</pubDate>
         </item>
     </channel>

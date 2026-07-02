@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 19:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 20:55:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 19:10:58 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 20:55:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Burnham’s LBC interview told us nothing new]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/burnhams-lbc-interview-told-us-nothing-new/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-lbc-interview-told-us-nothing-new/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 20:55:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The brutal excommunication of the Society of Saint Pius X]]></title>
             <description><![CDATA[By Jane Stannus]]></description>
@@ -4031,14 +4039,6 @@ Spring has not been cancelled. Neither have the arts ceased to function. David H
             <guid isPermaLink="true">https://spectator.com/article/trump-cant-give-up-diplomacy-iran/</guid>
             <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 10:08:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World Cup can’t save England’s pubs]]></title>
-            <description><![CDATA[By Rory Hanrahan]]></description>
-            <link>https://spectator.com/article/the-world-cup-cant-save-englands-pubs/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-world-cup-cant-save-englands-pubs/</guid>
-            <dc:creator><![CDATA[Rory Hanrahan]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 05:22:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,82 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 02:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 06:32:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 02:29:20 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[After 26 years, it’s farewell to Wild Life]]></title>
+            <description><![CDATA[By Aidan Hartley]]></description>
+            <link>https://spectator.com/article/after-26-years-its-farewell-to-wild-life/</link>
+            <guid isPermaLink="true">https://spectator.com/article/after-26-years-its-farewell-to-wild-life/</guid>
+            <dc:creator><![CDATA[Aidan Hartley]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The truth about how the British Empire is taught in schools]]></title>
+            <description><![CDATA[Imperial measurements]]></description>
+            <link>https://spectator.com/article/the-truth-about-how-the-british-empire-is-taught-in-schools/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-how-the-british-empire-is-taught-in-schools/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the last original punk still playing punk]]></title>
+            <description><![CDATA[Music]]></description>
+            <link>https://spectator.com/article/meet-the-last-original-punk-still-playing-punk/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/meet-the-last-original-punk-still-playing-punk/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin has lost touch with reality]]></title>
+            <description><![CDATA[Mad Vlad]]></description>
+            <link>https://spectator.com/article/putin-has-lost-touch-with-reality/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/putin-has-lost-touch-with-reality/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A century of movie magic: how cinema has changed the way we think]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/a-century-of-movie-magic-how-cinema-has-changed-the-way-we-think/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-century-of-movie-magic-how-cinema-has-changed-the-way-we-think/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Philip Hensher]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JK Rowling is a national treasure, so why don’t we treat her like one?]]></title>
+            <description><![CDATA[By Joanna Williams]]></description>
+            <link>https://spectator.com/article/jk-rowling-is-a-national-treasure-so-why-dont-we-treat-her-like-one/</link>
+            <guid isPermaLink="true">https://spectator.com/article/jk-rowling-is-a-national-treasure-so-why-dont-we-treat-her-like-one/</guid>
+            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make men’s shorts socially acceptable]]></title>
+            <description><![CDATA[By Rory Sutherland]]></description>
+            <link>https://spectator.com/article/make-mens-shorts-socially-acceptable/</link>
+            <guid isPermaLink="true">https://spectator.com/article/make-mens-shorts-socially-acceptable/</guid>
+            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reform is right to fear the return of Boris]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/reform-is-right-to-fear-the-return-of-boris/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reform-is-right-to-fear-the-return-of-boris/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I can’t remember when I was last so disgusted with Trump]]></title>
+            <description><![CDATA[US politics]]></description>
+            <link>https://spectator.com/article/i-cant-remember-when-i-was-last-so-disgusted-with-trump/</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-cant-remember-when-i-was-last-so-disgusted-with-trump/</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Putin has lost touch with reality]]></title>
             <description><![CDATA[By Owen Matthews]]></description>
@@ -78,17 +150,7 @@ Sixty years in I don’t think I’m ever going to get a handle on this football
         </item>
         <item>
             <title><![CDATA[Make weddings short again]]></title>
-            <description><![CDATA[As every single one of my friends – and their spouses – is a tasteful soul, it goes without saying that every wedding I have ever attended has been the last word in elegance.
-
-
-
-You do hear things, though. Of Balham-based chartered accountants behaving like Victorian land magnates by renting stately homes for their nuptials. Of multi-venue events in five-star resorts by the lapping shores of the Mediterranean Sea. Of women having to buy, rent and borrow ten dresses for the summer that makes up wedding season. I could go on.
-
-
-
-
-
-So I am not surprised to read that one in three people is now turning down wedding invitations because they’ve become so expensive.]]></description>
+            <description><![CDATA[By Charlie Baker]]></description>
             <link>https://spectator.com/article/weddings-should-be-short-and-sweet/</link>
             <guid isPermaLink="true">https://spectator.com/article/weddings-should-be-short-and-sweet/</guid>
             <dc:creator><![CDATA[Charlie Baker]]></dc:creator>
@@ -96,23 +158,19 @@ So I am not surprised to read that one in three people is now turning down weddi
         </item>
         <item>
             <title><![CDATA[‘A contradiction in terms’: Zylia reviewed]]></title>
-            <description><![CDATA[By Angus Colwell]]></description>
+            <description><![CDATA[Can there be, in Britain, such a thing as a destination Greek taverna? There are some cases where proximity is the most important thing: gyms, cafés, defibrillators. A Greek taverna falls into this category. All you need is harmless food and ambient fake vines for a catch-up with your relatives.
+
+
+
+But I’m in need of a new one. Lemonia in north London was a good option until halfway through my final meal there. A bit of lamb kleftiko decided it wanted to remain in the entrance to my father’s trachea. Choking, mouth frothing, screaming for help, oh thank God there’s a nurse over there, Heimlich, hospital, then, seven hours later, home.]]></description>
             <link>https://spectator.com/article/a-contradiction-in-terms-zylia-reviewed/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-contradiction-in-terms-zylia-reviewed/</guid>
             <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 02:29:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revealed: the shady funding of net zero]]></title>
-            <description><![CDATA[There is a problem with British politics. Dark money from abroad is being funnelled into our system. A complex web of interlocking charities, thinktanks, advocacy groups and campaign outfits is being bank-rolled to push a policy agenda onto the public that makes us poorer, puts us in hock to hostile powers and undermines working people.
-
-
-
-According to the left, Kemi Badenoch and Nigel Farage are puppets of such shadowy interests: Tufton Street thinktanks bankrolled by oil companies, Christian fundamentalists and perhaps even Russian money. These allegations are well-ventilated and have been exhaustively investigated. Most lead nowhere.
-
-
-
-Yet no similar scrutiny is applied to a far bigger lobbying effort – the concerted campaign to push a ruinous net-zero agenda.]]></description>
+            <title><![CDATA[Dark Green money]]></title>
+            <description><![CDATA[By John Power and William Atkinson]]></description>
             <link>https://spectator.com/article/revealed-the-shady-funding-of-net-zero/</link>
             <guid isPermaLink="true">https://spectator.com/article/revealed-the-shady-funding-of-net-zero/</guid>
             <dc:creator><![CDATA[John Power and William Atkinson]]></dc:creator>
@@ -120,7 +178,7 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
         </item>
         <item>
             <title><![CDATA[The fuss over gay conversion therapy is a charade]]></title>
-            <description><![CDATA[By Lara Brown]]></description>
+            <description><![CDATA[Trans rights]]></description>
             <link>https://spectator.com/article/the-fuss-over-gay-conversion-therapy-is-a-charade/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-fuss-over-gay-conversion-therapy-is-a-charade/</guid>
             <dc:creator><![CDATA[Lara Brown]]></dc:creator>
@@ -248,7 +306,7 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
         </item>
         <item>
             <title><![CDATA[The failure to deport the Rochdale grooming gang leader shames Britain]]></title>
-            <description><![CDATA[Crime]]></description>
+            <description><![CDATA[By Stephen Pollard]]></description>
             <link>https://spectator.com/article/shabir-ahmed-is-everything-wrong-with-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/shabir-ahmed-is-everything-wrong-with-britain/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -304,7 +362,7 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
         </item>
         <item>
             <title><![CDATA[Italy is misunderstood]]></title>
-            <description><![CDATA[Bel paese]]></description>
+            <description><![CDATA[By Robin Ashenden]]></description>
             <link>https://spectator.com/article/italy-is-misunderstood/</link>
             <guid isPermaLink="true">https://spectator.com/article/italy-is-misunderstood/</guid>
             <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
@@ -312,7 +370,7 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
         </item>
         <item>
             <title><![CDATA[Longevity is not the meaning of life]]></title>
-            <description><![CDATA[Quack medicine]]></description>
+            <description><![CDATA[By Zak Asgard]]></description>
             <link>https://spectator.com/article/longevity-is-not-the-meaning-of-life/</link>
             <guid isPermaLink="true">https://spectator.com/article/longevity-is-not-the-meaning-of-life/</guid>
             <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
@@ -320,7 +378,7 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
         </item>
         <item>
             <title><![CDATA[Love is easier in a warm climate]]></title>
-            <description><![CDATA[Courtly Love]]></description>
+            <description><![CDATA[By Andrew Watts]]></description>
             <link>https://spectator.com/article/love-is-easier-in-a-warm-climate/</link>
             <guid isPermaLink="true">https://spectator.com/article/love-is-easier-in-a-warm-climate/</guid>
             <dc:creator><![CDATA[Andrew Watts]]></dc:creator>
@@ -3981,78 +4039,6 @@ Spring has not been cancelled. Neither have the arts ceased to function. David H
             <guid isPermaLink="true">https://spectator.com/article/revealed-andy-burnhams-reassuringly-bland-cambridge-years/?homepage-tracking=magazine-article-3</guid>
             <dc:creator><![CDATA[Lara Brown]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 05:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three cheers for the new illustration museum]]></title>
-            <description><![CDATA[Museums]]></description>
-            <link>https://spectator.com/article/three-cheers-for-the-new-illustration-museum/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/three-cheers-for-the-new-illustration-museum/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 05:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why real Americans can’t stand football]]></title>
-            <description><![CDATA[By Bill Kauffman]]></description>
-            <link>https://spectator.com/article/why-america-is-still-immune-to-the-soccer-virus/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-america-is-still-immune-to-the-soccer-virus/</guid>
-            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 05:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michelle Terry is ferocious in Brecht’s simplistic tutorial]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/michelle-terry-is-ferocious-in-brechts-simplistic-tutorial/</link>
-            <guid isPermaLink="true">https://spectator.com/article/michelle-terry-is-ferocious-in-brechts-simplistic-tutorial/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 00:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The liberating delights of Aldous Harding]]></title>
-            <description><![CDATA[By Michael Hann]]></description>
-            <link>https://spectator.com/article/the-liberating-delights-of-aldous-harding/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-liberating-delights-of-aldous-harding/</guid>
-            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 00:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another thriller, another teenage incel]]></title>
-            <description><![CDATA[By James Walton]]></description>
-            <link>https://spectator.com/article/another-thriller-another-teenage-incel/</link>
-            <guid isPermaLink="true">https://spectator.com/article/another-thriller-another-teenage-incel/</guid>
-            <dc:creator><![CDATA[James Walton]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 00:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Delightful Rossini at Glyndebourne]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/delightful-rossini-at-glyndebourne/</link>
-            <guid isPermaLink="true">https://spectator.com/article/delightful-rossini-at-glyndebourne/</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 00:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Lucian Freud belongs on the compost]]></title>
-            <description><![CDATA[By Hermione Eyre]]></description>
-            <link>https://spectator.com/article/this-lucian-freud-belongs-on-the-compost/</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-lucian-freud-belongs-on-the-compost/</guid>
-            <dc:creator><![CDATA[Hermione Eyre]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 00:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three cheers for the new illustration museum]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/three-cheers-for-the-new-illustration-museum/</link>
-            <guid isPermaLink="true">https://spectator.com/article/three-cheers-for-the-new-illustration-museum/</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 00:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Derby is the most interesting race of the year – and I missed it]]></title>
-            <description><![CDATA[By Charlie Brooks]]></description>
-            <link>https://spectator.com/article/the-derby-is-the-most-interesting-race-of-the-year-and-i-missed-it/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-derby-is-the-most-interesting-race-of-the-year-and-i-missed-it/</guid>
-            <dc:creator><![CDATA[Charlie Brooks]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 00:09:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

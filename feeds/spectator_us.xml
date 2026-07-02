@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 12:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 15:07:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 12:03:08 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 15:07:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Time for Americans to give tea a second chance]]></title>
+            <description><![CDATA[By Jane Stannus]]></description>
+            <link>https://spectator.com/article/time-for-americans-to-give-tea-a-second-chance/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/time-for-americans-to-give-tea-a-second-chance/?edition=us</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 15:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What George Washington learned from Brooklyn Heights]]></title>
+            <description><![CDATA[By Patrick Allitt]]></description>
+            <link>https://spectator.com/article/what-george-washington-learned-from-brooklyn-heights/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-george-washington-learned-from-brooklyn-heights/?edition=us</guid>
+            <dc:creator><![CDATA[Patrick Allitt]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 15:07:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Time for Americans to give tea a second chance]]></title>
             <description><![CDATA[A new leaf]]></description>
@@ -4002,22 +4018,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/trump-europe-and-the-power-of-delusions/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-europe-and-the-power-of-delusions/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 10:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The exquisitely dull life of Elizabeth II, expert on cap badges]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-exquisitely-dull-life-of-elizabeth-ii-expert-on-cap-badges/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-exquisitely-dull-life-of-elizabeth-ii-expert-on-cap-badges/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Roger Lewis]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 10:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middlemarch is overrated]]></title>
-            <description><![CDATA[By Theo Hobson]]></description>
-            <link>https://spectator.com/article/middlemarch-is-overrated/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/middlemarch-is-overrated/?edition=us</guid>
-            <dc:creator><![CDATA[Theo Hobson]]></dc:creator>
             <pubDate>Tue, 19 May 2026 10:34:12 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 12:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 15:02:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 12:01:32 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 15:02:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Are American workers just ‘settlers’?]]></title>
+            <description><![CDATA[By Travis Aaroe]]></description>
+            <link>https://spectator.com/article/are-american-workers-just-settlers/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/are-american-workers-just-settlers/?edition=us</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 15:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A golden age… for Trump]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/a-golden-age-for-trump/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-golden-age-for-trump/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 15:02:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Modern-day Plymouth looks nothing like the Land of the Pilgrims]]></title>
             <description><![CDATA[By Hannah Moore]]></description>
@@ -4003,22 +4019,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/america-isnt-prepared-for-drone-terrorism/?edition=us</guid>
             <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
             <pubDate>Wed, 20 May 2026 13:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is May National Barbecue Month?]]></title>
-            <description><![CDATA[Pit stop]]></description>
-            <link>https://spectator.com/article/pit-stop-national-barbecue-month-may/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/pit-stop-national-barbecue-month-may/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
-            <pubDate>Wed, 20 May 2026 10:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump got immigration spectacularly right]]></title>
-            <description><![CDATA[Law and border]]></description>
-            <link>https://spectator.com/article/immigration-control-bright-spot-trump-second-term/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/immigration-control-bright-spot-trump-second-term/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Wed, 20 May 2026 10:20:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

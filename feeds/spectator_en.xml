@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 23:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 02:04:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 23:12:34 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 02:04:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[In praise of the American Loyalists]]></title>
+            <description><![CDATA[By Cyril Davydenko]]></description>
+            <link>https://spectator.com/article/in-praise-of-the-american-loyalists/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-praise-of-the-american-loyalists/</guid>
+            <dc:creator><![CDATA[Cyril Davydenko]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 02:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TG Jones and WH Smith deserve to fail]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/tg-jones-and-wh-smith-deserve-to-fail/</link>
+            <guid isPermaLink="true">https://spectator.com/article/tg-jones-and-wh-smith-deserve-to-fail/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 02:04:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham’s LBC interview told us nothing new]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -4022,22 +4038,6 @@ Spring has not been cancelled. Neither have the arts ceased to function. David H
             <link>https://spectator.com/article/watch-emma-thompson-backs-labours-summer-of-sex/</link>
             <guid isPermaLink="true">https://spectator.com/article/watch-emma-thompson-backs-labours-summer-of-sex/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 10:08:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the new Conservative Headquarters]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/inside-the-new-conservative-headquarters/</link>
-            <guid isPermaLink="true">https://spectator.com/article/inside-the-new-conservative-headquarters/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 10:08:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran has got Trump where it wants him]]></title>
-            <description><![CDATA[By Daniel DePetris]]></description>
-            <link>https://spectator.com/article/trump-cant-give-up-diplomacy-iran/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-cant-give-up-diplomacy-iran/</guid>
-            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 10:08:34 GMT</pubDate>
         </item>
     </channel>

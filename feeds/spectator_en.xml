@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 15:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 17:14:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 15:02:11 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 17:14:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Kemi crashes Burnham’s Reddit refuge]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/kemi-crashes-burnhams-reddit-refuge/</link>
+            <guid isPermaLink="true">https://spectator.com/article/kemi-crashes-burnhams-reddit-refuge/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 17:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Labour’s Golden Generation deliver?]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/can-labours-golden-generation-deliver/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-labours-golden-generation-deliver/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 17:14:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[There’s no place for schismatics in the Catholic Church]]></title>
             <description><![CDATA[By Stephen Daisley]]></description>
@@ -4031,22 +4047,6 @@ Spring has not been cancelled. Neither have the arts ceased to function. David H
             <guid isPermaLink="true">https://spectator.com/article/the-botched-coup-that-presaged-the-end-of-the-soviet-union/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Victor Sebestyen]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 07:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Lucian Freud belongs on the compost]]></title>
-            <description><![CDATA[Exhibitions]]></description>
-            <link>https://spectator.com/article/this-lucian-freud-belongs-on-the-compost/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-lucian-freud-belongs-on-the-compost/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Hermione Eyre]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 07:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Tommy Robinson really sees in Russia]]></title>
-            <description><![CDATA[By Mark Galeotti]]></description>
-            <link>https://spectator.com/article/what-tommy-robinson-really-sees-in-russia/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-tommy-robinson-really-sees-in-russia/</guid>
-            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 02:42:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

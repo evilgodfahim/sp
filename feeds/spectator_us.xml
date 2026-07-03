@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 15:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 17:14:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 15:02:06 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 17:14:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What Britain taught us]]></title>
+            <description><![CDATA[By Daniel McCarthy]]></description>
+            <link>https://spectator.com/article/what-britain-taught-us/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-britain-taught-us/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 17:14:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are American workers just ‘settlers’?]]></title>
             <description><![CDATA[By Travis Aaroe]]></description>
@@ -4010,14 +4018,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/i-gave-up-drinking-dont-call-me-teetotal/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/i-gave-up-drinking-dont-call-me-teetotal/?edition=us</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Wed, 20 May 2026 13:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why drones will carry out the next 9/11]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/america-isnt-prepared-for-drone-terrorism/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/america-isnt-prepared-for-drone-terrorism/?edition=us</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
             <pubDate>Wed, 20 May 2026 13:32:20 GMT</pubDate>
         </item>
     </channel>

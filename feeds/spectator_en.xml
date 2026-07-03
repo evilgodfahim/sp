@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 06:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 09:50:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 06:22:45 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 09:50:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Watch: Sarah Pochin shares emotional adoption story]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-sarah-pochin-shares-emotional-adoption-story/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-sarah-pochin-shares-emotional-adoption-story/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 09:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The problem with Burnham’s ‘cost of living populism’]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/the-problem-with-burnhams-cost-of-living-populism/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-burnhams-cost-of-living-populism/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 09:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kate Middleton is the royal family’s best ambassador]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/kate-middleton-is-the-royal-familys-best-ambassador/</link>
+            <guid isPermaLink="true">https://spectator.com/article/kate-middleton-is-the-royal-familys-best-ambassador/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 09:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift has the power to make marriage great again]]></title>
+            <description><![CDATA[By Lois McLatchie Miller]]></description>
+            <link>https://spectator.com/article/taylor-swift-has-the-power-to-make-marriage-great-again/</link>
+            <guid isPermaLink="true">https://spectator.com/article/taylor-swift-has-the-power-to-make-marriage-great-again/</guid>
+            <dc:creator><![CDATA[Lois McLatchie Miller]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 09:50:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Confessions of a binman]]></title>
             <description><![CDATA[By Rupert Hawksley]]></description>
@@ -4014,38 +4046,6 @@ Spring has not been cancelled. Neither have the arts ceased to function. David H
             <link>https://spectator.com/article/revealed-green-party-proposes-circumcision-ban/</link>
             <guid isPermaLink="true">https://spectator.com/article/revealed-green-party-proposes-circumcision-ban/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 14:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Waspi women are grifters]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/the-waspi-women-are-grifters/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-waspi-women-are-grifters/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 14:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will John Healey’s resignation make Starmer listen on defence?]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
-            <link>https://spectator.com/article/will-john-healeys-resignation-make-starmer-listen-on-defence/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-john-healeys-resignation-make-starmer-listen-on-defence/</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 14:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I’m resigning as Defence Secretary]]></title>
-            <description><![CDATA[By John Healey]]></description>
-            <link>https://spectator.com/article/why-im-resigning-as-defence-secretary/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-im-resigning-as-defence-secretary/</guid>
-            <dc:creator><![CDATA[John Healey]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 14:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John Healey’s resignation is devastating for Keir Starmer]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/john-healeys-resignation-is-devastating-for-keir-starmer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/john-healeys-resignation-is-devastating-for-keir-starmer/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 14:31:41 GMT</pubDate>
         </item>
     </channel>

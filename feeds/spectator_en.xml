@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 11:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 13:02:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 11:18:39 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 13:02:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Goat is tasty. But don’t force it on me]]></title>
+            <description><![CDATA[By Olivia Potts]]></description>
+            <link>https://spectator.com/article/goat-is-tasty-but-dont-force-it-on-me/</link>
+            <guid isPermaLink="true">https://spectator.com/article/goat-is-tasty-but-dont-force-it-on-me/</guid>
+            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
+            <pubDate>Sat, 04 Jul 2026 13:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Britain doesn’t need China]]></title>
+            <description><![CDATA[By Tom Tugendhat]]></description>
+            <link>https://spectator.com/article/why-britain-doesnt-need-china/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-britain-doesnt-need-china/</guid>
+            <dc:creator><![CDATA[Tom Tugendhat]]></dc:creator>
+            <pubDate>Sat, 04 Jul 2026 13:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The case against al fresco dining]]></title>
+            <description><![CDATA[By Martin Vander Weyer]]></description>
+            <link>https://spectator.com/article/the-case-against-al-fresco-dining/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-case-against-al-fresco-dining/</guid>
+            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
+            <pubDate>Sat, 04 Jul 2026 13:02:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Would Oxford still open its doors to a poor, white boy like me?]]></title>
             <description><![CDATA[By Druin Burch]]></description>
@@ -4007,42 +4031,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <guid isPermaLink="true">https://spectator.com/article/the-vindication-of-sophie-of-dundee/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 14:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I think I’ve found a real paradise’: David Hockney interviewed]]></title>
-            <description><![CDATA[David Hockney has died, aged 88. During lockdown in 2020, Martin Gayford, the author of ‘Conversations With Hockney’, spoke to him for the magazine.
-
-
-
-Spring has not been cancelled. Neither have the arts ceased to function. David Hockney’s marvellous exhibition at the National Portrait Gallery may be sadly shut, but the artist himself is firing on all cylinders.  
-
-
-
-‘I was just drawing on this thing I’m talking to you on,’ he announced when I spoke to him via FaceTime the other day. He was  sitting in the sunshine outside his half-timbered farmhouse in Normandy. 
-
-
-
-‘We’re very busy here,’ Hockney explained, ‘because all the blossom is just coming out, and there’s a lot more to come. The big cherry tree looks glorious right now.]]></description>
-            <link>https://spectator.com/article/i-think-ive-found-a-real-paradise-david-hockney-interviewed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-think-ive-found-a-real-paradise-david-hockney-interviewed/</guid>
-            <dc:creator><![CDATA[Martin Gayford]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 11:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new defence minister won’t solve Starmer’s DIP problem]]></title>
-            <description><![CDATA[By Eliot Wilson]]></description>
-            <link>https://spectator.com/article/a-new-defence-minister-wont-solve-starmers-dip-problem/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-new-defence-minister-wont-solve-starmers-dip-problem/</guid>
-            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 11:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s too late for Sadiq Khan’s ‘principled’ stand]]></title>
-            <description><![CDATA[By James Hanson]]></description>
-            <link>https://spectator.com/article/its-too-late-for-sadiq-khans-principled-stand/</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-too-late-for-sadiq-khans-principled-stand/</guid>
-            <dc:creator><![CDATA[James Hanson]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 11:36:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

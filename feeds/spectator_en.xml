@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 23:54:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 02:10:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 23:54:36 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Only bad parents will let their kids skip school to watch the England game]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/only-bad-parents-will-let-their-kids-skip-school-to-watch-the-england-game/</link>
+            <guid isPermaLink="true">https://spectator.com/article/only-bad-parents-will-let-their-kids-skip-school-to-watch-the-england-game/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In defence of Masha and the Bear]]></title>
+            <description><![CDATA[By Mark Galeotti]]></description>
+            <link>https://spectator.com/article/in-defence-of-masha-and-the-bear/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-masha-and-the-bear/</guid>
+            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whitehall isn’t taking tech seriously]]></title>
+            <description><![CDATA[By Arthur Kay.]]></description>
+            <link>https://spectator.com/article/whitehall-isnt-taking-tech-seriously/</link>
+            <guid isPermaLink="true">https://spectator.com/article/whitehall-isnt-taking-tech-seriously/</guid>
+            <dc:creator><![CDATA[Arthur Kay.]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Britain too hot for our pet dogs?]]></title>
+            <description><![CDATA[By Chas Newkey-Burden]]></description>
+            <link>https://spectator.com/article/is-britain-too-hot-for-our-pet-dogs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-britain-too-hot-for-our-pet-dogs/</guid>
+            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Goat is tasty. But don’t force it on me]]></title>
             <description><![CDATA[By Olivia Potts]]></description>
@@ -3998,38 +4030,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <link>https://spectator.com/article/the-lesson-of-belfasts-riots/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-lesson-of-belfasts-riots/</guid>
             <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 14:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘We’re only a few months away from the first political assassination by drone’]]></title>
-            <description><![CDATA[By Patrick Gibbons]]></description>
-            <link>https://spectator.com/article/were-only-a-few-months-away-from-the-first-political-assassination-by-drone/</link>
-            <guid isPermaLink="true">https://spectator.com/article/were-only-a-few-months-away-from-the-first-political-assassination-by-drone/</guid>
-            <dc:creator><![CDATA[Patrick Gibbons]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 14:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer vows to fight on (again)]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/starmer-vows-to-fight-on-again/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-vows-to-fight-on-again/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 14:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Labour so determined to prosecute Northern Ireland veterans?]]></title>
-            <description><![CDATA[By Richard Ekins]]></description>
-            <link>https://spectator.com/article/why-is-labour-so-determined-to-prosecute-northern-ireland-veterans/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-is-labour-so-determined-to-prosecute-northern-ireland-veterans/</guid>
-            <dc:creator><![CDATA[Richard Ekins]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 14:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The vindication of ‘Sophie of Dundee’]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/the-vindication-of-sophie-of-dundee/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-vindication-of-sophie-of-dundee/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 14:37:35 GMT</pubDate>
         </item>
     </channel>

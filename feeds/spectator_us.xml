@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 15:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 16:57:19 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 15:06:42 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 16:57:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The art of chaos]]></title>
+            <description><![CDATA[By Lucinda Bredin]]></description>
+            <link>https://spectator.com/article/the-art-of-chaos/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-art-of-chaos/?edition=us</guid>
+            <dc:creator><![CDATA[Lucinda Bredin]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 16:57:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sir George Cockburn, the great emancipator]]></title>
             <description><![CDATA[By Andrew Cockburn]]></description>
@@ -4006,14 +4014,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/slapp-happy-why-trumpworld-keeps-suing-the-press/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/slapp-happy-why-trumpworld-keeps-suing-the-press/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
-            <pubDate>Fri, 22 May 2026 13:24:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Down with the children’s birthday-industrial complex]]></title>
-            <description><![CDATA[New York life]]></description>
-            <link>https://spectator.com/article/down-childrens-birthday-industrial-complex/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/down-childrens-birthday-industrial-complex/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
             <pubDate>Fri, 22 May 2026 13:24:42 GMT</pubDate>
         </item>
     </channel>

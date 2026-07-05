@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 13:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 15:06:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 13:11:04 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 15:06:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The conspiracy of silence surrounding the Nord Stream bombings]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/the-conspiracy-of-silence-surrounding-the-nord-stream-bombings/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-conspiracy-of-silence-surrounding-the-nord-stream-bombings/</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 15:06:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jenrick on Farage allegations: ‘Nothing to see here’]]></title>
             <description><![CDATA[Sunday shows round-up]]></description>
@@ -4022,14 +4030,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <link>https://spectator.com/article/the-muslim-council-of-britain-is-losing-relevance/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-muslim-council-of-britain-is-losing-relevance/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 06:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Save us from the Gospel according to Grok]]></title>
-            <description><![CDATA[By Mary Wakefield]]></description>
-            <link>https://spectator.com/article/save-us-from-the-gospel-according-to-grok/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/save-us-from-the-gospel-according-to-grok/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 06:51:32 GMT</pubDate>
         </item>
     </channel>

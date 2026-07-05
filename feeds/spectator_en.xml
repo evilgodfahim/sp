@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 09:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 11:23:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 09:36:00 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 11:23:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The truth about Mexico’s record at the Azteca stadium]]></title>
+            <description><![CDATA[Reality Check]]></description>
+            <link>https://spectator.com/article/the-truth-about-mexicos-record-at-the-azteca-stadium/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-mexicos-record-at-the-azteca-stadium/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 11:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The trouble with Andy Burnham’s water nationalisation plan]]></title>
+            <description><![CDATA[By Maxwell Marlow]]></description>
+            <link>https://spectator.com/article/the-trouble-with-andy-burnhams-water-nationalisation-plan/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-trouble-with-andy-burnhams-water-nationalisation-plan/</guid>
+            <dc:creator><![CDATA[Maxwell Marlow]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 11:23:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What should Paris do about Hamza?]]></title>
             <description><![CDATA[By Matthew Fraser]]></description>
@@ -4015,22 +4031,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <guid isPermaLink="true">https://spectator.com/article/why-are-we-still-seduced-by-wealth/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Josh Sims]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 06:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The MoD wanted more money. Does it deserve it?]]></title>
-            <description><![CDATA[By Ash Bhardwaj]]></description>
-            <link>https://spectator.com/article/the-mod-wanted-more-money-does-it-deserve-it/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-mod-wanted-more-money-does-it-deserve-it/</guid>
-            <dc:creator><![CDATA[Ash Bhardwaj]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 06:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How London became Poland’s second capital]]></title>
-            <description><![CDATA[By Piotr Wilczek]]></description>
-            <link>https://spectator.com/article/how-london-became-polands-second-capital/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-london-became-polands-second-capital/</guid>
-            <dc:creator><![CDATA[Piotr Wilczek]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 02:34:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

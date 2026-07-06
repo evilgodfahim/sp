@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 12:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 16:16:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 12:37:38 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 16:16:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did anyone vet Big Ange’s LBC love-in?]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/did-anyone-vet-big-anges-lbc-love-in/</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-anyone-vet-big-anges-lbc-love-in/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 16:16:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The World Cup has revived American soft power]]></title>
             <description><![CDATA[By Toby Young]]></description>
@@ -4018,14 +4026,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <link>https://spectator.com/article/sweden-shows-that-not-all-immigrants-are-the-same/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/sweden-shows-that-not-all-immigrants-are-the-same/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Atbin Moayedi]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 08:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many people did Australia’s backpacker murderer kill?]]></title>
-            <description><![CDATA[Crime]]></description>
-            <link>https://spectator.com/article/how-many-people-did-australias-backpacker-murderer-kill/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-many-people-did-australias-backpacker-murderer-kill/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 08:37:17 GMT</pubDate>
         </item>
     </channel>

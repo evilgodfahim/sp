@@ -4,13 +4,93 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 03:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 08:11:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 03:25:49 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What the sorry state of Hammersmith Bridge says about modern Britain]]></title>
+            <title><![CDATA[The World Cup is evil]]></title>
+            <description><![CDATA[Television]]></description>
+            <link>https://spectator.com/article/the-world-cup-is-evil/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-world-cup-is-evil/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why gays turned against Pride]]></title>
             <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/why-gays-turned-against-pride/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-gays-turned-against-pride/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany is quietly falling apart]]></title>
+            <description><![CDATA[By Henry Donovan]]></description>
+            <link>https://spectator.com/article/germany-is-quietly-falling-apart/</link>
+            <guid isPermaLink="true">https://spectator.com/article/germany-is-quietly-falling-apart/</guid>
+            <dc:creator><![CDATA[Henry Donovan]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunday shows round-up: Jenrick on Farage allegations: ‘Nothing to see here’]]></title>
+            <description><![CDATA[By Joe Bedell-Brill]]></description>
+            <link>https://spectator.com/article/sunday-shows-round-up-jenrick-on-farage-allegations-nothing-to-see-here/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-jenrick-on-farage-allegations-nothing-to-see-here/</guid>
+            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Hiddleston and the pitfalls of advertising]]></title>
+            <description><![CDATA[For hire]]></description>
+            <link>https://spectator.com/article/tom-hiddleston-has-plumbed-a-new-low/</link>
+            <guid isPermaLink="true">https://spectator.com/article/tom-hiddleston-has-plumbed-a-new-low/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wimbledon’s well-heeled workforce]]></title>
+            <description><![CDATA[Class act]]></description>
+            <link>https://spectator.com/article/wimbledon-is-home-to-the-poshest-loo-cleaners/</link>
+            <guid isPermaLink="true">https://spectator.com/article/wimbledon-is-home-to-the-poshest-loo-cleaners/</guid>
+            <dc:creator><![CDATA[Madeleine Silver]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does it matter what politicians drink?]]></title>
+            <description><![CDATA[Cheers]]></description>
+            <link>https://spectator.com/article/does-it-matter-what-politicians-drink/</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-it-matter-what-politicians-drink/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin has lost touch with reality]]></title>
+            <description><![CDATA[Mad Vlad]]></description>
+            <link>https://spectator.com/article/putin-has-lost-touch-with-reality/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/putin-has-lost-touch-with-reality/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disability is becoming the new normal]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/disability-is-becoming-the-new-normal/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/disability-is-becoming-the-new-normal/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The EES border check debacle is the EU at its worst]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/the-ees-border-check-debacle-is-the-eu-at-its-worst/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-ees-border-check-debacle-is-the-eu-at-its-worst/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the sorry state of Hammersmith Bridge says about Britain]]></title>
+            <description><![CDATA[London's bridges are falling down]]></description>
             <link>https://spectator.com/article/what-the-sorry-state-of-hammersmith-bridge-says-about-modern-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-the-sorry-state-of-hammersmith-bridge-says-about-modern-britain/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -18,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[The tragedy of Cristiano Ronaldo]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
+            <description><![CDATA[Football]]></description>
             <link>https://spectator.com/article/the-tragedy-of-cristiano-ronaldo/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-tragedy-of-cristiano-ronaldo/</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
@@ -34,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Disability is becoming the new normal]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
+            <description><![CDATA[Books]]></description>
             <link>https://spectator.com/article/disability-is-becoming-the-new-normal/</link>
             <guid isPermaLink="true">https://spectator.com/article/disability-is-becoming-the-new-normal/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
@@ -58,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[The truth about Mexico’s record at the Azteca stadium]]></title>
-            <description><![CDATA[By Sam McPhail]]></description>
+            <description><![CDATA[Reality Check]]></description>
             <link>https://spectator.com/article/the-truth-about-mexicos-record-at-the-azteca-stadium/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-truth-about-mexicos-record-at-the-azteca-stadium/</guid>
             <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
@@ -145,8 +225,8 @@
             <pubDate>Sun, 05 Jul 2026 06:32:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Only bad parents will let their kids skip school to watch the England game]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
+            <title><![CDATA[Only bad parents will let their kids skip school after the England game]]></title>
+            <description><![CDATA[Football]]></description>
             <link>https://spectator.com/article/only-bad-parents-will-let-their-kids-skip-school-to-watch-the-england-game/</link>
             <guid isPermaLink="true">https://spectator.com/article/only-bad-parents-will-let-their-kids-skip-school-to-watch-the-england-game/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -602,7 +682,7 @@
         </item>
         <item>
             <title><![CDATA[Putin has lost touch with reality]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
+            <description><![CDATA[Mad Vlad]]></description>
             <link>https://spectator.com/article/putin-has-lost-touch-with-reality/</link>
             <guid isPermaLink="true">https://spectator.com/article/putin-has-lost-touch-with-reality/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -610,11 +690,7 @@
         </item>
         <item>
             <title><![CDATA[The World Cup is evil]]></title>
-            <description><![CDATA[I tried to think, Pointless-style, of two of the countries least likely to be participating in the world kicky-ball nonsense. Then I burst into the sitting room to annoy Boy. ‘Quick! Quick! We’re missing Haiti vs Burkina Faso.’ He looked up contemptuously from the sofa. ‘Actually, Haiti are playing right now. Against Morocco. So that’s another of your comedy fails.’
-
-
-
-Sixty years in I don’t think I’m ever going to get a handle on this football malarkey. I first realised I was different in my first week at boarding school. All the other eight-year-olds owned a football and knew how to play with it and had even been taken by their dads to matches. I was the one who knew the Latin name for the common wall lizard.]]></description>
+            <description><![CDATA[Television]]></description>
             <link>https://spectator.com/article/the-world-cup-is-evil/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-world-cup-is-evil/</guid>
             <dc:creator><![CDATA[James Delingpole]]></dc:creator>
@@ -3951,86 +4027,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <guid isPermaLink="true">https://spectator.com/article/trumps-birthday-extravaganza-is-his-last-hurrah/</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 08:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Belfast attack raises questions about Ireland’s borders]]></title>
-            <description><![CDATA[By Patrick Gibbons]]></description>
-            <link>https://spectator.com/article/the-belfast-attack-raises-questions-about-irelands-borders/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-belfast-attack-raises-questions-about-irelands-borders/</guid>
-            <dc:creator><![CDATA[Patrick Gibbons]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 08:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Classic Car Bore]]></title>
-            <description><![CDATA[By Anonymous]]></description>
-            <link>https://spectator.com/article/the-classic-car-bore/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-classic-car-bore/</guid>
-            <dc:creator><![CDATA[Anonymous]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 04:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sweden shows that not all immigrants are the same]]></title>
-            <description><![CDATA[By Atbin Moayedi]]></description>
-            <link>https://spectator.com/article/sweden-shows-that-not-all-immigrants-are-the-same/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sweden-shows-that-not-all-immigrants-are-the-same/</guid>
-            <dc:creator><![CDATA[Atbin Moayedi]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 04:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many people did Australia’s backpacker murderer kill?]]></title>
-            <description><![CDATA[By Terry Barnes]]></description>
-            <link>https://spectator.com/article/how-many-people-did-australias-backpacker-murderer-kill/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-many-people-did-australias-backpacker-murderer-kill/</guid>
-            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 04:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa’s migration warning to the West]]></title>
-            <description><![CDATA[By Robert King]]></description>
-            <link>https://spectator.com/article/south-africas-migration-warning-to-the-west/</link>
-            <guid isPermaLink="true">https://spectator.com/article/south-africas-migration-warning-to-the-west/</guid>
-            <dc:creator><![CDATA[Robert King]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 04:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The cringeworthy rebranding of Bristol’s SS Great Britain]]></title>
-            <description><![CDATA[By John Reeks]]></description>
-            <link>https://spectator.com/article/the-cringeworthy-rebranding-of-bristols-ss-great-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-cringeworthy-rebranding-of-bristols-ss-great-britain/</guid>
-            <dc:creator><![CDATA[John Reeks]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 04:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why can’t Elon Musk’s critics just be pleased for him?]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/why-cant-elon-musks-critics-just-be-pleased-for-him/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-cant-elon-musks-critics-just-be-pleased-for-him/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 21:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer is facing the beginning of the end of the end]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/starmer-is-facing-the-beginning-of-the-end-of-the-end/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-is-facing-the-beginning-of-the-end-of-the-end/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 21:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rebel with a cause: The David Hockney I knew]]></title>
-            <description><![CDATA[A tribute]]></description>
-            <link>https://spectator.com/article/rebel-with-a-cause-the-david-hockney-i-knew/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/rebel-with-a-cause-the-david-hockney-i-knew/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[William Cash]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 21:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will peace be the perfect gift for Trump?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/peace-perfect-gift-president/</link>
-            <guid isPermaLink="true">https://spectator.com/article/peace-perfect-gift-president/</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 21:03:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

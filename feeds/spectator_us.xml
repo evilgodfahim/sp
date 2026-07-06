@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 16:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 18:50:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 16:16:18 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 18:50:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Should Paul Pelosi be on the road?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/should-paul-pelosi-road-driving-crash/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/should-paul-pelosi-road-driving-crash/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 18:50:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The vulgarity of the Swift-Kelce wedding]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/the-vulgarity-of-the-swift-kelce-wedding/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-vulgarity-of-the-swift-kelce-wedding/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 18:50:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump reveals the limits of American power]]></title>
             <description><![CDATA[By Klaus Dodds]]></description>
@@ -426,7 +442,7 @@
         </item>
         <item>
             <title><![CDATA[Dull, duller and Dulles – was Churchill’s jibe about America’s Cold War icon unfair?]]></title>
-            <description><![CDATA[In the era of Trumpian foreign policy incoherence, a new intellectual biography of the American Cold War icon John Foster Dulles might seem welcome for hawks and doves alike. Indeed, Dulles’s tenure as secretary of state during the first six years of the Eisenhower administration could be viewed – even by the harshest left-wing critic of American imperialism – as a useful and reassuring point of reference, despite its narrow anti-communist dogma and too cavalier approach to the dangers of nuclear confrontation with the Soviet Union and China. After all, the Eisenhower administration extricated the United States from President Truman’s stalemated Korean War and started no major new wars before the end of Eisenhower’s second term in January 1961.]]></description>
+            <description><![CDATA[By John R. MacArthur]]></description>
             <link>https://spectator.com/article/dull-duller-and-dulles-was-churchills-jibe-about-americas-cold-war-icon-unfair/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/dull-duller-and-dulles-was-churchills-jibe-about-americas-cold-war-icon-unfair/?edition=us</guid>
             <dc:creator><![CDATA[John R. MacArthur]]></dc:creator>
@@ -4002,22 +4018,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/benevolence-trap-gad-saad/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/benevolence-trap-gad-saad/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Sat, 23 May 2026 13:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the Ukrainian army’s art division]]></title>
-            <description><![CDATA[By Matthew Palmer]]></description>
-            <link>https://spectator.com/article/inside-the-ukrainian-armys-art-division/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/inside-the-ukrainian-armys-art-division/?edition=us</guid>
-            <dc:creator><![CDATA[Matthew Palmer]]></dc:creator>
-            <pubDate>Sat, 23 May 2026 13:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Transnistria: the country that’s not a country]]></title>
-            <description><![CDATA[By Ian Evans]]></description>
-            <link>https://spectator.com/article/welcome-to-transnistria-the-country-that-doesnt-exist/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/welcome-to-transnistria-the-country-that-doesnt-exist/?edition=us</guid>
-            <dc:creator><![CDATA[Ian Evans]]></dc:creator>
             <pubDate>Sat, 23 May 2026 13:03:59 GMT</pubDate>
         </item>
     </channel>

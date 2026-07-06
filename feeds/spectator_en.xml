@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 23:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 03:25:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 23:58:21 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 03:25:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What the sorry state of Hammersmith Bridge says about modern Britain]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/what-the-sorry-state-of-hammersmith-bridge-says-about-modern-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-the-sorry-state-of-hammersmith-bridge-says-about-modern-britain/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 03:25:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The tragedy of Cristiano Ronaldo]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/the-tragedy-of-cristiano-ronaldo/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tragedy-of-cristiano-ronaldo/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 03:25:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is decriminalising rough sleeping a mistake?]]></title>
+            <description><![CDATA[By Alex Klaushofer]]></description>
+            <link>https://spectator.com/article/is-decriminalising-rough-sleeping-a-mistake/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-decriminalising-rough-sleeping-a-mistake/</guid>
+            <dc:creator><![CDATA[Alex Klaushofer]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 03:25:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Disability is becoming the new normal]]></title>
             <description><![CDATA[By Julie Burchill]]></description>
@@ -4007,30 +4031,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <guid isPermaLink="true">https://spectator.com/article/peace-perfect-gift-president/</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 21:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rebel with a cause: The David Hockney I knew]]></title>
-            <description><![CDATA[By William Cash]]></description>
-            <link>https://spectator.com/article/rebel-with-a-cause-the-david-hockney-i-knew/</link>
-            <guid isPermaLink="true">https://spectator.com/article/rebel-with-a-cause-the-david-hockney-i-knew/</guid>
-            <dc:creator><![CDATA[William Cash]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 09:52:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A&E is broken. Can anyone fix it?]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/ae-is-broken-can-anyone-fix-it/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ae-is-broken-can-anyone-fix-it/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 06:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are we still seduced by wealth?]]></title>
-            <description><![CDATA[By Josh Sims]]></description>
-            <link>https://spectator.com/article/why-are-we-still-seduced-by-wealth/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-are-we-still-seduced-by-wealth/</guid>
-            <dc:creator><![CDATA[Josh Sims]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 06:51:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 23:58:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 03:25:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 23:58:15 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 03:25:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The tawdry shenanigans of the Southern Poverty Law Center]]></title>
+            <description><![CDATA[By Mark Pulliam]]></description>
+            <link>https://spectator.com/article/the-case-against-the-southern-poverty-law-center/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-case-against-the-southern-poverty-law-center/?edition=us</guid>
+            <dc:creator><![CDATA[Mark Pulliam]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 03:25:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Looking back to the future on the 50th anniversary of Concorde’s first high-speed commercial flight]]></title>
             <description><![CDATA[By Stephen Bayley]]></description>
@@ -4006,14 +4014,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/benevolence-trap-gad-saad/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/benevolence-trap-gad-saad/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Fri, 22 May 2026 13:24:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man vs lobster]]></title>
-            <description><![CDATA[No life]]></description>
-            <link>https://spectator.com/article/man-vs-lobster/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/man-vs-lobster/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
             <pubDate>Fri, 22 May 2026 13:24:42 GMT</pubDate>
         </item>
     </channel>

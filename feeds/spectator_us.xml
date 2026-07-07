@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 03:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 07:29:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 03:34:58 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 07:29:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Chris Pratt, Christianity and Charlie Kirk]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/chris-pratt-christianity-and-charlie-kirk/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/chris-pratt-christianity-and-charlie-kirk/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 07:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confessions of a TikTok tradwife]]></title>
+            <description><![CDATA[By Kara Kennedy]]></description>
+            <link>https://spectator.com/article/confessions-of-a-tiktok-tradwife/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/confessions-of-a-tiktok-tradwife/?edition=us</guid>
+            <dc:creator><![CDATA[Kara Kennedy]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 07:29:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The peptides market is exploding – but are they safe?]]></title>
             <description><![CDATA[By Charles Cornish-Dale]]></description>
@@ -4003,22 +4019,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/a-progressive-mayor-puts-seattle-to-sleep/?edition=us</guid>
             <dc:creator><![CDATA[Christopher Sandford]]></dc:creator>
             <pubDate>Sun, 24 May 2026 06:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our politicians need a trip to Maine]]></title>
-            <description><![CDATA[By Chris Mondics]]></description>
-            <link>https://spectator.com/article/our-politicians-need-a-trip-to-maine/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/our-politicians-need-a-trip-to-maine/?edition=us</guid>
-            <dc:creator><![CDATA[Chris Mondics]]></dc:creator>
-            <pubDate>Sat, 23 May 2026 13:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The death penalty is still in decline – despite Trump’s best efforts]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/death-penalty-still-decline-despite-trump-best-efforts/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/death-penalty-still-decline-despite-trump-best-efforts/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
-            <pubDate>Sat, 23 May 2026 13:03:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

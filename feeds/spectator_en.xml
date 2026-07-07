@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 16:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 18:55:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 18:55:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The government must protect our coastguard]]></title>
+            <description><![CDATA[By Joe Robertson]]></description>
+            <link>https://spectator.com/article/the-government-must-protect-our-coastguard/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-government-must-protect-our-coastguard/</guid>
+            <dc:creator><![CDATA[Joe Robertson]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 18:55:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is Farage’s game?]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/what-is-farages-game/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-is-farages-game/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 18:55:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Farage versus the world]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
@@ -4015,22 +4031,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <guid isPermaLink="true">https://spectator.com/article/symbol-of-wisdom-or-harbinger-of-death-the-owl-preserves-its-mystery/</guid>
             <dc:creator><![CDATA[Mark Cocker]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 06:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Hockney was a style icon]]></title>
-            <description><![CDATA[By Josh Sims]]></description>
-            <link>https://spectator.com/article/david-hockney-was-a-style-icon/</link>
-            <guid isPermaLink="true">https://spectator.com/article/david-hockney-was-a-style-icon/</guid>
-            <dc:creator><![CDATA[Josh Sims]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 06:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twenty ways to fix Doctor Who]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
-            <link>https://spectator.com/article/twenty-ways-to-fix-doctor-who/</link>
-            <guid isPermaLink="true">https://spectator.com/article/twenty-ways-to-fix-doctor-who/</guid>
-            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 00:28:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

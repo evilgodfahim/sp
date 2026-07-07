@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 16:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 18:55:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 16:19:23 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 18:55:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Is Andrew free already?’]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/is-andrew-free-already/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-andrew-free-already/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 18:55:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graham Platner’s defenders are the biggest losers of his implosion]]></title>
+            <description><![CDATA[By Isaac Schorr]]></description>
+            <link>https://spectator.com/article/graham-platner-defenders-biggest-losers-implosion/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/graham-platner-defenders-biggest-losers-implosion/?edition=us</guid>
+            <dc:creator><![CDATA[Isaac Schorr]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 18:55:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will the ‘anti-Trump playbook’ work in Britain?]]></title>
             <description><![CDATA[By Freddy Gray]]></description>
@@ -4002,22 +4018,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/zombie-fillers-super-rich-plumping-themselves-dead-people-fat/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/zombie-fillers-super-rich-plumping-themselves-dead-people-fat/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Leah McLaren]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 14:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The challenge of dining al fresco in Chicago]]></title>
-            <description><![CDATA[Outside bet]]></description>
-            <link>https://spectator.com/article/challenge-dining-al-fresco-chicago/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/challenge-dining-al-fresco-chicago/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Ed Zotti]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 14:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Republicans are still more focused than the Democrats]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
-            <link>https://spectator.com/article/why-the-republicans-are-still-more-focused-than-the-democrats/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-republicans-are-still-more-focused-than-the-democrats/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
             <pubDate>Mon, 25 May 2026 14:36:53 GMT</pubDate>
         </item>
     </channel>

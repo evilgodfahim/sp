@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 23:59:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 03:35:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 23:59:30 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 03:35:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The shame of Pride]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/the-shame-of-pride/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-shame-of-pride/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 03:35:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the conversion therapy bill really worth £783 million?]]></title>
+            <description><![CDATA[By John Armstrong]]></description>
+            <link>https://spectator.com/article/is-the-conversion-therapy-bill-really-worth-783-million/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-conversion-therapy-bill-really-worth-783-million/</guid>
+            <dc:creator><![CDATA[John Armstrong]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 03:35:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The civil service’s war on expertise]]></title>
+            <description><![CDATA[By Ameer Kotecha]]></description>
+            <link>https://spectator.com/article/the-civil-services-war-on-expertise/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-civil-services-war-on-expertise/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 03:35:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did anyone vet Big Ange’s LBC love-in?]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
@@ -4003,30 +4027,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <guid isPermaLink="true">https://spectator.com/article/trumps-birthday-extravaganza-is-his-last-hurrah/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 15:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer’s Russian oil tanker raid was a political stunt]]></title>
-            <description><![CDATA[Smytros]]></description>
-            <link>https://spectator.com/article/starmers-russian-oil-tanker-raid-was-a-political-stunt/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmers-russian-oil-tanker-raid-was-a-political-stunt/</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 15:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunday shows round-up: Nandy insists Labour will ‘meet that moment’ on defence]]></title>
-            <description><![CDATA[By Joe Bedell-Brill]]></description>
-            <link>https://spectator.com/article/sunday-shows-round-up-nandy-insists-labour-will-meet-that-moment-on-defence/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-nandy-insists-labour-will-meet-that-moment-on-defence/</guid>
-            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 13:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sweden shows that not all immigrants are the same]]></title>
-            <description><![CDATA[Home truths]]></description>
-            <link>https://spectator.com/article/sweden-shows-that-not-all-immigrants-are-the-same/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/sweden-shows-that-not-all-immigrants-are-the-same/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Atbin Moayedi]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 08:37:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

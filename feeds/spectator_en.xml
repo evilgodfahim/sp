@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 13:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 16:19:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 13:12:34 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Farage versus the world]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/farage-versus-the-world/</link>
+            <guid isPermaLink="true">https://spectator.com/article/farage-versus-the-world/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rupert Lowe ducks Farage’s Clacton by-election]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/rupert-lowe-ducks-farages-clacton-by-election/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rupert-lowe-ducks-farages-clacton-by-election/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farage has taken back control of the political narrative]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/farage-has-taken-back-control-of-the-political-narrative/</link>
+            <guid isPermaLink="true">https://spectator.com/article/farage-has-taken-back-control-of-the-political-narrative/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It must be harder for the NHS to strike]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/it-must-be-harder-for-the-nhs-to-strike/</link>
+            <guid isPermaLink="true">https://spectator.com/article/it-must-be-harder-for-the-nhs-to-strike/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Le Pen run for president wearing an ankle tag?]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/will-le-pen-run-for-president-wearing-an-ankle-tag/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-le-pen-run-for-president-wearing-an-ankle-tag/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farage resigns to fight Clacton by-election]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/farage-resigns-to-fight-clacton-by-election/</link>
+            <guid isPermaLink="true">https://spectator.com/article/farage-resigns-to-fight-clacton-by-election/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry has lost his most high-stakes gamble]]></title>
+            <description><![CDATA[‘Phone hacking’]]></description>
+            <link>https://spectator.com/article/prince-harry-has-lost-his-most-high-stakes-gamble/</link>
+            <guid isPermaLink="true">https://spectator.com/article/prince-harry-has-lost-his-most-high-stakes-gamble/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Miliband’s heat pump revolution leaves taxpayers in the cold]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -18,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Will the ‘anti-Trump playbook’ work in Britain?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
+            <description><![CDATA[Reform]]></description>
             <link>https://spectator.com/article/will-the-anti-trump-playbook-work-in-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-the-anti-trump-playbook-work-in-britain/</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
@@ -26,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[What Trump and Erdogan want from each other]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
+            <description><![CDATA[Strongmen]]></description>
             <link>https://spectator.com/article/what-trump-and-erdogan-want-from-each-other/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-trump-and-erdogan-want-from-each-other/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -42,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Why Albanese’s Kylie remarks went down so badly in Australia]]></title>
-            <description><![CDATA[Spinning around]]></description>
+            <description><![CDATA[By Terry Barnes]]></description>
             <link>https://spectator.com/article/why-albaneses-kylie-remarks-went-down-so-badly-in-australia/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-albaneses-kylie-remarks-went-down-so-badly-in-australia/</guid>
             <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
@@ -3975,62 +4031,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <guid isPermaLink="true">https://spectator.com/article/twenty-ways-to-fix-doctor-who/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 00:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Assisted suicide is morally inadmissible]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/assisted-suicide-is-morally-inadmissible/</link>
-            <guid isPermaLink="true">https://spectator.com/article/assisted-suicide-is-morally-inadmissible/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 17:58:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Remaining defence minister admonishes Starmer]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-remaining-defence-minister-admonishes-starmer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-remaining-defence-minister-admonishes-starmer/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 17:58:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump can forge a lasting peace in Iran]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
-            <link>https://spectator.com/article/trump-can-forge-a-lasting-peace/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-can-forge-a-lasting-peace/</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 17:58:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerry Seinfeld and the dark truth about ‘Free Palestine’]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/jerry-seinfeld-and-the-dark-truth-about-free-palestine/</link>
-            <guid isPermaLink="true">https://spectator.com/article/jerry-seinfeld-and-the-dark-truth-about-free-palestine/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 17:58:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We’ve been too tolerant of Palestine Action for too long]]></title>
-            <description><![CDATA[By Alexander Horne]]></description>
-            <link>https://spectator.com/article/how-much-will-upholding-the-ban-on-palestine-action-change/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-much-will-upholding-the-ban-on-palestine-action-change/</guid>
-            <dc:creator><![CDATA[Alexander Horne]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 17:58:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The horror of being offered a seat on the Tube]]></title>
-            <description><![CDATA[Best life]]></description>
-            <link>https://spectator.com/article/the-horror-of-being-offered-a-seat-on-the-tube/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-horror-of-being-offered-a-seat-on-the-tube/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 12:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A snap election need not be a disaster for Reform]]></title>
-            <description><![CDATA[Farage’s future]]></description>
-            <link>https://spectator.com/article/an-early-election-need-not-be-a-disaster-for-reform/</link>
-            <guid isPermaLink="true">https://spectator.com/article/an-early-election-need-not-be-a-disaster-for-reform/</guid>
-            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 12:59:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 10:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 13:12:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 10:47:11 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 13:12:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Miliband’s heat pump revolution leaves taxpayers in the cold]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/milibands-heat-pump-revolution-leaves-taxpayers-in-the-cold/</link>
+            <guid isPermaLink="true">https://spectator.com/article/milibands-heat-pump-revolution-leaves-taxpayers-in-the-cold/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 13:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the ‘anti-Trump playbook’ work in Britain?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/will-the-anti-trump-playbook-work-in-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-the-anti-trump-playbook-work-in-britain/</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 13:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Trump and Erdogan want from each other]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/what-trump-and-erdogan-want-from-each-other/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-trump-and-erdogan-want-from-each-other/</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 13:12:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do doctors think tax rises shouldn’t apply to them?]]></title>
             <description><![CDATA[By Ross Clark]]></description>
@@ -4006,30 +4030,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <link>https://spectator.com/article/an-early-election-need-not-be-a-disaster-for-reform/</link>
             <guid isPermaLink="true">https://spectator.com/article/an-early-election-need-not-be-a-disaster-for-reform/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 12:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The social media ban is stupid and unenforceable]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
-            <link>https://spectator.com/article/the-social-media-ban-is-a-stupid-but-unenforceable-idea/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-social-media-ban-is-a-stupid-but-unenforceable-idea/</guid>
-            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 12:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reform pledges new migrant worker levy]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/reform-pledges-new-migrant-worker-levy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/reform-pledges-new-migrant-worker-levy/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 12:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How serious is Starmer about building a fighter jet with Japan?]]></title>
-            <description><![CDATA[By Philip Patrick]]></description>
-            <link>https://spectator.com/article/how-serious-is-starmer-about-building-a-fighter-jet-with-japan/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-serious-is-starmer-about-building-a-fighter-jet-with-japan/</guid>
-            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
             <pubDate>Mon, 15 Jun 2026 12:59:07 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 05:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 08:09:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jul 2026 05:13:36 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 08:09:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Kanye West the David Bowie of his age?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/ye-kanye-west-david-bowie-age/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ye-kanye-west-david-bowie-age/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 08:09:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Is Andrew free already?’]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -4010,14 +4018,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/is-your-wellness-smoothie-giving-you-cancer/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Max Pemberton]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 14:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zombie fillers: the super-rich are plumping themselves up with dead people’s fat]]></title>
-            <description><![CDATA[Horror show]]></description>
-            <link>https://spectator.com/article/zombie-fillers-super-rich-plumping-themselves-dead-people-fat/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/zombie-fillers-super-rich-plumping-themselves-dead-people-fat/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Leah McLaren]]></dc:creator>
             <pubDate>Mon, 25 May 2026 14:36:53 GMT</pubDate>
         </item>
     </channel>

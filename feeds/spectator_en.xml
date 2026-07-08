@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 10:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 12:14:47 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jul 2026 10:55:15 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 12:14:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump has not forgotten about Greenland]]></title>
+            <description><![CDATA[By Lisa Haseldine]]></description>
+            <link>https://spectator.com/article/trump-has-not-forgotten-about-greenland/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-has-not-forgotten-about-greenland/</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 12:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Nigel Farage really an ‘outsider’?]]></title>
+            <description><![CDATA[By William Cash]]></description>
+            <link>https://spectator.com/article/is-nigel-farage-really-an-outsider/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-nigel-farage-really-an-outsider/</guid>
+            <dc:creator><![CDATA[William Cash]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 12:14:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The fuss over gay conversion therapy is a charade]]></title>
             <description><![CDATA[Trans rights]]></description>
@@ -4010,22 +4026,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <link>https://spectator.com/article/has-american-given-up-on-israel/</link>
             <guid isPermaLink="true">https://spectator.com/article/has-american-given-up-on-israel/</guid>
             <dc:creator><![CDATA[Arieh Kovler]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 12:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could Thames Water be Andy Burnham’s first test?]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/could-thames-water-be-andy-burnhams-first-test/</link>
-            <guid isPermaLink="true">https://spectator.com/article/could-thames-water-be-andy-burnhams-first-test/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 12:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roy Hattersley’s fascination with English Catholicism]]></title>
-            <description><![CDATA[By Serenhedd James]]></description>
-            <link>https://spectator.com/article/roy-hattersleys-fascination-with-english-catholicism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/roy-hattersleys-fascination-with-english-catholicism/</guid>
-            <dc:creator><![CDATA[Serenhedd James]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 12:04:56 GMT</pubDate>
         </item>
     </channel>

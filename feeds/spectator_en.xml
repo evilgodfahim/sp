@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 20:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 22:04:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jul 2026 20:58:42 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 22:04:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mel Stride names his Price]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/mel-stride-names-his-price/</link>
+            <guid isPermaLink="true">https://spectator.com/article/mel-stride-names-his-price/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 22:04:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Farage isn’t the first MP to force a protest by-election]]></title>
             <description><![CDATA[Reality Check]]></description>
@@ -4018,14 +4026,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <link>https://spectator.com/article/kemi-badenoch-the-dartmoor-ponies-must-be-saved/</link>
             <guid isPermaLink="true">https://spectator.com/article/kemi-badenoch-the-dartmoor-ponies-must-be-saved/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 17:55:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer has left Europe in quiet despair]]></title>
-            <description><![CDATA[Defence]]></description>
-            <link>https://spectator.com/article/starmer-has-left-europe-in-quiet-despair/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-has-left-europe-in-quiet-despair/</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 17:55:32 GMT</pubDate>
         </item>
     </channel>

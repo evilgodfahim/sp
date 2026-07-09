@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 14:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 17:12:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 14:33:24 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 17:12:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel’s plan for a new Iran war]]></title>
+            <description><![CDATA[By Yossi Melman]]></description>
+            <link>https://spectator.com/article/israels-plan-for-a-new-iran-war/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/israels-plan-for-a-new-iran-war/?edition=us</guid>
+            <dc:creator><![CDATA[Yossi Melman]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 17:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fact check: Rupert Lowe on Joe Rogan]]></title>
+            <description><![CDATA[By John O’Neill]]></description>
+            <link>https://spectator.com/article/fact-check-rupert-lowe-on-joe-rogan/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/fact-check-rupert-lowe-on-joe-rogan/?edition=us</guid>
+            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 17:12:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why do men think it’s acceptable to wear a hat in church?]]></title>
             <description><![CDATA[By Laurie Graham]]></description>
@@ -4008,22 +4024,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/trouble-yachts-palm-life/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/trouble-yachts-palm-life/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Peter Watson]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The return of animism]]></title>
-            <description><![CDATA[What’s real?]]></description>
-            <link>https://spectator.com/article/the-return-of-animism/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-return-of-animism/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zombie fillers: the super-rich are plumping themselves up with dead people’s fat]]></title>
-            <description><![CDATA[Horror show]]></description>
-            <link>https://spectator.com/article/zombie-fillers-super-rich-plumping-themselves-dead-people-fat/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/zombie-fillers-super-rich-plumping-themselves-dead-people-fat/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Leah McLaren]]></dc:creator>
             <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
         </item>
     </channel>

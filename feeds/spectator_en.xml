@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 17:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 19:23:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 17:12:55 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 19:23:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Burnham’s social media push gets reeled in]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/burnhams-social-media-push-gets-reeled-in/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-social-media-push-gets-reeled-in/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 19:23:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Gary Stevenson’s wealth-tax dream gets a reality check]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4018,14 +4026,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/the-pernicious-rise-of-the-fake-fuzz/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-pernicious-rise-of-the-fake-fuzz/</guid>
             <dc:creator><![CDATA[Mark Mason]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain must finally embrace gene editing]]></title>
-            <description><![CDATA[Gone to seed]]></description>
-            <link>https://spectator.com/article/britain-must-finally-embrace-gene-editing/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-must-finally-embrace-gene-editing/</guid>
-            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 17:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 19:23:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 17:12:49 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 19:23:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Colbert quit the stage with a whimper not a bang]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/colbert-quit-the-stage-with-a-whimper-not-a-bang/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/colbert-quit-the-stage-with-a-whimper-not-a-bang/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 19:23:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel’s plan for a new Iran war]]></title>
             <description><![CDATA[By Yossi Melman]]></description>
@@ -4017,14 +4025,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/our-local-nudists-are-running-wild/?edition=us</guid>
             <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
             <pubDate>Wed, 27 May 2026 14:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The trouble with yachts]]></title>
-            <description><![CDATA[By Peter Watson]]></description>
-            <link>https://spectator.com/article/trouble-yachts-palm-life/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/trouble-yachts-palm-life/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Peter Watson]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

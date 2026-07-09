@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 08:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 11:46:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 08:19:33 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 11:46:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel’s plan for a new Iran war]]></title>
+            <description><![CDATA[By Yossi Melman]]></description>
+            <link>https://spectator.com/article/israels-plan-for-a-new-iran-war/</link>
+            <guid isPermaLink="true">https://spectator.com/article/israels-plan-for-a-new-iran-war/</guid>
+            <dc:creator><![CDATA[Yossi Melman]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 11:46:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Iran ceasefire collapse spells trouble for Trump]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/the-iran-ceasefire-collapse-spells-trouble-for-trump/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-iran-ceasefire-collapse-spells-trouble-for-trump/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 11:46:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prince Harry’s holiday from hell]]></title>
             <description><![CDATA[By Robert Hardman]]></description>
@@ -43,6 +59,8 @@
         <item>
             <title><![CDATA[Thank God for Thomas Tuchel]]></title>
             <description><![CDATA[Here’s an interesting question: had Thomas Tuchel been Portugal’s manager rather than England’s, would he have picked Cristiano Ronaldo to go to the World Cup finals? I am pretty sure not. The reason England are better under Tuchel than they were under Gareth Southgate is that the German chose a squad equipped to go the full five weeks.
+
+
 
 In the epic win over Mexico last weekend, what England needed in those nerve-shredding closing minutes was not for a Cole Palmer or a Phil Foden to tiptoe into the fray but for a battle-scarred old soldier like Dan Burn to take his place and start banging out the 40-yard headed clearances that kept his goalkeeper safe.]]></description>
             <link>https://spectator.com/article/thank-god-for-thomas-tuchel/</link>
@@ -109,6 +127,8 @@ In the epic win over Mexico last weekend, what England needed in those nerve-shr
         <item>
             <title><![CDATA[Springwood is a waste of time]]></title>
             <description><![CDATA[Springwood, set in June 1939, looks at a series of tricky meetings between the American president FDR and George VI at the Roosevelts’ family retreat in upstate New York. George and Queen Elizabeth are guests at the poky old house and although they complain to each other about their sleeping quarters they hide their dismay from their hosts. The writer-director, Richard Nelson, evidently despises the main characters apart from FDR (Robert Lindsay) who comes across as a genial old buffer addicted to whisky.
+
+
 
 The dialogue is divided into easy-to-handle segments. First, we get the history bit. FDR tells George that the US ought to join Britain in the coming war but pro-German sentiment is very strong and the majority of Americans may support Hitler. Then we get the therapy bit.]]></description>
             <link>https://spectator.com/article/springwood-is-a-waste-of-time/</link>
@@ -4014,22 +4034,6 @@ Earlier this year, Labour moved to protect our steel industry with a tariff pack
             <link>https://spectator.com/article/the-brexit-decade-was-it-worth-it/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-brexit-decade-was-it-worth-it/</guid>
             <dc:creator><![CDATA[Michael Gove]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: the Green plot against Zack Polanski]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/revealed-the-green-plot-against-zack-polanski/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/revealed-the-green-plot-against-zack-polanski/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The problem with ‘queer art’]]></title>
-            <description><![CDATA[Arts]]></description>
-            <link>https://spectator.com/article/the-problem-with-queer-art/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-queer-art/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Peter Parker]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 11:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 14:33:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 11:46:46 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[For true Brits, air con is as foreign as a bidet]]></title>
+            <description><![CDATA[Any other business]]></description>
+            <link>https://spectator.com/article/for-true-brits-air-con-is-as-foreign-as-a-bidet/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/for-true-brits-air-con-is-as-foreign-as-a-bidet/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Labour’s plot to sideline alternative media]]></title>
+            <description><![CDATA[Scroll position]]></description>
+            <link>https://spectator.com/article/inside-labours-plot-to-sideline-alternative-media/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/inside-labours-plot-to-sideline-alternative-media/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The slipperiness of Harry Styles]]></title>
+            <description><![CDATA[Pop]]></description>
+            <link>https://spectator.com/article/the-slipperiness-of-harry-styles/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-slipperiness-of-harry-styles/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fact check: Rupert Lowe on Joe Rogan]]></title>
+            <description><![CDATA[By John O’Neill]]></description>
+            <link>https://spectator.com/article/fact-check-rupert-lowe-on-joe-rogan/</link>
+            <guid isPermaLink="true">https://spectator.com/article/fact-check-rupert-lowe-on-joe-rogan/</guid>
+            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starmer takes the puss with Chequers’ cat trips]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/starmer-takes-the-puss/</link>
+            <guid isPermaLink="true">https://spectator.com/article/starmer-takes-the-puss/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beware Andy Burnham’s ‘devolution revolution’]]></title>
+            <description><![CDATA[Work in progress]]></description>
+            <link>https://spectator.com/article/beware-andy-burnhams-devolution-revolution/</link>
+            <guid isPermaLink="true">https://spectator.com/article/beware-andy-burnhams-devolution-revolution/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there any route back for the Society of St Pius X?]]></title>
+            <description><![CDATA[All at See]]></description>
+            <link>https://spectator.com/article/is-there-any-route-back-for-the-society-of-st-pius-x/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-there-any-route-back-for-the-society-of-st-pius-x/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel’s plan for a new Iran war]]></title>
             <description><![CDATA[By Yossi Melman]]></description>
@@ -26,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Prince Harry’s holiday from hell]]></title>
-            <description><![CDATA[By Robert Hardman]]></description>
+            <description><![CDATA[Royal notebook]]></description>
             <link>https://spectator.com/article/prince-harrys-holiday-from-hell/</link>
             <guid isPermaLink="true">https://spectator.com/article/prince-harrys-holiday-from-hell/</guid>
             <dc:creator><![CDATA[Robert Hardman]]></dc:creator>
@@ -102,7 +158,7 @@ In the epic win over Mexico last weekend, what England needed in those nerve-shr
         </item>
         <item>
             <title><![CDATA[Dominic Cummings: ‘There’s going to be an all-out attempt to decapitate Farage’]]></title>
-            <description><![CDATA[By Dominic Cummings]]></description>
+            <description><![CDATA[Power play]]></description>
             <link>https://spectator.com/article/dominic-cummings-theres-going-to-be-an-all-out-attempt-to-decapitate-farage/</link>
             <guid isPermaLink="true">https://spectator.com/article/dominic-cummings-theres-going-to-be-an-all-out-attempt-to-decapitate-farage/</guid>
             <dc:creator><![CDATA[Dominic Cummings]]></dc:creator>
@@ -186,7 +242,7 @@ The dialogue is divided into easy-to-handle segments. First, we get the history 
         </item>
         <item>
             <title><![CDATA[The real story of Manchesterism isn’t the one Andy Burnham is telling]]></title>
-            <description><![CDATA[Boom and bust]]></description>
+            <description><![CDATA[By Tali Fraser]]></description>
             <link>https://spectator.com/article/the-real-story-of-manchesterism-isnt-the-one-andy-burnham-is-telling/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-real-story-of-manchesterism-isnt-the-one-andy-burnham-is-telling/</guid>
             <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
@@ -194,7 +250,7 @@ The dialogue is divided into easy-to-handle segments. First, we get the history 
         </item>
         <item>
             <title><![CDATA[How can we de-programme the police?]]></title>
-            <description><![CDATA[Force or farce]]></description>
+            <description><![CDATA[By Mary Wakefield]]></description>
             <link>https://spectator.com/article/how-can-we-de-programme-the-police/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-can-we-de-programme-the-police/</guid>
             <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
@@ -202,7 +258,7 @@ The dialogue is divided into easy-to-handle segments. First, we get the history 
         </item>
         <item>
             <title><![CDATA[What Farage can learn from the anti-Trump playbook]]></title>
-            <description><![CDATA[Rule-breakers]]></description>
+            <description><![CDATA[By Douglas Murray]]></description>
             <link>https://spectator.com/article/what-farage-can-learn-from-the-anti-trump-playbook/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-farage-can-learn-from-the-anti-trump-playbook/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -3974,66 +4030,6 @@ But as often as not the band is brilliant. They have lovingly tracked down the r
             <link>https://spectator.com/article/a-ballet-masterpiece-revived-but-wheres-the-pony/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-ballet-masterpiece-revived-but-wheres-the-pony/</guid>
             <dc:creator><![CDATA[Rupert Christiansen]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there anything sadder than a Scots Gaelic lament?]]></title>
-            <description><![CDATA[By Graeme Thomson]]></description>
-            <link>https://spectator.com/article/is-there-anything-sadder-than-a-scots-gaelic-lament/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-there-anything-sadder-than-a-scots-gaelic-lament/</guid>
-            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What I learned in the pubs of Makerfield]]></title>
-            <description><![CDATA[By Andy Twelves]]></description>
-            <link>https://spectator.com/article/what-i-learned-in-the-pubs-of-makerfield/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-i-learned-in-the-pubs-of-makerfield/</guid>
-            <dc:creator><![CDATA[Andy Twelves]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer’s delusion is becoming tragic]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/keir-starmers-delusion-is-becoming-tragic/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmers-delusion-is-becoming-tragic/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘As soon as Andy wins, the world changes’: Burnham’s plans for power]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/as-soon-as-andy-wins-the-world-changes-burnhams-plans-for-power/</link>
-            <guid isPermaLink="true">https://spectator.com/article/as-soon-as-andy-wins-the-world-changes-burnhams-plans-for-power/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The radical left will regret embracing political violence]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/the-radical-left-will-regret-embracing-political-violence/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-radical-left-will-regret-embracing-political-violence/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New York Times’s twisted reporting of Henry Nowak’s murder]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
-            <link>https://spectator.com/article/the-new-york-timess-twisted-reporting-of-henry-nowaks-murder/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-new-york-timess-twisted-reporting-of-henry-nowaks-murder/</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Brexit decade: was it worth it?]]></title>
-            <description><![CDATA[It may not feel or sound like it but Keir Starmer is a born-again Brexiteer. His achievements in office may be nugatory, his search for a legacy tragicomic, but there are countless actions this government boasts of which simply would not have been possible if we had stayed in the EU.
-
-
-
-Earlier this year, Labour moved to protect our steel industry with a tariff package possible only because we have an independent trade policy. I was delighted this month when the minister in the Lords made it clear this was a Brexit benefit. Those same Brexit freedoms allowed the Chancellor last month to cut tariffs on more than 100 foodstuffs to ease the cost-of-living crisis.]]></description>
-            <link>https://spectator.com/article/the-brexit-decade-was-it-worth-it/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-brexit-decade-was-it-worth-it/</guid>
-            <dc:creator><![CDATA[Michael Gove]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
         </item>
     </channel>

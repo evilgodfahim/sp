@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 10:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 13:04:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 10:15:34 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 13:04:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Knicks are New York itself]]></title>
+            <description><![CDATA[New York life]]></description>
+            <link>https://spectator.com/article/the-knicks-are-new-york-itself/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-knicks-are-new-york-itself/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 13:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuba is a lovesick country]]></title>
+            <description><![CDATA[By Ruaridh Nicoll]]></description>
+            <link>https://spectator.com/article/cuba-is-a-lovesick-country/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/cuba-is-a-lovesick-country/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 13:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why do men think it’s acceptable to wear a hat in church?]]></title>
+            <description><![CDATA[Hat tip]]></description>
+            <link>https://spectator.com/article/why-do-men-think-its-acceptable-to-wear-a-hat-in-church/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-do-men-think-its-acceptable-to-wear-a-hat-in-church/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Laurie Graham]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 13:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Would the ancients have appreciated David Hockney?]]></title>
+            <description><![CDATA[Ancient and modern]]></description>
+            <link>https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 13:04:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A warning letter from the niece of Osama bin Laden]]></title>
             <description><![CDATA[By Noor Bin Ladin]]></description>
@@ -3993,38 +4025,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/the-return-of-animism/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
             <pubDate>Thu, 28 May 2026 14:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Ozzy Osbourne is a terrible idea]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/ai-ozzy-osbourne-is-a-terrible-idea/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ai-ozzy-osbourne-is-a-terrible-idea/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 14:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the Supreme Court allow a ‘creed’ to kill America?]]></title>
-            <description><![CDATA[By Blake Neff]]></description>
-            <link>https://spectator.com/article/will-the-supreme-court-allow-a-creed-to-kill-america/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-the-supreme-court-allow-a-creed-to-kill-america/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Blake Neff]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 14:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is ‘Q Manivannan’ doing in British politics?]]></title>
-            <description><![CDATA[By Ed West]]></description>
-            <link>https://spectator.com/article/what-is-q-manivannan-doing-in-british-politics/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-is-q-manivannan-doing-in-british-politics/?edition=us</guid>
-            <dc:creator><![CDATA[Ed West]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 10:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ireland is desperate for its own George Floyd moment]]></title>
-            <description><![CDATA[By Michael Murphy]]></description>
-            <link>https://spectator.com/article/ireland-is-desperate-for-its-own-george-floyd-moment/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ireland-is-desperate-for-its-own-george-floyd-moment/?edition=us</guid>
-            <dc:creator><![CDATA[Michael Murphy]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 10:46:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

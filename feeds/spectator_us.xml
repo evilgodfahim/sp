@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 13:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 16:15:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 13:04:44 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 16:15:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[At home with Jacob Rees-Mogg]]></title>
+            <description><![CDATA[By Kara Kennedy]]></description>
+            <link>https://spectator.com/article/at-home-with-jacob-rees-mogg/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/at-home-with-jacob-rees-mogg/?edition=us</guid>
+            <dc:creator><![CDATA[Kara Kennedy]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 16:15:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Knicks are New York itself]]></title>
             <description><![CDATA[New York life]]></description>
@@ -4016,14 +4024,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/trouble-yachts-palm-life/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/trouble-yachts-palm-life/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Peter Watson]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 14:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The return of animism]]></title>
-            <description><![CDATA[What’s real?]]></description>
-            <link>https://spectator.com/article/the-return-of-animism/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-return-of-animism/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
             <pubDate>Thu, 28 May 2026 14:30:22 GMT</pubDate>
         </item>
     </channel>

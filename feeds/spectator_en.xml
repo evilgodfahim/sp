@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 13:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 16:15:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 13:04:49 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 16:15:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why doesn’t my daughter enjoy bonking?]]></title>
+            <description><![CDATA[By Helen D’Vorcee]]></description>
+            <link>https://spectator.com/article/why-doesnt-my-daughter-enjoy-bonking/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-doesnt-my-daughter-enjoy-bonking/</guid>
+            <dc:creator><![CDATA[Helen D’Vorcee]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 16:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A tribute to Ann Widdecombe]]></title>
+            <description><![CDATA[By Rachel Johnson]]></description>
+            <link>https://spectator.com/article/a-tribute-to-ann-widdecombe/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-tribute-to-ann-widdecombe/</guid>
+            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 16:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Murder investigation launched over death of Ann Widdecombe]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/murder-investigation-launched-over-death-of-ann-widdecombe/</link>
+            <guid isPermaLink="true">https://spectator.com/article/murder-investigation-launched-over-death-of-ann-widdecombe/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 16:15:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Madrid is introducing benefits for unborn children]]></title>
             <description><![CDATA[By Jim Lawley]]></description>
@@ -478,7 +502,7 @@ The dialogue is divided into easy-to-handle segments. First, we get the history 
 
 
 
-A source familiar with the discussions reveals that Chris Bruni-Lowe, Nigel Farage’s pollster and message man, has been concerned for months that Reform needs to do something big to ‘take back control’. ‘Chris challenged people, saying things aren’t working the way they need to,’ the source says.]]></description>
+A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster and message man, has been concerned for months that Reform needs to do something big to ‘take back control’. ‘Chris challenged people, saying things aren’t working the way they need to,’ the source says.]]></description>
             <link>https://spectator.com/article/will-nigel-farages-big-gamble-pay-off/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-nigel-farages-big-gamble-pay-off/</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
@@ -4007,30 +4031,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <guid isPermaLink="true">https://spectator.com/article/as-soon-as-andy-wins-the-world-changes-burnhams-plans-for-power/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Reform MP’s bizarre domestic violence football message]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-reform-mps-bizarre-domestic-violence-football-message/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-reform-mps-bizarre-domestic-violence-football-message/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 19:19:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Only Iran is happy with Trump’s peace deal]]></title>
-            <description><![CDATA[By Daniel DePetris]]></description>
-            <link>https://spectator.com/article/only-iran-is-happy-with-trumps-peace-deal/</link>
-            <guid isPermaLink="true">https://spectator.com/article/only-iran-is-happy-with-trumps-peace-deal/</guid>
-            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 16:54:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Lords had no choice but to reject assisted suicide]]></title>
-            <description><![CDATA[By Miriam Cates]]></description>
-            <link>https://spectator.com/article/the-lords-had-no-choice-but-to-reject-assisted-suicide/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-lords-had-no-choice-but-to-reject-assisted-suicide/</guid>
-            <dc:creator><![CDATA[Miriam Cates]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 16:54:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

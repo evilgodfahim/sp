@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 02:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 06:34:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 02:03:25 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 06:34:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A change has come over Trump]]></title>
+            <description><![CDATA[By Christopher Caldwell]]></description>
+            <link>https://spectator.com/article/a-change-has-come-over-trump/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-change-has-come-over-trump/?edition=us</guid>
+            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 06:34:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The banality of Meghan the Martyr]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4017,14 +4025,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/trump-kathy-hochul-knows-ball-new-york-knicks/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Wed, 27 May 2026 20:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the anti-Gretas: the women celebrating nuclear energy]]></title>
-            <description><![CDATA[By Theo Zenou]]></description>
-            <link>https://spectator.com/article/meet-the-anti-gretas-the-women-making-nuclear-energy-hip/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/meet-the-anti-gretas-the-women-making-nuclear-energy-hip/?edition=us</guid>
-            <dc:creator><![CDATA[Theo Zenou]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 17:52:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

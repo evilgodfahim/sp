@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 06:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 10:15:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 06:34:35 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 10:15:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[North African hooligans are the new football firm]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/north-african-hooligans-are-the-new-football-firm/</link>
+            <guid isPermaLink="true">https://spectator.com/article/north-african-hooligans-are-the-new-football-firm/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 10:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England is still learning to love Jude Bellingham]]></title>
+            <description><![CDATA[By Jide Ehizele]]></description>
+            <link>https://spectator.com/article/england-is-still-learning-to-love-jude-bellingham/</link>
+            <guid isPermaLink="true">https://spectator.com/article/england-is-still-learning-to-love-jude-bellingham/</guid>
+            <dc:creator><![CDATA[Jide Ehizele]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 10:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Home Office must ignore Pakistan and deport Shabir Ahmed]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/the-home-office-must-ignore-pakistan-and-deport-shabir-ahmed/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-home-office-must-ignore-pakistan-and-deport-shabir-ahmed/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 10:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: The Green party push to ease sanctions on Iran]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/revealed-the-green-party-push-to-ease-sanctions-on-iran/</link>
+            <guid isPermaLink="true">https://spectator.com/article/revealed-the-green-party-push-to-ease-sanctions-on-iran/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 10:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain should embrace the Twelfth of July celebrations]]></title>
+            <description><![CDATA[By Owen Polley]]></description>
+            <link>https://spectator.com/article/britain-should-embrace-the-twelfth-of-july-celebrations/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-should-embrace-the-twelfth-of-july-celebrations/</guid>
+            <dc:creator><![CDATA[Owen Polley]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 10:15:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How the Bayeux Tapestry broke the internet]]></title>
             <description><![CDATA[By Ettie Neil-Gallacher]]></description>
@@ -3990,46 +4030,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/the-new-york-timess-twisted-reporting-of-henry-nowaks-murder/?homepage-tracking=magazine-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/the-new-york-timess-twisted-reporting-of-henry-nowaks-murder/?homepage-tracking=magazine-article-3</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 13:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The clear and present danger of exploring the Gulag]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-clear-and-present-danger-of-exploring-the-gulag/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-clear-and-present-danger-of-exploring-the-gulag/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Sara Wheeler]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 13:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine’s largest drone attack engulfs Moscow in smoke]]></title>
-            <description><![CDATA[By Svitlana Morenets]]></description>
-            <link>https://spectator.com/article/ukraines-largest-drone-attack-engulfs-moscow-in-smoke/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ukraines-largest-drone-attack-engulfs-moscow-in-smoke/</guid>
-            <dc:creator><![CDATA[Svitlana Morenets]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 13:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A terrible fate awaits Preston Davey’s killer in prison]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/a-terrible-fate-awaits-preston-daveys-killer-in-prison/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-terrible-fate-awaits-preston-daveys-killer-in-prison/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 13:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry and Meghan can’t expect Britain to forgive them]]></title>
-            <description><![CDATA[By Lee Cohen]]></description>
-            <link>https://spectator.com/article/harry-and-meghan-cant-expect-britain-to-forgive-them/</link>
-            <guid isPermaLink="true">https://spectator.com/article/harry-and-meghan-cant-expect-britain-to-forgive-them/</guid>
-            <dc:creator><![CDATA[Lee Cohen]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 13:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The cost-of-living crisis is not over yet]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/the-cost-of-living-crisis-is-not-over-yet/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-cost-of-living-crisis-is-not-over-yet/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 13:57:25 GMT</pubDate>
         </item>
     </channel>

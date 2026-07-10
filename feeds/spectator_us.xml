@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 06:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 10:15:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 06:34:30 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 10:15:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A warning letter from the niece of Osama bin Laden]]></title>
+            <description><![CDATA[By Noor Bin Ladin]]></description>
+            <link>https://spectator.com/article/a-warning-letter-from-the-niece-of-osama-bin-laden/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-warning-letter-from-the-niece-of-osama-bin-laden/?edition=us</guid>
+            <dc:creator><![CDATA[Noor Bin Ladin]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 10:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuba is a lovesick country]]></title>
+            <description><![CDATA[By Ruaridh Nicoll]]></description>
+            <link>https://spectator.com/article/cuba-is-a-lovesick-country/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/cuba-is-a-lovesick-country/?edition=us</guid>
+            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 10:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The violent rage of North African hooligans]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/north-african-hooligans-are-the-new-football-firm/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/north-african-hooligans-are-the-new-football-firm/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 10:15:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A change has come over Trump]]></title>
             <description><![CDATA[By Christopher Caldwell]]></description>
@@ -4001,30 +4025,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/ireland-is-desperate-for-its-own-george-floyd-moment/?edition=us</guid>
             <dc:creator><![CDATA[Michael Murphy]]></dc:creator>
             <pubDate>Thu, 28 May 2026 10:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans invade Cambridge]]></title>
-            <description><![CDATA[By Solveig Lucia Gold]]></description>
-            <link>https://spectator.com/article/americans-invade-cambridge/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/americans-invade-cambridge/?edition=us</guid>
-            <dc:creator><![CDATA[Solveig Lucia Gold]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 06:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The trouble with yachts]]></title>
-            <description><![CDATA[By Peter Watson]]></description>
-            <link>https://spectator.com/article/trouble-yachts-palm-life/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trouble-yachts-palm-life/?edition=us</guid>
-            <dc:creator><![CDATA[Peter Watson]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 02:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump or Hochul: who knows ball?]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/trump-kathy-hochul-knows-ball-new-york-knicks/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-kathy-hochul-knows-ball-new-york-knicks/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 20:02:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

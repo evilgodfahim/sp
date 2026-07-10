@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 23:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 02:03:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 23:03:20 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 02:03:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Prince Harry and Nigel Farage hate ‘the Establishment’]]></title>
+            <description><![CDATA[By Harry Mount]]></description>
+            <link>https://spectator.com/article/why-prince-harry-and-nigel-farage-hate-the-establishment/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-prince-harry-and-nigel-farage-hate-the-establishment/</guid>
+            <dc:creator><![CDATA[Harry Mount]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 02:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When did travelling on buses become so intolerable?]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/when-did-travelling-on-buses-become-so-intolerable/</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-did-travelling-on-buses-become-so-intolerable/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 02:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Chinese plot to destroy Musk’s Starlink satellites]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/the-chinese-plot-to-destroy-musks-starlink-satellites/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-chinese-plot-to-destroy-musks-starlink-satellites/</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 02:03:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fact check: Rupert Lowe on Joe Rogan]]></title>
             <description><![CDATA[By John O’Neill]]></description>
@@ -4002,30 +4026,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/toy-story-5-contains-delicious-touches/</link>
             <guid isPermaLink="true">https://spectator.com/article/toy-story-5-contains-delicious-touches/</guid>
             <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clarkson’s Farm remains the best drama on TV]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/clarksons-farm-remains-the-best-drama-on-tv/</link>
-            <guid isPermaLink="true">https://spectator.com/article/clarksons-farm-remains-the-best-drama-on-tv/</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Head to Deptford for one of the exhibitions of the year]]></title>
-            <description><![CDATA[By Digby Warde-Aldam]]></description>
-            <link>https://spectator.com/article/head-to-deptford-for-one-of-the-exhibitions-of-the-year/</link>
-            <guid isPermaLink="true">https://spectator.com/article/head-to-deptford-for-one-of-the-exhibitions-of-the-year/</guid>
-            <dc:creator><![CDATA[Digby Warde-Aldam]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A play that shows Iranian society is like our own]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/a-play-that-shows-iranian-society-is-like-our-own/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-play-that-shows-iranian-society-is-like-our-own/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 05:29:13 GMT</pubDate>
         </item>
     </channel>

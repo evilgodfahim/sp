@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 09:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 10:55:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 09:18:27 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 10:55:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The problem with the Timms review]]></title>
+            <description><![CDATA[By Shimeon Lee]]></description>
+            <link>https://spectator.com/article/the-problem-with-the-timms-review/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-the-timms-review/</guid>
+            <dc:creator><![CDATA[Shimeon Lee]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 10:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I love The Office]]></title>
+            <description><![CDATA[By Matt Bentley]]></description>
+            <link>https://spectator.com/article/why-i-love-the-office/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-i-love-the-office/</guid>
+            <dc:creator><![CDATA[Matt Bentley]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 10:55:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who really runs Manchester?]]></title>
             <description><![CDATA[By Gus Carter]]></description>
@@ -4011,22 +4027,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <guid isPermaLink="true">https://spectator.com/article/why-the-tories-really-beat-the-snp-in-aberdeen-south/</guid>
             <dc:creator><![CDATA[Euan McColm]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 12:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Makerfield backed Burnham]]></title>
-            <description><![CDATA[By Luke Tryl]]></description>
-            <link>https://spectator.com/article/why-makerfield-backed-burnham/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-makerfield-backed-burnham/</guid>
-            <dc:creator><![CDATA[Luke Tryl]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 12:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four more Royal Ascot tips after a 25-1 winner]]></title>
-            <description><![CDATA[By Penworthy]]></description>
-            <link>https://spectator.com/article/four-more-royal-ascot-tips-after-a-25-1-winner/</link>
-            <guid isPermaLink="true">https://spectator.com/article/four-more-royal-ascot-tips-after-a-25-1-winner/</guid>
-            <dc:creator><![CDATA[Penworthy]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

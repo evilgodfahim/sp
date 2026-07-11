@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 23:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 01:50:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 23:51:09 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 01:50:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[In praise of Anthony Gordon]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/in-praise-of-anthony-gordon/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-praise-of-anthony-gordon/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 01:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The secret behind Norway’s extraordinary football success]]></title>
+            <description><![CDATA[By Mark Brolin]]></description>
+            <link>https://spectator.com/article/the-secret-behind-norways-extraordinary-football-success/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-secret-behind-norways-extraordinary-football-success/</guid>
+            <dc:creator><![CDATA[Mark Brolin]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 01:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Odysseus taught me about spying]]></title>
+            <description><![CDATA[By Andy Owen]]></description>
+            <link>https://spectator.com/article/what-odysseus-taught-me-about-spying/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-odysseus-taught-me-about-spying/</guid>
+            <dc:creator><![CDATA[Andy Owen]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 01:50:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Westminster reels at Ann Widdecombe murder probe]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -4006,30 +4030,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/burnham-wins-makerfield-by-a-landslide/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-wins-makerfield-by-a-landslide/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nigel Farage has questions to answer over Reform’s defeat in Makerfield]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/nigel-farage-has-questions-to-answer-over-reforms-defeat-in-makerfield/</link>
-            <guid isPermaLink="true">https://spectator.com/article/nigel-farage-has-questions-to-answer-over-reforms-defeat-in-makerfield/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Andy Burnham could be tempted by a snap election]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/why-andy-burnham-will-be-tempted-by-a-snap-election/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-andy-burnham-will-be-tempted-by-a-snap-election/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The sad death of tabloid English]]></title>
-            <description><![CDATA[By Christopher Gage]]></description>
-            <link>https://spectator.com/article/the-sad-death-of-tabloid-english/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-sad-death-of-tabloid-english/</guid>
-            <dc:creator><![CDATA[Christopher Gage]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
         </item>
     </channel>

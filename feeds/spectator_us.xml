@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 04:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 07:07:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 04:56:16 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 07:07:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Black Mirror season seven offers a welcome return to form]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/black-mirror-season-seven-offers-a-welcome-return-to-form/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/black-mirror-season-seven-offers-a-welcome-return-to-form/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 07:07:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is Trump all but invisible in J.D. Vance’s Communion?]]></title>
             <description><![CDATA[By Nick Spencer]]></description>
@@ -4010,14 +4018,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/dont-listen-to-the-health-fascists-drink-up/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-listen-to-the-health-fascists-drink-up/?edition=us</guid>
             <dc:creator><![CDATA[Christopher Snowdon]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 09:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are Trump and Netanyahu heading for a showdown?]]></title>
-            <description><![CDATA[By Daniel DePetris]]></description>
-            <link>https://spectator.com/article/are-trump-and-netanyahu-heading-for-a-showdown/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/are-trump-and-netanyahu-heading-for-a-showdown/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
             <pubDate>Fri, 29 May 2026 09:37:39 GMT</pubDate>
         </item>
     </channel>

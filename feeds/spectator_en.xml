@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 07:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 09:18:27 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 07:07:42 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 09:18:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who really runs Manchester?]]></title>
+            <description><![CDATA[By Gus Carter]]></description>
+            <link>https://spectator.com/article/who-really-runs-manchester/</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-really-runs-manchester/</guid>
+            <dc:creator><![CDATA[Gus Carter]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 09:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who really runs Manchester?]]></title>
+            <description><![CDATA[By Gus Carter]]></description>
+            <link>https://spectator.com/article/who-really-runs-manchester/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-really-runs-manchester/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Gus Carter]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 09:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What’s the point of Eton?]]></title>
+            <description><![CDATA[Fall from grace]]></description>
+            <link>https://spectator.com/article/whats-the-point-of-eton/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/whats-the-point-of-eton/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Charlie Methven]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 09:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My debt to Ann Widdecombe]]></title>
+            <description><![CDATA[By Colin Freeman]]></description>
+            <link>https://spectator.com/article/my-debt-to-ann-widdecombe/</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-debt-to-ann-widdecombe/</guid>
+            <dc:creator><![CDATA[Colin Freeman]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 09:18:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The slipperiness of Harry Styles]]></title>
             <description><![CDATA[Pop]]></description>
@@ -3994,38 +4026,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/four-more-royal-ascot-tips-after-a-25-1-winner/</link>
             <guid isPermaLink="true">https://spectator.com/article/four-more-royal-ascot-tips-after-a-25-1-winner/</guid>
             <dc:creator><![CDATA[Penworthy]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let’s smarten up our shopfronts]]></title>
-            <description><![CDATA[By Sean Thomas]]></description>
-            <link>https://spectator.com/article/we-must-restore-dignity-to-our-shopfronts/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-must-restore-dignity-to-our-shopfronts/</guid>
-            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has been outplayed by Iran]]></title>
-            <description><![CDATA[Leading article]]></description>
-            <link>https://spectator.com/article/trump-has-been-outplayed-by-iran/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-has-been-outplayed-by-iran/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain must finally embrace gene editing]]></title>
-            <description><![CDATA[Gone to seed]]></description>
-            <link>https://spectator.com/article/britain-must-finally-embrace-gene-editing/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-must-finally-embrace-gene-editing/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clarkson’s Farm remains the best drama on TV]]></title>
-            <description><![CDATA[Television]]></description>
-            <link>https://spectator.com/article/clarksons-farm-remains-the-best-drama-on-tv/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/clarksons-farm-remains-the-best-drama-on-tv/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 08:59:45 GMT</pubDate>
         </item>
     </channel>

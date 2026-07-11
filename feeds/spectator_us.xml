@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 07:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 09:18:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 07:07:36 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 09:18:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A mystery on Mount Everest]]></title>
+            <description><![CDATA[By Harry Cluff]]></description>
+            <link>https://spectator.com/article/a-mystery-on-mount-everest/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-mystery-on-mount-everest/?edition=us</guid>
+            <dc:creator><![CDATA[Harry Cluff]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 09:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E. Jean Carroll’s victory lap]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/e-jean-carrolls-victory-lap/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/e-jean-carrolls-victory-lap/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 09:18:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Black Mirror season seven offers a welcome return to form]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4003,22 +4019,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/was-marcel-duchamps-notorious-fountain-even-his-own-work/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Lynn Barber]]></dc:creator>
             <pubDate>Fri, 29 May 2026 12:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t bet on a blue wave]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
-            <link>https://spectator.com/article/dont-bet-on-a-blue-wave/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-bet-on-a-blue-wave/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 12:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t listen to the health fascists — drink up]]></title>
-            <description><![CDATA[By Christopher Snowdon]]></description>
-            <link>https://spectator.com/article/dont-listen-to-the-health-fascists-drink-up/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-listen-to-the-health-fascists-drink-up/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Snowdon]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 09:37:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 01:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 05:19:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 01:52:52 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 05:19:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Inside the handover of Hong Kong]]></title>
+            <description><![CDATA[By Algy Cluff]]></description>
+            <link>https://spectator.com/article/inside-the-handover-of-hong-kong/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/inside-the-handover-of-hong-kong/?edition=us</guid>
+            <dc:creator><![CDATA[Algy Cluff]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 05:19:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America has too many state secrets]]></title>
+            <description><![CDATA[By Eli Lake]]></description>
+            <link>https://spectator.com/article/america-has-too-many-state-secrets/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-has-too-many-state-secrets/?edition=us</guid>
+            <dc:creator><![CDATA[Eli Lake]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 05:19:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did the Wall Street Journal just prevent a war?]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -4003,22 +4019,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/put-nonpartisan-concert-trump-washington-cockburn-diary-05-29-26/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get ready for the rudest midterms ever]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/get-ready-for-rudest-midterms-ever/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/get-ready-for-rudest-midterms-ever/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 16:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has Iran over a barrel]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/trump-has-iran-over-a-barrel/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-has-iran-over-a-barrel/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 12:42:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

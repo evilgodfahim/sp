@@ -4,10 +4,32 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 01:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 05:19:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 01:52:57 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 05:19:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[I grieve for holidays past]]></title>
+            <description><![CDATA[Is it possible, or even acceptable, to feel the same grief for the loss of a favourite place – or holiday location – than for a person? I’d say yes, because people divide pretty much equally into two camps when it comes to the summer hols. There are those who love trying out new and different places, and then there are bores like myself, and my wife, who like returning to the same place every year. Same beach. Same menus. Same ice creams. Same pale rosé. Same owners. Same crowd.   
+
+
+
+
+
+In my case, I’m talking about Paloma Beach in Saint-Jean-Cap-Ferrat on the French Riviera.]]></description>
+            <link>https://spectator.com/article/i-grieve-for-holidays-past/</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-grieve-for-holidays-past/</guid>
+            <dc:creator><![CDATA[William Cash]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 05:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starmer is determined to kill racing]]></title>
+            <description><![CDATA[By Rupert Hawksley]]></description>
+            <link>https://spectator.com/article/starmer-is-determined-to-kill-racing/</link>
+            <guid isPermaLink="true">https://spectator.com/article/starmer-is-determined-to-kill-racing/</guid>
+            <dc:creator><![CDATA[Rupert Hawksley]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 05:19:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Should Green Boots’ body remain on Everest?]]></title>
             <description><![CDATA[By Billi Bierling]]></description>
@@ -4010,22 +4032,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/did-the-iran-war-work/</link>
             <guid isPermaLink="true">https://spectator.com/article/did-the-iran-war-work/</guid>
             <dc:creator><![CDATA[Vahid Beheshti]]></dc:creator>
-            <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The BBC’s kids’ shows are worse than what’s on YouTube]]></title>
-            <description><![CDATA[By Joanna Williams]]></description>
-            <link>https://spectator.com/article/the-bbcs-kids-shows-are-worse-than-whats-on-youtube/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-bbcs-kids-shows-are-worse-than-whats-on-youtube/</guid>
-            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
-            <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Ed Miliband want to ban your tumble dryer?]]></title>
-            <description><![CDATA[By John O'Neill]]></description>
-            <link>https://spectator.com/article/does-ed-miliband-want-to-ban-your-tumble-dryer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-ed-miliband-want-to-ban-your-tumble-dryer/</guid>
-            <dc:creator><![CDATA[John O'Neill]]></dc:creator>
             <pubDate>Sat, 20 Jun 2026 05:04:43 GMT</pubDate>
         </item>
     </channel>

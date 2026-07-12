@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 14:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 15:51:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 14:26:13 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 15:51:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will Lindsey Graham be remembered as a great senator?]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/lindsey-graham-remembered-great-senator/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/lindsey-graham-remembered-great-senator/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 15:51:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ever since the Wright brothers, the earthbound have dreamed of gaining personal access to the sky]]></title>
             <description><![CDATA[By Jeremy Collins-White]]></description>
@@ -4011,14 +4019,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/dont-forget-the-evil-of-the-iranian-regime/?edition=us</guid>
             <dc:creator><![CDATA[Michael Day]]></dc:creator>
             <pubDate>Sun, 31 May 2026 13:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The uncomfortable truth about Trump’s Anti-Weaponization Fund]]></title>
-            <description><![CDATA[By Maud Maron]]></description>
-            <link>https://spectator.com/article/the-uncomfortable-truth-about-trumps-anti-weaponization-fund/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-uncomfortable-truth-about-trumps-anti-weaponization-fund/?edition=us</guid>
-            <dc:creator><![CDATA[Maud Maron]]></dc:creator>
-            <pubDate>Sun, 31 May 2026 06:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

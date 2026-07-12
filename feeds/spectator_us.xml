@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 23:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 01:52:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 23:44:34 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 01:52:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did the Wall Street Journal just prevent a war?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/did-the-wall-street-journal-just-prevent-a-war/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-the-wall-street-journal-just-prevent-a-war/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 01:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Southern Gothic: the horror story of Alex Murdaugh, paterfamilias and ‘family annihilator’]]></title>
+            <description><![CDATA[The central figure of The Family Man, the lawyer Alex Murdaugh (pronounced "Murdock"), spends his life getting implicated in so many heinous, melodramatic crimes that he seems cobbled together by a cabal of tabloid and commercial publishers, crime podcasters and providers of big budget cinematic sleaze. Memorably referred to by psychopathologists and public prosecutors as a "family annihilator" (imagine a little bit of Medea, a little bit of the Menendez brothers and a whole lot of Oedipus Rex), he was arrested in 2021 for slaughtering his wife Maggie and their youngest son Paul with the same sort of high-tech military weaponry that he enjoyed wielding around his family compound to hunt hogs, and which visitors often found lying randomly about his home and gardens.]]></description>
+            <link>https://spectator.com/article/southern-gothic-the-horror-story-of-alex-murdaugh-paterfamilias-and-family-annihilator/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/southern-gothic-the-horror-story-of-alex-murdaugh-paterfamilias-and-family-annihilator/?edition=us</guid>
+            <dc:creator><![CDATA[Scott Bradfield]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 01:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there any route back for the Society of St. Pius X?]]></title>
+            <description><![CDATA[By Damian Thompson]]></description>
+            <link>https://spectator.com/article/is-there-any-route-back-for-the-society-of-st-pius-x/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-there-any-route-back-for-the-society-of-st-pius-x/?edition=us</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 01:52:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thirty-five years of crying to  Planes, Trains and Automobiles]]></title>
             <description><![CDATA[By Art Tavana]]></description>
@@ -3993,30 +4017,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <description><![CDATA[By Roger Kimball]]></description>
             <link>https://spectator.com/article/trump-has-iran-over-a-barrel/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-has-iran-over-a-barrel/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 12:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derek Jacobi on playing Lucian Freud]]></title>
-            <description><![CDATA[By Martin Gayford]]></description>
-            <link>https://spectator.com/article/derek-jacobi-on-playing-lucian-freud/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/derek-jacobi-on-playing-lucian-freud/?edition=us</guid>
-            <dc:creator><![CDATA[Martin Gayford]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 12:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Henry Nowak and the evil of ‘anti-racism’]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/henry-nowak-and-the-evil-of-anti-racism/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/henry-nowak-and-the-evil-of-anti-racism/?edition=us</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 12:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has Iran over a barrel]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/trump-has-iran-over-a-barrel/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-has-iran-over-a-barrel/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
             <pubDate>Fri, 29 May 2026 12:42:19 GMT</pubDate>
         </item>

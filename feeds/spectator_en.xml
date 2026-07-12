@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 11:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 12:59:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 11:53:15 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 12:59:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How does the Catholic J.D. Vance justify Trumpian policies?]]></title>
+            <description><![CDATA[By Nick Spencer]]></description>
+            <link>https://spectator.com/article/how-does-the-catholic-j-d-vance-justify-trumpian-policies/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-does-the-catholic-j-d-vance-justify-trumpian-policies/</guid>
+            <dc:creator><![CDATA[Nick Spencer]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 12:59:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Should Green Boots’ body remain on Everest?]]></title>
             <description><![CDATA[Rest in peace]]></description>
@@ -4019,14 +4027,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-going-to-be-yet-another-terrible-prime-minister/</guid>
             <dc:creator><![CDATA[Ian Leslie]]></dc:creator>
             <pubDate>Sat, 20 Jun 2026 11:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We found the limit of free speech at the Oxford Union]]></title>
-            <description><![CDATA[Islam debate]]></description>
-            <link>https://spectator.com/article/we-found-the-limit-of-free-speech-at-the-oxford-union/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-found-the-limit-of-free-speech-at-the-oxford-union/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
-            <pubDate>Sat, 20 Jun 2026 08:42:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

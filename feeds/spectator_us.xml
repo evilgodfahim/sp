@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 22:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 23:43:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 22:38:58 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 23:43:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How the Ukraine war could end in revolt]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/how-the-ukraine-war-could-end-in-revolt/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-ukraine-war-could-end-in-revolt/?edition=us</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 23:43:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The death of Superman]]></title>
             <description><![CDATA[By Stephen L. Miller]]></description>
@@ -4011,14 +4019,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/a-tale-of-two-safaris/?edition=us</guid>
             <dc:creator><![CDATA[Estella Shardlow]]></dc:creator>
             <pubDate>Sun, 31 May 2026 16:57:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oh buoy: Luxury watch brands and the emotionally loaded arena of sailing]]></title>
-            <description><![CDATA[By Tracey Llewellyn]]></description>
-            <link>https://spectator.com/article/oh-buoy-luxury-watch-brands-and-the-emotionally-loaded-arena-of-sailing/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/oh-buoy-luxury-watch-brands-and-the-emotionally-loaded-arena-of-sailing/?edition=us</guid>
-            <dc:creator><![CDATA[Tracey Llewellyn]]></dc:creator>
-            <pubDate>Sun, 31 May 2026 13:17:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

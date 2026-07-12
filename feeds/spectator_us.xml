@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 10:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 11:53:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 10:19:00 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cuba is a lovesick country]]></title>
+            <description><![CDATA[Havana life]]></description>
+            <link>https://spectator.com/article/cuba-is-a-lovesick-country/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/cuba-is-a-lovesick-country/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why do men think it’s acceptable to wear a hat in church?]]></title>
+            <description><![CDATA[Hat tip]]></description>
+            <link>https://spectator.com/article/why-do-men-think-its-acceptable-to-wear-a-hat-in-church/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-do-men-think-its-acceptable-to-wear-a-hat-in-church/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Laurie Graham]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Would the ancients have appreciated David Hockney?]]></title>
+            <description><![CDATA[Ancient and modern]]></description>
+            <link>https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A tower of nonsense]]></title>
+            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
+            <link>https://spectator.com/article/a-tower-of-nonsense/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-tower-of-nonsense/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confronting the climate Jeremiahs]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/confronting-the-climate-jeremiahs/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/confronting-the-climate-jeremiahs/?edition=us</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A fresh assassination of Brett Kavanaugh’s character]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -3979,46 +4019,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <guid isPermaLink="true">https://spectator.com/article/new-glenn-explosion-america-behind-china-moon-race/?edition=us</guid>
             <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
             <pubDate>Sat, 30 May 2026 02:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weight-loss drugs killed my appetite for life]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
-            <link>https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?edition=us</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 21:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did Plato invent women’s lib?]]></title>
-            <description><![CDATA[By Peter Jones]]></description>
-            <link>https://spectator.com/article/did-plato-invent-womens-lib/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/did-plato-invent-womens-lib/?edition=us</guid>
-            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 21:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I’m done with Rivals]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/im-done-with-rivals/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/im-done-with-rivals/?edition=us</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 21:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The £10 pint explains the rise of Reform]]></title>
-            <description><![CDATA[By Charles Moore]]></description>
-            <link>https://spectator.com/article/the-10-pint-explains-the-rise-of-reform/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-10-pint-explains-the-rise-of-reform/?edition=us</guid>
-            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 21:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My points-based system for choosing our leaders]]></title>
-            <description><![CDATA[By Rory Sutherland]]></description>
-            <link>https://spectator.com/article/a-foolproof-way-to-pick-a-leader/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-foolproof-way-to-pick-a-leader/?edition=us</guid>
-            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

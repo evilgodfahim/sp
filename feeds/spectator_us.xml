@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 08:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 10:19:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 08:01:58 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 10:19:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A fresh assassination of Brett Kavanaugh’s character]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/a-fresh-assassination-of-brett-kavanaughs-character/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-fresh-assassination-of-brett-kavanaughs-character/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 10:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump’s UN press conference was frenetic, yet friendly]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/donald-trumps-un-press-conference-was-frenetic-yet-friendly/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/donald-trumps-un-press-conference-was-frenetic-yet-friendly/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 10:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Alexandria Ocasio-Cortez a Republican in disguise?]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/is-alexandria-ocasio-cortez-a-republican-in-disguise/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-alexandria-ocasio-cortez-a-republican-in-disguise/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 10:19:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[America no longer knows how to fight a war]]></title>
             <description><![CDATA[By Daniel McCarthy]]></description>
@@ -3994,30 +4018,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/a-foolproof-way-to-pick-a-leader/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/a-foolproof-way-to-pick-a-leader/?edition=us</guid>
             <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The secret shame of being ‘Reform-curious’]]></title>
-            <description><![CDATA[By Rod Liddle]]></description>
-            <link>https://spectator.com/article/the-secret-shame-of-being-reform-curious/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-secret-shame-of-being-reform-curious/?edition=us</guid>
-            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When does a drama become a psychodrama?]]></title>
-            <description><![CDATA[By Dot Wordsworth]]></description>
-            <link>https://spectator.com/article/when-does-a-drama-become-a-psychodrama/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/when-does-a-drama-become-a-psychodrama/?edition=us</guid>
-            <dc:creator><![CDATA[Dot Wordsworth]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No one likes Arsenal, we don’t care]]></title>
-            <description><![CDATA[By Piers Morgan]]></description>
-            <link>https://spectator.com/article/no-one-likes-arsenal-we-dont-care/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/no-one-likes-arsenal-we-dont-care/?edition=us</guid>
-            <dc:creator><![CDATA[Piers Morgan]]></dc:creator>
             <pubDate>Fri, 29 May 2026 19:28:10 GMT</pubDate>
         </item>
     </channel>

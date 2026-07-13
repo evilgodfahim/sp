@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 23:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 01:55:27 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 23:43:51 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 01:55:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The price children pay for ‘free’ nursery]]></title>
+            <description><![CDATA[By Fleur Power]]></description>
+            <link>https://spectator.com/article/the-price-children-pay-for-free-nursery/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-price-children-pay-for-free-nursery/</guid>
+            <dc:creator><![CDATA[Fleur Power]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 01:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham’s tour of Britain is pure narcissism]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/burnhams-tour-of-britain-is-pure-narcissism/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-tour-of-britain-is-pure-narcissism/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 01:55:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The mass appeal of Ann Widdecombe]]></title>
             <description><![CDATA[By Stephen Daisley]]></description>
@@ -4011,22 +4027,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <guid isPermaLink="true">https://spectator.com/article/what-happened-to-the-bournemouth-i-knew/</guid>
             <dc:creator><![CDATA[Andy Jones]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why wasn’t Preston Davey’s foster carer listened to?]]></title>
-            <description><![CDATA[By Rosie Lewis]]></description>
-            <link>https://spectator.com/article/why-wasnt-preston-daveys-foster-carer-listened-to/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-wasnt-preston-daveys-foster-carer-listened-to/</guid>
-            <dc:creator><![CDATA[Rosie Lewis]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 05:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why did the Bedford train accident happen?]]></title>
-            <description><![CDATA[By Christian Wolmar]]></description>
-            <link>https://spectator.com/article/why-did-the-bedford-train-accident-happen/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-did-the-bedford-train-accident-happen/</guid>
-            <dc:creator><![CDATA[Christian Wolmar]]></dc:creator>
-            <pubDate>Sat, 20 Jun 2026 11:09:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

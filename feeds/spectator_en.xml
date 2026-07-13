@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 08:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 11:53:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 08:51:07 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 11:53:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The classless response to Ann Widdecombe’s murder]]></title>
+            <description><![CDATA[By Lois McLatchie Miller]]></description>
+            <link>https://spectator.com/article/the-classless-response-to-ann-widdecombes-murder/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-classless-response-to-ann-widdecombes-murder/</guid>
+            <dc:creator><![CDATA[Lois McLatchie Miller]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 11:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robbins puts Starmer in the dock]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/robbins-puts-starmer-in-the-dock/</link>
+            <guid isPermaLink="true">https://spectator.com/article/robbins-puts-starmer-in-the-dock/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 11:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the actor Sam Neill was so loved]]></title>
+            <description><![CDATA[By Terry Barnes]]></description>
+            <link>https://spectator.com/article/why-the-actor-sam-neill-was-so-loved/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-actor-sam-neill-was-so-loved/</guid>
+            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 11:53:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ken Bates, Chelsea, and the bad old days of football]]></title>
             <description><![CDATA[By Patrick West]]></description>
@@ -74,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[George Cottrell and the troubling incuriosity of Nigel Farage]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
+            <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/george-cottrell-and-the-troubling-incuriosity-of-nigel-farage/</link>
             <guid isPermaLink="true">https://spectator.com/article/george-cottrell-and-the-troubling-incuriosity-of-nigel-farage/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
@@ -82,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Thomas Tuchel has done the impossible: he’s made me love the Germans]]></title>
-            <description><![CDATA[Football]]></description>
+            <description><![CDATA[By Julie Burchill]]></description>
             <link>https://spectator.com/article/thomas-tuchel-has-done-the-impossible-hes-made-me-love-the-germans/</link>
             <guid isPermaLink="true">https://spectator.com/article/thomas-tuchel-has-done-the-impossible-hes-made-me-love-the-germans/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
@@ -4003,30 +4027,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-starmer-on-the-brink/</guid>
             <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 15:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Zelensky about to attack Belarus?]]></title>
-            <description><![CDATA[By Mark Galeotti]]></description>
-            <link>https://spectator.com/article/is-zelensky-about-to-attack-belarus/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-zelensky-about-to-attack-belarus/</guid>
-            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 12:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What use are the Lords Spiritual?]]></title>
-            <description><![CDATA[God Squad]]></description>
-            <link>https://spectator.com/article/what-use-are-the-lords-spiritual/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-use-are-the-lords-spiritual/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Edward Skidelsky]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 09:37:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paris’s Left Bank is dying]]></title>
-            <description><![CDATA[Ca craint!]]></description>
-            <link>https://spectator.com/article/pariss-left-bank-is-dying/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/pariss-left-bank-is-dying/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 09:37:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

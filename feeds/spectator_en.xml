@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 07:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 09:48:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 07:04:26 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 09:48:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Barwell bemoans losing the Tory whip]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/barwell-bemoans-losing-the-tory-whip/</link>
+            <guid isPermaLink="true">https://spectator.com/article/barwell-bemoans-losing-the-tory-whip/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 09:48:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is the UK’s tax system so taxing?]]></title>
+            <description><![CDATA[By William Nixon]]></description>
+            <link>https://spectator.com/article/why-is-the-uks-tax-system-so-taxing/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-the-uks-tax-system-so-taxing/</guid>
+            <dc:creator><![CDATA[William Nixon]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 09:48:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You can’t negotiate with Iran]]></title>
+            <description><![CDATA[By Jason Brodsky]]></description>
+            <link>https://spectator.com/article/you-cant-negotiate-with-iran/</link>
+            <guid isPermaLink="true">https://spectator.com/article/you-cant-negotiate-with-iran/</guid>
+            <dc:creator><![CDATA[Jason Brodsky]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 09:48:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lessons in oratory for Andy Burnham]]></title>
             <description><![CDATA[Ancient and modern]]></description>
@@ -89,7 +113,7 @@
             <pubDate>Tue, 14 Jul 2026 04:42:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[You’ve never seen Constable like this]]></title>
+            <title><![CDATA[‘You’ve never seen Constable like this’: The Hay Wain reviewed]]></title>
             <description><![CDATA[Magnum opus]]></description>
             <link>https://spectator.com/article/youve-never-seen-constable-like-this/</link>
             <guid isPermaLink="true">https://spectator.com/article/youve-never-seen-constable-like-this/</guid>
@@ -4002,30 +4026,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/appointing-miliband-as-chancellor-would-be-a-mistake/</link>
             <guid isPermaLink="true">https://spectator.com/article/appointing-miliband-as-chancellor-would-be-a-mistake/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twelve graphs that expose Starmer’s dismal legacy]]></title>
-            <description><![CDATA[By John O'Neill]]></description>
-            <link>https://spectator.com/article/twelve-graphs-that-expose-starmers-dismal-legacy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/twelve-graphs-that-expose-starmers-dismal-legacy/</guid>
-            <dc:creator><![CDATA[John O'Neill]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The very personal tragedy of Keir Starmer]]></title>
-            <description><![CDATA[By James Kirkup]]></description>
-            <link>https://spectator.com/article/the-very-personal-tragedy-of-keir-starmer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-very-personal-tragedy-of-keir-starmer/</guid>
-            <dc:creator><![CDATA[James Kirkup]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Keir Starmer: I quit]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/sir-keir-starmer-i-quit/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sir-keir-starmer-i-quit/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 14:27:45 GMT</pubDate>
         </item>
     </channel>

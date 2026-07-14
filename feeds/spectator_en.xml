@@ -4,10 +4,40 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 01:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 04:42:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 01:42:23 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 04:42:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A tower of nonsense]]></title>
+            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
+            <link>https://spectator.com/article/a-tower-of-nonsense/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-tower-of-nonsense/</guid>
+            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 04:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London can’t lose easyJet]]></title>
+            <description><![CDATA[Of all the disturbing news out there at the moment, up there is some American company's possible takeover of easyJet. Last week we learned that the budget airline had agreed in principle to a £5.7 billion takeover offer from US asset management firm Apollo – days after accepting a bid from rival firm Castlelake.
+
+
+
+
+
+What? Good old sleazyJet exiting the London market? Just when it was becoming really, really good? Alright, I may be exaggerating slightly here – budget airlines never get really, really good (that is why they are called budget, dear). But there is budget and then there is budget. Who can forget when Ryanair CEO Michael O’Leary floated the idea of standing seats on flights and a £1 ‘pay-per-pee’ fee to use the lavatory in 2010?]]></description>
+            <link>https://spectator.com/article/london-cant-lose-easyjet/</link>
+            <guid isPermaLink="true">https://spectator.com/article/london-cant-lose-easyjet/</guid>
+            <dc:creator><![CDATA[Christa D’Souza]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 04:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You’ve never seen Constable like this]]></title>
+            <description><![CDATA[By Alec Marsh]]></description>
+            <link>https://spectator.com/article/youve-never-seen-constable-like-this/</link>
+            <guid isPermaLink="true">https://spectator.com/article/youve-never-seen-constable-like-this/</guid>
+            <dc:creator><![CDATA[Alec Marsh]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 04:42:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We are heading for a Boriswave disaster]]></title>
             <description><![CDATA[By David Shipley]]></description>
@@ -4002,30 +4032,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/brexit-was-a-huge-opportunity-shamefully-mishandled/</link>
             <guid isPermaLink="true">https://spectator.com/article/brexit-was-a-huge-opportunity-shamefully-mishandled/</guid>
             <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 08:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise and rise of Australia’s Nigel Farage]]></title>
-            <description><![CDATA[Aussie rulers]]></description>
-            <link>https://spectator.com/article/the-rise-and-rise-of-australias-nigel-farage/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-and-rise-of-australias-nigel-farage/</guid>
-            <dc:creator><![CDATA[Tom Switzer]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 08:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There will be blood – the vital work of field transfusion units]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/there-will-be-blood-the-vital-work-of-field-transfusion-units/</link>
-            <guid isPermaLink="true">https://spectator.com/article/there-will-be-blood-the-vital-work-of-field-transfusion-units/</guid>
-            <dc:creator><![CDATA[Anne Sebba]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 08:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring Bologna from above]]></title>
-            <description><![CDATA[By Richard Koenig]]></description>
-            <link>https://spectator.com/article/exploring-bologna-from-above/</link>
-            <guid isPermaLink="true">https://spectator.com/article/exploring-bologna-from-above/</guid>
-            <dc:creator><![CDATA[Richard Koenig]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 08:50:52 GMT</pubDate>
         </item>
     </channel>

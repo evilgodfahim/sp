@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 09:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 11:18:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 09:48:20 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 11:18:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Accounts are good economics]]></title>
+            <description><![CDATA[By Maximillian Garely]]></description>
+            <link>https://spectator.com/article/trump-accounts-are-good-economics/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-accounts-are-good-economics/</guid>
+            <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:18:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Poland and Ukraine can repair their broken relationship]]></title>
+            <description><![CDATA[By Bartek Staniszewski]]></description>
+            <link>https://spectator.com/article/how-poland-and-ukraine-can-repair-their-broken-relationship/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-poland-and-ukraine-can-repair-their-broken-relationship/</guid>
+            <dc:creator><![CDATA[Bartek Staniszewski]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:18:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Barwell bemoans losing the Tory whip]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4010,22 +4026,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/burnhams-makerfield-win-doesnt-guarantee-his-success-as-pm/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnhams-makerfield-win-doesnt-guarantee-his-success-as-pm/</guid>
             <dc:creator><![CDATA[John Curtice]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wes Streeting: I’m backing Burnham]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/wes-streeting-im-backing-burnham/</link>
-            <guid isPermaLink="true">https://spectator.com/article/wes-streeting-im-backing-burnham/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Appointing Miliband as chancellor would be a mistake]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/appointing-miliband-as-chancellor-would-be-a-mistake/</link>
-            <guid isPermaLink="true">https://spectator.com/article/appointing-miliband-as-chancellor-would-be-a-mistake/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 14:27:45 GMT</pubDate>
         </item>
     </channel>

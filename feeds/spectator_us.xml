@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 17:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 19:04:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 17:04:25 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 19:04:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The ADHD-ification of squishy toys]]></title>
+            <description><![CDATA[By Tali Fraser]]></description>
+            <link>https://spectator.com/article/the-adhd-ification-of-squishy-toys/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-adhd-ification-of-squishy-toys/?edition=us</guid>
+            <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 19:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Poland and Ukraine can repair their broken relationship]]></title>
+            <description><![CDATA[By Bartek Staniszewski]]></description>
+            <link>https://spectator.com/article/how-poland-and-ukraine-can-repair-their-broken-relationship/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-poland-and-ukraine-can-repair-their-broken-relationship/?edition=us</guid>
+            <dc:creator><![CDATA[Bartek Staniszewski]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 19:04:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump can’t escape the Iran war]]></title>
             <description><![CDATA[By Daniel DePetris]]></description>
@@ -4002,22 +4018,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/woke-isnt-dead-its-just-getting-started/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/woke-isnt-dead-its-just-getting-started/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 10:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How warfare became welfare]]></title>
-            <description><![CDATA[Military]]></description>
-            <link>https://spectator.com/article/how-warfare-became-welfare/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-warfare-became-welfare/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 10:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Alex Bruesewitz, Trump’s Gen Z celebrity whisperer]]></title>
-            <description><![CDATA[Court circular]]></description>
-            <link>https://spectator.com/article/alex-bruesewitz-almighty-trump-generation-z-celebrity-whisperer/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/alex-bruesewitz-almighty-trump-generation-z-celebrity-whisperer/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 10:06:13 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 11:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 13:11:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 11:18:46 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 13:11:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The left has a problem with boys and men]]></title>
+            <description><![CDATA[By Jake Richards]]></description>
+            <link>https://spectator.com/article/the-left-has-a-problem-with-boys-and-men/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-left-has-a-problem-with-boys-and-men/</guid>
+            <dc:creator><![CDATA[Jake Richards]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 13:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Ed Miliband really changing his tune on North Sea oil?]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/is-ed-miliband-really-changing-his-tune-on-north-sea-oil/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-ed-miliband-really-changing-his-tune-on-north-sea-oil/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 13:11:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump Accounts are good economics]]></title>
             <description><![CDATA[By Maximillian Garely]]></description>
@@ -4011,22 +4027,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <guid isPermaLink="true">https://spectator.com/article/watch-andy-burnham-sworn-in/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 18:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 42 reasons why Keir Starmer failed]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/the-42-reasons-why-keir-starmer-failed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-42-reasons-why-keir-starmer-failed/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 18:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s Makerfield win doesn’t guarantee his success as PM]]></title>
-            <description><![CDATA[By John Curtice]]></description>
-            <link>https://spectator.com/article/burnhams-makerfield-win-doesnt-guarantee-his-success-as-pm/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnhams-makerfield-win-doesnt-guarantee-his-success-as-pm/</guid>
-            <dc:creator><![CDATA[John Curtice]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

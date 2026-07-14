@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 23:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 01:42:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 23:44:16 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 01:42:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We are heading for a Boriswave disaster]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/we-are-heading-for-a-boriswave-disaster/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-are-heading-for-a-boriswave-disaster/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 01:42:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kemi kick-starts purge of the Tory wets]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4018,14 +4026,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/exploring-bologna-from-above/</link>
             <guid isPermaLink="true">https://spectator.com/article/exploring-bologna-from-above/</guid>
             <dc:creator><![CDATA[Richard Koenig]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 08:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I’m being bullied by Duolingo]]></title>
-            <description><![CDATA[By Nancy Alsop]]></description>
-            <link>https://spectator.com/article/im-being-bullied-by-duolingo/</link>
-            <guid isPermaLink="true">https://spectator.com/article/im-being-bullied-by-duolingo/</guid>
-            <dc:creator><![CDATA[Nancy Alsop]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 08:50:52 GMT</pubDate>
         </item>
     </channel>

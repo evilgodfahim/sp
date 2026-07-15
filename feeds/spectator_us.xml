@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 13:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 15:19:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 13:15:22 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 15:19:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Could Gibraltar fall to Spain?]]></title>
+            <description><![CDATA[By Jim Lawley]]></description>
+            <link>https://spectator.com/article/could-gibraltar-fall-to-spain/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/could-gibraltar-fall-to-spain/?edition=us</guid>
+            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 15:19:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[There is simply no match like England vs Argentina]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
@@ -4006,14 +4014,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/trump-endorses-awol-congressman-tom-kean-jr/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-endorses-awol-congressman-tom-kean-jr/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 18:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bonnie Blue and the truth about Britain’s pro-life movement]]></title>
-            <description><![CDATA[By Lois McLatchie Miller]]></description>
-            <link>https://spectator.com/article/bonnie-blue-and-the-truth-about-the-pro-life-movement/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/bonnie-blue-and-the-truth-about-the-pro-life-movement/?edition=us</guid>
-            <dc:creator><![CDATA[Lois McLatchie Miller]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 18:33:15 GMT</pubDate>
         </item>
     </channel>

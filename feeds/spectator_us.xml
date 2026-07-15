@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 17:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 18:56:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 17:06:42 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 18:56:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The special counsel industrial complex]]></title>
+            <description><![CDATA[By Maud Maron]]></description>
+            <link>https://spectator.com/article/the-special-counsel-industrial-complex/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-special-counsel-industrial-complex/?edition=us</guid>
+            <dc:creator><![CDATA[Maud Maron]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 18:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who wants to read Joe Biden’s presidential memoir?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/wants-read-joe-biden-presidential-memoir-promise-america/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/wants-read-joe-biden-presidential-memoir-promise-america/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 18:56:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Could Gibraltar fall to Spain?]]></title>
             <description><![CDATA[By Jim Lawley]]></description>
@@ -3998,22 +4014,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/get-ready-for-a-spencer-pratt-summer/?edition=us&amp;homepage-tracking=magazine-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/get-ready-for-a-spencer-pratt-summer/?edition=us&amp;homepage-tracking=magazine-article-3</guid>
             <dc:creator><![CDATA[Peachy Keenan]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 18:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woke isn’t dead. It’s just getting started]]></title>
-            <description><![CDATA[The woke yoke]]></description>
-            <link>https://spectator.com/article/woke-isnt-dead-its-just-getting-started/?edition=us&amp;homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/woke-isnt-dead-its-just-getting-started/?edition=us&amp;homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 18:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump endorses AWOL congressman Tom Kean Jr.]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/trump-endorses-awol-congressman-tom-kean-jr/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-endorses-awol-congressman-tom-kean-jr/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 18:33:15 GMT</pubDate>
         </item>
     </channel>

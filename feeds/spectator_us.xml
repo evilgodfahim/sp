@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 04:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 07:07:24 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 04:42:27 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 07:07:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A lifesaving prisoner swap with the worst incentives]]></title>
+            <description><![CDATA[By Ben Domenech]]></description>
+            <link>https://spectator.com/article/a-lifesaving-prisoner-swap-with-the-worst-incentives/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-lifesaving-prisoner-swap-with-the-worst-incentives/?edition=us</guid>
+            <dc:creator><![CDATA[Ben Domenech]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 07:07:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[You can’t negotiate with Iran]]></title>
             <description><![CDATA[By Jason Brodsky]]></description>
@@ -4010,14 +4018,6 @@ Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by g
             <link>https://spectator.com/article/woke-isnt-dead-its-just-getting-started/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/woke-isnt-dead-its-just-getting-started/?edition=us</guid>
             <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 14:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new Jesus freaks don’t want peace]]></title>
-            <description><![CDATA[By George Farmer]]></description>
-            <link>https://spectator.com/article/the-new-jesus-freaks-dont-want-peace/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-new-jesus-freaks-dont-want-peace/?edition=us</guid>
-            <dc:creator><![CDATA[George Farmer]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 14:44:16 GMT</pubDate>
         </item>
     </channel>

@@ -4,19 +4,69 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 04:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 07:07:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 04:42:33 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 07:07:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Alexis de Tocqueville’s America has vanished]]></title>
+            <description><![CDATA[Podcasts]]></description>
+            <link>https://spectator.com/article/alexis-de-tocquevilles-america-has-vanished/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/alexis-de-tocquevilles-america-has-vanished/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 07:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buckle up for the smack-downs: the media behemoth that is modern wrestling]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/buckle-up-for-the-smack-downs-the-media-behemoth-that-is-modern-wrestling/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/buckle-up-for-the-smack-downs-the-media-behemoth-that-is-modern-wrestling/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Ian Sansom]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 07:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dear Mary: Help! I have four girlfriends]]></title>
+            <description><![CDATA[By Mary Killen]]></description>
+            <link>https://spectator.com/article/dear-mary-help-i-have-four-girlfriends/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/dear-mary-help-i-have-four-girlfriends/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Mary Killen]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 07:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Waving goodbye to Rachel Reeves]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/waving-goodbye-to-rachel-reeves/</link>
+            <guid isPermaLink="true">https://spectator.com/article/waving-goodbye-to-rachel-reeves/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 07:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The NHS can’t cope with this heat]]></title>
+            <description><![CDATA[Under the weather]]></description>
+            <link>https://spectator.com/article/the-nhs-cant-cope-with-this-heat/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-nhs-cant-cope-with-this-heat/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 07:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buckle up for the smack-downs: the media behemoth that is modern wrestling]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/buckle-up-for-the-smack-downs-the-media-behemoth-that-is-modern-wrestling/</link>
+            <guid isPermaLink="true">https://spectator.com/article/buckle-up-for-the-smack-downs-the-media-behemoth-that-is-modern-wrestling/</guid>
+            <dc:creator><![CDATA[Ian Sansom]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 07:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dear Mary: Help! I have four girlfriends]]></title>
+            <description><![CDATA[By Mary Killen]]></description>
+            <link>https://spectator.com/article/dear-mary-help-i-have-four-girlfriends/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dear-mary-help-i-have-four-girlfriends/</guid>
+            <dc:creator><![CDATA[Mary Killen]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 07:07:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The problem with Farage’s blue suits]]></title>
-            <description><![CDATA[Count Binface has never lacked ambition. Nigel Farage’s only challenger in the Clacton by-election has, over the years, promised to cap the price of croissants at £1.10, nationalise Adele and build at least one affordable house. Admirable though these causes may be, however, the self-proclaimed ‘intergalactic space warrior’ has overlooked one national emergency. If he truly wants to leave Britain – or indeed Earth – in a better place than he found it, he should use this campaign to outlaw the royal blue suit from politics.
-
-
-
-
-
-The royal blue suit has spread through Westminster with the invasiveness of Japanese knotweed. Farage has embraced it with particular enthusiasm.]]></description>
+            <description><![CDATA[Dress rehearsal]]></description>
             <link>https://spectator.com/article/the-problem-with-farages-suits/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-problem-with-farages-suits/</guid>
             <dc:creator><![CDATA[Thomas Munson]]></dc:creator>
@@ -24,7 +74,7 @@ The royal blue suit has spread through Westminster with the invasiveness of Japa
         </item>
         <item>
             <title><![CDATA[Long live the working lunch]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Take a break]]></description>
             <link>https://spectator.com/article/long-live-the-working-lunch/</link>
             <guid isPermaLink="true">https://spectator.com/article/long-live-the-working-lunch/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -32,7 +82,7 @@ The royal blue suit has spread through Westminster with the invasiveness of Japa
         </item>
         <item>
             <title><![CDATA[Could Gibraltar fall to Spain?]]></title>
-            <description><![CDATA[By Jim Lawley]]></description>
+            <description><![CDATA[New frontier]]></description>
             <link>https://spectator.com/article/could-gibraltar-fall-to-spain/</link>
             <guid isPermaLink="true">https://spectator.com/article/could-gibraltar-fall-to-spain/</guid>
             <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
@@ -40,7 +90,7 @@ The royal blue suit has spread through Westminster with the invasiveness of Japa
         </item>
         <item>
             <title><![CDATA[Cuba is a lovesick country]]></title>
-            <description><![CDATA[By Ruaridh Nicoll]]></description>
+            <description><![CDATA[Havana life]]></description>
             <link>https://spectator.com/article/cuba-is-a-lovesick-country/</link>
             <guid isPermaLink="true">https://spectator.com/article/cuba-is-a-lovesick-country/</guid>
             <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
@@ -56,7 +106,7 @@ The royal blue suit has spread through Westminster with the invasiveness of Japa
         </item>
         <item>
             <title><![CDATA[Am I missing out on the World Cup?]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
+            <description><![CDATA[A good sport]]></description>
             <link>https://spectator.com/article/am-i-missing-out-on-the-world-cup/</link>
             <guid isPermaLink="true">https://spectator.com/article/am-i-missing-out-on-the-world-cup/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -80,7 +130,7 @@ The royal blue suit has spread through Westminster with the invasiveness of Japa
         </item>
         <item>
             <title><![CDATA[Why is Nigel Farage under attack for mourning Ann Widdecombe?]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
+            <description><![CDATA[Grief police]]></description>
             <link>https://spectator.com/article/why-is-nigel-farage-under-attack-for-mourning-ann-widdecombe/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-is-nigel-farage-under-attack-for-mourning-ann-widdecombe/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -96,7 +146,7 @@ The royal blue suit has spread through Westminster with the invasiveness of Japa
         </item>
         <item>
             <title><![CDATA[Is Ed Miliband really changing his tune on North Sea oil?]]></title>
-            <description><![CDATA[Green shoots]]></description>
+            <description><![CDATA[By Ross Clark]]></description>
             <link>https://spectator.com/article/is-ed-miliband-really-changing-his-tune-on-north-sea-oil/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-ed-miliband-really-changing-his-tune-on-north-sea-oil/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -208,7 +258,7 @@ The royal blue suit has spread through Westminster with the invasiveness of Japa
         </item>
         <item>
             <title><![CDATA[A tower of nonsense]]></title>
-            <description><![CDATA[Prejudices]]></description>
+            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
             <link>https://spectator.com/article/a-tower-of-nonsense/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-tower-of-nonsense/</guid>
             <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
@@ -216,7 +266,7 @@ The royal blue suit has spread through Westminster with the invasiveness of Japa
         </item>
         <item>
             <title><![CDATA[London can’t lose easyJet]]></title>
-            <description><![CDATA[Final call]]></description>
+            <description><![CDATA[By Christa D’Souza]]></description>
             <link>https://spectator.com/article/london-cant-lose-easyjet/</link>
             <guid isPermaLink="true">https://spectator.com/article/london-cant-lose-easyjet/</guid>
             <dc:creator><![CDATA[Christa D’Souza]]></dc:creator>
@@ -224,7 +274,7 @@ The royal blue suit has spread through Westminster with the invasiveness of Japa
         </item>
         <item>
             <title><![CDATA[‘You’ve never seen Constable like this’: The Hay Wain reviewed]]></title>
-            <description><![CDATA[Magnum opus]]></description>
+            <description><![CDATA[By Alec Marsh]]></description>
             <link>https://spectator.com/article/youve-never-seen-constable-like-this/</link>
             <guid isPermaLink="true">https://spectator.com/article/youve-never-seen-constable-like-this/</guid>
             <dc:creator><![CDATA[Alec Marsh]]></dc:creator>
@@ -1116,7 +1166,7 @@ The dialogue is divided into easy-to-handle segments. First, we get the history 
         </item>
         <item>
             <title><![CDATA[Alexis de Tocqueville’s America has vanished]]></title>
-            <description><![CDATA[By Daisy Dunn]]></description>
+            <description><![CDATA[Podcasts]]></description>
             <link>https://spectator.com/article/alexis-de-tocquevilles-america-has-vanished/</link>
             <guid isPermaLink="true">https://spectator.com/article/alexis-de-tocquevilles-america-has-vanished/</guid>
             <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
@@ -3976,62 +4026,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/the-nhs-believes-in-fairness-they-treat-everyone-with-equal-contempt/?homepage-tracking=high_density-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/the-nhs-believes-in-fairness-they-treat-everyone-with-equal-contempt/?homepage-tracking=high_density-article-2</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 06:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The highs and lows of life as an artist]]></title>
-            <description><![CDATA[Still life]]></description>
-            <link>https://spectator.com/article/the-highs-and-lows-of-life-as-an-artist/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-highs-and-lows-of-life-as-an-artist/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 06:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the heatwave hysteria won’t change how I run my school]]></title>
-            <description><![CDATA[By Michael Clark]]></description>
-            <link>https://spectator.com/article/why-the-heatwave-hysteria-wont-change-how-i-run-my-school/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-heatwave-hysteria-wont-change-how-i-run-my-school/</guid>
-            <dc:creator><![CDATA[Michael Clark]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 06:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who wants to govern Britain?]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/who-wants-to-govern-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-wants-to-govern-britain/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 06:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What I saw at the Montréal shooting]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/what-i-saw-at-the-montreal-shooting/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-i-saw-at-the-montreal-shooting/</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 06:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The unique charisma of Pope Francis]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
-            <link>https://spectator.com/article/the-unique-charisma-of-pope-francis/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-unique-charisma-of-pope-francis/</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 06:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain is the weak man of Europe on border control]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/britain-has-become-the-weak-man-of-europe-on-border-control/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-has-become-the-weak-man-of-europe-on-border-control/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 06:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alien fever shows no signs of abating]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/alien-fever-shows-no-signs-of-abating/</link>
-            <guid isPermaLink="true">https://spectator.com/article/alien-fever-shows-no-signs-of-abating/</guid>
-            <dc:creator><![CDATA[Bryan Appleyard]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 06:40:49 GMT</pubDate>
         </item>
     </channel>

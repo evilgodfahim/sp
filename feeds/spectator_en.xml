@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 11:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 13:15:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 11:23:02 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 13:15:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Liam Halligan to run Thatcher’s think tank]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/liam-halligan-to-run-thatchers-think-tank/</link>
+            <guid isPermaLink="true">https://spectator.com/article/liam-halligan-to-run-thatchers-think-tank/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 13:15:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In defence of midnight scrolling]]></title>
+            <description><![CDATA[By Joanna Williams]]></description>
+            <link>https://spectator.com/article/in-defence-of-midnight-scrolling/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-midnight-scrolling/</guid>
+            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 13:15:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It wasn’t all cosy at Starmer’s final PMQs]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/it-wasnt-all-cosy-at-starmers-final-pmqs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/it-wasnt-all-cosy-at-starmers-final-pmqs/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 13:15:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Church of England must leave Gaza alone]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/the-church-of-england-must-leave-gaza-alone/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-church-of-england-must-leave-gaza-alone/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 13:15:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[France’s World Cup failure will devastate Emmanuel Macron]]></title>
             <description><![CDATA[By Gavin Mortimer]]></description>
@@ -3994,38 +4026,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/the-rise-and-rise-of-australias-nigel-farage/?homepage-tracking=high_density-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/the-rise-and-rise-of-australias-nigel-farage/?homepage-tracking=high_density-article-3</guid>
             <dc:creator><![CDATA[Tom Switzer]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 04:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What exactly are ‘Labour values’?]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
-            <link>https://spectator.com/article/what-exactly-are-labour-values/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-exactly-are-labour-values/</guid>
-            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 04:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The problem with the BBC’s compulsory Islamophobia training]]></title>
-            <description><![CDATA[Media mess]]></description>
-            <link>https://spectator.com/article/the-problem-with-the-bbcs-compulsory-islamophobia-training/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-the-bbcs-compulsory-islamophobia-training/</guid>
-            <dc:creator><![CDATA[Charlie Walsham]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 04:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Baroness Cass backing another puberty blocker trial?]]></title>
-            <description><![CDATA[By Lara Brown]]></description>
-            <link>https://spectator.com/article/there-remains-insufficient-information-about-the-long-term-consequences-of-puberty-blocker-use-in-gender-questioning-children/</link>
-            <guid isPermaLink="true">https://spectator.com/article/there-remains-insufficient-information-about-the-long-term-consequences-of-puberty-blocker-use-in-gender-questioning-children/</guid>
-            <dc:creator><![CDATA[Lara Brown]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 04:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I’m taking on the architectural establishment]]></title>
-            <description><![CDATA[By Austin Williams]]></description>
-            <link>https://spectator.com/article/why-im-taking-on-the-architectural-establishment/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-im-taking-on-the-architectural-establishment/</guid>
-            <dc:creator><![CDATA[Austin Williams]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 04:58:28 GMT</pubDate>
         </item>
     </channel>

@@ -4,13 +4,29 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 09:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 11:23:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 09:52:11 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 11:23:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[France’s World Cup failure will devastate Emmanuel Macron]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/europes-centrists-are-falling-one-by-one/</link>
+            <guid isPermaLink="true">https://spectator.com/article/europes-centrists-are-falling-one-by-one/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 11:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A land value tax would be disastrous]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/a-land-value-tax-would-be-disastrous/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-land-value-tax-would-be-disastrous/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 11:23:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reform has a homophobia problem]]></title>
-            <description><![CDATA[By Harvey Proctor]]></description>
+            <description><![CDATA[Ann Widdecombe]]></description>
             <link>https://spectator.com/article/reform-has-a-homophobia-problem/</link>
             <guid isPermaLink="true">https://spectator.com/article/reform-has-a-homophobia-problem/</guid>
             <dc:creator><![CDATA[Harvey Proctor]]></dc:creator>
@@ -66,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[The NHS can’t cope with this heat]]></title>
-            <description><![CDATA[Under the weather]]></description>
+            <description><![CDATA[By Druin Burch]]></description>
             <link>https://spectator.com/article/the-nhs-cant-cope-with-this-heat/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-nhs-cant-cope-with-this-heat/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -106,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Could Gibraltar fall to Spain?]]></title>
-            <description><![CDATA[By Jim Lawley]]></description>
+            <description><![CDATA[New frontier]]></description>
             <link>https://spectator.com/article/could-gibraltar-fall-to-spain/</link>
             <guid isPermaLink="true">https://spectator.com/article/could-gibraltar-fall-to-spain/</guid>
             <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
@@ -154,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Why is Nigel Farage under attack for mourning Ann Widdecombe?]]></title>
-            <description><![CDATA[Grief police]]></description>
+            <description><![CDATA[By Brendan O’Neill]]></description>
             <link>https://spectator.com/article/why-is-nigel-farage-under-attack-for-mourning-ann-widdecombe/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-is-nigel-farage-under-attack-for-mourning-ann-widdecombe/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -4011,22 +4027,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <guid isPermaLink="true">https://spectator.com/article/why-im-taking-on-the-architectural-establishment/</guid>
             <dc:creator><![CDATA[Austin Williams]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 04:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why aren’t conservatives more excited about Kemi Badenoch?]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/why-arent-conservatives-more-excited-about-kemi-badenoch/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-arent-conservatives-more-excited-about-kemi-badenoch/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 16:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voters may never trust the DUP again after Jeffrey Donaldson’s downfall]]></title>
-            <description><![CDATA[By Owen Polley]]></description>
-            <link>https://spectator.com/article/voters-may-never-trust-the-dup-again-after-jeffrey-donaldsons-downfall/</link>
-            <guid isPermaLink="true">https://spectator.com/article/voters-may-never-trust-the-dup-again-after-jeffrey-donaldsons-downfall/</guid>
-            <dc:creator><![CDATA[Owen Polley]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 16:22:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

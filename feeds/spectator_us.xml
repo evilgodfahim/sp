@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 07:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 09:52:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 07:07:24 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 09:52:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Paul Newman was and wasn’t the nicest of men]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/paul-newman-was-and-wasnt-the-nicest-of-men/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/paul-newman-was-and-wasnt-the-nicest-of-men/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 09:52:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A lifesaving prisoner swap with the worst incentives]]></title>
             <description><![CDATA[By Ben Domenech]]></description>
@@ -4006,18 +4014,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/a-weary-trek-in-the-steps-of-garibaldi-and-his-redshirts/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/a-weary-trek-in-the-steps-of-garibaldi-and-his-redshirts/?edition=us</guid>
             <dc:creator><![CDATA[Ian Thomson]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 14:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woke isn’t dead. It’s just getting started]]></title>
-            <description><![CDATA[“Woke is officially DEAD,” Donald Trump announced last summer. That has been a common refrain since the 2024 election: the anti-western, anti-white, pro-transgender ideology is over. The excesses of left-wing radicalism have been rejected. Sadly, nothing could be further from the truth. We’re all still living under the yoke of woke.
-
-
-
-Just look at Chicago. Over the Memorial Day weekend, 38 people were injured by gunfire and two were shot dead. Five police officers were hurt when a car drove into a crowd amid widespread disorder. This happened in a city where the Democratic mayor, Brandon Johnson, promised to defund the police.]]></description>
-            <link>https://spectator.com/article/woke-isnt-dead-its-just-getting-started/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/woke-isnt-dead-its-just-getting-started/?edition=us</guid>
-            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 14:44:16 GMT</pubDate>
         </item>
     </channel>

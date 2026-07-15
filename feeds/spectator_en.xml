@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 07:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 09:52:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 07:07:30 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 09:52:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reform has a homophobia problem]]></title>
+            <description><![CDATA[By Harvey Proctor]]></description>
+            <link>https://spectator.com/article/reform-has-a-homophobia-problem/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reform-has-a-homophobia-problem/</guid>
+            <dc:creator><![CDATA[Harvey Proctor]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 09:52:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There is simply no match like England vs Argentina]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/there-is-simply-no-match-like-england-vs-argentina/</link>
+            <guid isPermaLink="true">https://spectator.com/article/there-is-simply-no-match-like-england-vs-argentina/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 09:52:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Reform’s fightback]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/inside-reforms-fight-back/</link>
+            <guid isPermaLink="true">https://spectator.com/article/inside-reforms-fight-back/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 09:52:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alexis de Tocqueville’s America has vanished]]></title>
             <description><![CDATA[Podcasts]]></description>
@@ -82,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Could Gibraltar fall to Spain?]]></title>
-            <description><![CDATA[New frontier]]></description>
+            <description><![CDATA[By Jim Lawley]]></description>
             <link>https://spectator.com/article/could-gibraltar-fall-to-spain/</link>
             <guid isPermaLink="true">https://spectator.com/article/could-gibraltar-fall-to-spain/</guid>
             <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
@@ -4003,30 +4027,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <guid isPermaLink="true">https://spectator.com/article/voters-may-never-trust-the-dup-again-after-jeffrey-donaldsons-downfall/</guid>
             <dc:creator><![CDATA[Owen Polley]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 16:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Murrell scandal is far from over]]></title>
-            <description><![CDATA[By Euan McColm]]></description>
-            <link>https://spectator.com/article/the-murrell-scandal-is-far-from-over/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-murrell-scandal-is-far-from-over/</guid>
-            <dc:creator><![CDATA[Euan McColm]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 13:37:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northern Ireland has been the biggest loser from Brexit]]></title>
-            <description><![CDATA[By Andrew McQuillan]]></description>
-            <link>https://spectator.com/article/northern-ireland-has-been-the-biggest-loser-from-brexit/</link>
-            <guid isPermaLink="true">https://spectator.com/article/northern-ireland-has-been-the-biggest-loser-from-brexit/</guid>
-            <dc:creator><![CDATA[Andrew McQuillan]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 10:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The NHS believes in fairness – they treat everyone with equal contempt]]></title>
-            <description><![CDATA[No life]]></description>
-            <link>https://spectator.com/article/the-nhs-believes-in-fairness-they-treat-everyone-with-equal-contempt/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-nhs-believes-in-fairness-they-treat-everyone-with-equal-contempt/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 06:40:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

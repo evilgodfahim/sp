@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 22:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 23:51:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 22:50:09 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 23:51:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How to save American farming]]></title>
+            <description><![CDATA[By Joel Salatin]]></description>
+            <link>https://spectator.com/article/farmers-are-addicted-to-government-subsidies/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/farmers-are-addicted-to-government-subsidies/?edition=us</guid>
+            <dc:creator><![CDATA[Joel Salatin]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 23:51:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chinese puzzle or matryoshka doll – the complexity of Sino-Russia relations]]></title>
             <description><![CDATA[By Owen Matthews]]></description>
@@ -4006,14 +4014,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/andy-ogles-flip-flops-homosexuality-post/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-ogles-flip-flops-homosexuality-post/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 21:42:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California’s Democratic establishment battles insurgents]]></title>
-            <description><![CDATA[By Charles Lipson]]></description>
-            <link>https://spectator.com/article/california-democratic-establishment-battles-insurgents/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/california-democratic-establishment-battles-insurgents/?edition=us</guid>
-            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 21:42:35 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 09:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 11:38:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 09:58:37 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 11:38:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can Zia Yusuf really complain about inflammatory language?]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/can-zia-yusuf-really-complain-about-inflammatory-language/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-zia-yusuf-really-complain-about-inflammatory-language/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 11:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Green council plots to ‘resist’ immigration raids]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/green-council-plots-to-resist-immigration-raids/</link>
+            <guid isPermaLink="true">https://spectator.com/article/green-council-plots-to-resist-immigration-raids/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 11:38:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Revoke the visas of these Argentinians]]></title>
             <description><![CDATA[By Robert Taylor]]></description>
@@ -4015,22 +4031,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/the-most-appalling-thing-about-the-nhs-maternity-scandal/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 07:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s worryingly vague vision for Britain]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/burnhams-worryingly-vague-vision-for-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnhams-worryingly-vague-vision-for-britain/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 03:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dull, duller and Dulles – was Churchill’s jibe about America’s Cold War icon unfair?]]></title>
-            <description><![CDATA[In the era of Trumpian foreign policy incoherence, a new intellectual biography of the American Cold War icon John Foster Dulles might seem welcome for hawks and doves alike. Indeed, Dulles’s tenure as secretary of state during the first six years of the Eisenhower administration could be viewed – even by the harshest left-wing critic of American imperialism – as a useful and reassuring point of reference, despite its narrow anti-communist dogma and too cavalier approach to the dangers of nuclear confrontation with the Soviet Union and China. After all, the Eisenhower administration extricated the United States from President Truman’s stalemated Korean War and started no major new wars before the end of Eisenhower’s second term in January 1961.]]></description>
-            <link>https://spectator.com/article/dull-duller-and-dulles-was-churchills-jibe-about-americas-cold-war-icon-unfair/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dull-duller-and-dulles-was-churchills-jibe-about-americas-cold-war-icon-unfair/</guid>
-            <dc:creator><![CDATA[John R. MacArthur]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 03:53:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

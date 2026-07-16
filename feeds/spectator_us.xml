@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 09:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 11:38:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 09:58:33 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The highs and lows of life as an artist]]></title>
+            <description><![CDATA[By Catriona Olding]]></description>
+            <link>https://spectator.com/article/the-highs-and-lows-of-life-as-an-artist/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-highs-and-lows-of-life-as-an-artist/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death of a looksmaxxer]]></title>
+            <description><![CDATA[The Beautiful Ones]]></description>
+            <link>https://spectator.com/article/death-of-a-looksmaxxer/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/death-of-a-looksmaxxer/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Charles Cornish-Dale]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the man road-tripping across America in a giant pear]]></title>
+            <description><![CDATA[In pear-suit of greatness]]></description>
+            <link>https://spectator.com/article/meet-man-road-tripping-across-america-giant-pear-andrew-glubbey/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/meet-man-road-tripping-across-america-giant-pear-andrew-glubbey/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Sabrina Philip]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let right-wing politicians rest in peace]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/the-hijacking-of-ann-widdecombes-death/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-hijacking-of-ann-widdecombes-death/?edition=us</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In defense of Little House on the Prairie]]></title>
+            <description><![CDATA[By James Delingpole]]></description>
+            <link>https://spectator.com/article/in-defence-of-little-house-on-the-prairie/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-little-house-on-the-prairie/?edition=us</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is the Supreme Court poised to back trans bans?]]></title>
             <description><![CDATA[By Chris Mondics]]></description>
@@ -3975,46 +4015,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/if-you-think-your-bills-are-bad-now-just-wait/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 13:08:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to save American farming]]></title>
-            <description><![CDATA[By Joel Salatin]]></description>
-            <link>https://spectator.com/article/farmers-are-addicted-to-government-subsidies/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/farmers-are-addicted-to-government-subsidies/?edition=us</guid>
-            <dc:creator><![CDATA[Joel Salatin]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 13:08:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France’s hidden immigration reality]]></title>
-            <description><![CDATA[By Charles Cornish-Dale]]></description>
-            <link>https://spectator.com/article/france-hidden-immigration-reality-renaud-camus/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/france-hidden-immigration-reality-renaud-camus/?edition=us</guid>
-            <dc:creator><![CDATA[Charles Cornish-Dale]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 08:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has America been hacking the phones of Kremlin officials?]]></title>
-            <description><![CDATA[By Mark Galeotti]]></description>
-            <link>https://spectator.com/article/has-america-been-hacking-the-phones-of-kremlin-officials/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/has-america-been-hacking-the-phones-of-kremlin-officials/?edition=us</guid>
-            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 18:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the YouTubers beat Star Wars]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/how-the-youtubers-beat-star-wars/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-the-youtubers-beat-star-wars/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 18:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weight-loss drugs killed my appetite for life]]></title>
-            <description><![CDATA[Warning shot]]></description>
-            <link>https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?edition=us&amp;homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?edition=us&amp;homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 18:33:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

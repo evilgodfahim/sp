@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 23:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 01:49:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 23:51:53 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 01:49:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is the Supreme Court poised to back trans bans?]]></title>
+            <description><![CDATA[By Chris Mondics]]></description>
+            <link>https://spectator.com/article/supreme-court-poised-back-trans-bans/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/supreme-court-poised-back-trans-bans/?edition=us</guid>
+            <dc:creator><![CDATA[Chris Mondics]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 01:49:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Odyssey will take audiences by storm]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4006,14 +4014,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?edition=us&amp;homepage-tracking=magazine-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/weight-loss-drugs-killed-my-appetite-for-life/?edition=us&amp;homepage-tracking=magazine-article-1</guid>
             <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 18:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t bet on a blue wave]]></title>
-            <description><![CDATA[Midterms]]></description>
-            <link>https://spectator.com/article/dont-bet-on-a-blue-wave/?edition=us&amp;homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-bet-on-a-blue-wave/?edition=us&amp;homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 18:33:15 GMT</pubDate>
         </item>
     </channel>

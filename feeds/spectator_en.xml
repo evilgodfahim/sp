@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 01:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 04:52:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 01:49:17 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 04:52:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The hijacking of Ann Widdecombe’s death]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/the-hijacking-of-ann-widdecombes-death/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-hijacking-of-ann-widdecombes-death/</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 04:52:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are you enjoying a ‘nun girl summer’?]]></title>
             <description><![CDATA[By Margaret Mitchell]]></description>
@@ -4034,14 +4042,6 @@ At the same time, it became clear that James Purnell, the former Blairite cabine
             <link>https://spectator.com/article/the-iran-war-is-trumps-suez-crisis/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-iran-war-is-trumps-suez-crisis/</guid>
             <dc:creator><![CDATA[Paul Wood]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 03:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can I save Britain from war with Russia?]]></title>
-            <description><![CDATA[By Michael Gove]]></description>
-            <link>https://spectator.com/article/can-i-save-britain-from-war-with-russia/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-i-save-britain-from-war-with-russia/</guid>
-            <dc:creator><![CDATA[Michael Gove]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 03:53:49 GMT</pubDate>
         </item>
     </channel>

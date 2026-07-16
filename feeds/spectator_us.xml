@@ -4,17 +4,21 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 20:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 21:04:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 20:00:06 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 21:04:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Chinese puzzle or matryoshka doll – the complexity of Sino-Russia relations]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/chinese-puzzle-or-matryoshka-doll-the-complexity-of-sino-russia-relations/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/chinese-puzzle-or-matryoshka-doll-the-complexity-of-sino-russia-relations/?edition=us</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 21:04:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A century of movie magic: how cinema has changed the way we think]]></title>
-            <description><![CDATA[The making of films is a process often on an industrial scale, and among the thousands of professionals contributing there are dozens whose practice might constitute a solid history of the artform. The great stars and directors are the usual routes into the history of film; but the roles of studio executives, producers, costume designers (Edith Head! Givenchy!), composers of scores, cinematographers and editors would make compelling narratives, too.
-
-
-
-A history of cinema audiences could also be interesting – ranging from those who are supposed to have fled in terror as a filmed express train came hurtling towards them in the 1890s; to the yobs who slashed the seats in cinemas showing 1950s rock’n’roll movies (but why?]]></description>
+            <description><![CDATA[By Philip Hensher]]></description>
             <link>https://spectator.com/article/a-century-of-movie-magic-how-cinema-has-changed-the-way-we-think/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/a-century-of-movie-magic-how-cinema-has-changed-the-way-we-think/?edition=us</guid>
             <dc:creator><![CDATA[Philip Hensher]]></dc:creator>
@@ -4011,14 +4015,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/california-democratic-establishment-battles-insurgents/?edition=us</guid>
             <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 21:42:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Henry Nowak and the politics of deflection]]></title>
-            <description><![CDATA[By Andrew Doyle]]></description>
-            <link>https://spectator.com/article/henry-nowak-politics-deflection-nigel-farage-southampton/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/henry-nowak-politics-deflection-nigel-farage-southampton/?edition=us</guid>
-            <dc:creator><![CDATA[Andrew Doyle]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 18:17:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

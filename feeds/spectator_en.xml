@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 11:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 13:22:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 11:38:34 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 13:22:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My run-in with Hugh Grant]]></title>
+            <description><![CDATA[By Sasha Swire]]></description>
+            <link>https://spectator.com/article/my-run-in-with-hugh-grant/</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-run-in-with-hugh-grant/</guid>
+            <dc:creator><![CDATA[Sasha Swire]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 13:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gazan family ruling makes a mockery of human rights]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/the-gazan-family-ruling-makes-a-mockery-of-human-rights/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-gazan-family-ruling-makes-a-mockery-of-human-rights/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 13:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Ann Widdecombe is being mourned for in America]]></title>
+            <description><![CDATA[By Lee Cohen]]></description>
+            <link>https://spectator.com/article/why-ann-widdecombe-is-being-mourned-for-in-america/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-ann-widdecombe-is-being-mourned-for-in-america/</guid>
+            <dc:creator><![CDATA[Lee Cohen]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 13:22:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can Zia Yusuf really complain about inflammatory language?]]></title>
             <description><![CDATA[By John Power]]></description>
@@ -4006,30 +4030,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/the-uprising-against-ugly-cities/?homepage-tracking=magazine-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/the-uprising-against-ugly-cities/?homepage-tracking=magazine-article-3</guid>
             <dc:creator><![CDATA[Calvin Po]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 07:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Letters: Why the left loves Larkin]]></title>
-            <description><![CDATA[Letters]]></description>
-            <link>https://spectator.com/article/letters-why-the-left-loves-larkin/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/letters-why-the-left-loves-larkin/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 07:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why does Oxfordshire County Council have a problem with the England flag?]]></title>
-            <description><![CDATA[By Michael Ellis]]></description>
-            <link>https://spectator.com/article/why-does-oxfordshire-county-council-have-a-problem-with-the-england-flag/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-does-oxfordshire-county-council-have-a-problem-with-the-england-flag/</guid>
-            <dc:creator><![CDATA[Michael Ellis]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 07:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The most appalling thing about the NHS maternity scandal]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/the-most-appalling-thing-about-the-nhs-maternity-scandal/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-most-appalling-thing-about-the-nhs-maternity-scandal/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 07:35:22 GMT</pubDate>
         </item>
     </channel>

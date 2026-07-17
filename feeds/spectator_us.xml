@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 01:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 04:56:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 01:52:09 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 04:56:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[America needs more than ‘guardrails’ with China]]></title>
+            <description><![CDATA[By Michael R. Auslin]]></description>
+            <link>https://spectator.com/article/america-needs-more-than-guardrails-with-china/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-needs-more-than-guardrails-with-china/?edition=us</guid>
+            <dc:creator><![CDATA[Michael R. Auslin]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 04:56:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barbra Streisand makes a mistake and tells the truth]]></title>
+            <description><![CDATA[By Natasha Green]]></description>
+            <link>https://spectator.com/article/barbra-streisand-makes-a-mistake-and-tells-the-truth/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/barbra-streisand-makes-a-mistake-and-tells-the-truth/?edition=us</guid>
+            <dc:creator><![CDATA[Natasha Green]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 04:56:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to save American farming]]></title>
             <description><![CDATA[By Joel Salatin]]></description>
@@ -3999,22 +4015,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/let-ai-eat-the-universities/?edition=us</guid>
             <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 10:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The madcap effort to ban farming, fishing and hunting in Oregon]]></title>
-            <description><![CDATA[By Sabrina Philip]]></description>
-            <link>https://spectator.com/article/madcap-effort-ban-farming-fishing-hunting-oregon/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/madcap-effort-ban-farming-fishing-hunting-oregon/?edition=us</guid>
-            <dc:creator><![CDATA[Sabrina Philip]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 21:42:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Ogles goes both ways: congressman flip-flops on ‘homosexuality’ post]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/andy-ogles-flip-flops-homosexuality-post/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-ogles-flip-flops-homosexuality-post/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 21:42:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

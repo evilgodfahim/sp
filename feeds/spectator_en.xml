@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 07:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 09:48:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 07:12:25 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 09:48:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No, we don’t need a better tone at PMQs]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/no-we-dont-need-a-better-tone-at-pmqs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-we-dont-need-a-better-tone-at-pmqs/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 09:48:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lib Dems plot their own think tank]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/lib-dems-plot-their-own-think-tank/</link>
+            <guid isPermaLink="true">https://spectator.com/article/lib-dems-plot-their-own-think-tank/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 09:48:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel’s support for Argentina shouldn’t be a surprise]]></title>
+            <description><![CDATA[By Stephen Daisley]]></description>
+            <link>https://spectator.com/article/israels-support-for-argentina-shouldnt-come-as-a-surprise/</link>
+            <guid isPermaLink="true">https://spectator.com/article/israels-support-for-argentina-shouldnt-come-as-a-surprise/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 09:48:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Three ante-post tips for York and Goodwood]]></title>
             <description><![CDATA[This weekend’s racing makes no appeal betting wise and so I am instead going to put up three ante-post bets in the hope of landing a big-priced winner for the column over the next month or so.
@@ -4015,30 +4039,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/why-the-crackdown-on-raise-the-colours-might-be-good-news/</guid>
             <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 02:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tapped out of government]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/tapped-out-of-government/</link>
-            <guid isPermaLink="true">https://spectator.com/article/tapped-out-of-government/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 19:02:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A surgeon for Burnham’s Cabinet?]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/a-surgeon-for-burnhams-cabinet/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-surgeon-for-burnhams-cabinet/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 19:02:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour’s conversion therapy bill is extremely dangerous]]></title>
-            <description><![CDATA[By Debbie Hayton]]></description>
-            <link>https://spectator.com/article/labours-conversion-therapy-bill-is-extremely-dangerous/</link>
-            <guid isPermaLink="true">https://spectator.com/article/labours-conversion-therapy-bill-is-extremely-dangerous/</guid>
-            <dc:creator><![CDATA[Debbie Hayton]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 19:02:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

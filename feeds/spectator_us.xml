@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 18:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 19:59:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 18:54:10 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 19:59:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Please stop filming yourself urinating in JFK’s old apartment building]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/filming-urinating-jfk-building-dorchester-house-cockburn-diary-07-17-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/filming-urinating-jfk-building-dorchester-house-cockburn-diary-07-17-26/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 19:59:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Only cheats fear the SAVE Act]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -4010,14 +4018,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/in-cuba-weve-all-become-preppers/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/in-cuba-weve-all-become-preppers/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 10:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: the missing Mandelson messages]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/revealed-the-missing-mandelson-messages/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/revealed-the-missing-mandelson-messages/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 10:50:28 GMT</pubDate>
         </item>
     </channel>

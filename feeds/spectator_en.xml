@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 15:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 17:01:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 15:06:40 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 17:01:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The coming battle between ‘Mr Brexit’ and the ‘King in the North’]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/the-coming-battle-between-mr-brexit-and-the-king-in-the-north/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-coming-battle-between-mr-brexit-and-the-king-in-the-north/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 17:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham has a plan – but he won’t tell us what it is yet]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/andy-burnham-has-a-plan-but-he-wont-tell-us-what-it-is-yet/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-has-a-plan-but-he-wont-tell-us-what-it-is-yet/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 17:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham’s coronation speech was sub-Disney schmaltz]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/burnhams-coronation-speech-was-sub-disney-schmaltz/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-coronation-speech-was-sub-disney-schmaltz/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 17:01:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The SDP makes a bid for Clacton]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -490,10 +514,10 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
         </item>
         <item>
             <title><![CDATA[Christopher Nolan’s Odyssey is a triumph]]></title>
-            <description><![CDATA[By Count Binface]]></description>
+            <description><![CDATA[By Jon Harvey]]></description>
             <link>https://spectator.com/article/christopher-nolans-odyssey-is-a-triumph/</link>
             <guid isPermaLink="true">https://spectator.com/article/christopher-nolans-odyssey-is-a-triumph/</guid>
-            <dc:creator><![CDATA[Count Binface]]></dc:creator>
+            <dc:creator><![CDATA[Jon Harvey]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 01:49:17 GMT</pubDate>
         </item>
         <item>
@@ -4015,30 +4039,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/is-king-charles-really-being-open-about-his-finances/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 10:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three bets for the big all-weather meeting]]></title>
-            <description><![CDATA[By Penworthy]]></description>
-            <link>https://spectator.com/article/three-bets-for-the-big-all-weather-meeting/</link>
-            <guid isPermaLink="true">https://spectator.com/article/three-bets-for-the-big-all-weather-meeting/</guid>
-            <dc:creator><![CDATA[Penworthy]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 06:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The study of classics shouldn’t be elitist]]></title>
-            <description><![CDATA[By Harry Mount]]></description>
-            <link>https://spectator.com/article/state-schools-are-failing-classics-students/</link>
-            <guid isPermaLink="true">https://spectator.com/article/state-schools-are-failing-classics-students/</guid>
-            <dc:creator><![CDATA[Harry Mount]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 06:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How stimulants buzzed up the season]]></title>
-            <description><![CDATA[By Ivo Delingpole]]></description>
-            <link>https://spectator.com/article/a-guide-to-high-society-stimulants/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-guide-to-high-society-stimulants/</guid>
-            <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 06:44:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

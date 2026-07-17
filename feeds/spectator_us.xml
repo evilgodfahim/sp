@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 15:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 17:01:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 15:06:34 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 17:01:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Only cheats fear the SAVE Act]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/only-cheats-fear-save-america-act-stop-election-interference/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/only-cheats-fear-save-america-act-stop-election-interference/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 17:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the Donroe Doctrine support Argentina on the Falklands?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/does-the-donroe-doctrine-support-argentina-on-the-falklands/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-the-donroe-doctrine-support-argentina-on-the-falklands/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 17:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who can blame the White House teleprompter operator, America’s savviest gambler?]]></title>
+            <description><![CDATA[Never tell him the odds]]></description>
+            <link>https://spectator.com/article/blame-white-house-teleprompter-operator-america-savviest-gambler/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/blame-white-house-teleprompter-operator-america-savviest-gambler/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 17:01:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Christopher Nolan’s Odyssey is a triumph]]></title>
             <description><![CDATA[Incredible stories, otherworldly creatures, false identities, a cavalcade of trickery: the original Odyssey is packed with everything you could want from a big-screen blockbuster. And like all great stories, it’s more than just a fantasy adventure. It’s about survival, marriage, truth, what it means to be a man and much more. It’s also roughly 2,700 years old, and by picking it for his latest movie, Sir Christopher Nolan has definitively proved that the old ones are the best. But why, really, has he decided to go Greek?
@@ -3995,30 +4019,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/revealed-the-missing-mandelson-messages/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 10:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My annual pilgrimage along the route of the Berlin Wall]]></title>
-            <description><![CDATA[Walk of life]]></description>
-            <link>https://spectator.com/article/walk-life-annual-pilgrimage-berlin-wall/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/walk-life-annual-pilgrimage-berlin-wall/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[William Cook]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 10:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PETA wants to replace K-9 units with tactical robots]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/peta-wants-replace-k-9-units-tactical-robots/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/peta-wants-replace-k-9-units-tactical-robots/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 21:24:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forties’ love: tennis serves me a perfect midlife crisis]]></title>
-            <description><![CDATA[Notes on...]]></description>
-            <link>https://spectator.com/article/forties-love-tennis-serves-me-a-perfect-midlife-crisis/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/forties-love-tennis-serves-me-a-perfect-midlife-crisis/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 19:14:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 13:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 15:06:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 13:07:23 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 15:06:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The SDP makes a bid for Clacton]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/the-sdp-makes-a-bid-for-clacton/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-sdp-makes-a-bid-for-clacton/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 15:06:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan and Shabir Ahmed are laughing at Britain]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/pakistan-and-shabir-ahmed-are-laughing-at-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/pakistan-and-shabir-ahmed-are-laughing-at-britain/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 15:06:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham’s plan to reverse Thatcherism is a little ridiculous]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/andy-burnhams-plan-to-reverse-thatcherism-is-a-little-ridiculous/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-plan-to-reverse-thatcherism-is-a-little-ridiculous/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 15:06:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A wealth tax is bound to backfire on Andy Burnham]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
@@ -4014,30 +4038,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/a-guide-to-high-society-stimulants/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-guide-to-high-society-stimulants/</guid>
             <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 06:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘It’s going to make Liz Truss look like a savant’: Are you ready for Burnham’s first Budget?]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/its-going-to-make-liz-truss-look-like-a-savant-are-you-ready-for-burnhams-first-budget/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-going-to-make-liz-truss-look-like-a-savant-are-you-ready-for-burnhams-first-budget/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 06:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The death of two-party politics has been greatly exaggerated]]></title>
-            <description><![CDATA[US politics]]></description>
-            <link>https://spectator.com/article/the-death-of-two-party-politics-has-been-greatly-exaggerated/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-death-of-two-party-politics-has-been-greatly-exaggerated/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 06:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long holidays are the worst]]></title>
-            <description><![CDATA[Guilt trip]]></description>
-            <link>https://spectator.com/article/long-holidays-are-the-worst/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/long-holidays-are-the-worst/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 06:44:45 GMT</pubDate>
         </item>
     </channel>

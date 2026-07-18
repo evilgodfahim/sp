@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 23:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 01:42:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 23:43:31 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 01:42:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What’s the true meaning of The Odyssey?]]></title>
+            <description><![CDATA[By Iqbal Ahmed]]></description>
+            <link>https://spectator.com/article/whats-the-true-meaning-of-the-odyssey/</link>
+            <guid isPermaLink="true">https://spectator.com/article/whats-the-true-meaning-of-the-odyssey/</guid>
+            <dc:creator><![CDATA[Iqbal Ahmed]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 01:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The surprising truth about men and multitasking]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/the-surprising-truth-about-men-and-multitasking/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-surprising-truth-about-men-and-multitasking/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 01:42:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The coming battle between ‘Mr Brexit’ and the ‘King in the North’]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -4023,22 +4039,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/revealed-the-green-party-proposal-for-menstrual-leave/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 13:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who can save America’s 250th birthday?]]></title>
-            <description><![CDATA[By Matt McDonald]]></description>
-            <link>https://spectator.com/article/can-keith-krach-save-america-250/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-keith-krach-save-america-250/</guid>
-            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 13:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is King Charles really being open about his finances?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/is-king-charles-really-being-open-about-his-finances/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-king-charles-really-being-open-about-his-finances/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 10:15:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

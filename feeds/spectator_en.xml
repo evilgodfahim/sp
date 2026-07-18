@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 01:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 04:40:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 01:42:40 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 04:40:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[I’m proud of my utterly insignificant association with Nasa]]></title>
+            <description><![CDATA[Even though my career has been almost entirely in front of the camera, rather than behind it, I’ve long been obsessed with film equipment. How, then, can I resist a party in LA for Cine Gear, a trade show for new film kit? It’s a good place for the ‘creatives’ to meet the technical guys. The director Dan Trachtenberg is there, and we handle the latest Cooke glass. Cooke has been making lenses in Leicester since 1893, and they are still the best cine lenses in the world. I bought my set of Cooke Speed Panchros in the 1980s, when nobody wanted them because they were ‘slow’, but now they are back in fashion. They have a warmth and softness that modern lenses strive to emulate because their coatings involved radio-active elements that are not permitted in manufacture now.]]></description>
+            <link>https://spectator.com/article/im-proud-of-my-utterly-insignificant-association-with-nasa/</link>
+            <guid isPermaLink="true">https://spectator.com/article/im-proud-of-my-utterly-insignificant-association-with-nasa/</guid>
+            <dc:creator><![CDATA[John Rhys-Davies]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 04:40:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What’s the true meaning of The Odyssey?]]></title>
             <description><![CDATA[By Iqbal Ahmed]]></description>
@@ -138,15 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Three ante-post tips for York and Goodwood]]></title>
-            <description><![CDATA[This weekend’s racing makes no appeal betting wise and so I am instead going to put up three ante-post bets in the hope of landing a big-priced winner for the column over the next month or so.
-
-
-
-The first bet is in Europe’s richest handicap on the flat, the Sky Bet Ebor Handicap at York on 22 August. This is a race in which Irish maestro Willie Mullins, who won the contest last year with Ethical Diamond, has no less than ten entries.
-
-
-
-Mullins keeps his cards so close to his chest that I wouldn’t want to bet on which of his horses will run let alone which might win the race. Instead, I prefer the chances of an exposed British trained-runner in DAIQUIRI BAY.]]></description>
+            <description><![CDATA[By Penworthy]]></description>
             <link>https://spectator.com/article/three-ante-post-tips-for-york-and-goodwood/</link>
             <guid isPermaLink="true">https://spectator.com/article/three-ante-post-tips-for-york-and-goodwood/</guid>
             <dc:creator><![CDATA[Penworthy]]></dc:creator>
@@ -4030,14 +4030,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/bring-back-lunchtime-drinking/</link>
             <guid isPermaLink="true">https://spectator.com/article/bring-back-lunchtime-drinking/</guid>
             <dc:creator><![CDATA[Richard Madeley]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 13:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: The Green Party proposal for menstrual leave]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/revealed-the-green-party-proposal-for-menstrual-leave/</link>
-            <guid isPermaLink="true">https://spectator.com/article/revealed-the-green-party-proposal-for-menstrual-leave/</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 13:04:15 GMT</pubDate>
         </item>
     </channel>

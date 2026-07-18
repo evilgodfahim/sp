@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 14:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 15:45:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 14:16:41 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 15:45:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Odyssey is shallow and tiring]]></title>
+            <description><![CDATA[By Deborah Ross]]></description>
+            <link>https://spectator.com/article/the-odyssey-is-shallow-and-tiring/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-odyssey-is-shallow-and-tiring/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 15:45:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Smithsonian hates America]]></title>
+            <description><![CDATA[Exhibit A]]></description>
+            <link>https://spectator.com/article/smithsonian-hates-america-report/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/smithsonian-hates-america-report/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 15:45:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet Jon Davidson, chief of staff to the stars]]></title>
             <description><![CDATA[By William D. Cohan]]></description>
@@ -4003,22 +4019,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/graham-platner-colorful-past-bring-him-down/?edition=us</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 18:54:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five suggestions for new 60 Minutes hosts]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/five-suggestions-new-60-minutes-hosts-cockburn-diary-06-05-26/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/five-suggestions-new-60-minutes-hosts-cockburn-diary-06-05-26/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 18:54:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why can’t Elon Musk leave Britain alone?]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/why-cant-elon-musk-leave-britain-alone/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-cant-elon-musk-leave-britain-alone/?edition=us</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 16:26:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

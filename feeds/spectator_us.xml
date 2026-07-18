@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 15:45:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 16:45:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 15:45:28 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 16:45:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump is smoke signaling with forest fire tariff]]></title>
+            <description><![CDATA[By Jane Stannus]]></description>
+            <link>https://spectator.com/article/trump-is-smoke-signaling-with-forrest-fire-tariff/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-is-smoke-signaling-with-forrest-fire-tariff/?edition=us</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 16:45:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Odyssey is shallow and tiring]]></title>
             <description><![CDATA[By Deborah Ross]]></description>
@@ -4010,14 +4018,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/did-andrew-need-to-charge-his-royal-lodge-tenants-full-rent/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/did-andrew-need-to-charge-his-royal-lodge-tenants-full-rent/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 18:54:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Graham Platner’s colorful past bring him down?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/graham-platner-colorful-past-bring-him-down/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/graham-platner-colorful-past-bring-him-down/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 18:54:52 GMT</pubDate>
         </item>
     </channel>

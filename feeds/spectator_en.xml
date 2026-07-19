@@ -4,10 +4,32 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 01:50:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 05:13:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 01:50:51 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 05:13:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Short king summer’ is here]]></title>
+            <description><![CDATA[Tonight, Lionel Messi will walk out for his third World Cup final at 39 years old. Should Argentina beat Spain, they will be the first side to retain the trophy since Brazil in 1962, and the case for Messi as the greatest player of all time will be closed for good. As a self-respecting Englishman, I will not be cheering for Argentina after Wednesday’s depressing semi-final. I’ll be silently supporting Messi for a very different reason. At 5ft 7in, he represents a victory for the least pitied disadvantaged group: the vertically challenged man. 
+
+
+
+
+
+Back in 2022, TikTok was awash with videos hailing ‘short king spring’: a trend celebrating the rise (no pun intended) of famous men under 5ft 8in.]]></description>
+            <link>https://spectator.com/article/short-king-summer-is-here/</link>
+            <guid isPermaLink="true">https://spectator.com/article/short-king-summer-is-here/</guid>
+            <dc:creator><![CDATA[Alfie Pearce-Higgins]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 05:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Paris neighbourhood has become a no-go zone]]></title>
+            <description><![CDATA[By Matthew Fraser]]></description>
+            <link>https://spectator.com/article/my-parisian-neighbourhood-has-become-a-no-go-zone/</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-parisian-neighbourhood-has-become-a-no-go-zone/</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 05:13:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Theresa May remade modern politics]]></title>
             <description><![CDATA[By Travis Aaroe]]></description>
@@ -4014,22 +4036,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/the-real-reason-for-fifas-hydration-breaks/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-real-reason-for-fifas-hydration-breaks/</guid>
             <dc:creator><![CDATA[Charles Walford]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 06:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Trump’s quest for peace doomed?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/president-trump-quest-peace-doomed-iran/</link>
-            <guid isPermaLink="true">https://spectator.com/article/president-trump-quest-peace-doomed-iran/</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 06:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Burnham brave enough to scrap the triple lock?]]></title>
-            <description><![CDATA[By James Kirkup]]></description>
-            <link>https://spectator.com/article/the-reason-no-politician-has-dared-to-scrap-the-triple-lock/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-reason-no-politician-has-dared-to-scrap-the-triple-lock/</guid>
-            <dc:creator><![CDATA[James Kirkup]]></dc:creator>
             <pubDate>Sat, 27 Jun 2026 06:23:14 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 23:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 01:50:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 23:43:40 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 01:50:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Theresa May remade modern politics]]></title>
+            <description><![CDATA[By Travis Aaroe]]></description>
+            <link>https://spectator.com/article/how-theresa-may-remade-modern-politics/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-theresa-may-remade-modern-politics/</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 01:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When did Brits become so rude to shop staff?]]></title>
+            <description><![CDATA[By Rose George]]></description>
+            <link>https://spectator.com/article/when-did-brits-become-so-rude-to-shop-staff/</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-did-brits-become-so-rude-to-shop-staff/</guid>
+            <dc:creator><![CDATA[Rose George]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 01:50:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Neil O’Brien: ‘This is a radically different party’]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -4015,22 +4031,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/the-reason-no-politician-has-dared-to-scrap-the-triple-lock/</guid>
             <dc:creator><![CDATA[James Kirkup]]></dc:creator>
             <pubDate>Sat, 27 Jun 2026 06:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Britain has a medicine shortage]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/it-is-no-surprise-that-britain-has-a-medicine-shortage/</link>
-            <guid isPermaLink="true">https://spectator.com/article/it-is-no-surprise-that-britain-has-a-medicine-shortage/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 02:36:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six ways the BBC could save money]]></title>
-            <description><![CDATA[By Jonathan Maitland]]></description>
-            <link>https://spectator.com/article/six-ways-the-bbc-could-save-itself-money/</link>
-            <guid isPermaLink="true">https://spectator.com/article/six-ways-the-bbc-could-save-itself-money/</guid>
-            <dc:creator><![CDATA[Jonathan Maitland]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 02:36:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

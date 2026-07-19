@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 10:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 11:49:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 10:19:18 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 11:49:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My Paris neighbourhood has become a no-go zone]]></title>
+            <description><![CDATA[Champ de Mars]]></description>
+            <link>https://spectator.com/article/my-parisian-neighbourhood-has-become-a-no-go-zone/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-parisian-neighbourhood-has-become-a-no-go-zone/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 11:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lord Hermer is an unserious man]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/lord-hermer-is-an-unserious-man/</link>
+            <guid isPermaLink="true">https://spectator.com/article/lord-hermer-is-an-unserious-man/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 11:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Theresa May remade modern politics]]></title>
+            <description><![CDATA[Anti-populism]]></description>
+            <link>https://spectator.com/article/how-theresa-may-remade-modern-politics/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-theresa-may-remade-modern-politics/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 11:49:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The sheer awfulness of CPAC GB]]></title>
             <description><![CDATA[By William Atkinson]]></description>
@@ -4007,30 +4031,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
             <pubDate>Sat, 27 Jun 2026 16:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five things I’m hearing about the Burnham ascendancy]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/five-things-im-hearing-about-the-burnham-ascendancy/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/five-things-im-hearing-about-the-burnham-ascendancy/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 16:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Britain has a medicine shortage]]></title>
-            <description><![CDATA[Medical emergency]]></description>
-            <link>https://spectator.com/article/it-is-no-surprise-that-britain-has-a-medicine-shortage/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/it-is-no-surprise-that-britain-has-a-medicine-shortage/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 11:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Burnham can learn from the Baldwin trap]]></title>
-            <description><![CDATA[‘Guilty Man’]]></description>
-            <link>https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[John Keiger]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 11:21:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

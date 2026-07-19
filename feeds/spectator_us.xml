@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 08:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 10:19:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 08:01:07 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 10:19:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Meet Tony P, the hottest influencer in DC]]></title>
+            <description><![CDATA[By Kara Kennedy]]></description>
+            <link>https://spectator.com/article/meet-tony-p-the-hottest-influencer-in-dc/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/meet-tony-p-the-hottest-influencer-in-dc/?edition=us</guid>
+            <dc:creator><![CDATA[Kara Kennedy]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 10:19:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How progressivism locks the left into a suicide pact]]></title>
             <description><![CDATA[By Lewis M. Andrews]]></description>
@@ -4010,14 +4018,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/three-delicious-but-unpronounceable-wines/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/three-delicious-but-unpronounceable-wines/?edition=us</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 13:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of the cartel cults]]></title>
-            <description><![CDATA[By Fr. Alexander Lucie-Smith]]></description>
-            <link>https://spectator.com/article/the-rise-of-the-cartel-cults/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-the-cartel-cults/?edition=us</guid>
-            <dc:creator><![CDATA[Fr. Alexander Lucie-Smith]]></dc:creator>
             <pubDate>Sat, 06 Jun 2026 13:10:53 GMT</pubDate>
         </item>
     </channel>

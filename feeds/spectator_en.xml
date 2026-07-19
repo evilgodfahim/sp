@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 08:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 10:19:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 08:01:12 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 10:19:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The sheer awfulness of CPAC GB]]></title>
+            <description><![CDATA[By William Atkinson]]></description>
+            <link>https://spectator.com/article/the-sheer-awfulness-of-cpac-gb/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-sheer-awfulness-of-cpac-gb/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 10:19:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Let Shabana Mahmood finish the job at the Home Office]]></title>
             <description><![CDATA[By The Spectator]]></description>
@@ -4022,14 +4030,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/?homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[John Keiger]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 11:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The real reason for the Dartmoor pony cull]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
-            <link>https://spectator.com/article/the-real-reason-for-the-dartmoor-pony-cull/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-for-the-dartmoor-pony-cull/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
             <pubDate>Sat, 27 Jun 2026 11:21:28 GMT</pubDate>
         </item>
     </channel>

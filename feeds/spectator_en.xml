@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 12:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 15:03:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 15:03:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘The moment we bring back hope’: Burnham’s plan for Britain]]></title>
+            <description><![CDATA[By Andy Burnham]]></description>
+            <link>https://spectator.com/article/the-moment-we-bring-back-hope-burnhams-plan-for-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-moment-we-bring-back-hope-burnhams-plan-for-britain/</guid>
+            <dc:creator><![CDATA[Andy Burnham]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 15:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham’s rough record on homelessness]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/andy-burnhams-rough-record-on-homelessness/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-rough-record-on-homelessness/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 15:03:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[They don’t make broadcasters like Ed Stourton any more]]></title>
             <description><![CDATA[By Melanie McDonagh]]></description>
@@ -33,8 +49,8 @@
             <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Andy Burnham becomes Prime Minister]]></title>
-            <description><![CDATA[Live]]></description>
+            <title><![CDATA[Live: Andy Burnham becomes Prime Minister]]></title>
+            <description><![CDATA[By Coffee House]]></description>
             <link>https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</link>
             <guid isPermaLink="true">https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</guid>
             <dc:creator><![CDATA[Coffee House]]></dc:creator>
@@ -74,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham’s good vibes just won’t cut it]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
+            <description><![CDATA[A new dawn]]></description>
             <link>https://spectator.com/article/burnhams-good-vibes-just-wont-cut-it/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnhams-good-vibes-just-wont-cut-it/</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
@@ -4015,22 +4031,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/i-miss-roger-federer/</guid>
             <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham’s half-baked Catholicism]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/andy-burnhams-half-baked-catholicism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-half-baked-catholicism/</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are the Belgians so bad at football?]]></title>
-            <description><![CDATA[By Roger Alton]]></description>
-            <link>https://spectator.com/article/why-are-the-belgians-so-bad-at-football/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-are-the-belgians-so-bad-at-football/</guid>
-            <dc:creator><![CDATA[Roger Alton]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 19:21:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

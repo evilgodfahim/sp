@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 06:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 09:50:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 06:07:18 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 09:50:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Burnham cannot allow Ali Milani near power]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/burnham-cannot-allow-ali-milani-near-power/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-cannot-allow-ali-milani-near-power/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 09:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham is doomed if he listens to Labour MPs on immigration]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/burnham-is-doomed-if-he-listens-to-labour-mps-on-immigration/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-is-doomed-if-he-listens-to-labour-mps-on-immigration/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 09:50:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham’s good vibes just won’t cut it]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
@@ -154,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham is trying to do a Brown]]></title>
-            <description><![CDATA[Not flash, just Gordon]]></description>
+            <description><![CDATA[By James Heale]]></description>
             <link>https://spectator.com/article/burnham-is-trying-to-do-a-brown/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-is-trying-to-do-a-brown/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -4014,22 +4030,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/six-ways-the-bbc-could-save-itself-money/?homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/six-ways-the-bbc-could-save-itself-money/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Jonathan Maitland]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham’s reality TV show rise]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/andy-burnhams-reality-tv-show-rise/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-reality-tv-show-rise/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour’s latest immigration plan is pure insanity]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/labours-latest-immigration-plan-is-pure-insanity/</link>
-            <guid isPermaLink="true">https://spectator.com/article/labours-latest-immigration-plan-is-pure-insanity/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
             <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
         </item>
     </channel>

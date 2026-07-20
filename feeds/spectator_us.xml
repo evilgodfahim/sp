@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 17:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 19:26:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 17:24:31 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 19:26:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Elbridge Colby’s NATO warning shots fired will backfire]]></title>
+            <description><![CDATA[By David Blagden]]></description>
+            <link>https://spectator.com/article/warning-shots-fired-at-nato-by-the-under-secretary-of-war-will-backfire/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/warning-shots-fired-at-nato-by-the-under-secretary-of-war-will-backfire/?edition=us</guid>
+            <dc:creator><![CDATA[David Blagden]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 19:26:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I’m proud of my utterly insignificant association with NASA]]></title>
             <description><![CDATA[Even though my career has been almost entirely in front of the camera, rather than behind it, I’ve long been obsessed with film equipment. How, then, can I resist a party in LA for Cine Gear, a trade show for new film kit? It’s a good place for the “creatives” to meet the technical guys. The director Dan Trachtenberg is there, and we handle the latest Cooke glass. Cooke has been making lenses in Leicester since 1893, and they are still the best cine lenses in the world. I bought my set of Cooke Speed Panchros in the 1980s, when nobody wanted them because they were “slow,” but now they are back in fashion. They have a warmth and softness that modern lenses strive to emulate because their coatings involved radio-active elements that are not permitted in manufacturing now.]]></description>
@@ -4007,14 +4015,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/sixteen-times-that-trump-nearly-ended-the-iran-war/?edition=us</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Mon, 08 Jun 2026 20:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denmark and the myth of centrism’s reinvention]]></title>
-            <description><![CDATA[By Mark Brolin]]></description>
-            <link>https://spectator.com/article/denmark-and-the-myth-of-centrisms-reinvention/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/denmark-and-the-myth-of-centrisms-reinvention/?edition=us</guid>
-            <dc:creator><![CDATA[Mark Brolin]]></dc:creator>
-            <pubDate>Mon, 08 Jun 2026 17:44:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

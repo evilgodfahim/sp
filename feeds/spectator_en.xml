@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 17:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 19:26:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 17:24:36 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 19:26:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[John Healey is a clever choice for Chancellor]]></title>
+            <description><![CDATA[Burnham's cabinet]]></description>
+            <link>https://spectator.com/article/john-healey-is-a-clever-choice-for-chancellor/</link>
+            <guid isPermaLink="true">https://spectator.com/article/john-healey-is-a-clever-choice-for-chancellor/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 19:26:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Livestream: Tim Shipman meets Nick Clegg]]></title>
             <description><![CDATA[By The Spectator]]></description>
@@ -26,7 +34,7 @@
         </item>
         <item>
             <title><![CDATA[Can Andy Burnham end rough sleeping?]]></title>
-            <description><![CDATA[On the house]]></description>
+            <description><![CDATA[By John O’Neill]]></description>
             <link>https://spectator.com/article/can-andy-burnham-end-rough-sleeping/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-andy-burnham-end-rough-sleeping/</guid>
             <dc:creator><![CDATA[John O’Neill]]></dc:creator>
@@ -4022,14 +4030,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?homepage-tracking=high_density-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?homepage-tracking=high_density-article-3</guid>
             <dc:creator><![CDATA[Peter Jones]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Must we give Andy Burnham a chance?]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
-            <link>https://spectator.com/article/must-we-give-andy-burnham-a-chance/</link>
-            <guid isPermaLink="true">https://spectator.com/article/must-we-give-andy-burnham-a-chance/</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
         </item>
     </channel>

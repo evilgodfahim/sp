@@ -4,13 +4,77 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 02:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 06:07:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 02:08:11 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 06:07:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Burnham’s good vibes just won’t cut it]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/burnhams-good-vibes-just-wont-cut-it/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-good-vibes-just-wont-cut-it/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 06:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let Shabana Mahmood finish the job at the Home Office]]></title>
+            <description><![CDATA[Leading article]]></description>
+            <link>https://spectator.com/article/let-shabana-mahmood-finish-the-job-at-the-home-office/</link>
+            <guid isPermaLink="true">https://spectator.com/article/let-shabana-mahmood-finish-the-job-at-the-home-office/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 06:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oasis are the World Cup’s real champions]]></title>
+            <description><![CDATA[Champagne supernova]]></description>
+            <link>https://spectator.com/article/oasis-are-the-world-cups-real-champions/</link>
+            <guid isPermaLink="true">https://spectator.com/article/oasis-are-the-world-cups-real-champions/</guid>
+            <dc:creator><![CDATA[Sam Matthews Boehmer]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 06:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Volkswagen drove its own demise]]></title>
+            <description><![CDATA[Road rage]]></description>
+            <link>https://spectator.com/article/how-volkswagen-drove-its-own-demise/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-volkswagen-drove-its-own-demise/</guid>
+            <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 06:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sorry, I won’t try to remember your name]]></title>
+            <description><![CDATA[First impressions]]></description>
+            <link>https://spectator.com/article/sorry-but-i-wont-try-to-remember-your-name/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sorry-but-i-wont-try-to-remember-your-name/</guid>
+            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 06:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let Shabana Mahmood finish the job at the Home Office]]></title>
+            <description><![CDATA[Leading article]]></description>
+            <link>https://spectator.com/article/let-shabana-mahmood-finish-the-job-at-the-home-office/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/let-shabana-mahmood-finish-the-job-at-the-home-office/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 06:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Count Binface has shown Burnham how to make a manifesto]]></title>
+            <description><![CDATA[Any other business]]></description>
+            <link>https://spectator.com/article/count-binface-has-shown-burnham-how-to-make-a-manifesto/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/count-binface-has-shown-burnham-how-to-make-a-manifesto/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 06:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turtle doves and the myth of rewilding]]></title>
+            <description><![CDATA[Wild ambitions]]></description>
+            <link>https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 06:07:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Who cares if Christopher Nolan’s Odyssey is nothing like the book?]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
+            <description><![CDATA[Film]]></description>
             <link>https://spectator.com/article/who-cares-if-christopher-nolans-odyssey-is-nothing-like-the-book/</link>
             <guid isPermaLink="true">https://spectator.com/article/who-cares-if-christopher-nolans-odyssey-is-nothing-like-the-book/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
@@ -18,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Why does BBC iPlayer have a problem with Christianity?]]></title>
-            <description><![CDATA[By Theo Hobson]]></description>
+            <description><![CDATA[Religion]]></description>
             <link>https://spectator.com/article/why-does-bbc-iplayer-have-a-problem-with-christianity/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-does-bbc-iplayer-have-a-problem-with-christianity/</guid>
             <dc:creator><![CDATA[Theo Hobson]]></dc:creator>
@@ -50,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[The sheer awfulness of CPAC GB]]></title>
-            <description><![CDATA[By William Atkinson]]></description>
+            <description><![CDATA[In Liz we Trusst]]></description>
             <link>https://spectator.com/article/the-sheer-awfulness-of-cpac-gb/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-sheer-awfulness-of-cpac-gb/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
@@ -90,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham is trying to do a Brown]]></title>
-            <description><![CDATA[By James Heale]]></description>
+            <description><![CDATA[Not flash, just Gordon]]></description>
             <link>https://spectator.com/article/burnham-is-trying-to-do-a-brown/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-is-trying-to-do-a-brown/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -498,7 +562,7 @@
         </item>
         <item>
             <title><![CDATA[Count Binface has shown Burnham how to make a manifesto]]></title>
-            <description><![CDATA[By Martin Vander Weyer]]></description>
+            <description><![CDATA[Any other business]]></description>
             <link>https://spectator.com/article/count-binface-has-shown-burnham-how-to-make-a-manifesto/</link>
             <guid isPermaLink="true">https://spectator.com/article/count-binface-has-shown-burnham-how-to-make-a-manifesto/</guid>
             <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
@@ -586,7 +650,7 @@
         </item>
         <item>
             <title><![CDATA[Turtle doves and the myth of rewilding]]></title>
-            <description><![CDATA[By Matt Ridley]]></description>
+            <description><![CDATA[Wild ambitions]]></description>
             <link>https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/</link>
             <guid isPermaLink="true">https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/</guid>
             <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
@@ -3967,70 +4031,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/labours-latest-immigration-plan-is-pure-insanity/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
             <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Reform Couple]]></title>
-            <description><![CDATA[By Anonymous]]></description>
-            <link>https://spectator.com/article/the-reform-couple/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-reform-couple/</guid>
-            <dc:creator><![CDATA[Anonymous]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long holidays are the worst]]></title>
-            <description><![CDATA[By Ysenda Maxtone Graham]]></description>
-            <link>https://spectator.com/article/long-holidays-are-the-worst/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/long-holidays-are-the-worst/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Burnham can learn from the Baldwin trap]]></title>
-            <description><![CDATA[‘Guilty Man’]]></description>
-            <link>https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-burnham-avoid-the-baldwin-trap/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[John Keiger]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Britain doomed?]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/is-britain-doomed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-britain-doomed/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farage and Kemi’s pitch for conservative hearts and minds]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
-            <link>https://spectator.com/article/farage-and-kemis-pitch-for-conservative-hearts-and-minds/</link>
-            <guid isPermaLink="true">https://spectator.com/article/farage-and-kemis-pitch-for-conservative-hearts-and-minds/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the US-Israel special relationship over?]]></title>
-            <description><![CDATA[By Yossi Melman]]></description>
-            <link>https://spectator.com/article/is-the-us-israel-special-relationship-over/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-us-israel-special-relationship-over/</guid>
-            <dc:creator><![CDATA[Yossi Melman]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It turns out being a hunter-gatherer wasn’t so great after all]]></title>
-            <description><![CDATA[By Mike Pitts]]></description>
-            <link>https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/</link>
-            <guid isPermaLink="true">https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/</guid>
-            <dc:creator><![CDATA[Mike Pitts]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 02:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farewell to the school I founded]]></title>
-            <description><![CDATA[School’s out for ever]]></description>
-            <link>https://spectator.com/article/farewell-to-the-school-i-founded/</link>
-            <guid isPermaLink="true">https://spectator.com/article/farewell-to-the-school-i-founded/</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 20:03:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

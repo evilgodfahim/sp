@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 15:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 17:24:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 15:03:03 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 17:24:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Livestream: Tim Shipman meets Nick Clegg]]></title>
+            <description><![CDATA[By The Spectator]]></description>
+            <link>https://spectator.com/article/livestream-tim-shipman-meets-nick-clegg/</link>
+            <guid isPermaLink="true">https://spectator.com/article/livestream-tim-shipman-meets-nick-clegg/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 17:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The tainted legacy of Lord Hermer]]></title>
+            <description><![CDATA[Reshuffle]]></description>
+            <link>https://spectator.com/article/the-tainted-legacy-of-lord-hermer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tainted-legacy-of-lord-hermer/</guid>
+            <dc:creator><![CDATA[Yuan Yi Zhu]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 17:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Andy Burnham end rough sleeping?]]></title>
+            <description><![CDATA[On the house]]></description>
+            <link>https://spectator.com/article/can-andy-burnham-end-rough-sleeping/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-andy-burnham-end-rough-sleeping/</guid>
+            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 17:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham would be mad to introduce rent controls]]></title>
+            <description><![CDATA[Lost the plot]]></description>
+            <link>https://spectator.com/article/andy-burnham-would-be-mad-to-introduce-rent-controls/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-would-be-mad-to-introduce-rent-controls/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 17:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My run-in with Hugh Grant]]></title>
+            <description><![CDATA[Diary]]></description>
+            <link>https://spectator.com/article/my-run-in-with-hugh-grant/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-run-in-with-hugh-grant/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Sasha Swire]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 17:24:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘The moment we bring back hope’: Burnham’s plan for Britain]]></title>
             <description><![CDATA[By Andy Burnham]]></description>
@@ -49,7 +89,7 @@
             <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live: Andy Burnham becomes Prime Minister]]></title>
+            <title><![CDATA[Live: Andy Burnham appoints John Healey as Chancellor]]></title>
             <description><![CDATA[By Coffee House]]></description>
             <link>https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</link>
             <guid isPermaLink="true">https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</guid>
@@ -58,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Keir Starmer leaves the country in a terrible state]]></title>
-            <description><![CDATA[Legacy]]></description>
+            <description><![CDATA[By Ameer Kotecha]]></description>
             <link>https://spectator.com/article/keir-starmer-leaves-the-country-in-a-terrible-state/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmer-leaves-the-country-in-a-terrible-state/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
@@ -66,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Will Burnham and the King get on?]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/will-burnham-and-the-king-get-on/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-burnham-and-the-king-get-on/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -74,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham cannot allow Ali Milani near power]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
+            <description><![CDATA[New hire]]></description>
             <link>https://spectator.com/article/burnham-cannot-allow-ali-milani-near-power/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-cannot-allow-ali-milani-near-power/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -586,7 +626,7 @@
         </item>
         <item>
             <title><![CDATA[My run-in with Hugh Grant]]></title>
-            <description><![CDATA[By Sasha Swire]]></description>
+            <description><![CDATA[Diary]]></description>
             <link>https://spectator.com/article/my-run-in-with-hugh-grant/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-run-in-with-hugh-grant/</guid>
             <dc:creator><![CDATA[Sasha Swire]]></dc:creator>
@@ -3990,46 +4030,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/must-we-give-andy-burnham-a-chance/</link>
             <guid isPermaLink="true">https://spectator.com/article/must-we-give-andy-burnham-a-chance/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the Tories’ pro-Palestine minority]]></title>
-            <description><![CDATA[By Bethany Elliott]]></description>
-            <link>https://spectator.com/article/inside-the-tories-pro-palestine-minority/</link>
-            <guid isPermaLink="true">https://spectator.com/article/inside-the-tories-pro-palestine-minority/</guid>
-            <dc:creator><![CDATA[Bethany Elliott]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Serena Williams no longer belongs at Wimbledon]]></title>
-            <description><![CDATA[Out!]]></description>
-            <link>https://spectator.com/article/serena-williams-no-longer-belongs-at-wimbledon/</link>
-            <guid isPermaLink="true">https://spectator.com/article/serena-williams-no-longer-belongs-at-wimbledon/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Choral church music must be heard within the liturgy]]></title>
-            <description><![CDATA[Classical music]]></description>
-            <link>https://spectator.com/article/choral-church-music-must-be-heard-within-the-liturgy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/choral-church-music-must-be-heard-within-the-liturgy/</guid>
-            <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Would the ancients have appreciated David Hockney?]]></title>
-            <description><![CDATA[Ancient and modern]]></description>
-            <link>https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/</link>
-            <guid isPermaLink="true">https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/</guid>
-            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I miss Roger Federer]]></title>
-            <description><![CDATA[By Daniel Seifert]]></description>
-            <link>https://spectator.com/article/i-miss-roger-federer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-miss-roger-federer/</guid>
-            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 09:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 12:09:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 09:50:36 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[They don’t make broadcasters like Ed Stourton any more]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/they-dont-make-broadcasters-like-ed-stourton-any-more/</link>
+            <guid isPermaLink="true">https://spectator.com/article/they-dont-make-broadcasters-like-ed-stourton-any-more/</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I feel sorry for Argentina]]></title>
+            <description><![CDATA[By Alex Glover]]></description>
+            <link>https://spectator.com/article/i-feel-sorry-for-argentina/</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-feel-sorry-for-argentina/</guid>
+            <dc:creator><![CDATA[Alex Glover]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My work as Prime Minister is done]]></title>
+            <description><![CDATA[By Keir Starmer]]></description>
+            <link>https://spectator.com/article/my-work-as-prime-minister-is-done/</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-work-as-prime-minister-is-done/</guid>
+            <dc:creator><![CDATA[Keir Starmer]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham becomes Prime Minister]]></title>
+            <description><![CDATA[Live]]></description>
+            <link>https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</link>
+            <guid isPermaLink="true">https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</guid>
+            <dc:creator><![CDATA[Coffee House]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keir Starmer leaves the country in a terrible state]]></title>
+            <description><![CDATA[Legacy]]></description>
+            <link>https://spectator.com/article/keir-starmer-leaves-the-country-in-a-terrible-state/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-leaves-the-country-in-a-terrible-state/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Burnham and the King get on?]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/will-burnham-and-the-king-get-on/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-burnham-and-the-king-get-on/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham cannot allow Ali Milani near power]]></title>
             <description><![CDATA[By Andrew Gilligan]]></description>
@@ -18,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham is doomed if he listens to Labour MPs on immigration]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Stephen Pollard]]></description>
             <link>https://spectator.com/article/burnham-is-doomed-if-he-listens-to-labour-mps-on-immigration/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-is-doomed-if-he-listens-to-labour-mps-on-immigration/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -98,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Why does BBC iPlayer have a problem with Christianity?]]></title>
-            <description><![CDATA[Religion]]></description>
+            <description><![CDATA[By Theo Hobson]]></description>
             <link>https://spectator.com/article/why-does-bbc-iplayer-have-a-problem-with-christianity/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-does-bbc-iplayer-have-a-problem-with-christianity/</guid>
             <dc:creator><![CDATA[Theo Hobson]]></dc:creator>
@@ -130,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[The sheer awfulness of CPAC GB]]></title>
-            <description><![CDATA[In Liz we Trusst]]></description>
+            <description><![CDATA[By William Atkinson]]></description>
             <link>https://spectator.com/article/the-sheer-awfulness-of-cpac-gb/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-sheer-awfulness-of-cpac-gb/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
@@ -3983,54 +4031,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/why-are-the-belgians-so-bad-at-football/</guid>
             <dc:creator><![CDATA[Roger Alton]]></dc:creator>
             <pubDate>Sun, 28 Jun 2026 19:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long holidays are the worst]]></title>
-            <description><![CDATA[By Ysenda Maxtone Graham]]></description>
-            <link>https://spectator.com/article/long-holidays-are-the-worst/</link>
-            <guid isPermaLink="true">https://spectator.com/article/long-holidays-are-the-worst/</guid>
-            <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 17:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunday shows round-up: should Labour call an early election?]]></title>
-            <description><![CDATA[By Joe Bedell-Brill]]></description>
-            <link>https://spectator.com/article/sunday-shows-round-up-should-labour-call-an-early-election/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-should-labour-call-an-early-election/</guid>
-            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 14:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The real significance of the Israel-Lebanon agreement]]></title>
-            <description><![CDATA[By Jonathan Sacerdoti]]></description>
-            <link>https://spectator.com/article/the-real-significance-of-the-israel-lebanon-agreement/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-real-significance-of-the-israel-lebanon-agreement/</guid>
-            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 10:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The social contract is fundamentally broken]]></title>
-            <description><![CDATA[By Sebastian Milbank]]></description>
-            <link>https://spectator.com/article/the-social-contract-is-fundamentally-broken/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-social-contract-is-fundamentally-broken/</guid>
-            <dc:creator><![CDATA[Sebastian Milbank]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 10:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Trump’s quest for peace doomed?]]></title>
-            <description><![CDATA[Nixon moment]]></description>
-            <link>https://spectator.com/article/president-trump-quest-peace-doomed-iran/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/president-trump-quest-peace-doomed-iran/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six ways the BBC could save money]]></title>
-            <description><![CDATA[Cost-cutting]]></description>
-            <link>https://spectator.com/article/six-ways-the-bbc-could-save-itself-money/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/six-ways-the-bbc-could-save-itself-money/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Jonathan Maitland]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 07:00:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

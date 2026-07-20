@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 23:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 02:08:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 23:49:17 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 02:08:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who cares if Christopher Nolan’s Odyssey is nothing like the book?]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/who-cares-if-christopher-nolans-odyssey-is-nothing-like-the-book/</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-cares-if-christopher-nolans-odyssey-is-nothing-like-the-book/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 02:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does BBC iPlayer have a problem with Christianity?]]></title>
+            <description><![CDATA[By Theo Hobson]]></description>
+            <link>https://spectator.com/article/why-does-bbc-iplayer-have-a-problem-with-christianity/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-does-bbc-iplayer-have-a-problem-with-christianity/</guid>
+            <dc:creator><![CDATA[Theo Hobson]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 02:08:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Paris neighbourhood has become a no-go zone]]></title>
             <description><![CDATA[Champ de Mars]]></description>
@@ -4015,22 +4031,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/farewell-to-the-school-i-founded/</guid>
             <dc:creator><![CDATA[Toby Young]]></dc:creator>
             <pubDate>Sat, 27 Jun 2026 20:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Burnham brave enough to scrap the triple lock?]]></title>
-            <description><![CDATA[Economic millstone]]></description>
-            <link>https://spectator.com/article/the-reason-no-politician-has-dared-to-scrap-the-triple-lock/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-reason-no-politician-has-dared-to-scrap-the-triple-lock/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[James Kirkup]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 16:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chicken Milanese is the king of homemade fast food]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
-            <link>https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 16:59:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 16:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 18:10:50 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 16:19:19 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 18:10:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Does Burnham really know how to change Britain?]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/does-burnham-really-know-how-to-change-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-burnham-really-know-how-to-change-britain/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 18:10:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jordan Bardella to headline Reform conference]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -90,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[John Healey’s nightmare first day as Chancellor]]></title>
-            <description><![CDATA[Triple whammy]]></description>
+            <description><![CDATA[By Michael Simmons]]></description>
             <link>https://spectator.com/article/john-healeys-nightmare-first-day-as-chancellor/</link>
             <guid isPermaLink="true">https://spectator.com/article/john-healeys-nightmare-first-day-as-chancellor/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
@@ -281,8 +289,8 @@
             <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live: Andy Burnham holds his first cabinet meeting]]></title>
-            <description><![CDATA[By Coffee House]]></description>
+            <title><![CDATA[Andy Burnham becomes Prime Minister]]></title>
+            <description><![CDATA[As it happened]]></description>
             <link>https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</link>
             <guid isPermaLink="true">https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</guid>
             <dc:creator><![CDATA[Coffee House]]></dc:creator>
@@ -4022,14 +4030,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/who-needs-an-italian-beach-when-we-have-our-own-lidos/?homepage-tracking=high_density-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/who-needs-an-italian-beach-when-we-have-our-own-lidos/?homepage-tracking=high_density-article-2</guid>
             <dc:creator><![CDATA[Peter Bradshaw]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The joy of willow-pattern ceramics]]></title>
-            <description><![CDATA[Exhibitions]]></description>
-            <link>https://spectator.com/article/the-joy-of-willow-pattern-ceramics/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-joy-of-willow-pattern-ceramics/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Otto Saumarez Smith]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
         </item>
     </channel>

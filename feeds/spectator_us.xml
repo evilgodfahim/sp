@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 16:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 18:10:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 16:19:14 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 18:10:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Colombia’s transition is being brokered on the Potomac]]></title>
+            <description><![CDATA[By Alexander Munguia]]></description>
+            <link>https://spectator.com/article/colombia-transition-being-brokered-potomac/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/colombia-transition-being-brokered-potomac/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Munguia]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 18:10:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jewish artists are no longer safe in France]]></title>
             <description><![CDATA[Stage fright]]></description>
@@ -4018,14 +4026,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 11:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s ballroom drone port is no joke]]></title>
-            <description><![CDATA[By Keith Kellogg]]></description>
-            <link>https://spectator.com/article/trumps-ballroom-drone-port-is-no-joke/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-ballroom-drone-port-is-no-joke/?edition=us</guid>
-            <dc:creator><![CDATA[Keith Kellogg]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 11:31:17 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 05:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 08:09:19 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 05:12:49 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 08:09:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A chat with the Princess of Iran]]></title>
+            <description><![CDATA[By Luke Lyman]]></description>
+            <link>https://spectator.com/article/a-chat-with-the-princess-of-iran/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-chat-with-the-princess-of-iran/?edition=us</guid>
+            <dc:creator><![CDATA[Luke Lyman]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 08:09:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The great big, beautiful risk]]></title>
             <description><![CDATA[By Ben Domenech]]></description>
@@ -4006,14 +4014,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 10:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why America is sounding the alarm about Britain and Europe]]></title>
-            <description><![CDATA[Camp of the Saints]]></description>
-            <link>https://spectator.com/article/why-america-is-sounding-the-alarm-about-britain-and-europe/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-america-is-sounding-the-alarm-about-britain-and-europe/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 10:52:35 GMT</pubDate>
         </item>
     </channel>

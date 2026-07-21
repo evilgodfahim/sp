@@ -4,10 +4,44 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 01:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 05:12:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 01:50:37 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 05:12:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[AI’s taken my job]]></title>
+            <description><![CDATA[This week I was replaced by AI. I saw it coming, but it didn’t make the news any easier to deal with. To be honest, it terrifies me for the future of our species. If that sounds a bit over the top, hear me out.
+
+
+
+
+
+I am a writer. Not only that, I am a commercially successful one. Although you probably haven’t heard of me, I’ve published more than 300 short stories in women’s magazines over the past 15 years. From ghost stories in Woman’s Weekly to tales of romance in Take a Break Fiction Feast, I write them all. Sorry – wrote. 
+
+
+
+‘Dear Geoff,’ the email said. ‘Going forward, our in-house team will be using AI tools to compile future editions, but we thank you for your many contributions to the magazine over the years. Kind regards, Rebecca.]]></description>
+            <link>https://spectator.com/article/ais-taken-my-job/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ais-taken-my-job/</guid>
+            <dc:creator><![CDATA[Geoff Bagwell]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 05:12:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Britain went cold on ice cream vans]]></title>
+            <description><![CDATA[By Zak Asgard]]></description>
+            <link>https://spectator.com/article/what-happened-to-britains-ice-cream-vans/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-happened-to-britains-ice-cream-vans/</guid>
+            <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 05:12:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain has reinvented football]]></title>
+            <description><![CDATA[By Thomas Munson]]></description>
+            <link>https://spectator.com/article/spain-has-reinvented-football/</link>
+            <guid isPermaLink="true">https://spectator.com/article/spain-has-reinvented-football/</guid>
+            <dc:creator><![CDATA[Thomas Munson]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 05:12:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yvette Cooper is a left-field choice for Health Secretary]]></title>
             <description><![CDATA[By Isabel Hardman]]></description>
@@ -4007,30 +4041,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/the-truth-about-white-guilt/</guid>
             <dc:creator><![CDATA[Katharine Birbalsingh]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 10:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The glory of espadrilles]]></title>
-            <description><![CDATA[By Calla Jones Corner]]></description>
-            <link>https://spectator.com/article/the-glory-of-espadrilles/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-glory-of-espadrilles/</guid>
-            <dc:creator><![CDATA[Calla Jones Corner]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Spectator’s role in the birth of America]]></title>
-            <description><![CDATA[A special relationship]]></description>
-            <link>https://spectator.com/article/the-spectators-role-in-the-birth-of-america/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-spectators-role-in-the-birth-of-america/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Gus Carter]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Choral church music must be heard within the liturgy]]></title>
-            <description><![CDATA[Classical music]]></description>
-            <link>https://spectator.com/article/choral-church-music-must-be-heard-within-the-liturgy/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/choral-church-music-must-be-heard-within-the-liturgy/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 05:23:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

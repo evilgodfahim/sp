@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 01:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 05:12:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 01:50:31 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 05:12:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The great big, beautiful risk]]></title>
+            <description><![CDATA[By Ben Domenech]]></description>
+            <link>https://spectator.com/article/the-great-big-beautiful-risk/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-great-big-beautiful-risk/?edition=us</guid>
+            <dc:creator><![CDATA[Ben Domenech]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 05:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amy McGrath, the Forty-Million-Dollar Nominee]]></title>
+            <description><![CDATA[By Alan Cornett]]></description>
+            <link>https://spectator.com/article/amy-mcgrath-the-forty-million-dollar-nominee/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/amy-mcgrath-the-forty-million-dollar-nominee/?edition=us</guid>
+            <dc:creator><![CDATA[Alan Cornett]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 05:12:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Elbridge Colby’s NATO warning shots will backfire]]></title>
             <description><![CDATA[By David Blagden]]></description>
@@ -3998,22 +4014,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/why-america-is-sounding-the-alarm-about-britain-and-europe/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/why-america-is-sounding-the-alarm-about-britain-and-europe/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 10:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why have we forgotten about Covid?]]></title>
-            <description><![CDATA[By Sean Thomas]]></description>
-            <link>https://spectator.com/article/why-have-we-forgotten-about-covid/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-have-we-forgotten-about-covid/?edition=us</guid>
-            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 10:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The case for the administrative state]]></title>
-            <description><![CDATA[By Christopher Caldwell]]></description>
-            <link>https://spectator.com/article/the-case-for-the-administrative-state/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-case-for-the-administrative-state/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 10:52:35 GMT</pubDate>
         </item>
     </channel>

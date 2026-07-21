@@ -4,13 +4,45 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 08:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 10:57:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 08:09:25 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 10:57:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Wes Streeting has much to prove as Defence Secretary]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/wes-streeting-has-much-to-prove-as-defence-secretary/</link>
+            <guid isPermaLink="true">https://spectator.com/article/wes-streeting-has-much-to-prove-as-defence-secretary/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ed Miliband can’t ignore the threat from China forever]]></title>
+            <description><![CDATA[By Edward Howell]]></description>
+            <link>https://spectator.com/article/ed-miliband-cant-ignore-the-threat-from-china-forever/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ed-miliband-cant-ignore-the-threat-from-china-forever/</guid>
+            <dc:creator><![CDATA[Edward Howell]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Civil service no-shows threaten Burnham’s northern vision]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/civil-service-no-shows-threaten-burnhams-northern-vision/</link>
+            <guid isPermaLink="true">https://spectator.com/article/civil-service-no-shows-threaten-burnhams-northern-vision/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s a disgrace that Ed Miliband is Foreign Secretary]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/its-a-disgrace-that-ed-miliband-is-foreign-secretary/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-a-disgrace-that-ed-miliband-is-foreign-secretary/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kevin Keegan was a footballing superstar]]></title>
-            <description><![CDATA[By Mark Solomons]]></description>
+            <description><![CDATA[RIP]]></description>
             <link>https://spectator.com/article/kevin-keegan-was-a-footballing-superstar/</link>
             <guid isPermaLink="true">https://spectator.com/article/kevin-keegan-was-a-footballing-superstar/</guid>
             <dc:creator><![CDATA[Mark Solomons]]></dc:creator>
@@ -18,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[John Healey’s nightmare first day as Chancellor]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
+            <description><![CDATA[Triple whammy]]></description>
             <link>https://spectator.com/article/john-healeys-nightmare-first-day-as-chancellor/</link>
             <guid isPermaLink="true">https://spectator.com/article/john-healeys-nightmare-first-day-as-chancellor/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
@@ -26,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[What is the MoJ hiding about migrant crime?]]></title>
-            <description><![CDATA[Secret data]]></description>
+            <description><![CDATA[By David Shipley]]></description>
             <link>https://spectator.com/article/what-is-the-moj-hiding-about-migrant-crime/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-is-the-moj-hiding-about-migrant-crime/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
@@ -73,7 +105,7 @@
             <pubDate>Tue, 21 Jul 2026 08:09:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Andy Burnham seems comically out of touch]]></title>
+            <title><![CDATA[Andy Burnham is comically out of touch]]></title>
             <description><![CDATA[By Gareth Roberts]]></description>
             <link>https://spectator.com/article/andy-burnham-seems-comically-out-of-touch/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-seems-comically-out-of-touch/</guid>
@@ -122,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[John Healey is a clever choice for Chancellor]]></title>
-            <description><![CDATA[Burnham's cabinet]]></description>
+            <description><![CDATA[By James Heale]]></description>
             <link>https://spectator.com/article/john-healey-is-a-clever-choice-for-chancellor/</link>
             <guid isPermaLink="true">https://spectator.com/article/john-healey-is-a-clever-choice-for-chancellor/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -3999,38 +4031,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <guid isPermaLink="true">https://spectator.com/article/self-immolation-is-a-horrible-way-to-go-but-no-one-seems-to-have-told-that-to-the-childrens-publishing-industry/</guid>
             <dc:creator><![CDATA[Gillian Philip]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The uprising against ugly cities]]></title>
-            <description><![CDATA[Architecture]]></description>
-            <link>https://spectator.com/article/the-uprising-against-ugly-cities/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-uprising-against-ugly-cities/</guid>
-            <dc:creator><![CDATA[Calvin Po]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The joy of willow-pattern ceramics]]></title>
-            <description><![CDATA[Exhibitions]]></description>
-            <link>https://spectator.com/article/the-joy-of-willow-pattern-ceramics/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-joy-of-willow-pattern-ceramics/</guid>
-            <dc:creator><![CDATA[Otto Saumarez Smith]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: How the Treasury abandoned numeracy to boost diversity]]></title>
-            <description><![CDATA[By John Connolly]]></description>
-            <link>https://spectator.com/article/revealed-how-the-treasury-abandoned-numeracy-to-boost-diversity/</link>
-            <guid isPermaLink="true">https://spectator.com/article/revealed-how-the-treasury-abandoned-numeracy-to-boost-diversity/</guid>
-            <dc:creator><![CDATA[John Connolly]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 02:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham won’t be the first prime minister to have tried levelling up]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/is-andy-burnham-right-to-say-that-britain-is-over-centralised/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-andy-burnham-right-to-say-that-britain-is-over-centralised/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 17:28:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

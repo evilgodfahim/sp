@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 08:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 10:57:27 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 08:09:19 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 10:57:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My Paris neighborhood has become a no-go zone]]></title>
+            <description><![CDATA[By Matthew Fraser]]></description>
+            <link>https://spectator.com/article/my-parisian-neighbourhood-has-become-a-no-go-zone/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-parisian-neighbourhood-has-become-a-no-go-zone/?edition=us</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Odyssey is shallow and tiring]]></title>
+            <description><![CDATA[By Deborah Ross]]></description>
+            <link>https://spectator.com/article/the-odyssey-is-shallow-and-tiring/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-odyssey-is-shallow-and-tiring/?edition=us</guid>
+            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sorry, I won’t try to remember your name]]></title>
+            <description><![CDATA[First impressions]]></description>
+            <link>https://spectator.com/article/sorry-but-i-wont-try-to-remember-your-name/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/sorry-but-i-wont-try-to-remember-your-name/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham’s good vibes just won’t cut it]]></title>
+            <description><![CDATA[A new dawn]]></description>
+            <link>https://spectator.com/article/burnhams-good-vibes-just-wont-cut-it/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-good-vibes-just-wont-cut-it/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The sheer awfulness of CPAC GB]]></title>
+            <description><![CDATA[In Liz we Trusst]]></description>
+            <link>https://spectator.com/article/the-sheer-awfulness-of-cpac-gb/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-sheer-awfulness-of-cpac-gb/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish artists are no longer safe in France]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/jewish-artists-are-no-longer-safe-in-france/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/jewish-artists-are-no-longer-safe-in-france/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI has taken my job]]></title>
+            <description><![CDATA[By Geoff Bagwell]]></description>
+            <link>https://spectator.com/article/ais-taken-my-job/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ais-taken-my-job/?edition=us</guid>
+            <dc:creator><![CDATA[Geoff Bagwell]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America is lying about the Nord Stream pipeline]]></title>
+            <description><![CDATA[By Peter Hitchens]]></description>
+            <link>https://spectator.com/article/america-is-lying-about-the-nord-stream-pipeline/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-is-lying-about-the-nord-stream-pipeline/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 10:57:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A chat with the Princess of Iran]]></title>
             <description><![CDATA[By Luke Lyman]]></description>
@@ -50,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[I’m proud of my utterly insignificant association with NASA]]></title>
-            <description><![CDATA[Even though my career has been almost entirely in front of the camera, rather than behind it, I’ve long been obsessed with film equipment. How, then, can I resist a party in LA for Cine Gear, a trade show for new film kit? It’s a good place for the “creatives” to meet the technical guys. The director Dan Trachtenberg is there, and we handle the latest Cooke glass. Cooke has been making lenses in Leicester since 1893, and they are still the best cine lenses in the world. I bought my set of Cooke Speed Panchros in the 1980s, when nobody wanted them because they were “slow,” but now they are back in fashion. They have a warmth and softness that modern lenses strive to emulate because their coatings involved radio-active elements that are not permitted in manufacturing now.]]></description>
+            <description><![CDATA[By John Rhys-Davies]]></description>
             <link>https://spectator.com/article/im-proud-of-my-utterly-insignificant-association-with-nasa/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/im-proud-of-my-utterly-insignificant-association-with-nasa/?edition=us</guid>
             <dc:creator><![CDATA[John Rhys-Davies]]></dc:creator>
@@ -3951,70 +4015,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/political-awkwardness-2026-tony-awards/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 19:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where to watch the World Cup in DC: Cockburn’s comprehensive guide]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/dc-world-cup-where-to-watch/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/dc-world-cup-where-to-watch/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 19:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The difficult pursuit of happiness]]></title>
-            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
-            <link>https://spectator.com/article/the-difficult-pursuit-of-happiness/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-difficult-pursuit-of-happiness/?edition=us</guid>
-            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 16:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The many versions of ‘Come Saturday Morning’]]></title>
-            <description><![CDATA[By Bill Kauffman]]></description>
-            <link>https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us</guid>
-            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 13:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The urgent case for fixing California’s broken elections]]></title>
-            <description><![CDATA[By John Fund]]></description>
-            <link>https://spectator.com/article/the-urgent-case-for-fixing-californias-broken-elections/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-urgent-case-for-fixing-californias-broken-elections/?edition=us</guid>
-            <dc:creator><![CDATA[John Fund]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 13:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A weary trek in the steps of Garibaldi and his Redshirts]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/a-weary-trek-in-the-steps-of-garibaldi-and-his-redshirts/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-weary-trek-in-the-steps-of-garibaldi-and-his-redshirts/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Ian Thomson]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 10:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s time to turn the page on ‘romantasy’]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/time-to-fall-out-of-love-with-romantasy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/time-to-fall-out-of-love-with-romantasy/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 10:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The difficult pursuit of happiness]]></title>
-            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
-            <link>https://spectator.com/article/the-difficult-pursuit-of-happiness/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-difficult-pursuit-of-happiness/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 10:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The many versions of ‘Come Saturday Morning’]]></title>
-            <description><![CDATA[Local life]]></description>
-            <link>https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-many-versions-of-come-saturday-morning/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 10:52:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

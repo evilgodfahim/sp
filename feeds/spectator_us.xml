@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 10:57:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 12:22:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 10:57:27 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 12:22:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Juul developing age-restricted e-cigarettes]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/juul-developing-age-restricted-e-cigarettes/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/juul-developing-age-restricted-e-cigarettes/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 12:22:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Paris neighborhood has become a no-go zone]]></title>
             <description><![CDATA[By Matthew Fraser]]></description>
@@ -4007,14 +4015,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/hellofresh-stomach-churning-pride-ad/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 21:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The political awkwardness of the 2026 Tony Awards]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/political-awkwardness-2026-tony-awards/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/political-awkwardness-2026-tony-awards/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 19:11:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

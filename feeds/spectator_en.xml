@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 10:57:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 12:22:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 10:57:33 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 12:22:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Would a social care levy work?]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/would-a-social-care-levy-work/</link>
+            <guid isPermaLink="true">https://spectator.com/article/would-a-social-care-levy-work/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 12:22:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wes Streeting has much to prove as Defence Secretary]]></title>
             <description><![CDATA[By Eliot Wilson]]></description>
@@ -241,7 +249,7 @@
             <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live: Andy Burnham appoints his full cabinet]]></title>
+            <title><![CDATA[Live: Andy Burnham holds his first cabinet meeting]]></title>
             <description><![CDATA[By Coffee House]]></description>
             <link>https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</link>
             <guid isPermaLink="true">https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</guid>
@@ -4022,14 +4030,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/why-does-starmer-think-he-could-become-nato-chief/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-does-starmer-think-he-could-become-nato-chief/</guid>
             <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How ideology hollowed out children’s literature]]></title>
-            <description><![CDATA[By Gillian Philip]]></description>
-            <link>https://spectator.com/article/self-immolation-is-a-horrible-way-to-go-but-no-one-seems-to-have-told-that-to-the-childrens-publishing-industry/</link>
-            <guid isPermaLink="true">https://spectator.com/article/self-immolation-is-a-horrible-way-to-go-but-no-one-seems-to-have-told-that-to-the-childrens-publishing-industry/</guid>
-            <dc:creator><![CDATA[Gillian Philip]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 06:49:04 GMT</pubDate>
         </item>
     </channel>

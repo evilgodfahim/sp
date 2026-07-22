@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 18:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 20:07:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 18:02:37 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 20:07:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Grant Shapps misses out on Tory selection]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/grant-shapps-misses-out-on-tory-selection/</link>
+            <guid isPermaLink="true">https://spectator.com/article/grant-shapps-misses-out-on-tory-selection/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 20:07:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is Andy Burnham scolding his own ministers already?]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
@@ -4022,14 +4030,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/the-tree-that-nearly-sent-me-over-the-edge/?homepage-tracking=high_density-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/the-tree-that-nearly-sent-me-over-the-edge/?homepage-tracking=high_density-article-2</guid>
             <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 08:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farewell to the school I founded]]></title>
-            <description><![CDATA[School’s out for ever]]></description>
-            <link>https://spectator.com/article/farewell-to-the-school-i-founded/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/farewell-to-the-school-i-founded/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 08:44:43 GMT</pubDate>
         </item>
     </channel>

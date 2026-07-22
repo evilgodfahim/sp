@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 12:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 14:57:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 12:25:13 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 14:57:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why aren’t American companies passing on tariff refunds?]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/why-arent-american-companies-passing-on-tariff-refunds/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-arent-american-companies-passing-on-tariff-refunds/?edition=us</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 14:57:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Elbridge Colby’s NATO warning shots will backfire]]></title>
             <description><![CDATA[Colby's conundrum]]></description>
@@ -4007,14 +4015,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</guid>
             <dc:creator><![CDATA[Lachlan Cartwright]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 05:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FIFA aren’t the only ones to blame for rip-off World Cup ticket prices]]></title>
-            <description><![CDATA[By Sam McPhail]]></description>
-            <link>https://spectator.com/article/fifa-arent-the-only-ones-to-blame-for-rip-off-world-cup-ticket-prices/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/fifa-arent-the-only-ones-to-blame-for-rip-off-world-cup-ticket-prices/?edition=us</guid>
-            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 20:13:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

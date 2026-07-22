@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 12:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 14:57:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 12:25:19 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 14:57:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Inside the Green party’s defence battle]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/inside-the-greens-defence-battle/</link>
+            <guid isPermaLink="true">https://spectator.com/article/inside-the-greens-defence-battle/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 14:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham’s AI shakeup is a shambles]]></title>
+            <description><![CDATA[Tech policy]]></description>
+            <link>https://spectator.com/article/burnhams-ai-shakeup-is-a-shambles/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-ai-shakeup-is-a-shambles/</guid>
+            <dc:creator><![CDATA[Ed Vaizey]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 14:57:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham’s policy blitz backfires]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -50,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[The new Energy Secretary hates North Sea oil]]></title>
-            <description><![CDATA[By John Power]]></description>
+            <description><![CDATA[Reality Check]]></description>
             <link>https://spectator.com/article/the-new-energy-secretary-hates-north-sea-oil/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-new-energy-secretary-hates-north-sea-oil/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
@@ -90,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Louise Haigh will always remain a ‘convicted fraudster’]]></title>
-            <description><![CDATA[By David Shipley]]></description>
+            <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/louise-haigh-will-always-remain-a-convicted-fraudster/</link>
             <guid isPermaLink="true">https://spectator.com/article/louise-haigh-will-always-remain-a-convicted-fraudster/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
@@ -106,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Has Miatta Fahnbulleh learned her lesson on net zero?]]></title>
-            <description><![CDATA[Energy]]></description>
+            <description><![CDATA[By Ross Clark]]></description>
             <link>https://spectator.com/article/has-miatta-fahnbulleh-learned-her-lesson-on-net-zero/</link>
             <guid isPermaLink="true">https://spectator.com/article/has-miatta-fahnbulleh-learned-her-lesson-on-net-zero/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -138,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[Is Zelensky more focused on his survival than Ukraine’s victory?]]></title>
-            <description><![CDATA[War]]></description>
+            <description><![CDATA[By Owen Matthews]]></description>
             <link>https://spectator.com/article/is-zelensky-more-focused-on-his-survival-than-ukraines-victory/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-zelensky-more-focused-on-his-survival-than-ukraines-victory/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -4014,22 +4030,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/italy-is-misunderstood/</link>
             <guid isPermaLink="true">https://spectator.com/article/italy-is-misunderstood/</guid>
             <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 04:11:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Longevity is not the meaning of life]]></title>
-            <description><![CDATA[By Zak Asgard]]></description>
-            <link>https://spectator.com/article/longevity-is-not-the-meaning-of-life/</link>
-            <guid isPermaLink="true">https://spectator.com/article/longevity-is-not-the-meaning-of-life/</guid>
-            <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 04:11:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Love is easier in a warm climate]]></title>
-            <description><![CDATA[By Andrew Watts]]></description>
-            <link>https://spectator.com/article/love-is-easier-in-a-warm-climate/</link>
-            <guid isPermaLink="true">https://spectator.com/article/love-is-easier-in-a-warm-climate/</guid>
-            <dc:creator><![CDATA[Andrew Watts]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 04:11:17 GMT</pubDate>
         </item>
     </channel>

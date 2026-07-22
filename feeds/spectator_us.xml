@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 16:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 18:02:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 16:17:54 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 18:02:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Energy investor that bailed on Britain IPOs for $230 million]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/energy-investor-bailed-britain-ipos-230-million-samos-oil/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/energy-investor-bailed-britain-ipos-230-million-samos-oil/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 18:02:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why aren’t American companies passing on tariff refunds?]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
@@ -4007,14 +4015,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/are-we-allowed-to-feel-angry-yet/?edition=us</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 10:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I crashed Rupert Murdoch’s birthday party]]></title>
-            <description><![CDATA[By Lachlan Cartwright]]></description>
-            <link>https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</guid>
-            <dc:creator><![CDATA[Lachlan Cartwright]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 05:22:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

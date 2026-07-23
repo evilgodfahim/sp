@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 01:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 05:20:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 01:57:00 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 05:20:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The problem with the Widdecombe suspect’s ‘fair trial’]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/the-problem-with-the-widdecombe-suspects-fair-trial/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-the-widdecombe-suspects-fair-trial/</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 05:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham is already drifting towards defeat]]></title>
+            <description><![CDATA[By The Spectator]]></description>
+            <link>https://spectator.com/article/burnham-is-already-drifting-towards-defeat/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-is-already-drifting-towards-defeat/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 05:20:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Victorian Hieronymus Bosch]]></title>
             <description><![CDATA[By Hermione Eyre]]></description>
@@ -4028,22 +4044,6 @@ Yet no similar scrutiny is applied to a far bigger lobbying effort – the conce
             <link>https://spectator.com/article/the-fuss-over-gay-conversion-therapy-is-a-charade/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-fuss-over-gay-conversion-therapy-is-a-charade/</guid>
             <dc:creator><![CDATA[Lara Brown]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 02:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about how the British Empire is taught in schools]]></title>
-            <description><![CDATA[By Max Jeffery]]></description>
-            <link>https://spectator.com/article/the-truth-about-how-the-british-empire-is-taught-in-schools/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-how-the-british-empire-is-taught-in-schools/</guid>
-            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 02:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to rescue English cricket]]></title>
-            <description><![CDATA[By Patrick Kidd]]></description>
-            <link>https://spectator.com/article/how-to-rescue-english-cricket/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-rescue-english-cricket/</guid>
-            <dc:creator><![CDATA[Patrick Kidd]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 02:29:20 GMT</pubDate>
         </item>
     </channel>

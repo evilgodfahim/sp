@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 15:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 17:10:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 15:48:03 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 17:10:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did James Patterson and MrBeast really write their book?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/did-james-patterson-and-mrbeast-really-write-their-book/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-james-patterson-and-mrbeast-really-write-their-book/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 17:10:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why woke culture wants you to be fat]]></title>
             <description><![CDATA[By Teresa Mull]]></description>
@@ -4007,14 +4015,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/sorry-twitter-susan-collins-can-win/?edition=us</guid>
             <dc:creator><![CDATA[Caroline McCarthy]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 02:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is it mainly loyalists rioting in Belfast?]]></title>
-            <description><![CDATA[By Andrew McQuillan]]></description>
-            <link>https://spectator.com/article/why-is-it-mainly-loyalists-rioting-in-belfast/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-is-it-mainly-loyalists-rioting-in-belfast/?edition=us</guid>
-            <dc:creator><![CDATA[Andrew McQuillan]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 21:13:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

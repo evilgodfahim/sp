@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 13:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 15:48:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 13:26:29 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 15:48:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[There’s nothing stopping Gary Lineker from paying more tax]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/theres-nothing-stopping-gary-lineker-from-paying-more-tax/</link>
+            <guid isPermaLink="true">https://spectator.com/article/theres-nothing-stopping-gary-lineker-from-paying-more-tax/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 15:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Farage’s car crash heckler]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-farages-car-crash-heckler/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-farages-car-crash-heckler/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 15:48:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jameela Jamil’s Brit bashing is embarrassingly out of date]]></title>
             <description><![CDATA[By Brendan O’Neill]]></description>
@@ -4010,22 +4026,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <link>https://spectator.com/article/after-26-years-its-farewell-to-wild-life/</link>
             <guid isPermaLink="true">https://spectator.com/article/after-26-years-its-farewell-to-wild-life/</guid>
             <dc:creator><![CDATA[Aidan Hartley]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about how the British Empire is taught in schools]]></title>
-            <description><![CDATA[Imperial measurements]]></description>
-            <link>https://spectator.com/article/the-truth-about-how-the-british-empire-is-taught-in-schools/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-how-the-british-empire-is-taught-in-schools/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the last original punk still playing punk]]></title>
-            <description><![CDATA[Music]]></description>
-            <link>https://spectator.com/article/meet-the-last-original-punk-still-playing-punk/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/meet-the-last-original-punk-still-playing-punk/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
         </item>
     </channel>

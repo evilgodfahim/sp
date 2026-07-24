@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 18:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 20:11:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 18:11:53 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 20:11:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Andy Burnham’s centrist act isn’t fooling anyone]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/andy-burnhams-centrist-act-isnt-fooling-anyone/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-centrist-act-isnt-fooling-anyone/?edition=us</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 20:11:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Lammy’s wife used Obama library opening to hawk her paintings]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/david-lammy-wife-nicola-green-obama-library-hawk-paintings-cockburn-diary-07-24-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/david-lammy-wife-nicola-green-obama-library-hawk-paintings-cockburn-diary-07-24-26/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 20:11:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mr. Burnham, put on a suit and tie]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/put-on-a-suit-and-tie-prime-minister/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/put-on-a-suit-and-tie-prime-minister/?edition=us</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 20:11:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How has Tower Hamlets really spent my council tax?]]></title>
+            <description><![CDATA[By Lloyd Evans]]></description>
+            <link>https://spectator.com/article/how-has-tower-hamlets-really-spent-my-council-tax/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-has-tower-hamlets-really-spent-my-council-tax/?edition=us</guid>
+            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 20:11:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Confessions II gets thrillingly close to vintage Madonna]]></title>
             <description><![CDATA[Pop]]></description>
@@ -3991,38 +4023,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/iphones-became-birth-control/?edition=us</guid>
             <dc:creator><![CDATA[Freya India]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 02:34:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I’m increasingly drawn to optimistic sci-fi]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/why-im-increasingly-drawn-to-optimistic-sci-fi/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-im-increasingly-drawn-to-optimistic-sci-fi/?edition=us</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 19:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Reform see off the threat from Restore?]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/can-reform-see-off-the-threat-from-restore/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-reform-see-off-the-threat-from-restore/?edition=us</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 19:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The importance of fairy tales in testing times]]></title>
-            <description><![CDATA[By Elizabeth Garner]]></description>
-            <link>https://spectator.com/article/the-importance-of-fairy-tales-in-testing-times/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-importance-of-fairy-tales-in-testing-times/?edition=us</guid>
-            <dc:creator><![CDATA[Elizabeth Garner]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 19:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I identify with Daenerys Targaryen before she went mad’: an interview with Kemi Badenoch]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/rupert-lowe-turns-up-for-work-nigel-farage-doesnt-an-interview-with-kemi-badenoch/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/rupert-lowe-turns-up-for-work-nigel-farage-doesnt-an-interview-with-kemi-badenoch/?edition=us</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 19:55:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

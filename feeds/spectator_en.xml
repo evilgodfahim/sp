@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 14:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 18:12:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 14:45:55 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 18:12:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Voters are buying what Burnham is selling]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/exclusive-poll-voters-are-buying-what-burnham-is-selling/</link>
+            <guid isPermaLink="true">https://spectator.com/article/exclusive-poll-voters-are-buying-what-burnham-is-selling/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 18:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Axel Rudakubana playing the system?]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/is-axel-rudakubana-playing-the-system/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-axel-rudakubana-playing-the-system/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 18:11:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The radical left-wing takeover of the Democrats is nearly complete]]></title>
             <description><![CDATA[By Freddy Gray]]></description>
@@ -4021,22 +4037,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/trumps-america-is-losing-its-mojo/</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Sarah Pochin shares emotional adoption story]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-sarah-pochin-shares-emotional-adoption-story/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-sarah-pochin-shares-emotional-adoption-story/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 09:50:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The problem with Burnham’s ‘cost of living populism’]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/the-problem-with-burnhams-cost-of-living-populism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-burnhams-cost-of-living-populism/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 09:50:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

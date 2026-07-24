@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 23:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 01:52:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 23:53:28 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 01:52:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why I’m not celebrating Andy Burnham’s northern cabal]]></title>
+            <description><![CDATA[By Angela Epstein]]></description>
+            <link>https://spectator.com/article/why-im-not-celebrating-andy-burnhams-northern-cabal/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-im-not-celebrating-andy-burnhams-northern-cabal/</guid>
+            <dc:creator><![CDATA[Angela Epstein]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 01:52:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[There’s nothing stopping Gary Lineker from paying more tax]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
@@ -4019,14 +4027,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/why-is-giorgia-meloni-courting-emmanuel-macron/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 09:53:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After 26 years, it’s farewell to Wild Life]]></title>
-            <description><![CDATA[By Aidan Hartley]]></description>
-            <link>https://spectator.com/article/after-26-years-its-farewell-to-wild-life/</link>
-            <guid isPermaLink="true">https://spectator.com/article/after-26-years-its-farewell-to-wild-life/</guid>
-            <dc:creator><![CDATA[Aidan Hartley]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 06:32:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

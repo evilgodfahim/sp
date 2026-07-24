@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 08:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 10:55:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 08:09:24 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 10:55:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The strange relationship between Qatar and the ICC]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/whats-going-on-with-qatar-and-the-icc/</link>
+            <guid isPermaLink="true">https://spectator.com/article/whats-going-on-with-qatar-and-the-icc/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 10:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greater Manchester Police has disgraced itself]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/greater-manchester-police-has-disgraced-itself/</link>
+            <guid isPermaLink="true">https://spectator.com/article/greater-manchester-police-has-disgraced-itself/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 10:55:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Three bets for Ascot’s big card tomorrow]]></title>
             <description><![CDATA[Both favourites in the two major races at Ascot tomorrow are going to take a lot of beating if running up to their best form. At the odds on offer, however, neither makes any appeal as a good bet but it is no easy task finding a horse to beat them.
@@ -73,11 +89,11 @@ However, odds of no bigger than 13-8 look skinny enough given the quality of the
             <pubDate>Fri, 24 Jul 2026 08:09:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When did fighting for Britain become such a fringe idea?]]></title>
-            <description><![CDATA[By Alex Glover]]></description>
+            <title><![CDATA[Who wants to fight for Britain now?]]></title>
+            <description><![CDATA[By Alexander Glover]]></description>
             <link>https://spectator.com/article/when-did-fighting-for-britain-become-such-a-fringe-idea/</link>
             <guid isPermaLink="true">https://spectator.com/article/when-did-fighting-for-britain-become-such-a-fringe-idea/</guid>
-            <dc:creator><![CDATA[Alex Glover]]></dc:creator>
+            <dc:creator><![CDATA[Alexander Glover]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 08:09:24 GMT</pubDate>
         </item>
         <item>
@@ -4020,22 +4036,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <link>https://spectator.com/article/ive-fallen-in-love-with-creme-caramel/</link>
             <guid isPermaLink="true">https://spectator.com/article/ive-fallen-in-love-with-creme-caramel/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 06:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The fuss over gay conversion therapy is a charade]]></title>
-            <description><![CDATA[By Lara Brown]]></description>
-            <link>https://spectator.com/article/the-fuss-over-gay-conversion-therapy-is-a-charade/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-fuss-over-gay-conversion-therapy-is-a-charade/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Lara Brown]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 06:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make weddings short again]]></title>
-            <description><![CDATA[Marry in haste]]></description>
-            <link>https://spectator.com/article/weddings-should-be-short-and-sweet/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/weddings-should-be-short-and-sweet/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Charlie Baker]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 06:22:45 GMT</pubDate>
         </item>
     </channel>

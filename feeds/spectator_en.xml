@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 00:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 03:14:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 00:00:57 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 03:14:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Britain’s imperial history affects diplomacy today]]></title>
+            <description><![CDATA[By Bethany Elliott]]></description>
+            <link>https://spectator.com/article/how-britains-imperial-history-affects-diplomacy-today/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-britains-imperial-history-affects-diplomacy-today/</guid>
+            <dc:creator><![CDATA[Bethany Elliott]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 03:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The office politics behind Tokyo’s hairy leg panic]]></title>
+            <description><![CDATA[By Philip Patrick]]></description>
+            <link>https://spectator.com/article/the-office-politics-behind-tokyos-hairy-leg-panic/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-office-politics-behind-tokyos-hairy-leg-panic/</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 03:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Voters are buying what Burnham is selling]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -4020,22 +4036,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <link>https://spectator.com/article/the-nhs-should-not-be-rewarding-people-to-walk/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-nhs-should-not-be-rewarding-people-to-walk/</guid>
             <dc:creator><![CDATA[Matthew Bowles]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 12:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will a VAT cut save our restaurants?]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
-            <link>https://spectator.com/article/will-a-vat-cut-save-hospitality/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-a-vat-cut-save-hospitality/</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 12:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s America is losing its mojo]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trumps-america-is-losing-its-mojo/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-america-is-losing-its-mojo/</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:01:39 GMT</pubDate>
         </item>
     </channel>

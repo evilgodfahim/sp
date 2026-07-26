@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 23:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 01:55:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 23:52:34 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 01:55:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Catholic Church has turned on the faithful]]></title>
+            <description><![CDATA[By Jane Stannus]]></description>
+            <link>https://spectator.com/article/the-catholic-church-has-turned-on-the-faithful/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-catholic-church-has-turned-on-the-faithful/?edition=us</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 01:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Goy’ and ‘goyim’ are not pejorative terms]]></title>
+            <description><![CDATA[By Alan Dershowitz]]></description>
+            <link>https://spectator.com/article/goy-goyim-pejorative-terms/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/goy-goyim-pejorative-terms/?edition=us</guid>
+            <dc:creator><![CDATA[Alan Dershowitz]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 01:55:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The media will miss Trump when he’s gone]]></title>
             <description><![CDATA[By Jacob Heilbrunn]]></description>
@@ -4007,22 +4023,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/is-your-therapist-trying-to-brainwash-you/?edition=us</guid>
             <dc:creator><![CDATA[Robin Atkins]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 08:37:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Trump’s birthday extravaganza his last hurrah?]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trumps-birthday-extravaganza-is-his-last-hurrah/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-birthday-extravaganza-is-his-last-hurrah/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 08:37:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arcade Fire extinguished]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/arcade-fire-extinguished/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/arcade-fire-extinguished/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 04:25:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

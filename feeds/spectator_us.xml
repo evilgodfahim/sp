@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 01:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 05:24:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 01:55:37 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 05:24:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[George ‘R&R’ Martin takes it easy]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/george-r-r-martin-takes-it-easy-knight-seven-kingdoms/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/george-r-r-martin-takes-it-easy-knight-seven-kingdoms/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 05:24:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Catholic Church has turned on the faithful]]></title>
             <description><![CDATA[By Jane Stannus]]></description>
@@ -4015,14 +4023,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <guid isPermaLink="true">https://spectator.com/article/trumps-birthday-ufc-fight-is-a-seminal-moment-in-us-politics/?edition=us</guid>
             <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 13:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is your therapist trying to brainwash you?]]></title>
-            <description><![CDATA[By Robin Atkins]]></description>
-            <link>https://spectator.com/article/is-your-therapist-trying-to-brainwash-you/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-your-therapist-trying-to-brainwash-you/?edition=us</guid>
-            <dc:creator><![CDATA[Robin Atkins]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 08:37:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

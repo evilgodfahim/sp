@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 01:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 05:24:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 01:55:42 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 05:24:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Ghostwriter]]></title>
+            <description><![CDATA[In a pleasant but modest one-and-a-half-bedroom flat in Crouch End, the half bedroom-cum-boxroom boasts a bookshelf that indicates eclectic taste on the part of its owner. Amongst its dozen or so volumes are a score-settling memoir by a disgraced royal lady-in-waiting, petulantly entitled I Also Served, You Know; a revisionist history of WWII written by a television weatherman, called I Wish We Were German; and, most remarkably, a collection of homoerotic sonnets in the Petrarchan style that were privately printed at the behest of the former global finance director at Goldman Sachs.]]></description>
+            <link>https://spectator.com/article/the-ghostwriter/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-ghostwriter/</guid>
+            <dc:creator><![CDATA[Anonymous]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 05:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham is a joke]]></title>
+            <description><![CDATA[By William Atkinson]]></description>
+            <link>https://spectator.com/article/andy-burnham-is-a-joke/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-a-joke/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 05:24:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We sacrifice the humanities at our peril]]></title>
             <description><![CDATA[By Dominic Selwood]]></description>
@@ -4012,22 +4028,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <link>https://spectator.com/article/andy-burnham-is-making-manchester-look-like-a-joke/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-making-manchester-look-like-a-joke/</guid>
             <dc:creator><![CDATA[Angela Epstein]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 02:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Britain reacted to the Declaration of Independence]]></title>
-            <description><![CDATA[By Michael Auslin]]></description>
-            <link>https://spectator.com/article/how-britain-reacted-to-the-declaration-of-independence/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-britain-reacted-to-the-declaration-of-independence/</guid>
-            <dc:creator><![CDATA[Michael Auslin]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 02:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I’d revamp the White House’: An interview with Laurence Llewelyn-Bowen]]></title>
-            <description><![CDATA[By Katie Jenkins]]></description>
-            <link>https://spectator.com/article/id-revamp-the-white-house-an-interview-with-laurence-llewelyn-bowen/</link>
-            <guid isPermaLink="true">https://spectator.com/article/id-revamp-the-white-house-an-interview-with-laurence-llewelyn-bowen/</guid>
-            <dc:creator><![CDATA[Katie Jenkins]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 02:02:24 GMT</pubDate>
         </item>
     </channel>

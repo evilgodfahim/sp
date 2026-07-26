@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 13:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 14:56:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 13:01:27 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 14:56:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[There is nothing surprising about the Berlin pride attack]]></title>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <link>https://spectator.com/article/there-is-nothing-surprising-about-the-berlin-pride-attack/</link>
+            <guid isPermaLink="true">https://spectator.com/article/there-is-nothing-surprising-about-the-berlin-pride-attack/</guid>
+            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 14:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham will struggle to stop the early prisoner releases]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/burnham-will-struggle-to-stop-the-early-prisoner-releases/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-will-struggle-to-stop-the-early-prisoner-releases/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 14:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Andy Burnham really ready to hand power to Reform councils?]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/is-andy-burnham-really-ready-to-hand-power-to-reform-councils/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-andy-burnham-really-ready-to-hand-power-to-reform-councils/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 14:56:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why this wasn’t Italy’s George Floyd moment]]></title>
             <description><![CDATA[By Nicholas Farrell]]></description>
@@ -4004,30 +4028,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <link>https://spectator.com/article/only-bad-parents-will-let-their-kids-skip-school-to-watch-the-england-game/</link>
             <guid isPermaLink="true">https://spectator.com/article/only-bad-parents-will-let-their-kids-skip-school-to-watch-the-england-game/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defence of Masha and the Bear]]></title>
-            <description><![CDATA[By Mark Galeotti]]></description>
-            <link>https://spectator.com/article/in-defence-of-masha-and-the-bear/</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-masha-and-the-bear/</guid>
-            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whitehall isn’t taking tech seriously]]></title>
-            <description><![CDATA[By Arthur Kay.]]></description>
-            <link>https://spectator.com/article/whitehall-isnt-taking-tech-seriously/</link>
-            <guid isPermaLink="true">https://spectator.com/article/whitehall-isnt-taking-tech-seriously/</guid>
-            <dc:creator><![CDATA[Arthur Kay.]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Britain too hot for our pet dogs?]]></title>
-            <description><![CDATA[By Chas Newkey-Burden]]></description>
-            <link>https://spectator.com/article/is-britain-too-hot-for-our-pet-dogs/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-britain-too-hot-for-our-pet-dogs/</guid>
-            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
             <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
         </item>
     </channel>

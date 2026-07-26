@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 11:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 13:01:27 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 11:57:11 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 13:01:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why this wasn’t Italy’s George Floyd moment]]></title>
+            <description><![CDATA[By Nicholas Farrell]]></description>
+            <link>https://spectator.com/article/why-this-wasnt-italys-george-floyd-moment/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-this-wasnt-italys-george-floyd-moment/</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 13:01:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is Ireland lecturing Germany about the Ulm 5 trial?]]></title>
             <description><![CDATA[By Liz Walsh]]></description>
@@ -4021,14 +4029,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/is-britain-too-hot-for-our-pet-dogs/</guid>
             <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
             <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goat is tasty. But don’t force it on me]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
-            <link>https://spectator.com/article/goat-is-tasty-but-dont-force-it-on-me/</link>
-            <guid isPermaLink="true">https://spectator.com/article/goat-is-tasty-but-dont-force-it-on-me/</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 13:02:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

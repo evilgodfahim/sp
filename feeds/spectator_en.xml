@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 16:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 18:18:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 16:08:30 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 18:18:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Burnham’s support for Ukraine is off to a positive start]]></title>
+            <description><![CDATA[By Lisa Haseldine]]></description>
+            <link>https://spectator.com/article/burnhams-support-for-ukraine-is-off-to-a-positive-start/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-support-for-ukraine-is-off-to-a-positive-start/</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 18:18:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham must also tackle the quality of Britain’s social care]]></title>
             <description><![CDATA[By Isabel Hardman]]></description>
@@ -4020,14 +4028,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <link>https://spectator.com/article/germany-is-quietly-falling-apart/</link>
             <guid isPermaLink="true">https://spectator.com/article/germany-is-quietly-falling-apart/</guid>
             <dc:creator><![CDATA[Henry Donovan]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunday shows round-up: Jenrick on Farage allegations: ‘Nothing to see here’]]></title>
-            <description><![CDATA[By Joe Bedell-Brill]]></description>
-            <link>https://spectator.com/article/sunday-shows-round-up-jenrick-on-farage-allegations-nothing-to-see-here/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-jenrick-on-farage-allegations-nothing-to-see-here/</guid>
-            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
         </item>
     </channel>

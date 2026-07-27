@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 06:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 10:33:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 10:33:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Does Burnham think he can get away with calling out Trump?]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/does-burnham-think-he-can-get-away-with-calling-out-trump/</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-burnham-think-he-can-get-away-with-calling-out-trump/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 10:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We should politicise the Berlin pride attack]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/we-should-politicise-the-berlin-pride-attack/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-should-politicise-the-berlin-pride-attack/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 10:33:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The wolves are at my door]]></title>
             <description><![CDATA[Dolce Vita]]></description>
@@ -17,7 +33,7 @@
             <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Macron could’ve done more to stop the Bordeaux fires]]></title>
+            <title><![CDATA[Macron could have done more to stop the Bordeaux fires]]></title>
             <description><![CDATA[In hot water]]></description>
             <link>https://spectator.com/article/macron-couldve-done-more-to-stop-the-bordeaux-fires/</link>
             <guid isPermaLink="true">https://spectator.com/article/macron-couldve-done-more-to-stop-the-bordeaux-fires/</guid>
@@ -90,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Should we let women out of jail?]]></title>
-            <description><![CDATA[By David Shipley]]></description>
+            <description><![CDATA[Justice]]></description>
             <link>https://spectator.com/article/should-we-let-women-out-of-jail/</link>
             <guid isPermaLink="true">https://spectator.com/article/should-we-let-women-out-of-jail/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
@@ -186,7 +202,7 @@
         </item>
         <item>
             <title><![CDATA[Andy Burnham is a joke]]></title>
-            <description><![CDATA[Slug and Lettuce]]></description>
+            <description><![CDATA[By William Atkinson]]></description>
             <link>https://spectator.com/article/andy-burnham-is-a-joke/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-a-joke/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
@@ -4013,22 +4029,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/the-conspiracy-of-silence-surrounding-the-nord-stream-bombings/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
             <pubDate>Sun, 05 Jul 2026 15:06:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jenrick on Farage allegations: ‘Nothing to see here’]]></title>
-            <description><![CDATA[Sunday shows round-up]]></description>
-            <link>https://spectator.com/article/sunday-shows-round-up-jenrick-on-farage-allegations-nothing-to-see-here/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-jenrick-on-farage-allegations-nothing-to-see-here/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 13:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about Mexico’s record at the Azteca stadium]]></title>
-            <description><![CDATA[By Sam McPhail]]></description>
-            <link>https://spectator.com/article/the-truth-about-mexicos-record-at-the-azteca-stadium/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-mexicos-record-at-the-azteca-stadium/</guid>
-            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 13:11:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

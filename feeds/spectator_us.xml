@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 13:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 16:08:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 13:32:52 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 16:08:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[There’s only one reason Meghan Markle went on MasterChef Australia]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/theres-only-one-reason-meghan-went-on-masterchef-australia/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/theres-only-one-reason-meghan-went-on-masterchef-australia/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 16:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We should politicize the Berlin Pride attack]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/we-should-politicise-the-berlin-pride-attack/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-should-politicise-the-berlin-pride-attack/?edition=us</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 16:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The movie industry is broken]]></title>
+            <description><![CDATA[By Peachy Keenan]]></description>
+            <link>https://spectator.com/article/hollywood-ending-movie-industry-broken/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/hollywood-ending-movie-industry-broken/?edition=us</guid>
+            <dc:creator><![CDATA[Peachy Keenan]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 16:08:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The grid cannot cope with the rise in data centers]]></title>
             <description><![CDATA[By Kabir Singh Bawa]]></description>
@@ -3998,30 +4022,6 @@ There was one reason above all others why Trump returned to the White House in 2
             <link>https://spectator.com/article/spencer-pratt-karen-bass-brother-sue-mayor-negligence-fires/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/spencer-pratt-karen-bass-brother-sue-mayor-negligence-fires/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 17:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa’s migration warning to the West]]></title>
-            <description><![CDATA[By Robert King]]></description>
-            <link>https://spectator.com/article/south-africas-migration-warning-to-the-west/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/south-africas-migration-warning-to-the-west/?edition=us</guid>
-            <dc:creator><![CDATA[Robert King]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 17:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many people did Australia’s backpacker murderer kill?]]></title>
-            <description><![CDATA[By Terry Barnes]]></description>
-            <link>https://spectator.com/article/how-many-people-did-australias-backpacker-murderer-kill/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-many-people-did-australias-backpacker-murderer-kill/?edition=us</guid>
-            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 17:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Keir Starmer’s under-16 social media ban actually work?]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
-            <link>https://spectator.com/article/will-starmers-under-16-social-media-ban-actually-work/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-starmers-under-16-social-media-ban-actually-work/?edition=us</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
             <pubDate>Mon, 15 Jun 2026 17:58:33 GMT</pubDate>
         </item>
     </channel>

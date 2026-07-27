@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 23:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 02:04:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 23:53:32 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 02:04:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Germany is still in denial about the Berlin terror attack]]></title>
+            <description><![CDATA[By Elisabeth Dampier]]></description>
+            <link>https://spectator.com/article/germany-is-still-in-denial-about-the-berlin-terror-attack/</link>
+            <guid isPermaLink="true">https://spectator.com/article/germany-is-still-in-denial-about-the-berlin-terror-attack/</guid>
+            <dc:creator><![CDATA[Elisabeth Dampier]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 02:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should we let women out of jail?]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/should-we-let-women-out-of-jail/</link>
+            <guid isPermaLink="true">https://spectator.com/article/should-we-let-women-out-of-jail/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 02:04:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[There is nothing surprising about the Berlin pride attack]]></title>
             <description><![CDATA[By Jonathan Sacerdoti]]></description>
@@ -4013,22 +4029,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/the-rise-of-autobesity/</guid>
             <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
             <pubDate>Sun, 05 Jul 2026 06:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make weddings short again]]></title>
-            <description><![CDATA[By Charlie Baker]]></description>
-            <link>https://spectator.com/article/weddings-should-be-short-and-sweet/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/weddings-should-be-short-and-sweet/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Charlie Baker]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 06:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Only bad parents will let their kids skip school after the England game]]></title>
-            <description><![CDATA[Football]]></description>
-            <link>https://spectator.com/article/only-bad-parents-will-let-their-kids-skip-school-to-watch-the-england-game/</link>
-            <guid isPermaLink="true">https://spectator.com/article/only-bad-parents-will-let-their-kids-skip-school-to-watch-the-england-game/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 02:10:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

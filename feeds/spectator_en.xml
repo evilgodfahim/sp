@@ -4,13 +4,85 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 02:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 06:18:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 02:04:07 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The wolves are at my door]]></title>
+            <description><![CDATA[Dolce Vita]]></description>
+            <link>https://spectator.com/article/the-wolves-are-at-my-door/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-wolves-are-at-my-door/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Macron could’ve done more to stop the Bordeaux fires]]></title>
+            <description><![CDATA[In hot water]]></description>
+            <link>https://spectator.com/article/macron-couldve-done-more-to-stop-the-bordeaux-fires/</link>
+            <guid isPermaLink="true">https://spectator.com/article/macron-couldve-done-more-to-stop-the-bordeaux-fires/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why spiders deserve our respect, not fear or disgust]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/why-spiders-deserve-our-respect-not-fear-or-disgust/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-spiders-deserve-our-respect-not-fear-or-disgust/</guid>
+            <dc:creator><![CDATA[Bryan Appleyard]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The wolves are at my door]]></title>
+            <description><![CDATA[Dolce Vita]]></description>
+            <link>https://spectator.com/article/the-wolves-are-at-my-door/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-wolves-are-at-my-door/</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The horror of a French heatwave]]></title>
+            <description><![CDATA[Canicule]]></description>
+            <link>https://spectator.com/article/the-horror-of-a-french-heatwave/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-horror-of-a-french-heatwave/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[YouTube is destroying childhood]]></title>
+            <description><![CDATA[Buffering]]></description>
+            <link>https://spectator.com/article/youtube-is-destroying-childhood/</link>
+            <guid isPermaLink="true">https://spectator.com/article/youtube-is-destroying-childhood/</guid>
+            <dc:creator><![CDATA[Nancy Alsop]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where the super-rich rev their engines]]></title>
+            <description><![CDATA[Vroom]]></description>
+            <link>https://spectator.com/article/where-the-super-rich-rev-their-engines/</link>
+            <guid isPermaLink="true">https://spectator.com/article/where-the-super-rich-rev-their-engines/</guid>
+            <dc:creator><![CDATA[Adam Hay-Nicholls]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why spiders deserve our respect, not fear or disgust]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/why-spiders-deserve-our-respect-not-fear-or-disgust/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-spiders-deserve-our-respect-not-fear-or-disgust/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Bryan Appleyard]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Sound of Music with brains as well as heart]]></title>
+            <description><![CDATA[Opera]]></description>
+            <link>https://spectator.com/article/a-sound-of-music-with-brains-as-well-as-heart/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-sound-of-music-with-brains-as-well-as-heart/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Germany is still in denial about the Berlin terror attack]]></title>
-            <description><![CDATA[By Elisabeth Dampier]]></description>
+            <description><![CDATA[Pride]]></description>
             <link>https://spectator.com/article/germany-is-still-in-denial-about-the-berlin-terror-attack/</link>
             <guid isPermaLink="true">https://spectator.com/article/germany-is-still-in-denial-about-the-berlin-terror-attack/</guid>
             <dc:creator><![CDATA[Elisabeth Dampier]]></dc:creator>
@@ -90,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[I invented Nixonmaxxing]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
+            <description><![CDATA[Fallen idol]]></description>
             <link>https://spectator.com/article/i-invented-nixonmaxxing/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-invented-nixonmaxxing/</guid>
             <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
@@ -106,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[The Ghostwriter]]></title>
-            <description><![CDATA[In a pleasant but modest one-and-a-half-bedroom flat in Crouch End, the half bedroom-cum-boxroom boasts a bookshelf that indicates eclectic taste on the part of its owner. Amongst its dozen or so volumes are a score-settling memoir by a disgraced royal lady-in-waiting, petulantly entitled I Also Served, You Know; a revisionist history of WWII written by a television weatherman, called I Wish We Were German; and, most remarkably, a collection of homoerotic sonnets in the Petrarchan style that were privately printed at the behest of the former global finance director at Goldman Sachs.]]></description>
+            <description><![CDATA[By Anonymous]]></description>
             <link>https://spectator.com/article/the-ghostwriter/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-ghostwriter/</guid>
             <dc:creator><![CDATA[Anonymous]]></dc:creator>
@@ -114,7 +186,7 @@
         </item>
         <item>
             <title><![CDATA[Andy Burnham is a joke]]></title>
-            <description><![CDATA[By William Atkinson]]></description>
+            <description><![CDATA[Slug and Lettuce]]></description>
             <link>https://spectator.com/article/andy-burnham-is-a-joke/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-a-joke/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
@@ -610,7 +682,7 @@
         </item>
         <item>
             <title><![CDATA[A Sound of Music with brains as well as heart]]></title>
-            <description><![CDATA[If you’re interested in how words work with music, the collected lyrics of Stephen Sondheim are an investment you’ll never regret. But Sondheim isn’t infallible, and when he writes about his mentor Oscar Hammerstein II he’s often plain wrong. Sondheim mocks one particular lyric from The Sound of Music: ‘Like a lark that is learning to pray.’ ‘Wait a minute – a lark praying?’ he snarks. But the character who sings those words is a devout young Austrian woman with a head full of Schubert and folksongs. Hammerstein is writing as Maria, not himself. It’s an art that Sondheim never quite mastered, which is why his characters – whether Swedish aristocrats or East End cannibals – all sound like New Yorkers in therapy.]]></description>
+            <description><![CDATA[Opera]]></description>
             <link>https://spectator.com/article/a-sound-of-music-with-brains-as-well-as-heart/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-sound-of-music-with-brains-as-well-as-heart/</guid>
             <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
@@ -3957,78 +4029,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/the-truth-about-mexicos-record-at-the-azteca-stadium/</guid>
             <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
             <pubDate>Sun, 05 Jul 2026 13:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defence of Masha and the Bear]]></title>
-            <description><![CDATA[From Russia, with love?]]></description>
-            <link>https://spectator.com/article/in-defence-of-masha-and-the-bear/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-masha-and-the-bear/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 13:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about Mexico’s record at the Azteca stadium]]></title>
-            <description><![CDATA[Reality Check]]></description>
-            <link>https://spectator.com/article/the-truth-about-mexicos-record-at-the-azteca-stadium/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-mexicos-record-at-the-azteca-stadium/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The trouble with Andy Burnham’s water nationalisation plan]]></title>
-            <description><![CDATA[By Maxwell Marlow]]></description>
-            <link>https://spectator.com/article/the-trouble-with-andy-burnhams-water-nationalisation-plan/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-trouble-with-andy-burnhams-water-nationalisation-plan/</guid>
-            <dc:creator><![CDATA[Maxwell Marlow]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What should Paris do about Hamza?]]></title>
-            <description><![CDATA[By Matthew Fraser]]></description>
-            <link>https://spectator.com/article/what-should-paris-do-about-hamza/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-should-paris-do-about-hamza/</guid>
-            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 06:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Would Oxford still open its doors to a poor, white boy like me?]]></title>
-            <description><![CDATA[The death of DEI]]></description>
-            <link>https://spectator.com/article/would-oxford-still-open-its-doors-to-a-poor-white-boy-like-me/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/would-oxford-still-open-its-doors-to-a-poor-white-boy-like-me/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 06:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What should Paris do about Hamza?]]></title>
-            <description><![CDATA[Le gavroche]]></description>
-            <link>https://spectator.com/article/what-should-paris-do-about-hamza/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-should-paris-do-about-hamza/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 06:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Britain too hot for our pet dogs?]]></title>
-            <description><![CDATA[Heatwave]]></description>
-            <link>https://spectator.com/article/is-britain-too-hot-for-our-pet-dogs/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-britain-too-hot-for-our-pet-dogs/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 06:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham is more like Boris than you think]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
-            <link>https://spectator.com/article/burnham-is-more-like-boris-than-you-think/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-is-more-like-boris-than-you-think/</guid>
-            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 06:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of ‘autobesity’]]></title>
-            <description><![CDATA[By Simon Heptinstall]]></description>
-            <link>https://spectator.com/article/the-rise-of-autobesity/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-autobesity/</guid>
-            <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 06:32:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

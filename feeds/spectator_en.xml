@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 05:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 08:16:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 08:16:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Europe is under attack]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/europe-is-under-attack/</link>
+            <guid isPermaLink="true">https://spectator.com/article/europe-is-under-attack/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 08:16:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘Burnham bounce’ surely won’t last]]></title>
+            <description><![CDATA[Polling high]]></description>
+            <link>https://spectator.com/article/the-burnham-bounce-surely-wont-last/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-burnham-bounce-surely-wont-last/</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 08:16:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has Gianni Infantino lost the plot?]]></title>
+            <description><![CDATA[Fifa screed]]></description>
+            <link>https://spectator.com/article/has-gianni-infantino-lost-the-plot/</link>
+            <guid isPermaLink="true">https://spectator.com/article/has-gianni-infantino-lost-the-plot/</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 08:16:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will my French guests get revenge for Agincourt?]]></title>
             <description><![CDATA[Real life]]></description>
@@ -90,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham must also tackle the quality of Britain’s social care]]></title>
-            <description><![CDATA[National Care Service]]></description>
+            <description><![CDATA[By Isabel Hardman]]></description>
             <link>https://spectator.com/article/burnham-must-also-tackle-the-quality-of-britains-social-care/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-must-also-tackle-the-quality-of-britains-social-care/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -98,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham welcomes the hard-left into government]]></title>
-            <description><![CDATA[Socialist Campaign Group]]></description>
+            <description><![CDATA[By Noa Hoffman]]></description>
             <link>https://spectator.com/article/burnham-welcomes-the-far-left-into-government/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-welcomes-the-far-left-into-government/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
@@ -4005,30 +4029,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/i-keep-being-fooled-by-ripen-at-home/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 07:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about the French drownings]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/the-real-reason-french-swimmers-keep-drowning/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-french-swimmers-keep-drowning/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 07:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The day the bishop hit me in the face]]></title>
-            <description><![CDATA[No life]]></description>
-            <link>https://spectator.com/article/the-day-the-bishop-hit-me-in-the-face/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-day-the-bishop-hit-me-in-the-face/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 07:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The shame of Pride]]></title>
-            <description><![CDATA[Anti-Semitism]]></description>
-            <link>https://spectator.com/article/the-shame-of-pride/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-shame-of-pride/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 03:35:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

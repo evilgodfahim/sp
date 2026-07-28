@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 13:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 15:58:47 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 13:42:03 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 15:58:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spain’s response to wildfires has been infuriating]]></title>
+            <description><![CDATA[By Jim Lawley]]></description>
+            <link>https://spectator.com/article/spains-response-to-wildfires-has-been-infuriating/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/spains-response-to-wildfires-has-been-infuriating/?edition=us</guid>
+            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 15:58:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Macron and his diplomats can’t help talking down Americans]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/macron-and-his-diplomats-cant-help-talking-down-americans/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/macron-and-his-diplomats-cant-help-talking-down-americans/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 15:58:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Celebrating American independence… in Cuba]]></title>
             <description><![CDATA[By Ruaridh Nicoll]]></description>
@@ -3994,22 +4010,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/michelle-terry-is-ferocious-in-brechts-simplistic-tutorial/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/michelle-terry-is-ferocious-in-brechts-simplistic-tutorial/?edition=us</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 17:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The art of resurrecting forgotten artists]]></title>
-            <description><![CDATA[By Robin Simon]]></description>
-            <link>https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/?edition=us</guid>
-            <dc:creator><![CDATA[Robin Simon]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 17:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will robots simply bore us to extinction?]]></title>
-            <description><![CDATA[By Christopher Webb]]></description>
-            <link>https://spectator.com/article/will-robots-simply-bore-us-to-extinction/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-robots-simply-bore-us-to-extinction/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Webb]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 17:55:28 GMT</pubDate>
         </item>
     </channel>

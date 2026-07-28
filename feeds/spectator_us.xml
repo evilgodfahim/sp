@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 17:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 19:09:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 17:27:04 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 19:09:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My night searching for Lindsey Graham]]></title>
+            <description><![CDATA[By Nate Hanrahan]]></description>
+            <link>https://spectator.com/article/my-night-searching-lindsey-graham/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-night-searching-lindsey-graham/?edition=us</guid>
+            <dc:creator><![CDATA[Nate Hanrahan]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 19:09:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spain’s response to wildfires has been infuriating]]></title>
             <description><![CDATA[By Jim Lawley]]></description>
@@ -4002,14 +4010,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/bond-makes-a-great-video-game/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/bond-makes-a-great-video-game/?edition=us</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 17:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michelle Terry is ferocious in Brecht’s simplistic tutorial]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/michelle-terry-is-ferocious-in-brechts-simplistic-tutorial/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/michelle-terry-is-ferocious-in-brechts-simplistic-tutorial/?edition=us</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 17:55:28 GMT</pubDate>
         </item>
     </channel>

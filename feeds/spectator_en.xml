@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 11:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 13:42:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 11:09:50 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 13:42:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reform shouldn’t have reported Polanski to the police]]></title>
+            <description><![CDATA[By Tom Slater]]></description>
+            <link>https://spectator.com/article/reform-shouldnt-have-reported-polanski-to-the-police/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reform-shouldnt-have-reported-polanski-to-the-police/</guid>
+            <dc:creator><![CDATA[Tom Slater]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 13:42:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: French warship fires warning shots near Chris Philp in Channel]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4020,14 +4028,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <link>https://spectator.com/article/labours-tinpot-free-speech-crackdown/</link>
             <guid isPermaLink="true">https://spectator.com/article/labours-tinpot-free-speech-crackdown/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 07:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Nato summit will be Starmer’s final humiliation]]></title>
-            <description><![CDATA[Ankara]]></description>
-            <link>https://spectator.com/article/this-nato-summit-will-be-starmers-final-humiliation/</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-nato-summit-will-be-starmers-final-humiliation/</guid>
-            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 07:30:00 GMT</pubDate>
         </item>
     </channel>

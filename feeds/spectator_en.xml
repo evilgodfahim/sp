@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 02:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 05:38:59 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 02:35:47 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will my French guests get revenge for Agincourt?]]></title>
+            <description><![CDATA[Real life]]></description>
+            <link>https://spectator.com/article/will-my-french-guests-get-revenge-for-agincourt/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-my-french-guests-get-revenge-for-agincourt/</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Mum went marching with the EDL]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/when-mum-went-marching-with-the-edl/</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-mum-went-marching-with-the-edl/</guid>
+            <dc:creator><![CDATA[Elisa Segrave]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What on earth would you cook for Meghan?]]></title>
+            <description><![CDATA[Hell's Kitchen]]></description>
+            <link>https://spectator.com/article/what-would-you-ever-want-to-cook-for-meghan/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-would-you-ever-want-to-cook-for-meghan/</guid>
+            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reading isn’t dead]]></title>
+            <description><![CDATA[New chapter]]></description>
+            <link>https://spectator.com/article/reading-isnt-dead/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reading-isnt-dead/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hell is a holiday resort]]></title>
+            <description><![CDATA[Mal voyage]]></description>
+            <link>https://spectator.com/article/hell-is-a-holiday-resort/</link>
+            <guid isPermaLink="true">https://spectator.com/article/hell-is-a-holiday-resort/</guid>
+            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will my French guests get revenge for Agincourt?]]></title>
+            <description><![CDATA[Real life]]></description>
+            <link>https://spectator.com/article/will-my-french-guests-get-revenge-for-agincourt/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-my-french-guests-get-revenge-for-agincourt/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Mum went marching with the EDL]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/when-mum-went-marching-with-the-edl/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-mum-went-marching-with-the-edl/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Elisa Segrave]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This J. Edgar Hoover musical is destined for Broadway]]></title>
+            <description><![CDATA[Theatre]]></description>
+            <link>https://spectator.com/article/this-j-edgar-hoover-musical-is-destined-for-broadway/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-j-edgar-hoover-musical-is-destined-for-broadway/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The tragedy of Gary Stevenson]]></title>
             <description><![CDATA[By James Hanson]]></description>
@@ -26,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham must also tackle the quality of Britain’s social care]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
+            <description><![CDATA[National Care Service]]></description>
             <link>https://spectator.com/article/burnham-must-also-tackle-the-quality-of-britains-social-care/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-must-also-tackle-the-quality-of-britains-social-care/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -34,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham welcomes the hard-left into government]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
+            <description><![CDATA[Socialist Campaign Group]]></description>
             <link>https://spectator.com/article/burnham-welcomes-the-far-left-into-government/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-welcomes-the-far-left-into-government/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
@@ -122,7 +186,7 @@
         </item>
         <item>
             <title><![CDATA[We should politicise the Berlin Pride attack]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
+            <description><![CDATA[Terror]]></description>
             <link>https://spectator.com/article/we-should-politicise-the-berlin-pride-attack/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-should-politicise-the-berlin-pride-attack/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -162,7 +226,7 @@
         </item>
         <item>
             <title><![CDATA[The horror of a French heatwave]]></title>
-            <description><![CDATA[Canicule]]></description>
+            <description><![CDATA[By Sean Thomas]]></description>
             <link>https://spectator.com/article/the-horror-of-a-french-heatwave/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-horror-of-a-french-heatwave/</guid>
             <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
@@ -170,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[YouTube is destroying childhood]]></title>
-            <description><![CDATA[Buffering]]></description>
+            <description><![CDATA[By Nancy Alsop]]></description>
             <link>https://spectator.com/article/youtube-is-destroying-childhood/</link>
             <guid isPermaLink="true">https://spectator.com/article/youtube-is-destroying-childhood/</guid>
             <dc:creator><![CDATA[Nancy Alsop]]></dc:creator>
@@ -178,7 +242,7 @@
         </item>
         <item>
             <title><![CDATA[Where the super-rich rev their engines]]></title>
-            <description><![CDATA[Vroom]]></description>
+            <description><![CDATA[By Adam Hay-Nicholls]]></description>
             <link>https://spectator.com/article/where-the-super-rich-rev-their-engines/</link>
             <guid isPermaLink="true">https://spectator.com/article/where-the-super-rich-rev-their-engines/</guid>
             <dc:creator><![CDATA[Adam Hay-Nicholls]]></dc:creator>
@@ -802,7 +866,7 @@
         </item>
         <item>
             <title><![CDATA[A Sound of Music with brains as well as heart]]></title>
-            <description><![CDATA[Opera]]></description>
+            <description><![CDATA[If you’re interested in how words work with music, the collected lyrics of Stephen Sondheim are an investment you’ll never regret. But Sondheim isn’t infallible, and when he writes about his mentor Oscar Hammerstein II he’s often plain wrong. Sondheim mocks one particular lyric from The Sound of Music: ‘Like a lark that is learning to pray.’ ‘Wait a minute – a lark praying?’ he snarks. But the character who sings those words is a devout young Austrian woman with a head full of Schubert and folksongs. Hammerstein is writing as Maria, not himself. It’s an art that Sondheim never quite mastered, which is why his characters – whether Swedish aristocrats or East End cannibals – all sound like New Yorkers in therapy.]]></description>
             <link>https://spectator.com/article/a-sound-of-music-with-brains-as-well-as-heart/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-sound-of-music-with-brains-as-well-as-heart/</guid>
             <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
@@ -842,7 +906,7 @@
         </item>
         <item>
             <title><![CDATA[This J. Edgar Hoover musical is destined for Broadway]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
+            <description><![CDATA[Theatre]]></description>
             <link>https://spectator.com/article/this-j-edgar-hoover-musical-is-destined-for-broadway/</link>
             <guid isPermaLink="true">https://spectator.com/article/this-j-edgar-hoover-musical-is-destined-for-broadway/</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
@@ -3965,70 +4029,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/the-shame-of-pride/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 03:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the conversion therapy bill really worth £783 million?]]></title>
-            <description><![CDATA[By John Armstrong]]></description>
-            <link>https://spectator.com/article/is-the-conversion-therapy-bill-really-worth-783-million/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-conversion-therapy-bill-really-worth-783-million/</guid>
-            <dc:creator><![CDATA[John Armstrong]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 03:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The civil service’s war on expertise]]></title>
-            <description><![CDATA[Mandarin class]]></description>
-            <link>https://spectator.com/article/the-civil-services-war-on-expertise/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-civil-services-war-on-expertise/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 03:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did anyone vet Big Ange’s LBC love-in?]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/did-anyone-vet-big-anges-lbc-love-in/</link>
-            <guid isPermaLink="true">https://spectator.com/article/did-anyone-vet-big-anges-lbc-love-in/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 16:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World Cup has revived American soft power]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/the-world-cup-has-revived-american-soft-power/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-world-cup-has-revived-american-soft-power/</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is this Italian general a threat to Giorgia Meloni?]]></title>
-            <description><![CDATA[By Nicholas Farrell]]></description>
-            <link>https://spectator.com/article/is-this-italian-general-a-threat-to-giorgia-meloni/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-this-italian-general-a-threat-to-giorgia-meloni/</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is any Labour MP brave enough to admit the truth about Andy Burnham?]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
-            <link>https://spectator.com/article/is-any-labour-mp-brave-enough-to-admit-the-truth-about-andy-burnham/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-any-labour-mp-brave-enough-to-admit-the-truth-about-andy-burnham/</guid>
-            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World Cup is evil]]></title>
-            <description><![CDATA[Television]]></description>
-            <link>https://spectator.com/article/the-world-cup-is-evil/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-world-cup-is-evil/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why gays turned against Pride]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/why-gays-turned-against-pride/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-gays-turned-against-pride/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 08:11:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

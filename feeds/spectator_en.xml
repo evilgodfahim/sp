@@ -4,19 +4,61 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 05:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 08:22:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 05:13:06 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 08:22:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What the Saltburn cricket scandal says about the fallibility of man]]></title>
+            <description><![CDATA[Stumped]]></description>
+            <link>https://spectator.com/article/what-the-saltburn-cricket-scandal-says-about-the-fallibility-of-man/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-the-saltburn-cricket-scandal-says-about-the-fallibility-of-man/</guid>
+            <dc:creator><![CDATA[Mike Jakeman]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 08:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cinema is back]]></title>
+            <description><![CDATA[Any other business]]></description>
+            <link>https://spectator.com/article/the-cinema-is-back/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-cinema-is-back/</guid>
+            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 08:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wet Leg have become a proper rock band]]></title>
+            <description><![CDATA[Pop]]></description>
+            <link>https://spectator.com/article/wet-leg-have-become-a-proper-rock-band/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/wet-leg-have-become-a-proper-rock-band/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 08:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A toast to my good health]]></title>
+            <description><![CDATA[Drink]]></description>
+            <link>https://spectator.com/article/a-toast-to-my-good-health/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-toast-to-my-good-health/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Bruce Anderson]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 08:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cinema is back]]></title>
+            <description><![CDATA[Any other business]]></description>
+            <link>https://spectator.com/article/the-cinema-is-back/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-cinema-is-back/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 08:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Patrick Bruel and the death of French seduction]]></title>
+            <description><![CDATA[Exception française]]></description>
+            <link>https://spectator.com/article/patrick-bruel-and-the-death-of-french-seduction/</link>
+            <guid isPermaLink="true">https://spectator.com/article/patrick-bruel-and-the-death-of-french-seduction/</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 08:22:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AI’s come for our carmakers]]></title>
-            <description><![CDATA[During the first half of this year, Chinese carmakers achieved a feat of hyper-production that sounds less like industrial manufacturing and more like a plague of locusts. In just six months, they unveiled 650 new models – an average of four brand-new cars every day. At the same time, on the other side of the Pacific, Elon Musk abandoned Tesla’s car assembly lines. He retooled the entire factory to mass-produce the Optimus humanoid robot.
-
-
-
-
-
-What on earth is happening to the world’s car industry? These two bizarre developments seem to signal the end of the global automotive industry as we know it. The age of spanner-wielding, oily-fingered car worker emerging from under a jacked-up rolling chassis appears to have been vaporised.]]></description>
+            <description><![CDATA[Drive ex machina]]></description>
             <link>https://spectator.com/article/ais-come-for-our-carmakers/</link>
             <guid isPermaLink="true">https://spectator.com/article/ais-come-for-our-carmakers/</guid>
             <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
@@ -24,7 +66,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[Do I need an ‘attachment coach’?]]></title>
-            <description><![CDATA[By Katie Jenkins]]></description>
+            <description><![CDATA[That's amore]]></description>
             <link>https://spectator.com/article/do-i-need-an-attachment-coach/</link>
             <guid isPermaLink="true">https://spectator.com/article/do-i-need-an-attachment-coach/</guid>
             <dc:creator><![CDATA[Katie Jenkins]]></dc:creator>
@@ -32,7 +74,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[Lord’s is better than the Oval]]></title>
-            <description><![CDATA[By Mark Mason]]></description>
+            <description><![CDATA[Bowled over]]></description>
             <link>https://spectator.com/article/lords-is-better-than-the-oval/</link>
             <guid isPermaLink="true">https://spectator.com/article/lords-is-better-than-the-oval/</guid>
             <dc:creator><![CDATA[Mark Mason]]></dc:creator>
@@ -40,7 +82,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[We must learn from Suzy Lamplugh’s death]]></title>
-            <description><![CDATA[By David Shipley]]></description>
+            <description><![CDATA[Early release]]></description>
             <link>https://spectator.com/article/we-must-learn-from-suzy-lamplughs-death/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-must-learn-from-suzy-lamplughs-death/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
@@ -56,7 +98,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[What can Europe expect from America’s ‘Nato 3.0’ review?]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
+            <description><![CDATA[Warpath]]></description>
             <link>https://spectator.com/article/what-can-europe-expect-from-americas-nato-3-0-review/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-can-europe-expect-from-americas-nato-3-0-review/</guid>
             <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
@@ -120,7 +162,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[Europe is under attack]]></title>
-            <description><![CDATA[Paris stabbing]]></description>
+            <description><![CDATA[By Gavin Mortimer]]></description>
             <link>https://spectator.com/article/europe-is-under-attack/</link>
             <guid isPermaLink="true">https://spectator.com/article/europe-is-under-attack/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
@@ -160,7 +202,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[What on earth would you cook for Meghan?]]></title>
-            <description><![CDATA[Hell's Kitchen]]></description>
+            <description><![CDATA[By Julie Bindel]]></description>
             <link>https://spectator.com/article/what-would-you-ever-want-to-cook-for-meghan/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-would-you-ever-want-to-cook-for-meghan/</guid>
             <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
@@ -168,7 +210,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[Reading isn’t dead]]></title>
-            <description><![CDATA[New chapter]]></description>
+            <description><![CDATA[By William Atkinson]]></description>
             <link>https://spectator.com/article/reading-isnt-dead/</link>
             <guid isPermaLink="true">https://spectator.com/article/reading-isnt-dead/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
@@ -176,7 +218,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[Hell is a holiday resort]]></title>
-            <description><![CDATA[Mal voyage]]></description>
+            <description><![CDATA[By Daniel Seifert]]></description>
             <link>https://spectator.com/article/hell-is-a-holiday-resort/</link>
             <guid isPermaLink="true">https://spectator.com/article/hell-is-a-holiday-resort/</guid>
             <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
@@ -1008,7 +1050,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[Wet Leg have become a proper rock band]]></title>
-            <description><![CDATA[By Michael Hann]]></description>
+            <description><![CDATA[Pop]]></description>
             <link>https://spectator.com/article/wet-leg-have-become-a-proper-rock-band/</link>
             <guid isPermaLink="true">https://spectator.com/article/wet-leg-have-become-a-proper-rock-band/</guid>
             <dc:creator><![CDATA[Michael Hann]]></dc:creator>
@@ -1040,7 +1082,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[This J. Edgar Hoover musical is destined for Broadway]]></title>
-            <description><![CDATA[Theatre]]></description>
+            <description><![CDATA[By Lloyd Evans]]></description>
             <link>https://spectator.com/article/this-j-edgar-hoover-musical-is-destined-for-broadway/</link>
             <guid isPermaLink="true">https://spectator.com/article/this-j-edgar-hoover-musical-is-destined-for-broadway/</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
@@ -1056,7 +1098,7 @@ What on earth is happening to the world’s car industry? These two bizarre deve
         </item>
         <item>
             <title><![CDATA[A toast to my good health]]></title>
-            <description><![CDATA[By Bruce Anderson]]></description>
+            <description><![CDATA[Drink]]></description>
             <link>https://spectator.com/article/a-toast-to-my-good-health/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-toast-to-my-good-health/</guid>
             <dc:creator><![CDATA[Bruce Anderson]]></dc:creator>
@@ -3987,54 +4029,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/farage-resigns-to-fight-clacton-by-election/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prince Harry has lost his most high-stakes gamble]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/prince-harry-has-lost-his-most-high-stakes-gamble/</link>
-            <guid isPermaLink="true">https://spectator.com/article/prince-harry-has-lost-his-most-high-stakes-gamble/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 16:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miliband’s heat pump revolution leaves taxpayers in the cold]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/milibands-heat-pump-revolution-leaves-taxpayers-in-the-cold/</link>
-            <guid isPermaLink="true">https://spectator.com/article/milibands-heat-pump-revolution-leaves-taxpayers-in-the-cold/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 13:12:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the ‘anti-Trump playbook’ work in Britain?]]></title>
-            <description><![CDATA[Reform]]></description>
-            <link>https://spectator.com/article/will-the-anti-trump-playbook-work-in-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-the-anti-trump-playbook-work-in-britain/</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 13:12:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Trump and Erdogan want from each other]]></title>
-            <description><![CDATA[Strongmen]]></description>
-            <link>https://spectator.com/article/what-trump-and-erdogan-want-from-each-other/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-trump-and-erdogan-want-from-each-other/</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 13:12:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do doctors think tax rises shouldn’t apply to them?]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/do-doctors-think-tax-rises-shouldnt-apply-to-them/</link>
-            <guid isPermaLink="true">https://spectator.com/article/do-doctors-think-tax-rises-shouldnt-apply-to-them/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Albanese’s Kylie remarks went down so badly in Australia]]></title>
-            <description><![CDATA[By Terry Barnes]]></description>
-            <link>https://spectator.com/article/why-albaneses-kylie-remarks-went-down-so-badly-in-australia/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-albaneses-kylie-remarks-went-down-so-badly-in-australia/</guid>
-            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:47:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

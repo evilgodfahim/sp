@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 15:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 17:05:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 15:44:42 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 17:05:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How ‘defund the police’ ideologues laid waste to Portland]]></title>
+            <description><![CDATA[By Christopher Sandford]]></description>
+            <link>https://spectator.com/article/how-defund-the-police-ideologues-laid-waste-to-portland/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-defund-the-police-ideologues-laid-waste-to-portland/?edition=us</guid>
+            <dc:creator><![CDATA[Christopher Sandford]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 17:05:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the wars in Ukraine and Iran merge?]]></title>
+            <description><![CDATA[By Charles Lipson]]></description>
+            <link>https://spectator.com/article/will-the-wars-in-ukraine-and-iran-merge/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-the-wars-in-ukraine-and-iran-merge/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 17:05:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The rare, startling silence of Anthony Fauci]]></title>
             <description><![CDATA[By John Fund]]></description>
@@ -3999,22 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/americas-anthropic-blackout-wont-make-the-world-safer/?edition=us</guid>
             <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 13:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New York Times’s twisted reporting of Henry Nowak’s murder]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
-            <link>https://spectator.com/article/the-new-york-timess-twisted-reporting-of-henry-nowaks-murder/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-new-york-timess-twisted-reporting-of-henry-nowaks-murder/?edition=us</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 13:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My new job at the Amazon packing factory]]></title>
-            <description><![CDATA[No life]]></description>
-            <link>https://spectator.com/article/my-new-job-at-the-amazon-packing-factory/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-new-job-at-the-amazon-packing-factory/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 10:07:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

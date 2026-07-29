@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 15:44:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 17:05:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 15:44:57 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 17:05:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Watch: French police sit back as small boats set sail]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-french-police-sit-back-as-small-boats-set-sail/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-french-police-sit-back-as-small-boats-set-sail/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 17:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s amazing how far Burnham has got by not being Keir Starmer]]></title>
+            <description><![CDATA[Vibes]]></description>
+            <link>https://spectator.com/article/its-amazing-how-far-burnham-has-got-by-not-being-keir-starmer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-amazing-how-far-burnham-has-got-by-not-being-keir-starmer/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 17:05:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trade unions boycott Labour women’s conference over trans ban]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -98,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[What the Saltburn cricket scandal says about the fallibility of man]]></title>
-            <description><![CDATA[Stumped]]></description>
+            <description><![CDATA[By Mike Jakeman]]></description>
             <link>https://spectator.com/article/what-the-saltburn-cricket-scandal-says-about-the-fallibility-of-man/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-the-saltburn-cricket-scandal-says-about-the-fallibility-of-man/</guid>
             <dc:creator><![CDATA[Mike Jakeman]]></dc:creator>
@@ -4013,22 +4029,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/are-good-people-made-by-good-surroundings-or-the-other-way-round/</guid>
             <dc:creator><![CDATA[Stuart Jeffries]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 08:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The perfect sycophancy of an AI running coach]]></title>
-            <description><![CDATA[By Angus Colwell]]></description>
-            <link>https://spectator.com/article/the-perfect-sycophancy-of-an-ai-running-coach/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-perfect-sycophancy-of-an-ai-running-coach/</guid>
-            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 05:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nobody goes to Wimbledon for the tennis]]></title>
-            <description><![CDATA[By Katie Jenkins]]></description>
-            <link>https://spectator.com/article/nobody-goes-to-wimbledon-for-the-tennis/</link>
-            <guid isPermaLink="true">https://spectator.com/article/nobody-goes-to-wimbledon-for-the-tennis/</guid>
-            <dc:creator><![CDATA[Katie Jenkins]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 05:13:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

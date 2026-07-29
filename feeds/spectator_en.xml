@@ -4,10 +4,40 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 01:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 05:13:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 01:47:37 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 05:13:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[AI’s come for our carmakers]]></title>
+            <description><![CDATA[During the first half of this year, Chinese carmakers achieved a feat of hyper-production that sounds less like industrial manufacturing and more like a plague of locusts. In just six months, they unveiled 650 new models – an average of four brand-new cars every day. At the same time, on the other side of the Pacific, Elon Musk abandoned Tesla’s car assembly lines. He retooled the entire factory to mass-produce the Optimus humanoid robot.
+
+
+
+
+
+What on earth is happening to the world’s car industry? These two bizarre developments seem to signal the end of the global automotive industry as we know it. The age of spanner-wielding, oily-fingered car worker emerging from under a jacked-up rolling chassis appears to have been vaporised.]]></description>
+            <link>https://spectator.com/article/ais-come-for-our-carmakers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ais-come-for-our-carmakers/</guid>
+            <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 05:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do I need an ‘attachment coach’?]]></title>
+            <description><![CDATA[By Katie Jenkins]]></description>
+            <link>https://spectator.com/article/do-i-need-an-attachment-coach/</link>
+            <guid isPermaLink="true">https://spectator.com/article/do-i-need-an-attachment-coach/</guid>
+            <dc:creator><![CDATA[Katie Jenkins]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 05:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lord’s is better than the Oval]]></title>
+            <description><![CDATA[By Mark Mason]]></description>
+            <link>https://spectator.com/article/lords-is-better-than-the-oval/</link>
+            <guid isPermaLink="true">https://spectator.com/article/lords-is-better-than-the-oval/</guid>
+            <dc:creator><![CDATA[Mark Mason]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 05:13:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We must learn from Suzy Lamplugh’s death]]></title>
             <description><![CDATA[By David Shipley]]></description>
@@ -4004,30 +4034,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <link>https://spectator.com/article/why-albaneses-kylie-remarks-went-down-so-badly-in-australia/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-albaneses-kylie-remarks-went-down-so-badly-in-australia/</guid>
             <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to paint like the ancient Greeks]]></title>
-            <description><![CDATA[Ancient and modern]]></description>
-            <link>https://spectator.com/article/how-to-paint-like-the-ancient-greeks/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-paint-like-the-ancient-greeks/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The day the bishop hit me in the face]]></title>
-            <description><![CDATA[No life]]></description>
-            <link>https://spectator.com/article/the-day-the-bishop-hit-me-in-the-face/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-day-the-bishop-hit-me-in-the-face/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blood, sweat and tears on the road to Nice]]></title>
-            <description><![CDATA[Still life]]></description>
-            <link>https://spectator.com/article/blood-sweat-and-tears-on-the-road-to-nice/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/blood-sweat-and-tears-on-the-road-to-nice/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 10:47:11 GMT</pubDate>
         </item>
     </channel>

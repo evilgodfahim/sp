@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 01:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 05:13:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 01:47:31 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 05:13:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[CNN can’t kill Tim Dillon]]></title>
+            <description><![CDATA[By Damian Reilly]]></description>
+            <link>https://spectator.com/article/cnn-cant-kill-tim-dillon/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/cnn-cant-kill-tim-dillon/?edition=us</guid>
+            <dc:creator><![CDATA[Damian Reilly]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 05:13:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jeanette Rubio, first lady in waiting?]]></title>
             <description><![CDATA[By Sarah Beth Spraggins]]></description>
@@ -4006,14 +4014,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/trump-has-betrayed-voters-on-inflation/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-has-betrayed-voters-on-inflation/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2026 11:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has been humbled over Iran]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trump-has-been-humbled-over-iran/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-has-been-humbled-over-iran/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 11:28:52 GMT</pubDate>
         </item>
     </channel>

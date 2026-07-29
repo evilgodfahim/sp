@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 20:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 21:51:24 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 20:13:33 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 21:51:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can Trump improve the ‘terrible’ Dulles Airport?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/trump-improve-terrible-washington-dulles-airport/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-improve-terrible-washington-dulles-airport/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 21:51:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How ‘defund the police’ ideologues laid waste to Portland]]></title>
             <description><![CDATA[By Christopher Sandford]]></description>
@@ -4006,14 +4014,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/meet-my-sommelier-claude/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/meet-my-sommelier-claude/?edition=us</guid>
             <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 13:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America’s Anthropic blackout won’t make the world safer]]></title>
-            <description><![CDATA[By Geoffrey Cain]]></description>
-            <link>https://spectator.com/article/americas-anthropic-blackout-wont-make-the-world-safer/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/americas-anthropic-blackout-wont-make-the-world-safer/?edition=us</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 13:57:21 GMT</pubDate>
         </item>
     </channel>

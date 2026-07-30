@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 15:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 17:16:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 15:03:30 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 17:16:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cambridge is coming out very badly from the Jason Arday affair]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/cambridge-is-coming-out-very-badly-from-the-jason-arday-affair/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/cambridge-is-coming-out-very-badly-from-the-jason-arday-affair/?edition=us</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 17:16:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What the success of the DSA tells us]]></title>
             <description><![CDATA[By Chilton Williamson, Jr.]]></description>
@@ -4002,14 +4010,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/why-i-take-frog-poison/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/why-i-take-frog-poison/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Patrick Smith]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 12:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bond makes a great video game]]></title>
-            <description><![CDATA[The gamer]]></description>
-            <link>https://spectator.com/article/bond-makes-a-great-video-game/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/bond-makes-a-great-video-game/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 12:49:55 GMT</pubDate>
         </item>
     </channel>

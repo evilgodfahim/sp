@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 07:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 10:14:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 07:28:26 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 10:14:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cambridge is coming out very badly from the Jason Arday affair]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/cambridge-is-coming-out-very-badly-from-the-jason-arday-affair/</link>
+            <guid isPermaLink="true">https://spectator.com/article/cambridge-is-coming-out-very-badly-from-the-jason-arday-affair/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 10:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why did Anthony Fauci take the Fifth?]]></title>
+            <description><![CDATA[By John Fund]]></description>
+            <link>https://spectator.com/article/rare-startling-silence-anthony-fauci/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rare-startling-silence-anthony-fauci/</guid>
+            <dc:creator><![CDATA[John Fund]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 10:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tax the poor]]></title>
             <description><![CDATA[By Lionel Shriver]]></description>
@@ -4016,22 +4032,6 @@ The dialogue is divided into easy-to-handle segments. First, we get the history 
             <link>https://spectator.com/article/the-blackly-comic-life-of-katie-price/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-blackly-comic-life-of-katie-price/</guid>
             <dc:creator><![CDATA[James Walton]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 04:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alexis de Tocqueville’s America has vanished]]></title>
-            <description><![CDATA[Podcasts]]></description>
-            <link>https://spectator.com/article/alexis-de-tocquevilles-america-has-vanished/</link>
-            <guid isPermaLink="true">https://spectator.com/article/alexis-de-tocquevilles-america-has-vanished/</guid>
-            <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 04:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisette Oropesa triumphs in I puritani]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/lisette-oropesa-triumphs-in-i-puritani/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lisette-oropesa-triumphs-in-i-puritani/</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 04:43:02 GMT</pubDate>
         </item>
     </channel>

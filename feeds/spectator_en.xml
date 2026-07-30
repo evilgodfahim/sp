@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 01:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 04:49:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 04:49:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Burnham is boldly going nowhere]]></title>
+            <description><![CDATA[By The Spectator]]></description>
+            <link>https://spectator.com/article/burnham-is-boldly-going-nowhere/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-is-boldly-going-nowhere/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 04:49:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wish more people had imposter syndrome]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/i-wish-more-people-had-imposter-syndrome/</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-wish-more-people-had-imposter-syndrome/</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 04:49:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I suspect a lot of TV is AI-generated]]></title>
             <description><![CDATA[By James Delingpole]]></description>
@@ -4025,22 +4041,6 @@ A source familiar with the discussions reveals that Chris Bruni-Lowe, pollster a
             <guid isPermaLink="true">https://spectator.com/article/gen-zs-surprising-nostalgia-for-the-old-high-street/?homepage-tracking=magazine-article-3</guid>
             <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 04:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The blackly comic life of Katie Price]]></title>
-            <description><![CDATA[Television]]></description>
-            <link>https://spectator.com/article/the-blackly-comic-life-of-katie-price/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-blackly-comic-life-of-katie-price/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[James Walton]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 04:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mel Stride names his Price]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/mel-stride-names-his-price/</link>
-            <guid isPermaLink="true">https://spectator.com/article/mel-stride-names-his-price/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 22:04:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 17:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 19:11:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 17:16:12 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 19:11:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Watch: Thousands of illegal migrants storm the border into Spain]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-thousands-of-illegal-migrants-storm-the-border-into-spain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-thousands-of-illegal-migrants-storm-the-border-into-spain/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 19:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to respond to a wildfire]]></title>
+            <description><![CDATA[By Mark Solomons]]></description>
+            <link>https://spectator.com/article/how-to-respond-to-a-wildfire/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-respond-to-a-wildfire/</guid>
+            <dc:creator><![CDATA[Mark Solomons]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 19:11:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham’s boats problem]]></title>
             <description><![CDATA[By Noa Hoffman]]></description>
@@ -4012,22 +4028,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <link>https://spectator.com/article/confronting-the-climate-jeremiahs/</link>
             <guid isPermaLink="true">https://spectator.com/article/confronting-the-climate-jeremiahs/</guid>
             <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 08:19:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thank God for Thomas Tuchel]]></title>
-            <description><![CDATA[By Roger Alton]]></description>
-            <link>https://spectator.com/article/thank-god-for-thomas-tuchel/</link>
-            <guid isPermaLink="true">https://spectator.com/article/thank-god-for-thomas-tuchel/</guid>
-            <dc:creator><![CDATA[Roger Alton]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 08:19:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The only drink missing from The Spectator’s summer party]]></title>
-            <description><![CDATA[By Declan Lyons]]></description>
-            <link>https://spectator.com/article/the-only-drink-missing-from-the-spectators-summer-party/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-only-drink-missing-from-the-spectators-summer-party/</guid>
-            <dc:creator><![CDATA[Declan Lyons]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 08:19:33 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 17:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 19:10:55 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 17:16:07 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 19:10:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Legal organ harvesting is just a PR campaign away]]></title>
+            <description><![CDATA[By Jane Stannus]]></description>
+            <link>https://spectator.com/article/legal-organ-harvesting-pr-campaign-away/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/legal-organ-harvesting-pr-campaign-away/?edition=us</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 19:10:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cambridge is coming out very badly from the Jason Arday affair]]></title>
             <description><![CDATA[By Andrew Tettenborn]]></description>
@@ -4002,14 +4010,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/is-it-ok-to-be-a-horse-guy/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/is-it-ok-to-be-a-horse-guy/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 12:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I take frog poison]]></title>
-            <description><![CDATA[By Patrick Smith]]></description>
-            <link>https://spectator.com/article/why-i-take-frog-poison/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-i-take-frog-poison/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Patrick Smith]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 12:49:55 GMT</pubDate>
         </item>
     </channel>

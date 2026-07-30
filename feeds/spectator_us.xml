@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 10:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 12:23:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 10:13:58 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 12:23:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What the success of the DSA tells us]]></title>
+            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
+            <link>https://spectator.com/article/what-the-success-of-the-dsa-tells-us/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-the-success-of-the-dsa-tells-us/?edition=us</guid>
+            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 12:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Tainan the world’s most dangerous city?]]></title>
+            <description><![CDATA[By Sean Thomas]]></description>
+            <link>https://spectator.com/article/is-tainan-the-worlds-most-dangerous-city/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-tainan-the-worlds-most-dangerous-city/?edition=us</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 12:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Tainan the world’s most dangerous city?]]></title>
+            <description><![CDATA[Made in Taiwan]]></description>
+            <link>https://spectator.com/article/is-tainan-the-worlds-most-dangerous-city/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-tainan-the-worlds-most-dangerous-city/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 12:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Big Pharma wants to sell you psychedelic drugs]]></title>
+            <description><![CDATA[Acid test]]></description>
+            <link>https://spectator.com/article/big-pharma-wants-to-sell-you-psychedelic-drugs/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/big-pharma-wants-to-sell-you-psychedelic-drugs/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Jules Evans]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 12:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s battle for sovereignty]]></title>
+            <description><![CDATA[Fight]]></description>
+            <link>https://spectator.com/article/trumps-battle-for-sovereignty/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-battle-for-sovereignty/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 12:23:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What the success of the DSA tells us]]></title>
             <description><![CDATA[By Chilton Williamson, Jr.]]></description>
@@ -3971,46 +4011,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/bond-makes-a-great-video-game/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 12:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s loser victory]]></title>
-            <description><![CDATA[By Charlie Gammell]]></description>
-            <link>https://spectator.com/article/iran-is-a-losers-victory/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/iran-is-a-losers-victory/?edition=us</guid>
-            <dc:creator><![CDATA[Charlie Gammell]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:59:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel is the new Ukraine]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/for-j-d-vance-israel-is-the-new-ukraine/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/for-j-d-vance-israel-is-the-new-ukraine/?edition=us</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:59:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Paula White-Cain guides Trump through evangelical America]]></title>
-            <description><![CDATA[By Sarah Beth Spraggins]]></description>
-            <link>https://spectator.com/article/paula-white-cain-trump-evangelist-america/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/paula-white-cain-trump-evangelist-america/?edition=us</guid>
-            <dc:creator><![CDATA[Sarah Beth Spraggins]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 21:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Only Iran is happy with Trump’s peace deal]]></title>
-            <description><![CDATA[By Daniel DePetris]]></description>
-            <link>https://spectator.com/article/only-iran-is-happy-with-trumps-peace-deal/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/only-iran-is-happy-with-trumps-peace-deal/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 21:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The mostly untold story of the brutalist Obama Presidential Center]]></title>
-            <description><![CDATA[By John Fund]]></description>
-            <link>https://spectator.com/article/mostly-untold-story-brutalist-obama-presidential-center/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/mostly-untold-story-brutalist-obama-presidential-center/?edition=us</guid>
-            <dc:creator><![CDATA[John Fund]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 21:58:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

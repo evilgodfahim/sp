@@ -4,12 +4,28 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 15:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 17:20:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 15:55:32 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 17:20:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[We should call the Ceuta border breach an invasion]]></title>
+            <title><![CDATA[Ceuta should be a wake-up call for Europe]]></title>
+            <description><![CDATA[By David Goodhart]]></description>
+            <link>https://spectator.com/article/ceuta-should-be-a-wake-up-call-for-europe/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ceuta-should-be-a-wake-up-call-for-europe/</guid>
+            <dc:creator><![CDATA[David Goodhart]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 17:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain has limited options for deporting Moroccan migrants]]></title>
+            <description><![CDATA[By Richard Ekins and Guglielmo Verdirame]]></description>
+            <link>https://spectator.com/article/spains-options-for-dealing-with-moroccan-migrants-are-limited/</link>
+            <guid isPermaLink="true">https://spectator.com/article/spains-options-for-dealing-with-moroccan-migrants-are-limited/</guid>
+            <dc:creator><![CDATA[Richard Ekins and Guglielmo Verdirame]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 17:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The invasion of Ceuta]]></title>
             <description><![CDATA[By Brendan O’Neill]]></description>
             <link>https://spectator.com/article/the-invasion-of-ceuta/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-invasion-of-ceuta/</guid>
@@ -4016,22 +4032,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <link>https://spectator.com/article/we-should-fear-drones-not-invasion/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/we-should-fear-drones-not-invasion/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 06:34:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The blackly comic life of Katie Price]]></title>
-            <description><![CDATA[Television]]></description>
-            <link>https://spectator.com/article/the-blackly-comic-life-of-katie-price/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-blackly-comic-life-of-katie-price/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[James Walton]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 06:34:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dog people are the worst]]></title>
-            <description><![CDATA[Real life]]></description>
-            <link>https://spectator.com/article/dog-people-are-the-worst/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/dog-people-are-the-worst/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
             <pubDate>Fri, 10 Jul 2026 06:34:35 GMT</pubDate>
         </item>
     </channel>

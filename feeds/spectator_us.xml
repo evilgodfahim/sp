@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 17:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 19:09:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 17:20:46 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 19:09:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Troy Jackson’s family values]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/troy-jacksons-family-values/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/troy-jacksons-family-values/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 19:09:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We should call the Ceuta border breach an invasion]]></title>
             <description><![CDATA[By Brendan O’Neill]]></description>
@@ -4007,14 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/make-germany-normal-again-an-interview-with-germanys-exiled-spy-chief/?edition=us</guid>
             <dc:creator><![CDATA[Elisabeth Dampier]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 00:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Not all portrayals of Sherlock Holmes hit the mark]]></title>
-            <description><![CDATA[By Julia Yost]]></description>
-            <link>https://spectator.com/article/not-all-portrayals-of-sherlock-holmes-hit-the-mark/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/not-all-portrayals-of-sherlock-holmes-hit-the-mark/?edition=us</guid>
-            <dc:creator><![CDATA[Julia Yost]]></dc:creator>
-            <pubDate>Sat, 20 Jun 2026 13:30:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 19:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 20:54:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 19:09:54 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 20:54:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Troy Jackson’s family values]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/troy-jackson-family-values-cockburn-diary-07-31-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/troy-jackson-family-values-cockburn-diary-07-31-26/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 20:54:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Troy Jackson’s family values]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -4007,14 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/the-small-dutch-town-that-said-no-to-more-asylum/?edition=us</guid>
             <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 05:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Make Germany normal again’: an interview with Germany’s exiled spy chief]]></title>
-            <description><![CDATA[By Elisabeth Dampier]]></description>
-            <link>https://spectator.com/article/make-germany-normal-again-an-interview-with-germanys-exiled-spy-chief/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/make-germany-normal-again-an-interview-with-germanys-exiled-spy-chief/?edition=us</guid>
-            <dc:creator><![CDATA[Elisabeth Dampier]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 00:08:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

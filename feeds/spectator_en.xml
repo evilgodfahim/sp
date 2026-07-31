@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 11:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 13:43:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 11:22:09 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 13:43:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will Hamas really disarm?]]></title>
+            <description><![CDATA[By Michael Evans]]></description>
+            <link>https://spectator.com/article/will-hamas-really-disarm/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-hamas-really-disarm/</guid>
+            <dc:creator><![CDATA[Michael Evans]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 13:43:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Haigh pleads for a second chance]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-haigh-pleads-for-a-second-chance/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-haigh-pleads-for-a-second-chance/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 13:43:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It’s the ideology, stupid]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
@@ -4016,22 +4032,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <link>https://spectator.com/article/is-the-world-cup-rigged-for-argentina/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-the-world-cup-rigged-for-argentina/</guid>
             <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 06:34:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The MPs nominating Burnham are about to be disappointed]]></title>
-            <description><![CDATA[By John McTernan]]></description>
-            <link>https://spectator.com/article/the-mps-nominating-burnham-are-about-to-be-disappointed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-mps-nominating-burnham-are-about-to-be-disappointed/</guid>
-            <dc:creator><![CDATA[John McTernan]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 06:34:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arthur Fery heralds a new posh boy era]]></title>
-            <description><![CDATA[By Ivo Delingpole]]></description>
-            <link>https://spectator.com/article/arthur-fery-is-the-posh-tennis-player-weve-been-waiting-for/</link>
-            <guid isPermaLink="true">https://spectator.com/article/arthur-fery-is-the-posh-tennis-player-weve-been-waiting-for/</guid>
-            <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
             <pubDate>Fri, 10 Jul 2026 06:34:35 GMT</pubDate>
         </item>
     </channel>

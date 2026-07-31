@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 23:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 01:57:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 23:54:41 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 01:57:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘A selfish, ignoble person’ – the dark side of the Nobel prize-winner Mario Vargas Llosa]]></title>
+            <description><![CDATA[By Nicholas Shakespeare]]></description>
+            <link>https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/</guid>
+            <dc:creator><![CDATA[Nicholas Shakespeare]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 01:57:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What students still get wrong about the Final Solution]]></title>
+            <description><![CDATA[By Andy Pearce]]></description>
+            <link>https://spectator.com/article/what-students-still-get-wrong-about-the-final-solution/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-students-still-get-wrong-about-the-final-solution/</guid>
+            <dc:creator><![CDATA[Andy Pearce]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 01:57:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Thousands of illegal migrants storm the border into Spain]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4012,22 +4028,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <link>https://spectator.com/article/labour-politicians-make-the-pilgrimage-to-st-andy/</link>
             <guid isPermaLink="true">https://spectator.com/article/labour-politicians-make-the-pilgrimage-to-st-andy/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 08:19:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We should fear drones, not invasion]]></title>
-            <description><![CDATA[By Matthew Parris]]></description>
-            <link>https://spectator.com/article/we-should-fear-drones-not-invasion/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-should-fear-drones-not-invasion/</guid>
-            <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 08:19:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Confronting the climate Jeremiahs]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/confronting-the-climate-jeremiahs/</link>
-            <guid isPermaLink="true">https://spectator.com/article/confronting-the-climate-jeremiahs/</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 08:19:33 GMT</pubDate>
         </item>
     </channel>

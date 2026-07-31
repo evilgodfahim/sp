@@ -4,10 +4,82 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 01:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 05:33:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 01:57:46 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Brittany is fast becoming the new Provence]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/why-brittany-is-fast-becoming-the-new-provence/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-brittany-is-fast-becoming-the-new-provence/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Burnham’s levelling-up drive is sure to backfire]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/why-burnhams-levelling-up-drive-is-sure-to-backfire/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-burnhams-levelling-up-drive-is-sure-to-backfire/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The offensive farce of Hackney’s urge to de-twin with Haifa]]></title>
+            <description><![CDATA[By Zoe Strimpel]]></description>
+            <link>https://spectator.com/article/the-offensive-farce-of-hackneys-urge-to-de-twin-with-haifa/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-offensive-farce-of-hackneys-urge-to-de-twin-with-haifa/</guid>
+            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unspoken etiquette of plane seats]]></title>
+            <description><![CDATA[By Sophie Law]]></description>
+            <link>https://spectator.com/article/the-unspoken-etiquette-of-plane-seats/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-unspoken-etiquette-of-plane-seats/</guid>
+            <dc:creator><![CDATA[Sophie Law]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unspoken truth about wildfires]]></title>
+            <description><![CDATA[By Matt Ridley]]></description>
+            <link>https://spectator.com/article/the-unspoken-truth-about-wildfires/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-unspoken-truth-about-wildfires/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to be a truly patriotic millionaire]]></title>
+            <description><![CDATA[Any other business]]></description>
+            <link>https://spectator.com/article/how-to-be-a-truly-patriotic-millionaire/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-be-a-truly-patriotic-millionaire/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The grim rise of the ‘death positivity’ movement]]></title>
+            <description><![CDATA[Live and let die]]></description>
+            <link>https://spectator.com/article/the-grim-rise-of-the-death-positivity-movement/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-grim-rise-of-the-death-positivity-movement/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tax the poor]]></title>
+            <description><![CDATA[Economy]]></description>
+            <link>https://spectator.com/article/tax-the-poor/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/tax-the-poor/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump is a study of indecision on Iran]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/trump-is-a-study-of-indecision-on-iran/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-is-a-study-of-indecision-on-iran/</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘A selfish, ignoble person’ – the dark side of the Nobel prize-winner Mario Vargas Llosa]]></title>
             <description><![CDATA[By Nicholas Shakespeare]]></description>
@@ -130,11 +202,7 @@
         </item>
         <item>
             <title><![CDATA[Tears and terror on the front line of the French wildfires]]></title>
-            <description><![CDATA[Provence
-
-
-
-As soon as I opened my front door I could smell it. Along the path, flakes of white ash landed on my arms. Looking north beyond the cliff, I saw a rapidly increasing plume of brown-black smoke. Before long it filled a third of the sky. Not again. Ten years ago, almost to the day, the concrete shack I was renting in the woods a few miles from the village was almost engulfed. Jeremy was having a break and staying with me when a wildfire broke out in the valley below. The smoke and flames looked about a quarter of a mile away and firefighting Canadairs flew low overhead. Friends told us to leave but I refused. I’d left everything behind in Scotland 18 months before and couldn’t face doing so again. Jeremy asked if he’d have to knock me out and throw me over his shoulder.]]></description>
+            <description><![CDATA[By Catriona Olding]]></description>
             <link>https://spectator.com/article/tears-and-terror-on-the-front-line-of-the-french-wildfires/</link>
             <guid isPermaLink="true">https://spectator.com/article/tears-and-terror-on-the-front-line-of-the-french-wildfires/</guid>
             <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
@@ -150,7 +218,7 @@ As soon as I opened my front door I could smell it. Along the path, flakes of wh
         </item>
         <item>
             <title><![CDATA[No election? Don’t bet on it]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Tim Shipman]]></description>
             <link>https://spectator.com/article/no-election-dont-bet-on-it/</link>
             <guid isPermaLink="true">https://spectator.com/article/no-election-dont-bet-on-it/</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
@@ -214,7 +282,7 @@ As soon as I opened my front door I could smell it. Along the path, flakes of wh
         </item>
         <item>
             <title><![CDATA[I wish more people had imposter syndrome]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Douglas Murray]]></description>
             <link>https://spectator.com/article/i-wish-more-people-had-imposter-syndrome/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-wish-more-people-had-imposter-syndrome/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -269,8 +337,12 @@ As soon as I opened my front door I could smell it. Along the path, flakes of wh
             <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Schools out]]></title>
-            <description><![CDATA[By Lara Brown]]></description>
+            <title><![CDATA[Schools out: the dissolution of private education]]></title>
+            <description><![CDATA[St Joseph’s College in Reading survived two world wars, the Great Depression and a pandemic. But it could not weather two years under this Labour government. Next month, its 500 pupils will be among thousands across the country who do not return to the schools from which they broke up for the summer holidays. These are the casualties of the government’s decision to impose VAT on private school fees and remove business rate relief – a policy ministers promised would not have such consequences.
+
+
+
+We still haven’t seen the full effects of Labour’s recklessness. The true damage will take time to set in.]]></description>
             <link>https://spectator.com/article/schools-out-the-dissolution-of-private-education/</link>
             <guid isPermaLink="true">https://spectator.com/article/schools-out-the-dissolution-of-private-education/</guid>
             <dc:creator><![CDATA[Lara Brown]]></dc:creator>
@@ -294,7 +366,7 @@ As soon as I opened my front door I could smell it. Along the path, flakes of wh
         </item>
         <item>
             <title><![CDATA[The unspoken truth about wildfires]]></title>
-            <description><![CDATA[Blazing stupidity]]></description>
+            <description><![CDATA[By Matt Ridley]]></description>
             <link>https://spectator.com/article/the-unspoken-truth-about-wildfires/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-unspoken-truth-about-wildfires/</guid>
             <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
@@ -3957,78 +4029,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/inside-labours-plot-to-sideline-alternative-media/?homepage-tracking=magazine-article-3</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The slipperiness of Harry Styles]]></title>
-            <description><![CDATA[Pop]]></description>
-            <link>https://spectator.com/article/the-slipperiness-of-harry-styles/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-slipperiness-of-harry-styles/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact check: Rupert Lowe on Joe Rogan]]></title>
-            <description><![CDATA[By John O’Neill]]></description>
-            <link>https://spectator.com/article/fact-check-rupert-lowe-on-joe-rogan/</link>
-            <guid isPermaLink="true">https://spectator.com/article/fact-check-rupert-lowe-on-joe-rogan/</guid>
-            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer takes the puss with Chequers’ cat trips]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/starmer-takes-the-puss/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-takes-the-puss/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beware Andy Burnham’s ‘devolution revolution’]]></title>
-            <description><![CDATA[Work in progress]]></description>
-            <link>https://spectator.com/article/beware-andy-burnhams-devolution-revolution/</link>
-            <guid isPermaLink="true">https://spectator.com/article/beware-andy-burnhams-devolution-revolution/</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there any route back for the Society of St Pius X?]]></title>
-            <description><![CDATA[All at See]]></description>
-            <link>https://spectator.com/article/is-there-any-route-back-for-the-society-of-st-pius-x/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-there-any-route-back-for-the-society-of-st-pius-x/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 14:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel’s plan for a new Iran war]]></title>
-            <description><![CDATA[By Yossi Melman]]></description>
-            <link>https://spectator.com/article/israels-plan-for-a-new-iran-war/</link>
-            <guid isPermaLink="true">https://spectator.com/article/israels-plan-for-a-new-iran-war/</guid>
-            <dc:creator><![CDATA[Yossi Melman]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 11:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Iran ceasefire collapse spells trouble for Trump]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/the-iran-ceasefire-collapse-spells-trouble-for-trump/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-iran-ceasefire-collapse-spells-trouble-for-trump/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 11:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prince Harry’s holiday from hell]]></title>
-            <description><![CDATA[By Robert Hardman]]></description>
-            <link>https://spectator.com/article/prince-harrys-holiday-from-hell/</link>
-            <guid isPermaLink="true">https://spectator.com/article/prince-harrys-holiday-from-hell/</guid>
-            <dc:creator><![CDATA[Robert Hardman]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 08:19:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour politicians make the pilgrimage to St Andy]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/labour-politicians-make-the-pilgrimage-to-st-andy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/labour-politicians-make-the-pilgrimage-to-st-andy/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 08:19:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

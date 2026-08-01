@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 10:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 11:56:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 10:27:38 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 11:56:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The curious history of sporting superstitions]]></title>
+            <description><![CDATA[By Patrick Kidd]]></description>
+            <link>https://spectator.com/article/the-curious-history-of-sporting-superstitions/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-curious-history-of-sporting-superstitions/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Patrick Kidd]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 11:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Russia’s exiled opposition want what’s best for Europe?]]></title>
+            <description><![CDATA[White knights]]></description>
+            <link>https://spectator.com/article/does-russias-exiled-opposition-want-whats-best-for-europe/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-russias-exiled-opposition-want-whats-best-for-europe/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Nigel Gould-Davies]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 11:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain has limited options for deporting Moroccan migrants]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/spains-options-for-dealing-with-moroccan-migrants-are-limited/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/spains-options-for-dealing-with-moroccan-migrants-are-limited/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Richard Ekins and Guglielmo Verdirame]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 11:56:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The EU has failed to get a grip on Europe’s wildfires]]></title>
             <description><![CDATA[By Gavin Mortimer]]></description>
@@ -4011,30 +4035,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/poll-public-backs-farages-by-election-gamble-but-not-his-return/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Fri, 10 Jul 2026 13:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Badenoch would be wrong to boot net zero backers from the Tories]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/badenoch-would-be-wrong-to-boot-net-zero-backers-from-the-tories/</link>
-            <guid isPermaLink="true">https://spectator.com/article/badenoch-would-be-wrong-to-boot-net-zero-backers-from-the-tories/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 13:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s HR whips department won’t work]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/burnhams-hr-whips-department-wont-work/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnhams-hr-whips-department-wont-work/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 13:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North African hooligans are the new football firm]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/north-african-hooligans-are-the-new-football-firm/</link>
-            <guid isPermaLink="true">https://spectator.com/article/north-african-hooligans-are-the-new-football-firm/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 10:15:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

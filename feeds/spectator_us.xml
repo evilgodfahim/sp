@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 23:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 02:27:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 23:57:21 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 02:27:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The odyssey of the Odyssey]]></title>
+            <description><![CDATA[By Peter Wood]]></description>
+            <link>https://spectator.com/article/odyssey-adaptations-translations-jack-london/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/odyssey-adaptations-translations-jack-london/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 02:27:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Troy Jackson’s family values]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -662,7 +670,7 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
         </item>
         <item>
             <title><![CDATA[The greatness of Sam Neill]]></title>
-            <description><![CDATA[The recent death of the actor Sam Neill, at the age of 78, was greeted with a mixture of surprise, sorrow and, in many quarters, unexpected grief. It is likely that Neill would have regarded the lavish tributes paid to him by actors, filmmakers and politicians with a mixture of embarrassment and quiet pride, because although he was a brilliantly versatile actor who managed to make a deep impression in virtually every role that he undertook over his five-decade-long career, he was also someone instinctively uncomfortable with the limelight.]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/the-greatness-of-sam-neill/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-greatness-of-sam-neill/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -4006,14 +4014,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/cocktails-for-a-merry-tipsy-christmas/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/cocktails-for-a-merry-tipsy-christmas/?edition=us</guid>
             <dc:creator><![CDATA[Ross Anderson]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 05:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The small Dutch town that said no to more asylum seekers]]></title>
-            <description><![CDATA[By Arnout Nuijt]]></description>
-            <link>https://spectator.com/article/the-small-dutch-town-that-said-no-to-more-asylum/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-small-dutch-town-that-said-no-to-more-asylum/?edition=us</guid>
-            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 05:53:56 GMT</pubDate>
         </item>
     </channel>

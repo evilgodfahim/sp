@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 05:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 08:05:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 05:46:49 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 08:05:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The EU has failed to get a grip on Europe’s wildfires]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/the-eu-has-failed-to-get-a-grip-on-europes-wildfires/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-eu-has-failed-to-get-a-grip-on-europes-wildfires/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 08:05:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Putin is using North Korean soldiers as Ukraine cannon fodder]]></title>
+            <description><![CDATA[By Edward Howell]]></description>
+            <link>https://spectator.com/article/why-putin-is-using-north-korean-soldiers-as-ukraine-cannon-fodder/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-putin-is-using-north-korean-soldiers-as-ukraine-cannon-fodder/</guid>
+            <dc:creator><![CDATA[Edward Howell]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 08:05:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pop and politics just don’t mix]]></title>
             <description><![CDATA[Like a lot of things, it started with Harold Wilson. This deceptively homely politician was the Queen’s first Labour leader and not reckoned to be quite her speed. Yet she developed a relationship with him which was notable for its warmth, to the extent that they had been known to natter while sharing the washing up after Balmoral barbecues.  
@@ -4018,22 +4034,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <link>https://spectator.com/article/north-african-hooligans-are-the-new-football-firm/</link>
             <guid isPermaLink="true">https://spectator.com/article/north-african-hooligans-are-the-new-football-firm/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 10:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England is still learning to love Jude Bellingham]]></title>
-            <description><![CDATA[By Jide Ehizele]]></description>
-            <link>https://spectator.com/article/england-is-still-learning-to-love-jude-bellingham/</link>
-            <guid isPermaLink="true">https://spectator.com/article/england-is-still-learning-to-love-jude-bellingham/</guid>
-            <dc:creator><![CDATA[Jide Ehizele]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 10:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Home Office must ignore Pakistan and deport Shabir Ahmed]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/the-home-office-must-ignore-pakistan-and-deport-shabir-ahmed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-home-office-must-ignore-pakistan-and-deport-shabir-ahmed/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
             <pubDate>Fri, 10 Jul 2026 10:15:40 GMT</pubDate>
         </item>
     </channel>

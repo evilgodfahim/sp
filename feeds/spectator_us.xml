@@ -4,12 +4,68 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 05:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 08:05:27 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 05:46:42 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The odyssey of the Odyssey]]></title>
+            <title><![CDATA[The rise of Japan’s organic right]]></title>
+            <description><![CDATA[By Gary Dexter]]></description>
+            <link>https://spectator.com/article/the-rise-of-japans-organic-right/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-japans-organic-right/?edition=us</guid>
+            <dc:creator><![CDATA[Gary Dexter]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In defense of Little House on the Prairie]]></title>
+            <description><![CDATA[Television]]></description>
+            <link>https://spectator.com/article/in-defence-of-little-house-on-the-prairie/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-little-house-on-the-prairie/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jeanette Rubio, first lady in waiting?]]></title>
+            <description><![CDATA[Court circular]]></description>
+            <link>https://spectator.com/article/jeanette-rubio-first-lady-in-waiting/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/jeanette-rubio-first-lady-in-waiting/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Sarah Beth Spraggins]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rise of Japan’s organic right]]></title>
+            <description><![CDATA[Miso MAHA]]></description>
+            <link>https://spectator.com/article/the-rise-of-japans-organic-right/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-japans-organic-right/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Gary Dexter]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why do political elites insist on posing as outsiders?]]></title>
+            <description><![CDATA[By Carson Becker]]></description>
+            <link>https://spectator.com/article/why-do-political-elites-insist-on-posing-as-outsiders/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-do-political-elites-insist-on-posing-as-outsiders/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Carson Becker]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the political donors lining up to influence AI policy]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/apocalypse-lobby-political-donors-ai-policy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/apocalypse-lobby-political-donors-ai-policy/?edition=us</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ceuta should be a wake-up call for Europe]]></title>
+            <description><![CDATA[By David Goodhart]]></description>
+            <link>https://spectator.com/article/ceuta-should-be-a-wake-up-call-for-europe/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ceuta-should-be-a-wake-up-call-for-europe/?edition=us</guid>
+            <dc:creator><![CDATA[David Goodhart]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Odyssey means to America]]></title>
             <description><![CDATA[By Peter Wood]]></description>
             <link>https://spectator.com/article/odyssey-adaptations-translations-jack-london/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/odyssey-adaptations-translations-jack-london/?edition=us</guid>
@@ -3959,62 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/the-sun-also-rises-is-still-a-great-american-novel/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Gustav Temple]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 14:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I take frog poison]]></title>
-            <description><![CDATA[Leap of faith]]></description>
-            <link>https://spectator.com/article/why-i-take-frog-poison/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-i-take-frog-poison/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Patrick Smith]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How a Trump-loving lawyer nicknamed ‘The Tiger’ became Colombia’s president]]></title>
-            <description><![CDATA[By Catherine Ellis]]></description>
-            <link>https://spectator.com/article/how-a-trump-loving-lawyer-nicknamed-the-tiger-became-colombias-president/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-a-trump-loving-lawyer-nicknamed-the-tiger-became-colombias-president/?edition=us</guid>
-            <dc:creator><![CDATA[Catherine Ellis]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The very personal tragedy of Keir Starmer]]></title>
-            <description><![CDATA[By James Kirkup]]></description>
-            <link>https://spectator.com/article/the-very-personal-tragedy-of-keir-starmer/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-very-personal-tragedy-of-keir-starmer/?edition=us</guid>
-            <dc:creator><![CDATA[James Kirkup]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beautiful interiors can’t guarantee a beautiful marriage]]></title>
-            <description><![CDATA[By Leah McLaren]]></description>
-            <link>https://spectator.com/article/beautiful-interiors-cant-guarantee-a-beautiful-marriage/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/beautiful-interiors-cant-guarantee-a-beautiful-marriage/?edition=us</guid>
-            <dc:creator><![CDATA[Leah McLaren]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 02:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portrait of a frontier life]]></title>
-            <description><![CDATA[By Veronica Clarke]]></description>
-            <link>https://spectator.com/article/portrait-of-a-frontier-life/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/portrait-of-a-frontier-life/?edition=us</guid>
-            <dc:creator><![CDATA[Veronica Clarke]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 09:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did Billie Eilish get me deported?]]></title>
-            <description><![CDATA[By Drew Pavlou]]></description>
-            <link>https://spectator.com/article/billie-eilish-deported-drew-pavlo/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/billie-eilish-deported-drew-pavlo/?edition=us</guid>
-            <dc:creator><![CDATA[Drew Pavlou]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 05:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cocktails for a merry, tipsy Christmas]]></title>
-            <description><![CDATA[By Ross Anderson]]></description>
-            <link>https://spectator.com/article/cocktails-for-a-merry-tipsy-christmas/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/cocktails-for-a-merry-tipsy-christmas/?edition=us</guid>
-            <dc:creator><![CDATA[Ross Anderson]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 05:53:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

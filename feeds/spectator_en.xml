@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 15:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 16:51:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 15:53:40 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 16:51:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The grim rise of the ‘death positivity’ movement]]></title>
+            <description><![CDATA[By Tali Fraser]]></description>
+            <link>https://spectator.com/article/the-grim-rise-of-the-death-positivity-movement/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-grim-rise-of-the-death-positivity-movement/</guid>
+            <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 16:51:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Manchester by-election proves Farage is floundering]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
@@ -4027,14 +4035,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/murder-investigation-launched-over-death-of-ann-widdecombe/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
             <pubDate>Fri, 10 Jul 2026 16:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Madrid is introducing benefits for unborn children]]></title>
-            <description><![CDATA[By Jim Lawley]]></description>
-            <link>https://spectator.com/article/madrid-is-introducing-benefits-for-unborn-children/</link>
-            <guid isPermaLink="true">https://spectator.com/article/madrid-is-introducing-benefits-for-unborn-children/</guid>
-            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 13:04:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

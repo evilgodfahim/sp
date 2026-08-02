@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 11:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 13:00:53 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 11:54:40 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 13:00:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The scenic route]]></title>
+            <description><![CDATA[By Ian Belcher]]></description>
+            <link>https://spectator.com/article/the-scenic-route-2/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-scenic-route-2/?edition=us</guid>
+            <dc:creator><![CDATA[Ian Belcher]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 13:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rise of mediated murder]]></title>
+            <description><![CDATA[By Katherine Dee]]></description>
+            <link>https://spectator.com/article/the-rise-of-mediated-murder/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-mediated-murder/?edition=us</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 13:00:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do deals get done at Sun Valley anymore?]]></title>
             <description><![CDATA[By Kilby]]></description>
@@ -3998,22 +4014,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/will-the-iran-deal-destroy-j-d-vance/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/will-the-iran-deal-destroy-j-d-vance/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Zelensky about to attack Belarus?]]></title>
-            <description><![CDATA[By Mark Galeotti]]></description>
-            <link>https://spectator.com/article/is-zelensky-about-to-attack-belarus/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-zelensky-about-to-attack-belarus/?edition=us</guid>
-            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Japanese students aren’t woke]]></title>
-            <description><![CDATA[By Philip Patrick]]></description>
-            <link>https://spectator.com/article/why-japanese-students-arent-woke/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-japanese-students-arent-woke/?edition=us</guid>
-            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 14:27:40 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 16:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 17:54:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 16:48:50 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 17:54:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why do political elites insist on posing as outsiders?]]></title>
+            <description><![CDATA[Power struggle]]></description>
+            <link>https://spectator.com/article/why-do-political-elites-insist-on-posing-as-outsiders/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-do-political-elites-insist-on-posing-as-outsiders/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Carson Becker]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 17:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New York is built on the remnants of its past]]></title>
+            <description><![CDATA[By Peter Wood]]></description>
+            <link>https://spectator.com/article/new-york-is-built-on-the-remnants-of-its-past/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/new-york-is-built-on-the-remnants-of-its-past/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 17:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should politicians have tans?]]></title>
+            <description><![CDATA[Notes on...]]></description>
+            <link>https://spectator.com/article/should-politicians-have-tans/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/should-politicians-have-tans/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Christa D’Souza]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 17:54:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The scenic route]]></title>
             <description><![CDATA[By Ian Belcher]]></description>
@@ -3991,30 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/the-truth-about-keir-starmers-legacy/?edition=us</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 18:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Sun Also Rises is still a great American novel]]></title>
-            <description><![CDATA[By Gustav Temple]]></description>
-            <link>https://spectator.com/article/the-sun-also-rises-is-still-a-great-american-novel/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-sun-also-rises-is-still-a-great-american-novel/?edition=us</guid>
-            <dc:creator><![CDATA[Gustav Temple]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The message behind the US pavilion at the Venice Biennale]]></title>
-            <description><![CDATA[By James Panero]]></description>
-            <link>https://spectator.com/article/message-behind-us-pavilion-venice-biennale/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/message-behind-us-pavilion-venice-biennale/?edition=us</guid>
-            <dc:creator><![CDATA[James Panero]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the Iran deal destroy J.D. Vance?]]></title>
-            <description><![CDATA[Court intrigue]]></description>
-            <link>https://spectator.com/article/will-the-iran-deal-destroy-j-d-vance/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-the-iran-deal-destroy-j-d-vance/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 14:27:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

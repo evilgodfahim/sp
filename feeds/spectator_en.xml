@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 05:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 08:07:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 05:19:23 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 08:07:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can seven million households really not afford a toothbrush?]]></title>
+            <description><![CDATA[By Mani Basharzad]]></description>
+            <link>https://spectator.com/article/can-seven-million-households-really-not-afford-a-toothbrush/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-seven-million-households-really-not-afford-a-toothbrush/</guid>
+            <dc:creator><![CDATA[Mani Basharzad]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 08:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The middle classes have a radicalisation problem]]></title>
+            <description><![CDATA[By Rory Hanrahan]]></description>
+            <link>https://spectator.com/article/the-middle-classes-have-a-radicalisation-problem/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-middle-classes-have-a-radicalisation-problem/</guid>
+            <dc:creator><![CDATA[Rory Hanrahan]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 08:07:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Health Food Influencer]]></title>
             <description><![CDATA[By Anonymous]]></description>
@@ -4013,22 +4029,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/will-cuba-be-reborn-as-a-caribbean-las-vegas/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Ian Thomson]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 07:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Buckle up for the smack-downs: the media behemoth that is modern wrestling]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/buckle-up-for-the-smack-downs-the-media-behemoth-that-is-modern-wrestling/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/buckle-up-for-the-smack-downs-the-media-behemoth-that-is-modern-wrestling/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Ian Sansom]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 07:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The aristocracy is still very good at producing black sheep]]></title>
-            <description><![CDATA[By Eleanor Doughty]]></description>
-            <link>https://spectator.com/article/the-aristocracy-is-still-very-good-at-producing-black-sheep/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-aristocracy-is-still-very-good-at-producing-black-sheep/</guid>
-            <dc:creator><![CDATA[Eleanor Doughty]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 04:56:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

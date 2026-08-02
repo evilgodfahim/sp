@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 23:49:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 01:55:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 23:49:36 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 01:55:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A terrible fate awaits Preston Davey’s killer in prison]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/a-terrible-fate-awaits-preston-daveys-killer-in-prison/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-terrible-fate-awaits-preston-daveys-killer-in-prison/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 01:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Reform survive without Nigel Farage?]]></title>
+            <description><![CDATA[By Ed Shackle]]></description>
+            <link>https://spectator.com/article/can-reform-survive-without-nigel-farage/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-reform-survive-without-nigel-farage/</guid>
+            <dc:creator><![CDATA[Ed Shackle]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 01:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We need a crackdown on crackpot charities]]></title>
+            <description><![CDATA[By Ameer Kotecha]]></description>
+            <link>https://spectator.com/article/we-need-a-crackdown-on-crackpot-charities/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-need-a-crackdown-on-crackpot-charities/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 01:55:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The grim rise of the ‘death positivity’ movement]]></title>
             <description><![CDATA[By Tali Fraser]]></description>
@@ -4011,30 +4035,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/westminster-reels-at-ann-widdecombe-murder-probe/</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
             <pubDate>Fri, 10 Jul 2026 18:17:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why doesn’t my daughter enjoy bonking?]]></title>
-            <description><![CDATA[By Helen D’Vorcee]]></description>
-            <link>https://spectator.com/article/why-doesnt-my-daughter-enjoy-bonking/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-doesnt-my-daughter-enjoy-bonking/</guid>
-            <dc:creator><![CDATA[Helen D’Vorcee]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 16:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A tribute to Ann Widdecombe]]></title>
-            <description><![CDATA[By Rachel Johnson]]></description>
-            <link>https://spectator.com/article/a-tribute-to-ann-widdecombe/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-tribute-to-ann-widdecombe/</guid>
-            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 16:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man arrested in connection with Ann Widdecombe’s death]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/murder-investigation-launched-over-death-of-ann-widdecombe/</link>
-            <guid isPermaLink="true">https://spectator.com/article/murder-investigation-launched-over-death-of-ann-widdecombe/</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 16:15:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

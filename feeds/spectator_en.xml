@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 01:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 05:19:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 01:55:21 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 05:19:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Health Food Influencer]]></title>
+            <description><![CDATA[By Anonymous]]></description>
+            <link>https://spectator.com/article/the-health-food-influencer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-health-food-influencer/</guid>
+            <dc:creator><![CDATA[Anonymous]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 05:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham is boldly going nowhere]]></title>
+            <description><![CDATA[By The Spectator]]></description>
+            <link>https://spectator.com/article/burnham-is-boldly-going-nowhere/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-is-boldly-going-nowhere/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 05:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Manchester by-election proves Farage is floundering]]></title>
+            <description><![CDATA[Fading Fortunes]]></description>
+            <link>https://spectator.com/article/the-manchester-by-election-proves-farage-is-floundering/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-manchester-by-election-proves-farage-is-floundering/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 05:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Putin is using North Korean soldiers as Ukraine cannon fodder]]></title>
+            <description><![CDATA[War]]></description>
+            <link>https://spectator.com/article/why-putin-is-using-north-korean-soldiers-as-ukraine-cannon-fodder/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-putin-is-using-north-korean-soldiers-as-ukraine-cannon-fodder/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Edward Howell]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 05:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Russia’s exiled opposition want what’s best for Europe?]]></title>
+            <description><![CDATA[White knights]]></description>
+            <link>https://spectator.com/article/does-russias-exiled-opposition-want-whats-best-for-europe/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-russias-exiled-opposition-want-whats-best-for-europe/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Nigel Gould-Davies]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 05:19:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A terrible fate awaits Preston Davey’s killer in prison]]></title>
             <description><![CDATA[By David Shipley]]></description>
@@ -90,13 +130,7 @@
         </item>
         <item>
             <title><![CDATA[Pop and politics just don’t mix]]></title>
-            <description><![CDATA[Like a lot of things, it started with Harold Wilson. This deceptively homely politician was the Queen’s first Labour leader and not reckoned to be quite her speed. Yet she developed a relationship with him which was notable for its warmth, to the extent that they had been known to natter while sharing the washing up after Balmoral barbecues.  
-
-
-
-
-
-But it was Wilson’s lust for taxing the highest earning – ‘squeeze them until the pips squeak’ gloated his chancellor Denis Healey – which brought him into conflict with The Beatles.]]></description>
+            <description><![CDATA[By Julie Burchill]]></description>
             <link>https://spectator.com/article/pop-and-politics-just-dont-mix/</link>
             <guid isPermaLink="true">https://spectator.com/article/pop-and-politics-just-dont-mix/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
@@ -3995,46 +4029,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/the-aristocracy-is-still-very-good-at-producing-black-sheep/</guid>
             <dc:creator><![CDATA[Eleanor Doughty]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 04:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England and Norway should unite]]></title>
-            <description><![CDATA[By William Atkinson]]></description>
-            <link>https://spectator.com/article/england-and-norway-should-unite/</link>
-            <guid isPermaLink="true">https://spectator.com/article/england-and-norway-should-unite/</guid>
-            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 04:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In praise of Anthony Gordon]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/in-praise-of-anthony-gordon/</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-praise-of-anthony-gordon/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 01:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The secret behind Norway’s extraordinary football success]]></title>
-            <description><![CDATA[By Mark Brolin]]></description>
-            <link>https://spectator.com/article/the-secret-behind-norways-extraordinary-football-success/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-secret-behind-norways-extraordinary-football-success/</guid>
-            <dc:creator><![CDATA[Mark Brolin]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 01:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Odysseus taught me about spying]]></title>
-            <description><![CDATA[By Andy Owen]]></description>
-            <link>https://spectator.com/article/what-odysseus-taught-me-about-spying/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-odysseus-taught-me-about-spying/</guid>
-            <dc:creator><![CDATA[Andy Owen]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 01:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Westminster reels at Ann Widdecombe murder probe]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/westminster-reels-at-ann-widdecombe-murder-probe/</link>
-            <guid isPermaLink="true">https://spectator.com/article/westminster-reels-at-ann-widdecombe-murder-probe/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 18:17:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

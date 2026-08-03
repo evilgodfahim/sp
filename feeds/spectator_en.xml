@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 12:50:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 15:38:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 12:50:51 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 15:38:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My night at the Baftas]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/my-night-at-the-baftas/</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-night-at-the-baftas/</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 15:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As mad as it gets]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/as-mad-as-it-gets/</link>
+            <guid isPermaLink="true">https://spectator.com/article/as-mad-as-it-gets/</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 15:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Reform serious about using the Navy to control migration?]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/is-reform-serious-about-using-the-navy-to-control-migration/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-reform-serious-about-using-the-navy-to-control-migration/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 15:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The best of Rod Liddle]]></title>
+            <description><![CDATA[By Coffee House]]></description>
+            <link>https://spectator.com/article/the-world-according-to-rod-liddle/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-world-according-to-rod-liddle/</guid>
+            <dc:creator><![CDATA[Coffee House]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 15:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rod Liddle, 1960 – 2026]]></title>
+            <description><![CDATA[By Coffee House]]></description>
+            <link>https://spectator.com/article/rod-liddle-1960-2026/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rod-liddle-1960-2026/</guid>
+            <dc:creator><![CDATA[Coffee House]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 15:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tributes to Rod Liddle]]></title>
+            <description><![CDATA[RIP]]></description>
+            <link>https://spectator.com/article/tributes-to-rod-liddle/</link>
+            <guid isPermaLink="true">https://spectator.com/article/tributes-to-rod-liddle/</guid>
+            <dc:creator><![CDATA[Coffee House]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 15:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I could never tone down Rod Liddle]]></title>
+            <description><![CDATA[Editing Rod]]></description>
+            <link>https://spectator.com/article/why-i-could-never-tone-down-rod-liddle/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-i-could-never-tone-down-rod-liddle/</guid>
+            <dc:creator><![CDATA[Fraser Nelson]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 15:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rod Liddle was one of the finest journalists of his generation]]></title>
+            <description><![CDATA[A titan]]></description>
+            <link>https://spectator.com/article/rod-liddle-was-one-of-the-finest-journalists-of-his-generation/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rod-liddle-was-one-of-the-finest-journalists-of-his-generation/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 15:38:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why we are horrified by AI firms pulping books]]></title>
             <description><![CDATA[By Clarissa Hard]]></description>
@@ -50,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Why I’m ignoring the hosepipe ban – and you should too]]></title>
-            <description><![CDATA[Water works]]></description>
+            <description><![CDATA[By Druin Burch]]></description>
             <link>https://spectator.com/article/why-im-ignoring-the-hosepipe-ban-and-you-should-too/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-im-ignoring-the-hosepipe-ban-and-you-should-too/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -58,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Do liberal Londoners know how much they are detested?]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Patrick West]]></description>
             <link>https://spectator.com/article/do-liberal-londoners-know-how-much-they-are-detested/</link>
             <guid isPermaLink="true">https://spectator.com/article/do-liberal-londoners-know-how-much-they-are-detested/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -3965,70 +4029,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/gen-zs-surprising-nostalgia-for-the-old-high-street/?homepage-tracking=high_density-article-2</guid>
             <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What precipitated a worldwide total war in the 1930s?]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/what-precipitated-a-worldwide-total-war-in-the-1930s/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-precipitated-a-worldwide-total-war-in-the-1930s/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Christopher Harding]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[George Cottrell and the troubling incuriosity of Nigel Farage]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/george-cottrell-and-the-troubling-incuriosity-of-nigel-farage/</link>
-            <guid isPermaLink="true">https://spectator.com/article/george-cottrell-and-the-troubling-incuriosity-of-nigel-farage/</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thomas Tuchel has done the impossible: he’s made me love the Germans]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/thomas-tuchel-has-done-the-impossible-hes-made-me-love-the-germans/</link>
-            <guid isPermaLink="true">https://spectator.com/article/thomas-tuchel-has-done-the-impossible-hes-made-me-love-the-germans/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What precipitated a worldwide total war in the 1930s?]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/what-precipitated-a-worldwide-total-war-in-the-1930s/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-precipitated-a-worldwide-total-war-in-the-1930s/</guid>
-            <dc:creator><![CDATA[Christopher Harding]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The price children pay for ‘free’ nursery]]></title>
-            <description><![CDATA[Child's play]]></description>
-            <link>https://spectator.com/article/the-price-children-pay-for-free-nursery/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-price-children-pay-for-free-nursery/</guid>
-            <dc:creator><![CDATA[Fleur Elizabeth Meston]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 01:55:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s tour of Britain is pure narcissism]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/burnhams-tour-of-britain-is-pure-narcissism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnhams-tour-of-britain-is-pure-narcissism/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 01:55:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The mass appeal of Ann Widdecombe]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/the-mass-appeal-of-ann-widdecombe/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-mass-appeal-of-ann-widdecombe/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 15:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How does the Catholic J.D. Vance justify Trumpian policies?]]></title>
-            <description><![CDATA[By Nick Spencer]]></description>
-            <link>https://spectator.com/article/how-does-the-catholic-j-d-vance-justify-trumpian-policies/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-does-the-catholic-j-d-vance-justify-trumpian-policies/</guid>
-            <dc:creator><![CDATA[Nick Spencer]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 12:59:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

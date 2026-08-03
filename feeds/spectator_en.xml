@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 15:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 17:43:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 15:38:29 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 17:43:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The best of Rod Liddle’s Listener columns]]></title>
+            <description><![CDATA[By Igor Toronyi-Lalic]]></description>
+            <link>https://spectator.com/article/the-best-of-rod-liddles-listener-columns/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-best-of-rod-liddles-listener-columns/</guid>
+            <dc:creator><![CDATA[Igor Toronyi-Lalic]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 17:43:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lucy Powell is wrong to call the curriculum a ‘straitjacket’]]></title>
+            <description><![CDATA[By Amanda Spielman]]></description>
+            <link>https://spectator.com/article/lucy-powell-is-wrong-to-call-the-curriculum-a-straitjacket/</link>
+            <guid isPermaLink="true">https://spectator.com/article/lucy-powell-is-wrong-to-call-the-curriculum-a-straitjacket/</guid>
+            <dc:creator><![CDATA[Amanda Spielman]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 17:43:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My night at the Baftas]]></title>
             <description><![CDATA[By Rod Liddle]]></description>
@@ -34,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[The best of Rod Liddle]]></title>
-            <description><![CDATA[By Coffee House]]></description>
+            <description><![CDATA[Spectator columns]]></description>
             <link>https://spectator.com/article/the-world-according-to-rod-liddle/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-world-according-to-rod-liddle/</guid>
             <dc:creator><![CDATA[Coffee House]]></dc:creator>
@@ -58,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Why I could never tone down Rod Liddle]]></title>
-            <description><![CDATA[Editing Rod]]></description>
+            <description><![CDATA[By Fraser Nelson]]></description>
             <link>https://spectator.com/article/why-i-could-never-tone-down-rod-liddle/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-i-could-never-tone-down-rod-liddle/</guid>
             <dc:creator><![CDATA[Fraser Nelson]]></dc:creator>
@@ -950,11 +966,7 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
         </item>
         <item>
             <title><![CDATA[The Trainspotting musical is made for cruise ships]]></title>
-            <description><![CDATA[Plenty of critics have mocked Trainspotting – the musical (with lyrics and music by Irvine Welsh and Stephen McGuinness, respectively) but the producers know their audience’s mind. They want to see live theatre without taking the risk of a new play, which might be gruesome, and they prefer a dead-safe replica of a glamorous movie to something by Chekhov or Pinter. Reviewers admire novelty and inventiveness so they tend to punish theatre-makers who reheat leftovers. The show follows the book more closely than the film, where Renton was the central figure, and here he blends in with the community of wasters and criminals who mope around Edinburgh trying to raise cash for smack.
-
-
-
-The characters are reduced to simplistic gestures, as easy to read as hand signals. Begbie is a cocky thug.]]></description>
+            <description><![CDATA[By Lloyd Evans]]></description>
             <link>https://spectator.com/article/the-trainspotting-musical-is-made-for-cruise-ships/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-trainspotting-musical-is-made-for-cruise-ships/</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
@@ -4012,22 +4024,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <link>https://spectator.com/article/why-the-death-of-the-manual-car-matters/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-death-of-the-manual-car-matters/</guid>
             <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who really runs Manchester?]]></title>
-            <description><![CDATA[City boys]]></description>
-            <link>https://spectator.com/article/who-really-runs-manchester/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-really-runs-manchester/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Gus Carter]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gen Z’s surprising nostalgia for the old high street]]></title>
-            <description><![CDATA[Window dressing]]></description>
-            <link>https://spectator.com/article/gen-zs-surprising-nostalgia-for-the-old-high-street/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/gen-zs-surprising-nostalgia-for-the-old-high-street/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 09:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 12:50:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 09:24:07 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 12:50:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Modern English]]></title>
+            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
+            <link>https://spectator.com/article/modern-english-2/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/modern-english-2/?edition=us</guid>
+            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rise of mediated murder]]></title>
+            <description><![CDATA[Cruel intentions]]></description>
+            <link>https://spectator.com/article/the-rise-of-mediated-murder/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-mediated-murder/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New York is built on the remnants of its past]]></title>
+            <description><![CDATA[Diary]]></description>
+            <link>https://spectator.com/article/new-york-is-built-on-the-remnants-of-its-past/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/new-york-is-built-on-the-remnants-of-its-past/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ceuta chaos could make Marine Le Pen president]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/the-ceuta-chaos-could-make-marine-le-pen-president/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-ceuta-chaos-could-make-marine-le-pen-president/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America can’t let the Japanese yen fail]]></title>
+            <description><![CDATA[By Philip Patrick]]></description>
+            <link>https://spectator.com/article/america-cant-let-the-japanese-yen-fail/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-cant-let-the-japanese-yen-fail/?edition=us</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Welsh government’s mad decolonization plans]]></title>
+            <description><![CDATA[By Tali Fraser]]></description>
+            <link>https://spectator.com/article/the-welsh-governments-mad-decolonisation-plans/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-welsh-governments-mad-decolonisation-plans/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The strange death of Islamism]]></title>
+            <description><![CDATA[By Paul Wood]]></description>
+            <link>https://spectator.com/article/the-strange-death-of-islamism/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-strange-death-of-islamism/?edition=us</guid>
+            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I need literary Viagra]]></title>
+            <description><![CDATA[By William Cash]]></description>
+            <link>https://spectator.com/article/why-i-need-literary-viagra-at-60/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-i-need-literary-viagra-at-60/?edition=us</guid>
+            <dc:creator><![CDATA[William Cash]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Come on: we all know Kellyanne Conway is above the Hatch Act]]></title>
             <description><![CDATA[By Jacob Heilbrunn]]></description>
@@ -3951,70 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/ahmed-al-sharaa-can-be-a-great-man-of-history/?edition=us</guid>
             <dc:creator><![CDATA[Aiden Abbott]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 13:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Know your facepalm from your headslap]]></title>
-            <description><![CDATA[Mind your language]]></description>
-            <link>https://spectator.com/article/know-your-facepalm-from-your-headslap/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/know-your-facepalm-from-your-headslap/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Dot Wordsworth]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 10:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Sun Also Rises is still a great American novel]]></title>
-            <description><![CDATA[Novel ideas]]></description>
-            <link>https://spectator.com/article/the-sun-also-rises-is-still-a-great-american-novel/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-sun-also-rises-is-still-a-great-american-novel/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Gustav Temple]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 10:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has destroyed the special relationship]]></title>
-            <description><![CDATA[By Simon Heffer]]></description>
-            <link>https://spectator.com/article/trump-has-destroyed-the-special-relationship/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-has-destroyed-the-special-relationship/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Simon Heffer]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 10:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of anti-tech terrorism]]></title>
-            <description><![CDATA[Rage against the machine]]></description>
-            <link>https://spectator.com/article/the-rise-of-anti-tech-terrorism/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-anti-tech-terrorism/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Allum Bokhari]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 10:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An ode to good breasts]]></title>
-            <description><![CDATA[By Kara Kennedy]]></description>
-            <link>https://spectator.com/article/an-ode-to-good-breasts/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/an-ode-to-good-breasts/?edition=us</guid>
-            <dc:creator><![CDATA[Kara Kennedy]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 02:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did conservatives win the culture war?]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/did-conservatives-win-the-culture-war/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/did-conservatives-win-the-culture-war/?edition=us</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 23:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The marvels of Cuba’s national botanic gardens]]></title>
-            <description><![CDATA[By Ruaridh Nicoll]]></description>
-            <link>https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-marvels-of-cubas-national-botanic-gardens/?edition=us</guid>
-            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 23:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What I saw at the Montréal shooting]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/what-i-saw-at-the-montreal-shooting/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-i-saw-at-the-montreal-shooting/?edition=us</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 21:28:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

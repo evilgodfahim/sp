@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 09:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 12:50:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 09:24:13 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 12:50:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why we are horrified by AI firms pulping books]]></title>
+            <description><![CDATA[By Clarissa Hard]]></description>
+            <link>https://spectator.com/article/why-we-are-horrified-by-ai-firms-pulping-books/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-we-are-horrified-by-ai-firms-pulping-books/</guid>
+            <dc:creator><![CDATA[Clarissa Hard]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham doesn’t get why people are angry about migration]]></title>
+            <description><![CDATA[Missing the boat]]></description>
+            <link>https://spectator.com/article/burnham-doesnt-get-why-people-are-angry-about-migration/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-doesnt-get-why-people-are-angry-about-migration/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America can’t let the Japanese yen fail]]></title>
+            <description><![CDATA[By Philip Patrick]]></description>
+            <link>https://spectator.com/article/america-cant-let-the-japanese-yen-fail/</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-cant-let-the-japanese-yen-fail/</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:50:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gen Z is going back to physical media]]></title>
             <description><![CDATA[By Anastasia Brown]]></description>
@@ -854,7 +878,7 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
         </item>
         <item>
             <title><![CDATA[We have a true book-loving Queen – and she is a marvel]]></title>
-            <description><![CDATA[Bookseller’s notebook]]></description>
+            <description><![CDATA[By Nicky Dunne]]></description>
             <link>https://spectator.com/article/we-have-a-true-book-loving-queen-and-she-is-a-marvel/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-have-a-true-book-loving-queen-and-she-is-a-marvel/</guid>
             <dc:creator><![CDATA[Nicky Dunne]]></dc:creator>
@@ -4005,30 +4029,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/how-does-the-catholic-j-d-vance-justify-trumpian-policies/</guid>
             <dc:creator><![CDATA[Nick Spencer]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 12:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should Green Boots’ body remain on Everest?]]></title>
-            <description><![CDATA[Rest in peace]]></description>
-            <link>https://spectator.com/article/should-green-boots-body-remain-on-everest/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/should-green-boots-body-remain-on-everest/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Billi Bierling]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 11:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thank God for Jude Bellingham]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/thank-god-for-jude-bellingham/</link>
-            <guid isPermaLink="true">https://spectator.com/article/thank-god-for-jude-bellingham/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 08:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can we de-programme the police?]]></title>
-            <description><![CDATA[By Mary Wakefield]]></description>
-            <link>https://spectator.com/article/how-can-we-de-programme-the-police/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-can-we-de-programme-the-police/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 08:02:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

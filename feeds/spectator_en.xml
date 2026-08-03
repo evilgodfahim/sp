@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 01:57:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 05:39:55 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 01:57:57 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 05:39:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Do liberal Londoners know how much they are detested?]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/do-liberal-londoners-know-how-much-they-are-detested/</link>
+            <guid isPermaLink="true">https://spectator.com/article/do-liberal-londoners-know-how-much-they-are-detested/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 05:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make the Royal Navy great again]]></title>
+            <description><![CDATA[All at sea]]></description>
+            <link>https://spectator.com/article/make-the-royal-navy-great-again/</link>
+            <guid isPermaLink="true">https://spectator.com/article/make-the-royal-navy-great-again/</guid>
+            <dc:creator><![CDATA[Andrew Lambert]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 05:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I need literary Viagra]]></title>
+            <description><![CDATA[Writer's block]]></description>
+            <link>https://spectator.com/article/why-i-need-literary-viagra-at-60/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-i-need-literary-viagra-at-60/</guid>
+            <dc:creator><![CDATA[William Cash]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 05:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The agony of the villa holiday]]></title>
+            <description><![CDATA[Holibobs]]></description>
+            <link>https://spectator.com/article/the-agony-of-the-villa-holiday/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-agony-of-the-villa-holiday/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 05:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In defence of the Brandy Alexander]]></title>
+            <description><![CDATA[Drink up]]></description>
+            <link>https://spectator.com/article/in-defence-of-the-brandy-alexander/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-the-brandy-alexander/</guid>
+            <dc:creator><![CDATA[Christopher Akers]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 05:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham is boldly going nowhere]]></title>
+            <description><![CDATA[Leading article]]></description>
+            <link>https://spectator.com/article/burnham-is-boldly-going-nowhere/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-is-boldly-going-nowhere/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 05:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make the Royal Navy great again]]></title>
+            <description><![CDATA[All at sea]]></description>
+            <link>https://spectator.com/article/make-the-royal-navy-great-again/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/make-the-royal-navy-great-again/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Andrew Lambert]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 05:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The new Spider-Man is a triumph of Hollywood professionalism]]></title>
+            <description><![CDATA[Cinema]]></description>
+            <link>https://spectator.com/article/the-new-spider-man-is-a-triumph-of-hollywood-professionalism/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-new-spider-man-is-a-triumph-of-hollywood-professionalism/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[James Walton]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 05:39:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The utter utopian unwisdom of AI bros]]></title>
             <description><![CDATA[By Charles Moore]]></description>
@@ -26,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Rewilding is the best defence against wildfires]]></title>
-            <description><![CDATA[By Ben Goldsmith]]></description>
+            <description><![CDATA[Born to rewild]]></description>
             <link>https://spectator.com/article/rewilding-is-the-best-defence-against-wildfires/</link>
             <guid isPermaLink="true">https://spectator.com/article/rewilding-is-the-best-defence-against-wildfires/</guid>
             <dc:creator><![CDATA[Ben Goldsmith]]></dc:creator>
@@ -82,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Inside France’s war against radical mosques]]></title>
-            <description><![CDATA[By Matthew Fraser]]></description>
+            <description><![CDATA[Plus ça change]]></description>
             <link>https://spectator.com/article/inside-frances-war-against-radical-mosques/</link>
             <guid isPermaLink="true">https://spectator.com/article/inside-frances-war-against-radical-mosques/</guid>
             <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
@@ -666,7 +730,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham is boldly going nowhere]]></title>
-            <description><![CDATA[By The Spectator]]></description>
+            <description><![CDATA[Leading article]]></description>
             <link>https://spectator.com/article/burnham-is-boldly-going-nowhere/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-is-boldly-going-nowhere/</guid>
             <dc:creator><![CDATA[The Spectator]]></dc:creator>
@@ -714,7 +778,7 @@
         </item>
         <item>
             <title><![CDATA[The new Spider-Man is a triumph of Hollywood professionalism]]></title>
-            <description><![CDATA[By James Walton]]></description>
+            <description><![CDATA[Cinema]]></description>
             <link>https://spectator.com/article/the-new-spider-man-is-a-triumph-of-hollywood-professionalism/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-new-spider-man-is-a-triumph-of-hollywood-professionalism/</guid>
             <dc:creator><![CDATA[James Walton]]></dc:creator>
@@ -766,7 +830,7 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
         </item>
         <item>
             <title><![CDATA[We have a true book-loving Queen – and she is a marvel]]></title>
-            <description><![CDATA[By Nicky Dunne]]></description>
+            <description><![CDATA[Bookseller’s notebook]]></description>
             <link>https://spectator.com/article/we-have-a-true-book-loving-queen-and-she-is-a-marvel/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-have-a-true-book-loving-queen-and-she-is-a-marvel/</guid>
             <dc:creator><![CDATA[Nicky Dunne]]></dc:creator>
@@ -3965,70 +4029,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/why-the-extreme-male-brain-theory-of-autism-has-been-disowned/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[David Cohen]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 08:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The inevitable implosion of the ‘one in, one out’ scheme]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
-            <link>https://spectator.com/article/the-inevitable-implosion-of-the-one-in-one-out-scheme/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-inevitable-implosion-of-the-one-in-one-out-scheme/</guid>
-            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 08:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I grieve for holidays past]]></title>
-            <description><![CDATA[By William Cash]]></description>
-            <link>https://spectator.com/article/i-grieve-for-holidays-past/</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-grieve-for-holidays-past/</guid>
-            <dc:creator><![CDATA[William Cash]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 05:19:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer is determined to kill racing]]></title>
-            <description><![CDATA[By Rupert Hawksley]]></description>
-            <link>https://spectator.com/article/starmer-is-determined-to-kill-racing/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-is-determined-to-kill-racing/</guid>
-            <dc:creator><![CDATA[Rupert Hawksley]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 05:19:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should Green Boots’ body remain on Everest?]]></title>
-            <description><![CDATA[By Billi Bierling]]></description>
-            <link>https://spectator.com/article/should-green-boots-body-remain-on-everest/</link>
-            <guid isPermaLink="true">https://spectator.com/article/should-green-boots-body-remain-on-everest/</guid>
-            <dc:creator><![CDATA[Billi Bierling]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 01:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are you a Gliberal?]]></title>
-            <description><![CDATA[By Theo Hobson]]></description>
-            <link>https://spectator.com/article/are-you-a-gliberal/</link>
-            <guid isPermaLink="true">https://spectator.com/article/are-you-a-gliberal/</guid>
-            <dc:creator><![CDATA[Theo Hobson]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 01:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Miliband would be a disastrous foreign secretary]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
-            <link>https://spectator.com/article/david-miliband-would-be-a-disastrous-foreign-secretary/</link>
-            <guid isPermaLink="true">https://spectator.com/article/david-miliband-would-be-a-disastrous-foreign-secretary/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 01:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death, schism and conspiracy: Orkney’s renegade Catholic monks]]></title>
-            <description><![CDATA[By Christopher Akers]]></description>
-            <link>https://spectator.com/article/death-schism-and-conspiracy-orkneys-renegade-catholic-monks/</link>
-            <guid isPermaLink="true">https://spectator.com/article/death-schism-and-conspiracy-orkneys-renegade-catholic-monks/</guid>
-            <dc:creator><![CDATA[Christopher Akers]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 01:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the ‘extreme male brain’ theory of autism has been disowned]]></title>
-            <description><![CDATA[By David Cohen]]></description>
-            <link>https://spectator.com/article/why-the-extreme-male-brain-theory-of-autism-has-been-disowned/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-extreme-male-brain-theory-of-autism-has-been-disowned/</guid>
-            <dc:creator><![CDATA[David Cohen]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 01:52:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

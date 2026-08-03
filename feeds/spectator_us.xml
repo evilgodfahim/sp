@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 01:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 05:39:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 01:57:51 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 05:39:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Come on: we all know Kellyanne Conway is above the Hatch Act]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/come-on-we-all-know-kellyanne-conway-is-above-the-hatch-act/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/come-on-we-all-know-kellyanne-conway-is-above-the-hatch-act/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 05:39:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Robert McNamara know Vietnam was unwinnable?]]></title>
+            <description><![CDATA[By Mark Piesing]]></description>
+            <link>https://spectator.com/article/did-robert-mcnamara-know-vietnam-was-unwinnable/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-robert-mcnamara-know-vietnam-was-unwinnable/?edition=us</guid>
+            <dc:creator><![CDATA[Mark Piesing]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 05:39:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why do political elites insist on posing as outsiders?]]></title>
             <description><![CDATA[Power struggle]]></description>
@@ -3999,22 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/what-i-saw-at-the-montreal-shooting/?edition=us</guid>
             <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 21:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I’m being bullied by Duolingo]]></title>
-            <description><![CDATA[By Nancy Alsop]]></description>
-            <link>https://spectator.com/article/im-being-bullied-by-duolingo/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/im-being-bullied-by-duolingo/?edition=us</guid>
-            <dc:creator><![CDATA[Nancy Alsop]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 18:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about Keir Starmer’s legacy]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/the-truth-about-keir-starmers-legacy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-keir-starmers-legacy/?edition=us</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 18:41:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

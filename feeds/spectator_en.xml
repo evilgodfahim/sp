@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 23:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 01:43:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 23:04:18 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 01:43:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Rod Liddle shook up the BBC]]></title>
+            <description><![CDATA[By Roger Mosey]]></description>
+            <link>https://spectator.com/article/how-rod-liddle-shook-up-the-bbc/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-rod-liddle-shook-up-the-bbc/</guid>
+            <dc:creator><![CDATA[Roger Mosey]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 01:43:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The big hole in Reform’s naval migration plan]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/the-big-hole-in-reforms-naval-migration-plan/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-big-hole-in-reforms-naval-migration-plan/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 01:43:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The best of Rod Liddle’s Listener columns]]></title>
             <description><![CDATA[By Igor Toronyi-Lalic]]></description>
@@ -4008,22 +4024,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <link>https://spectator.com/article/dostoevsky-is-a-dreadful-writer/</link>
             <guid isPermaLink="true">https://spectator.com/article/dostoevsky-is-a-dreadful-writer/</guid>
             <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rock ‘n’ roll will survive the digital age]]></title>
-            <description><![CDATA[By Flora Watkins]]></description>
-            <link>https://spectator.com/article/rock-n-roll-will-survive-the-digital-age/</link>
-            <guid isPermaLink="true">https://spectator.com/article/rock-n-roll-will-survive-the-digital-age/</guid>
-            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the death of the manual car matters]]></title>
-            <description><![CDATA[By Simon Heptinstall]]></description>
-            <link>https://spectator.com/article/why-the-death-of-the-manual-car-matters/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-death-of-the-manual-car-matters/</guid>
-            <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
         </item>
     </channel>

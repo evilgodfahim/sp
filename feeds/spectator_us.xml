@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 23:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 01:43:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 23:04:12 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 01:43:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ariana Grande’s wicked bodyweight]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/ariana-grandes-wicked-bodyweight/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ariana-grandes-wicked-bodyweight/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 01:43:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Please America, take Meghan Markle back]]></title>
             <description><![CDATA[By Rod Liddle]]></description>
@@ -4007,14 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/the-trouble-with-muzzled-liberals/?edition=us</guid>
             <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 04:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The possibilities of a US-Indo alliance are YUGE]]></title>
-            <description><![CDATA[By Sumantra Maitra]]></description>
-            <link>https://spectator.com/article/the-possibilities-of-a-us-indo-alliance-are-yuge/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-possibilities-of-a-us-indo-alliance-are-yuge/?edition=us</guid>
-            <dc:creator><![CDATA[Sumantra Maitra]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 00:02:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

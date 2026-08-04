@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 17:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 19:19:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 17:29:52 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 19:19:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[China is the heir to The Odyssey]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/china-is-the-heir-to-the-odyssey/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/china-is-the-heir-to-the-odyssey/?edition=us</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 19:19:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Turtle doves and the myth of rewilding]]></title>
             <description><![CDATA[By Matt Ridley]]></description>
@@ -306,7 +314,7 @@
         </item>
         <item>
             <title><![CDATA[What the Odyssey means to America]]></title>
-            <description><![CDATA[In 1899 Jack London, beginning his career as a writer, sold a story to Atlantic Monthly for $120. Drawing on his experiences during the Klondike gold rush and on the Yukon River, it was a tale of an Aleutian native wandering the Arctic for years on end in search of his wife, who had been stolen by a powerful Nordic sea captain. London titled his saga, “An Odyssey of the North.]]></description>
+            <description><![CDATA[By Peter Wood]]></description>
             <link>https://spectator.com/article/odyssey-adaptations-translations-jack-london/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/odyssey-adaptations-translations-jack-london/?edition=us</guid>
             <dc:creator><![CDATA[Peter Wood]]></dc:creator>
@@ -4006,14 +4014,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/whos-listening-to-ai-music/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/whos-listening-to-ai-music/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Max Horder]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 11:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of anti-tech terrorism]]></title>
-            <description><![CDATA[Rage against the machine]]></description>
-            <link>https://spectator.com/article/the-rise-of-anti-tech-terrorism/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-anti-tech-terrorism/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Allum Bokhari]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 11:39:17 GMT</pubDate>
         </item>
     </channel>

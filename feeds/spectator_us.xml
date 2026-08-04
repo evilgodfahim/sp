@@ -4,12 +4,36 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 10:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 12:53:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 10:27:58 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 12:53:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Democratic party’s ‘Big Tent’ is a big mistake]]></title>
+            <title><![CDATA[Turtle doves and the myth of rewilding]]></title>
+            <description><![CDATA[By Matt Ridley]]></description>
+            <link>https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 12:53:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The strange death of Islamism]]></title>
+            <description><![CDATA[Islamism]]></description>
+            <link>https://spectator.com/article/the-strange-death-of-islamism/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-strange-death-of-islamism/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 12:53:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s posts aren’t alpha]]></title>
+            <description><![CDATA[By Vuk Vukovic]]></description>
+            <link>https://spectator.com/article/trumps-posts-arent-alpha/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-posts-arent-alpha/?edition=us</guid>
+            <dc:creator><![CDATA[Vuk Vukovic]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 12:53:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Democrats’ Big Tent excuse]]></title>
             <description><![CDATA[By Alex Castellanos]]></description>
             <link>https://spectator.com/article/the-democratic-partys-big-tent-is-a-big-mistake/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-democratic-partys-big-tent-is-a-big-mistake/?edition=us</guid>
@@ -25,7 +49,7 @@
             <pubDate>Tue, 04 Aug 2026 10:27:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ariana Grande’s wicked body weight]]></title>
+            <title><![CDATA[The wicked exploitation of Ariana Grande]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/ariana-grande-wicked-bodyweight/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/ariana-grande-wicked-bodyweight/?edition=us</guid>
@@ -3990,30 +4014,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/the-rise-of-anti-tech-terrorism/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/the-rise-of-anti-tech-terrorism/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Allum Bokhari]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 11:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain is the weak man of Europe on border control]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/britain-has-become-the-weak-man-of-europe-on-border-control/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-has-become-the-weak-man-of-europe-on-border-control/?edition=us</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 11:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Jeff Taylor came back from the dead]]></title>
-            <description><![CDATA[By Bill Kauffman]]></description>
-            <link>https://spectator.com/article/how-jeff-taylor-came-back-from-the-dead/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-jeff-taylor-came-back-from-the-dead/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 11:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The art of resurrecting forgotten artists]]></title>
-            <description><![CDATA[Art]]></description>
-            <link>https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Robin Simon]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 11:39:17 GMT</pubDate>
         </item>
     </channel>

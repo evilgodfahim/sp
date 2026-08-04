@@ -4,10 +4,44 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 01:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 04:55:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 01:43:49 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 04:55:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Tainan the world’s most dangerous city?]]></title>
+            <description><![CDATA[In a country full of brilliant food, the Garden Night Market in sultry Tainan, south-west Taiwan, is still a standout: a cheerful riot of steam, umami, deep-fried tofu and loud, vivacious chatter. Families drift past in loose formation, grandparents hefting toddlers with fruit ices, flirting teenagers orbiting bubble-tea stalls, couples sharing hot skewers of squid, pork and chicken gizzards. Almost everyone plays lurid and inexplicable games involving teddy bears and claw machines.
+
+
+
+
+
+I eat sublime oyster omelettes slick with sweet chilli pepper sauce, then hot soup dumplings that collapse into scalding, savoury bliss. Someone presses popcorn chicken into my hand. It is dangerously moreish.
+
+
+
+The next morning, Tainan feels sun-blessed and unhurried.]]></description>
+            <link>https://spectator.com/article/is-tainan-the-worlds-most-dangerous-city/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-tainan-the-worlds-most-dangerous-city/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 04:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The secrets of the Booker Prize]]></title>
+            <description><![CDATA[By Tibor Fischer]]></description>
+            <link>https://spectator.com/article/the-secrets-of-the-booker-prize/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-secrets-of-the-booker-prize/</guid>
+            <dc:creator><![CDATA[Tibor Fischer]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 04:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s madness to sit exams on screens]]></title>
+            <description><![CDATA[By Philip Womack]]></description>
+            <link>https://spectator.com/article/the-madness-of-sitting-exams-on-screens/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-madness-of-sitting-exams-on-screens/</guid>
+            <dc:creator><![CDATA[Philip Womack]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 04:55:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Rod Liddle shook up the BBC]]></title>
             <description><![CDATA[By Roger Mosey]]></description>
@@ -4001,30 +4035,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/why-the-actor-sam-neill-was-so-loved/</guid>
             <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 11:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ken Bates, Chelsea, and the bad old days of football]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/ken-bates-chelsea-and-the-bad-old-days-of-football/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ken-bates-chelsea-and-the-bad-old-days-of-football/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 08:51:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour can’t blame the Tories for Britain’s tagging crisis]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/labour-cant-blame-the-tories-for-britains-tagging-crisis/</link>
-            <guid isPermaLink="true">https://spectator.com/article/labour-cant-blame-the-tories-for-britains-tagging-crisis/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dostoevsky is a dreadful writer]]></title>
-            <description><![CDATA[By Mark Nayler]]></description>
-            <link>https://spectator.com/article/dostoevsky-is-a-dreadful-writer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dostoevsky-is-a-dreadful-writer/</guid>
-            <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

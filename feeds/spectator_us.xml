@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 19:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 21:02:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 19:19:02 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 21:02:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Down memory lane: It Will Come Back to You, by Sigrid Nunez, reviewed]]></title>
+            <description><![CDATA[By Annie Walton Doyle]]></description>
+            <link>https://spectator.com/article/down-memory-lane-it-will-come-back-to-you-by-sigrid-nunez-reviewed/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/down-memory-lane-it-will-come-back-to-you-by-sigrid-nunez-reviewed/?edition=us</guid>
+            <dc:creator><![CDATA[Annie Walton Doyle]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 21:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s White House helipad do-over]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/trump-white-house-helipad-do-over/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-white-house-helipad-do-over/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 21:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turtle doves and the myth of rewilding]]></title>
+            <description><![CDATA[Wild ambitions]]></description>
+            <link>https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 21:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rise of mediated murder]]></title>
+            <description><![CDATA[By Katherine Dee]]></description>
+            <link>https://spectator.com/article/the-rise-of-mediated-murder/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-mediated-murder/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 21:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why progressives were desperate to believe Jason Arday]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/why-progressives-were-desperate-to-believe-jason-arday/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-progressives-were-desperate-to-believe-jason-arday/?edition=us</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 21:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China understands The Odyssey better than we do]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/china-heir-odyssey-cultural-revolution/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/china-heir-odyssey-cultural-revolution/?edition=us</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 21:02:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[China is the heir to The Odyssey]]></title>
             <description><![CDATA[By Geoffrey Cain]]></description>
@@ -3967,54 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/whos-listening-to-ai-music/?edition=us</guid>
             <dc:creator><![CDATA[Max Horder]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 20:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The French love affair with Scotland]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/faux-ami-why-the-french-love-the-scots/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/faux-ami-why-the-french-love-the-scots/?edition=us</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 20:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northern Ireland has been the biggest loser from Brexit]]></title>
-            <description><![CDATA[By Andrew McQuillan]]></description>
-            <link>https://spectator.com/article/northern-ireland-has-been-the-biggest-loser-from-brexit/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/northern-ireland-has-been-the-biggest-loser-from-brexit/?edition=us</guid>
-            <dc:creator><![CDATA[Andrew McQuillan]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 20:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Jack Schlossberg lost]]></title>
-            <description><![CDATA[By Anastasia Brown]]></description>
-            <link>https://spectator.com/article/jack-schlossberg-lost-new-york-democrats/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/jack-schlossberg-lost-new-york-democrats/?edition=us</guid>
-            <dc:creator><![CDATA[Anastasia Brown]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 20:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Jeff Taylor came back from the dead]]></title>
-            <description><![CDATA[By Bill Kauffman]]></description>
-            <link>https://spectator.com/article/how-jeff-taylor-came-back-from-the-dead/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-jeff-taylor-came-back-from-the-dead/?edition=us</guid>
-            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 18:53:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How old is Meghan Markle… really?]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/how-old-is-meghan-markle-really/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-old-is-meghan-markle-really/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 11:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who’s listening to AI music?]]></title>
-            <description><![CDATA[Slop stars]]></description>
-            <link>https://spectator.com/article/whos-listening-to-ai-music/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/whos-listening-to-ai-music/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Max Horder]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 11:39:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 07:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 10:28:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 07:31:29 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 10:28:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why progressives were desperate to believe Jason Arday]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/why-progressives-were-desperate-to-believe-jason-arday/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-progressives-were-desperate-to-believe-jason-arday/</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 10:28:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The West has become its own worst enemy]]></title>
             <description><![CDATA[Books]]></description>
@@ -25,7 +33,7 @@
             <pubDate>Tue, 04 Aug 2026 07:31:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rod was the most exciting boss I ever had]]></title>
+            <title><![CDATA[Rod Liddle was the most exciting boss I ever had]]></title>
             <description><![CDATA[By Andrew Gilligan]]></description>
             <link>https://spectator.com/article/rod-was-the-most-exciting-boss-i-ever-had/</link>
             <guid isPermaLink="true">https://spectator.com/article/rod-was-the-most-exciting-boss-i-ever-had/</guid>
@@ -4017,14 +4025,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/have-heatwaves-really-killed-2700-people/</guid>
             <dc:creator><![CDATA[John O’Neill]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 17:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Counter terrorism police investigate Widdecombe murder]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/counter-terrorism-police-investigate-widdecombe-murder/</link>
-            <guid isPermaLink="true">https://spectator.com/article/counter-terrorism-police-investigate-widdecombe-murder/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 14:09:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

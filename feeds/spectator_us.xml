@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 07:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 10:27:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 07:31:21 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 10:27:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Democratic party’s ‘Big Tent’ is a big mistake]]></title>
+            <description><![CDATA[By Alex Castellanos]]></description>
+            <link>https://spectator.com/article/the-democratic-partys-big-tent-is-a-big-mistake/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-democratic-partys-big-tent-is-a-big-mistake/?edition=us</guid>
+            <dc:creator><![CDATA[Alex Castellanos]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 10:27:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two wars are becoming one]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/two-wars-are-becoming-one/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/two-wars-are-becoming-one/?edition=us</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 10:27:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ariana Grande’s wicked body weight]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -266,7 +282,7 @@
         </item>
         <item>
             <title><![CDATA[What the Odyssey means to America]]></title>
-            <description><![CDATA[By Peter Wood]]></description>
+            <description><![CDATA[In 1899 Jack London, beginning his career as a writer, sold a story to Atlantic Monthly for $120. Drawing on his experiences during the Klondike gold rush and on the Yukon River, it was a tale of an Aleutian native wandering the Arctic for years on end in search of his wife, who had been stolen by a powerful Nordic sea captain. London titled his saga, “An Odyssey of the North.]]></description>
             <link>https://spectator.com/article/odyssey-adaptations-translations-jack-london/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/odyssey-adaptations-translations-jack-london/?edition=us</guid>
             <dc:creator><![CDATA[Peter Wood]]></dc:creator>
@@ -3999,22 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/the-art-of-resurrecting-forgotten-artists/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Robin Simon]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 11:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise and rise of America’s radical left]]></title>
-            <description><![CDATA[By John Fund]]></description>
-            <link>https://spectator.com/article/the-rise-and-rise-of-americas-radical-left/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-and-rise-of-americas-radical-left/?edition=us</guid>
-            <dc:creator><![CDATA[John Fund]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 11:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s really behind Trump’s clash with the Pope?]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
-            <link>https://spectator.com/article/really-behind-trump-clash-with-pope/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/really-behind-trump-clash-with-pope/?edition=us</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 08:20:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

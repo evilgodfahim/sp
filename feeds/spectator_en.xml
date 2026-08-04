@@ -4,13 +4,29 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 12:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 15:16:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 12:53:22 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 15:16:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Andrew Harper’s killers don’t deserve early release]]></title>
+            <description><![CDATA[By Ian Acheson]]></description>
+            <link>https://spectator.com/article/andrew-harpers-killers-dont-deserve-early-release/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andrew-harpers-killers-dont-deserve-early-release/</guid>
+            <dc:creator><![CDATA[Ian Acheson]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 15:16:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain’s universities are feeding their own destruction]]></title>
+            <description><![CDATA[By Sean Thomas]]></description>
+            <link>https://spectator.com/article/britains-universities-are-feeding-their-own-destruction/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britains-universities-are-feeding-their-own-destruction/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 15:16:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rod Liddle was a brilliant friend]]></title>
-            <description><![CDATA[By Tim Luckhurst]]></description>
+            <description><![CDATA[RIP]]></description>
             <link>https://spectator.com/article/rod-was-a-brilliant-friend/</link>
             <guid isPermaLink="true">https://spectator.com/article/rod-was-a-brilliant-friend/</guid>
             <dc:creator><![CDATA[Tim Luckhurst]]></dc:creator>
@@ -26,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[The Green party tried to get me arrested]]></title>
-            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <description><![CDATA[Doorstep drama]]></description>
             <link>https://spectator.com/article/the-green-party-tried-to-get-me-arrested/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-green-party-tried-to-get-me-arrested/</guid>
             <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
@@ -42,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Why progressives were desperate to believe Jason Arday]]></title>
-            <description><![CDATA[Article of faith]]></description>
+            <description><![CDATA[By Gareth Roberts]]></description>
             <link>https://spectator.com/article/why-progressives-were-desperate-to-believe-jason-arday/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-progressives-were-desperate-to-believe-jason-arday/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -122,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[How Rod Liddle shook up the BBC]]></title>
-            <description><![CDATA[The provocateur]]></description>
+            <description><![CDATA[By Roger Mosey]]></description>
             <link>https://spectator.com/article/how-rod-liddle-shook-up-the-bbc/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-rod-liddle-shook-up-the-bbc/</guid>
             <dc:creator><![CDATA[Roger Mosey]]></dc:creator>
@@ -4008,22 +4024,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <link>https://spectator.com/article/a-tower-of-nonsense/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-tower-of-nonsense/</guid>
             <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 04:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London can’t lose easyJet]]></title>
-            <description><![CDATA[By Christa D’Souza]]></description>
-            <link>https://spectator.com/article/london-cant-lose-easyjet/</link>
-            <guid isPermaLink="true">https://spectator.com/article/london-cant-lose-easyjet/</guid>
-            <dc:creator><![CDATA[Christa D’Souza]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 04:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘You’ve never seen Constable like this’: The Hay Wain reviewed]]></title>
-            <description><![CDATA[By Alec Marsh]]></description>
-            <link>https://spectator.com/article/youve-never-seen-constable-like-this/</link>
-            <guid isPermaLink="true">https://spectator.com/article/youve-never-seen-constable-like-this/</guid>
-            <dc:creator><![CDATA[Alec Marsh]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 04:42:39 GMT</pubDate>
         </item>
     </channel>

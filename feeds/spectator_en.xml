@@ -4,10 +4,40 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 01:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 04:57:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 01:49:26 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 04:57:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Second homes are overrated]]></title>
+            <description><![CDATA[By Monica Porter]]></description>
+            <link>https://spectator.com/article/second-homes-are-overrated/</link>
+            <guid isPermaLink="true">https://spectator.com/article/second-homes-are-overrated/</guid>
+            <dc:creator><![CDATA[Monica Porter]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 04:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the ‘Monaco of the Balkans’]]></title>
+            <description><![CDATA[By Adam James Pollock]]></description>
+            <link>https://spectator.com/article/welcome-to-the-monaco-of-the-balkans/</link>
+            <guid isPermaLink="true">https://spectator.com/article/welcome-to-the-monaco-of-the-balkans/</guid>
+            <dc:creator><![CDATA[Adam James Pollock]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 04:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why it hurts when cricketers cheat]]></title>
+            <description><![CDATA[Cricket has laws, rather than rules, which might explain why someone suspected of breaking them can become the subject of an extra-judicial lynch mob. Last month’s North Yorkshire and South Durham Cricket League’s Division Two game between the second elevens of Saltburn and Norton would normally struggle to make headlines in the Northern Echo. But thanks to video footage of Brian Devine, Saltburn’s 38-year-old slip fielder, apparently clicking his fingers as the ball sailed harmlessly past the outside edge – thereby fooling the umpire into giving the batsman out caught behind – the match has become famous across the world. 
+
+
+
+
+
+Newspaper readers from Melbourne to Mumbai have piled in below the line (and, sometimes, below the belt) to demand the fielder’s head.]]></description>
+            <link>https://spectator.com/article/why-it-hurts-when-cricketers-cheat/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-it-hurts-when-cricketers-cheat/</guid>
+            <dc:creator><![CDATA[Iain Hollingshead]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 04:57:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andy Burnham will regret his working holiday]]></title>
             <description><![CDATA[By Angela Epstein]]></description>
@@ -4000,30 +4030,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <link>https://spectator.com/article/trump-cant-escape-the-iran-war/</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-cant-escape-the-iran-war/</guid>
             <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 07:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lessons in oratory for Andy Burnham]]></title>
-            <description><![CDATA[Ancient and modern]]></description>
-            <link>https://spectator.com/article/lessons-in-oratory-for-andy-burnham/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lessons-in-oratory-for-andy-burnham/</guid>
-            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 07:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dog people are the worst]]></title>
-            <description><![CDATA[Real life]]></description>
-            <link>https://spectator.com/article/dog-people-are-the-worst/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dog-people-are-the-worst/</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 07:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The British spy at the heart of Italy’s Churchill conspiracy theory]]></title>
-            <description><![CDATA[Dolce vita]]></description>
-            <link>https://spectator.com/article/the-british-spy-at-the-heart-of-italys-churchill-conspiracy-theory/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-british-spy-at-the-heart-of-italys-churchill-conspiracy-theory/</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 07:04:25 GMT</pubDate>
         </item>
     </channel>

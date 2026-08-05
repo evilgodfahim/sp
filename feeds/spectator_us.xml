@@ -4,10 +4,22 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 19:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 20:58:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 19:16:14 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 20:58:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Music, Fashion, Film really the best Charli xcx can do?]]></title>
+            <description><![CDATA[Of the three creative pursuits that give Charli xcx’s eighth album its title, the English pop star seems least interested in the first. She admits as much on “Camera,” the best song on Music, Fashion, Film, which makes clear her obsession with acting and a desire to pursue it more fully. “Do I want to make music?” she asks herself. “Am I being fucking stupid if I try to be a girl on the screen and I’m turning 34?”
+
+
+
+Even without this clue – which, like much of the album, is presented via the singer throwing out rhetorical spiel more or less unexpurgated – it is no great stretch to surmise that the pursuit of making music is struggling to fully hold her attention.]]></description>
+            <link>https://spectator.com/article/is-this-really-the-best-charli-xcx-can-do/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-this-really-the-best-charli-xcx-can-do/?edition=us</guid>
+            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 20:58:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pedro Sánchez is stubbornly clinging on to power]]></title>
             <description><![CDATA[By Jim Lawley]]></description>
@@ -4006,14 +4018,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?edition=us</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 16:16:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Israel fend off Hezbollah without alienating America?]]></title>
-            <description><![CDATA[By Jonathan Spyer]]></description>
-            <link>https://spectator.com/article/can-israel-fend-off-hezbollah-without-alienating-america/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-israel-fend-off-hezbollah-without-alienating-america/?edition=us</guid>
-            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 16:16:49 GMT</pubDate>
         </item>
     </channel>

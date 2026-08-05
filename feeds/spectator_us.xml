@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 17:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 19:16:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 17:21:21 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 19:16:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pedro Sánchez is stubbornly clinging on to power]]></title>
+            <description><![CDATA[By Jim Lawley]]></description>
+            <link>https://spectator.com/article/pedro-sanchez-is-stubbornly-clinging-on-to-power/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/pedro-sanchez-is-stubbornly-clinging-on-to-power/?edition=us</guid>
+            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 19:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A grim turning point has been reached in Russia’s war on Ukraine]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/a-grim-turning-point-has-been-reached-in-russias-war-on-ukraine/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-grim-turning-point-has-been-reached-in-russias-war-on-ukraine/?edition=us</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 19:16:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Turtle doves and the myth of rewilding]]></title>
             <description><![CDATA[Wild ambitions]]></description>
@@ -3999,22 +4015,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/can-israel-fend-off-hezbollah-without-alienating-america/?edition=us</guid>
             <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 16:16:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Iran could learn from Denmark]]></title>
-            <description><![CDATA[By James Lewisohn]]></description>
-            <link>https://spectator.com/article/what-iran-should-learn-from-denmark/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-iran-should-learn-from-denmark/?edition=us</guid>
-            <dc:creator><![CDATA[James Lewisohn]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 13:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s ‘greatest’ rally ever]]></title>
-            <description><![CDATA[By Sabrina Philip]]></description>
-            <link>https://spectator.com/article/trumps-greatest-rally-ever/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-greatest-rally-ever/?edition=us</guid>
-            <dc:creator><![CDATA[Sabrina Philip]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 13:11:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

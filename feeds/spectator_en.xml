@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 10:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 12:48:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 10:27:08 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Jason Arday debacle is becoming a national scandal]]></title>
+            <description><![CDATA[By James Hanson]]></description>
+            <link>https://spectator.com/article/the-jason-arday-debacle-is-becoming-a-national-scandal/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-jason-arday-debacle-is-becoming-a-national-scandal/</guid>
+            <dc:creator><![CDATA[James Hanson]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine is having fun attacking ‘Russia’s Amazon’]]></title>
+            <description><![CDATA[By Lisa Haseldine]]></description>
+            <link>https://spectator.com/article/ukraine-is-having-fun-attacking-russias-amazon/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ukraine-is-having-fun-attacking-russias-amazon/</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s healthy for kids to learn the meaning of true boredom]]></title>
+            <description><![CDATA[By Kristina ﻿Murkett]]></description>
+            <link>https://spectator.com/article/its-healthy-for-kids-to-learn-the-meaning-of-true-boredom/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-healthy-for-kids-to-learn-the-meaning-of-true-boredom/</guid>
+            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We can’t keep pretending anti-Israel hate and anti-Semitism are unrelated]]></title>
+            <description><![CDATA[By Dave Rich]]></description>
+            <link>https://spectator.com/article/we-cant-keep-pretending-anti-israel-hate-and-anti-semitism-are-unrelated/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-cant-keep-pretending-anti-israel-hate-and-anti-semitism-are-unrelated/</guid>
+            <dc:creator><![CDATA[Dave Rich]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The troubling legacy of John Esposito]]></title>
+            <description><![CDATA[A reflection]]></description>
+            <link>https://spectator.com/article/the-troubling-legacy-of-john-esposito/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-troubling-legacy-of-john-esposito/</guid>
+            <dc:creator><![CDATA[John Jenkins]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antisemitism is now part of life in Britain]]></title>
+            <description><![CDATA[Jew hate]]></description>
+            <link>https://spectator.com/article/antisemitism-is-now-part-of-life-in-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/antisemitism-is-now-part-of-life-in-britain/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The wicked exploitation of Ariana Grande]]></title>
             <description><![CDATA[By rights, the 33-year-old singer-songwriter and actress Ariana Grande should be at the peak of her profession. She won acclaim for her performances in the Wicked films – the first one of which she was Oscar-nominated for – and has consistently released successful albums, including last week’s new record petal. Under normal circumstances she would be looking forward to continuing her world tour, Eternal Sunshine. And next year, she was slated to make her London stage debut opposite her Wicked co-star Jonathan Bailey in Stephen Sondheim’s Sunday In The Park With George.
@@ -23,8 +71,8 @@ There is, however, one rather significant issue with this, which has been discus
             <pubDate>Wed, 05 Aug 2026 10:27:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Rod revolutionised Today]]></title>
-            <description><![CDATA[By Roger Harrabin]]></description>
+            <title><![CDATA[How Rod Liddle revolutionised Today]]></title>
+            <description><![CDATA[In memory]]></description>
             <link>https://spectator.com/article/how-rod-revolutionised-today/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-rod-revolutionised-today/</guid>
             <dc:creator><![CDATA[Roger Harrabin]]></dc:creator>
@@ -72,7 +120,7 @@ There is, however, one rather significant issue with this, which has been discus
         </item>
         <item>
             <title><![CDATA[Stopping the boats would be good diplomacy]]></title>
-            <description><![CDATA[Border control]]></description>
+            <description><![CDATA[By Ameer Kotecha]]></description>
             <link>https://spectator.com/article/britain-could-benefit-from-the-european-shift-on-migration/</link>
             <guid isPermaLink="true">https://spectator.com/article/britain-could-benefit-from-the-european-shift-on-migration/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
@@ -3987,54 +4035,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/bbc-reveals-annual-staff-rich-list/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 17:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ed Davey: Tory wets should join me]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/ed-davey-tory-wets-should-join-me/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ed-davey-tory-wets-should-join-me/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 15:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Nigel Farage under attack for mourning Ann Widdecombe?]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/why-is-nigel-farage-under-attack-for-mourning-ann-widdecombe/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-is-nigel-farage-under-attack-for-mourning-ann-widdecombe/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 15:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The left has a problem with boys and men]]></title>
-            <description><![CDATA[By Jake Richards]]></description>
-            <link>https://spectator.com/article/the-left-has-a-problem-with-boys-and-men/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-left-has-a-problem-with-boys-and-men/</guid>
-            <dc:creator><![CDATA[Jake Richards]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 13:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Ed Miliband really changing his tune on North Sea oil?]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/is-ed-miliband-really-changing-his-tune-on-north-sea-oil/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-ed-miliband-really-changing-his-tune-on-north-sea-oil/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 13:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Accounts are good economics]]></title>
-            <description><![CDATA[By Maximillian Garely]]></description>
-            <link>https://spectator.com/article/trump-accounts-are-good-economics/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-accounts-are-good-economics/</guid>
-            <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 11:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Poland and Ukraine can repair their broken relationship]]></title>
-            <description><![CDATA[By Bartek Staniszewski]]></description>
-            <link>https://spectator.com/article/how-poland-and-ukraine-can-repair-their-broken-relationship/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-poland-and-ukraine-can-repair-their-broken-relationship/</guid>
-            <dc:creator><![CDATA[Bartek Staniszewski]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 11:18:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

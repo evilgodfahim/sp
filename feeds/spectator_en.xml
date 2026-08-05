@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 12:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 15:08:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 15:08:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Has Abdul El-Sayed just saved Trump?]]></title>
+            <description><![CDATA[By Ben Clerkin]]></description>
+            <link>https://spectator.com/article/abdul-el-sayed-has-just-saved-trump/</link>
+            <guid isPermaLink="true">https://spectator.com/article/abdul-el-sayed-has-just-saved-trump/</guid>
+            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 15:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain, Ukraine and the EU must strike a new deal]]></title>
+            <description><![CDATA[By Nick Boles]]></description>
+            <link>https://spectator.com/article/britain-ukraine-and-the-eu-must-strike-a-new-deal/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-ukraine-and-the-eu-must-strike-a-new-deal/</guid>
+            <dc:creator><![CDATA[Nick Boles]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 15:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How common is academic plagiarism in Britain?]]></title>
+            <description><![CDATA[By Sam McPhail]]></description>
+            <link>https://spectator.com/article/how-common-is-academic-plagiarism-in-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-common-is-academic-plagiarism-in-britain/</guid>
+            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 15:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Treasury fires warning shot at wealthy]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/treasury-fires-warning-shot-at-wealthy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/treasury-fires-warning-shot-at-wealthy/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 15:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham must get used to being unpopular]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/andy-burnham-must-get-used-to-being-unpopular/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-must-get-used-to-being-unpopular/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 15:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pedro Sanchez is stubbornly clinging on to power]]></title>
+            <description><![CDATA[By Jim Lawley]]></description>
+            <link>https://spectator.com/article/pedro-sanchez-is-stubbornly-clinging-on-to-power/</link>
+            <guid isPermaLink="true">https://spectator.com/article/pedro-sanchez-is-stubbornly-clinging-on-to-power/</guid>
+            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 15:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A grim turning point has been reached in Russia’s war on Ukraine]]></title>
+            <description><![CDATA[Attack]]></description>
+            <link>https://spectator.com/article/a-grim-turning-point-has-been-reached-in-russias-war-on-ukraine/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-grim-turning-point-has-been-reached-in-russias-war-on-ukraine/</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 15:08:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Jason Arday debacle is becoming a national scandal]]></title>
             <description><![CDATA[By James Hanson]]></description>
@@ -152,7 +208,7 @@ There is, however, one rather significant issue with this, which has been discus
         </item>
         <item>
             <title><![CDATA[Andy Burnham will regret his working holiday]]></title>
-            <description><![CDATA[By Angela Epstein]]></description>
+            <description><![CDATA[WFH]]></description>
             <link>https://spectator.com/article/andy-burnham-will-regret-his-working-holiday/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-will-regret-his-working-holiday/</guid>
             <dc:creator><![CDATA[Angela Epstein]]></dc:creator>
@@ -3979,62 +4035,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <guid isPermaLink="true">https://spectator.com/article/dear-mary-help-i-have-four-girlfriends/</guid>
             <dc:creator><![CDATA[Mary Killen]]></dc:creator>
             <pubDate>Wed, 15 Jul 2026 07:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The problem with Farage’s blue suits]]></title>
-            <description><![CDATA[By Thomas Munson]]></description>
-            <link>https://spectator.com/article/the-problem-with-farages-suits/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-farages-suits/</guid>
-            <dc:creator><![CDATA[Thomas Munson]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 04:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long live the working lunch]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/long-live-the-working-lunch/</link>
-            <guid isPermaLink="true">https://spectator.com/article/long-live-the-working-lunch/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 04:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could Gibraltar fall to Spain?]]></title>
-            <description><![CDATA[By Jim Lawley]]></description>
-            <link>https://spectator.com/article/could-gibraltar-fall-to-spain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/could-gibraltar-fall-to-spain/</guid>
-            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 04:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba is a lovesick country]]></title>
-            <description><![CDATA[By Ruaridh Nicoll]]></description>
-            <link>https://spectator.com/article/cuba-is-a-lovesick-country/</link>
-            <guid isPermaLink="true">https://spectator.com/article/cuba-is-a-lovesick-country/</guid>
-            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 04:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Falkland Islanders are desperate for England to beat Argentina]]></title>
-            <description><![CDATA[By Robert Taylor]]></description>
-            <link>https://spectator.com/article/falkland-islanders-are-desperate-for-england-to-beat-argentina/</link>
-            <guid isPermaLink="true">https://spectator.com/article/falkland-islanders-are-desperate-for-england-to-beat-argentina/</guid>
-            <dc:creator><![CDATA[Robert Taylor]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 01:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Am I missing out on the World Cup?]]></title>
-            <description><![CDATA[A good sport]]></description>
-            <link>https://spectator.com/article/am-i-missing-out-on-the-world-cup/</link>
-            <guid isPermaLink="true">https://spectator.com/article/am-i-missing-out-on-the-world-cup/</guid>
-            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 01:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BBC publishes annual staff rich list]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/bbc-reveals-annual-staff-rich-list/</link>
-            <guid isPermaLink="true">https://spectator.com/article/bbc-reveals-annual-staff-rich-list/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 17:04:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

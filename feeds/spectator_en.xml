@@ -4,13 +4,45 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 04:57:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 07:35:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 04:57:07 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 07:35:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Tax the poor]]></title>
+            <description><![CDATA[Economy]]></description>
+            <link>https://spectator.com/article/tax-the-poor/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/tax-the-poor/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 07:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bring back the old Tube seat designs!]]></title>
+            <description><![CDATA[Exhibitions]]></description>
+            <link>https://spectator.com/article/bring-back-the-old-tube-seat-designs/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/bring-back-the-old-tube-seat-designs/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 07:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The justice system is collapsing]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/the-justice-system-is-collapsing/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-justice-system-is-collapsing/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 07:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain could benefit from the European shift on migration]]></title>
+            <description><![CDATA[Border control]]></description>
+            <link>https://spectator.com/article/britain-could-benefit-from-the-european-shift-on-migration/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-could-benefit-from-the-european-shift-on-migration/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 07:35:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Second homes are overrated]]></title>
-            <description><![CDATA[By Monica Porter]]></description>
+            <description><![CDATA[Two good to be true]]></description>
             <link>https://spectator.com/article/second-homes-are-overrated/</link>
             <guid isPermaLink="true">https://spectator.com/article/second-homes-are-overrated/</guid>
             <dc:creator><![CDATA[Monica Porter]]></dc:creator>
@@ -18,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Welcome to the ‘Monaco of the Balkans’]]></title>
-            <description><![CDATA[By Adam James Pollock]]></description>
+            <description><![CDATA[La vie en rose]]></description>
             <link>https://spectator.com/article/welcome-to-the-monaco-of-the-balkans/</link>
             <guid isPermaLink="true">https://spectator.com/article/welcome-to-the-monaco-of-the-balkans/</guid>
             <dc:creator><![CDATA[Adam James Pollock]]></dc:creator>
@@ -26,13 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Why it hurts when cricketers cheat]]></title>
-            <description><![CDATA[Cricket has laws, rather than rules, which might explain why someone suspected of breaking them can become the subject of an extra-judicial lynch mob. Last month’s North Yorkshire and South Durham Cricket League’s Division Two game between the second elevens of Saltburn and Norton would normally struggle to make headlines in the Northern Echo. But thanks to video footage of Brian Devine, Saltburn’s 38-year-old slip fielder, apparently clicking his fingers as the ball sailed harmlessly past the outside edge – thereby fooling the umpire into giving the batsman out caught behind – the match has become famous across the world. 
-
-
-
-
-
-Newspaper readers from Melbourne to Mumbai have piled in below the line (and, sometimes, below the belt) to demand the fielder’s head.]]></description>
+            <description><![CDATA[Caught Out]]></description>
             <link>https://spectator.com/article/why-it-hurts-when-cricketers-cheat/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-it-hurts-when-cricketers-cheat/</guid>
             <dc:creator><![CDATA[Iain Hollingshead]]></dc:creator>
@@ -88,7 +114,7 @@ Newspaper readers from Melbourne to Mumbai have piled in below the line (and, so
         </item>
         <item>
             <title><![CDATA[The monstering of Boy George]]></title>
-            <description><![CDATA[Israelophobic mob]]></description>
+            <description><![CDATA[By Brendan O’Neill]]></description>
             <link>https://spectator.com/article/the-monstering-of-boy-george/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-monstering-of-boy-george/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -96,7 +122,7 @@ Newspaper readers from Melbourne to Mumbai have piled in below the line (and, so
         </item>
         <item>
             <title><![CDATA[Why progressives were desperate to believe Jason Arday]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
+            <description><![CDATA[Article of faith]]></description>
             <link>https://spectator.com/article/why-progressives-were-desperate-to-believe-jason-arday/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-progressives-were-desperate-to-believe-jason-arday/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -152,7 +178,7 @@ Newspaper readers from Melbourne to Mumbai have piled in below the line (and, so
         </item>
         <item>
             <title><![CDATA[Is Tainan the world’s most dangerous city?]]></title>
-            <description><![CDATA[Made in Taiwan]]></description>
+            <description><![CDATA[By Sean Thomas]]></description>
             <link>https://spectator.com/article/is-tainan-the-worlds-most-dangerous-city/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-tainan-the-worlds-most-dangerous-city/</guid>
             <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
@@ -160,7 +186,7 @@ Newspaper readers from Melbourne to Mumbai have piled in below the line (and, so
         </item>
         <item>
             <title><![CDATA[The secrets of the Booker Prize]]></title>
-            <description><![CDATA[Literary prestige]]></description>
+            <description><![CDATA[By Tibor Fischer]]></description>
             <link>https://spectator.com/article/the-secrets-of-the-booker-prize/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-secrets-of-the-booker-prize/</guid>
             <dc:creator><![CDATA[Tibor Fischer]]></dc:creator>
@@ -168,7 +194,7 @@ Newspaper readers from Melbourne to Mumbai have piled in below the line (and, so
         </item>
         <item>
             <title><![CDATA[It’s madness to sit exams on screens]]></title>
-            <description><![CDATA[Fail-safe]]></description>
+            <description><![CDATA[By Philip Womack]]></description>
             <link>https://spectator.com/article/the-madness-of-sitting-exams-on-screens/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-madness-of-sitting-exams-on-screens/</guid>
             <dc:creator><![CDATA[Philip Womack]]></dc:creator>
@@ -192,7 +218,11 @@ Newspaper readers from Melbourne to Mumbai have piled in below the line (and, so
         </item>
         <item>
             <title><![CDATA[The best of Rod Liddle’s Listener columns]]></title>
-            <description><![CDATA[By Igor Toronyi-Lalic]]></description>
+            <description><![CDATA[Commissioning Rod on pop was easy. I’d email him a list of eligible albums and he’d ignore me and offer to review something completely deranged such as Cradle of Filth’s The Screaming of the Valkyries (‘plenty to admire’, B+). Within a few hours I’d receive a flawless little column.
+
+
+
+He started doing a monthly Listener in 2017. His musical interests were vast and unpredictable. He reserved his highest praise for albums by the likes of Beyoncé, FKA Twigs, Cypress Hill, A.G. Cook, Rosalia, Wet Leg, M.J. Lenderman, PWR BTTM, Snoop Dogg, Fat White Family. He much admired the Tuareg desert blues band Tinariwen and wondered if I might fly him to Austria to hear a Philip Glass recital.]]></description>
             <link>https://spectator.com/article/the-best-of-rod-liddles-listener-columns/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-best-of-rod-liddles-listener-columns/</guid>
             <dc:creator><![CDATA[Igor Toronyi-Lalic]]></dc:creator>
@@ -960,7 +990,7 @@ Newspaper readers from Melbourne to Mumbai have piled in below the line (and, so
         </item>
         <item>
             <title><![CDATA[Tax the poor]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
+            <description><![CDATA[Economy]]></description>
             <link>https://spectator.com/article/tax-the-poor/</link>
             <guid isPermaLink="true">https://spectator.com/article/tax-the-poor/</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
@@ -1072,7 +1102,7 @@ Newspaper readers from Melbourne to Mumbai have piled in below the line (and, so
         </item>
         <item>
             <title><![CDATA[Bring back the old Tube seat designs!]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
+            <description><![CDATA[Exhibitions]]></description>
             <link>https://spectator.com/article/bring-back-the-old-tube-seat-designs/</link>
             <guid isPermaLink="true">https://spectator.com/article/bring-back-the-old-tube-seat-designs/</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
@@ -1088,7 +1118,7 @@ Newspaper readers from Melbourne to Mumbai have piled in below the line (and, so
         </item>
         <item>
             <title><![CDATA[The new Spider-Man is a triumph of Hollywood professionalism]]></title>
-            <description><![CDATA[By James Walton]]></description>
+            <description><![CDATA[Cinema]]></description>
             <link>https://spectator.com/article/the-new-spider-man-is-a-triumph-of-hollywood-professionalism/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-new-spider-man-is-a-triumph-of-hollywood-professionalism/</guid>
             <dc:creator><![CDATA[James Walton]]></dc:creator>
@@ -3998,38 +4028,6 @@ Before that, on Friday, Burnham will accept the leadership of the Labour party, 
             <link>https://spectator.com/article/lessons-in-oratory-for-andy-burnham/?homepage-tracking=high_density-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/lessons-in-oratory-for-andy-burnham/?homepage-tracking=high_density-article-1</guid>
             <dc:creator><![CDATA[Peter Jones]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 07:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dog people are the worst]]></title>
-            <description><![CDATA[Real life]]></description>
-            <link>https://spectator.com/article/dog-people-are-the-worst/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/dog-people-are-the-worst/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 07:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The British spy at the heart of Italy’s Churchill conspiracy theory]]></title>
-            <description><![CDATA[Dolce vita]]></description>
-            <link>https://spectator.com/article/the-british-spy-at-the-heart-of-italys-churchill-conspiracy-theory/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-british-spy-at-the-heart-of-italys-churchill-conspiracy-theory/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 07:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The danger of the Olly Robbins legal challenge]]></title>
-            <description><![CDATA[Mandarin]]></description>
-            <link>https://spectator.com/article/the-danger-of-the-olly-robbins-legal-challenge/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-danger-of-the-olly-robbins-legal-challenge/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 07:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump can’t escape the Iran war]]></title>
-            <description><![CDATA[By Daniel DePetris]]></description>
-            <link>https://spectator.com/article/trump-cant-escape-the-iran-war/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-cant-escape-the-iran-war/</guid>
-            <dc:creator><![CDATA[Daniel DePetris]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 07:04:25 GMT</pubDate>
         </item>
     </channel>

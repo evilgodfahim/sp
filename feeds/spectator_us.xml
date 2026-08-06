@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 07:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 10:29:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 07:36:39 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 10:29:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who funds the DSA?]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/who-funds-the-dsa/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-funds-the-dsa/?edition=us</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 10:29:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Music, Fashion, Film really the best Charli xcx can do?]]></title>
             <description><![CDATA[Of the three creative pursuits that give Charli xcx’s eighth album its title, the English pop star seems least interested in the first. She admits as much on “Camera,” the best song on Music, Fashion, Film, which makes clear her obsession with acting and a desire to pursue it more fully. “Do I want to make music?” she asks herself. “Am I being fucking stupid if I try to be a girl on the screen and I’m turning 34?”
@@ -4011,14 +4019,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/25-years-neocons-trump-scott-mcconnell-diary/?edition=us</guid>
             <dc:creator><![CDATA[Scott McConnell]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 19:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chicken Milanese is the king of homemade fast food]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
-            <link>https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/chicken-milanese-is-the-king-of-homemade-fast-food/?edition=us</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 16:16:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

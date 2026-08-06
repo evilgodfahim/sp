@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 15:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 22:16:53 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 15:08:05 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 22:16:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How nukes made the world safer]]></title>
+            <description><![CDATA[By Alex Alfirraz Scheers]]></description>
+            <link>https://spectator.com/article/how-nukes-made-the-world-safer/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-nukes-made-the-world-safer/?edition=us</guid>
+            <dc:creator><![CDATA[Alex Alfirraz Scheers]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 22:16:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marco Rubio’s defense spending call is nothing new]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/marco-rubios-defence-spending-urge-is-nothing-new/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/marco-rubios-defence-spending-urge-is-nothing-new/?edition=us</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 22:16:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The message behind the US pavilion at the Venice Biennale]]></title>
             <description><![CDATA[By James Panero]]></description>
@@ -4002,22 +4018,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/the-spectators-role-in-the-birth-of-america/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/the-spectators-role-in-the-birth-of-america/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Gus Carter]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fourth of July barbecue traditions through the years]]></title>
-            <description><![CDATA[Pit stop]]></description>
-            <link>https://spectator.com/article/fourth-of-july-barbecue-traditions-through-the-years/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/fourth-of-july-barbecue-traditions-through-the-years/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will robots simply bore us to extinction?]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/will-robots-simply-bore-us-to-extinction/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-robots-simply-bore-us-to-extinction/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Christopher Webb]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
         </item>
     </channel>

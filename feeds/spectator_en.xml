@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 23:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 02:10:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 23:50:46 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 02:10:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The strange world of ‘2D exclusive’ Japanese women]]></title>
+            <description><![CDATA[By Philip Patrick]]></description>
+            <link>https://spectator.com/article/the-strange-world-of-2d-exclusive-japanese-women/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-strange-world-of-2d-exclusive-japanese-women/</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 02:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Black Lives Matter created Jason Arday]]></title>
+            <description><![CDATA[By Tom Slater]]></description>
+            <link>https://spectator.com/article/how-black-lives-matter-created-jason-arday/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-black-lives-matter-created-jason-arday/</guid>
+            <dc:creator><![CDATA[Tom Slater]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 02:10:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will Yvette Cooper’s new mental health centres work?]]></title>
             <description><![CDATA[By Isabel Hardman]]></description>
@@ -4022,22 +4038,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/im-sick-of-plastic-football-fans/</link>
             <guid isPermaLink="true">https://spectator.com/article/im-sick-of-plastic-football-fans/</guid>
             <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 07:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social media has saved comedy]]></title>
-            <description><![CDATA[Funny business]]></description>
-            <link>https://spectator.com/article/social-media-has-saved-comedy/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/social-media-has-saved-comedy/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 07:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ruinous addictiveness of Panini stickers]]></title>
-            <description><![CDATA[Notes on...]]></description>
-            <link>https://spectator.com/article/the-ruinous-addictiveness-of-panini-stickers/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-ruinous-addictiveness-of-panini-stickers/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[John Sturgis]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 07:16:51 GMT</pubDate>
         </item>
     </channel>

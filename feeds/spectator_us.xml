@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 14:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 15:44:56 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 14:06:00 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 15:44:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rod’s bravery made others brave too]]></title>
+            <description><![CDATA[My brilliant friend]]></description>
+            <link>https://spectator.com/article/rods-bravery-made-others-brave-too/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/rods-bravery-made-others-brave-too/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 15:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where are the bear facts on grizzlies?]]></title>
+            <description><![CDATA[By J. Shane Townsend]]></description>
+            <link>https://spectator.com/article/where-are-the-bear-facts-on-grizzlies/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/where-are-the-bear-facts-on-grizzlies/?edition=us</guid>
+            <dc:creator><![CDATA[J. Shane Townsend]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 15:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Scott Bessent America’s most important diplomat?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/is-scott-bessent-americas-most-important-diplomat/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-scott-bessent-americas-most-important-diplomat/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 15:44:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Malbec: a conundrum worth solving]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -3995,30 +4019,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/housing-with-hamadeh-cockburn-diary-06-26-26/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 22:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The highs and lows of life as an artist]]></title>
-            <description><![CDATA[By Catriona Olding]]></description>
-            <link>https://spectator.com/article/the-highs-and-lows-of-life-as-an-artist/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-highs-and-lows-of-life-as-an-artist/?edition=us</guid>
-            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 22:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Brexit decade: was it worth it?]]></title>
-            <description><![CDATA[By Michael Gove]]></description>
-            <link>https://spectator.com/article/the-brexit-decade-was-it-worth-it/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-brexit-decade-was-it-worth-it/?edition=us</guid>
-            <dc:creator><![CDATA[Michael Gove]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 20:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Burnham resist the siren call of the left?]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/burnhams-odyssey/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnhams-odyssey/?edition=us</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 20:27:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

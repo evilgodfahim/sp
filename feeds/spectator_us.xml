@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 11:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 12:41:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 11:38:31 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 12:41:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Malbec: a conundrum worth solving]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/malbec-conundrum-worth-solving/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/malbec-conundrum-worth-solving/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 12:41:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drinking with Geoffrey Madan]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/drinking-with-geoffrey-madan/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/drinking-with-geoffrey-madan/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 12:41:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can I fucking swear yet?: Rod Liddle’s last column]]></title>
             <description><![CDATA[By Rod Liddle]]></description>
@@ -33,7 +49,7 @@
             <pubDate>Fri, 07 Aug 2026 11:38:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Could Gadi Eisenkot topple Netanyahu?]]></title>
+            <title><![CDATA[The man who could topple Benjamin Netanyahu]]></title>
             <description><![CDATA[By Arieh Kovler]]></description>
             <link>https://spectator.com/article/bye-bye-bibi/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/bye-bye-bibi/?edition=us</guid>
@@ -4002,22 +4018,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/burnhams-odyssey/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/burnhams-odyssey/?edition=us</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 20:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In praise of Peter Murrell]]></title>
-            <description><![CDATA[By Rory Sutherland]]></description>
-            <link>https://spectator.com/article/in-praise-of-peter-murrell/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-praise-of-peter-murrell/?edition=us</guid>
-            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 20:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toy Story 5 contains delicious touches]]></title>
-            <description><![CDATA[By Deborah Ross]]></description>
-            <link>https://spectator.com/article/toy-story-5-contains-delicious-touches/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/toy-story-5-contains-delicious-touches/?edition=us</guid>
-            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 20:27:42 GMT</pubDate>
         </item>
     </channel>

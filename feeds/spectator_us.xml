@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 16:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 17:40:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 16:42:50 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 17:40:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gun massacres are becoming all too regular in Thailand]]></title>
+            <description><![CDATA[By Philip Patrick]]></description>
+            <link>https://spectator.com/article/gun-massacres-are-becoming-all-too-regular-in-thailand/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/gun-massacres-are-becoming-all-too-regular-in-thailand/?edition=us</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 17:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The man who could topple Benjamin Netanyahu]]></title>
+            <description><![CDATA[By Arieh Kovler]]></description>
+            <link>https://spectator.com/article/man-could-topple-benjamin-netanyahu-gadi-eisenkot/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/man-could-topple-benjamin-netanyahu-gadi-eisenkot/?edition=us</guid>
+            <dc:creator><![CDATA[Arieh Kovler]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 17:40:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rod’s bravery made others brave too]]></title>
             <description><![CDATA[My brilliant friend]]></description>
@@ -4003,22 +4019,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/how-mark-carney-sold-canada-to-china/?edition=us</guid>
             <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
             <pubDate>Sat, 27 Jun 2026 13:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venezuela’s earthquake is the cruelest blow]]></title>
-            <description><![CDATA[By Catherine Ellis]]></description>
-            <link>https://spectator.com/article/venezuelas-earthquake-is-the-cruellest-blow/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/venezuelas-earthquake-is-the-cruellest-blow/?edition=us</guid>
-            <dc:creator><![CDATA[Catherine Ellis]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 06:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Housing with Hamadeh]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/housing-with-hamadeh-cockburn-diary-06-26-26/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/housing-with-hamadeh-cockburn-diary-06-26-26/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 22:03:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 10:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 11:38:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 10:43:13 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 11:38:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Progressives no longer care about women]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/progressives-no-longer-care-about-women/</link>
+            <guid isPermaLink="true">https://spectator.com/article/progressives-no-longer-care-about-women/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 11:38:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No, Westminster isn’t banning ‘vertical drinking’]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/no-westminster-isnt-banning-vertical-drinking/</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-westminster-isnt-banning-vertical-drinking/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 11:38:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Amanda Knox should not do comedy]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4027,22 +4043,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <guid isPermaLink="true">https://spectator.com/article/will-assisted-dying-be-macrons-final-legacy/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 15:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer tells Argentina: hands off the Falklands]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/starmer-tells-argentina-hands-off-the-falklands/</link>
-            <guid isPermaLink="true">https://spectator.com/article/starmer-tells-argentina-hands-off-the-falklands/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 15:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My run-in with Hugh Grant]]></title>
-            <description><![CDATA[Diary]]></description>
-            <link>https://spectator.com/article/my-run-in-with-hugh-grant/</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-run-in-with-hugh-grant/</guid>
-            <dc:creator><![CDATA[Sasha Swire]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 13:22:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

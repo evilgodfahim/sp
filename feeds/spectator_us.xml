@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 10:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 11:38:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 10:43:08 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 11:38:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can I fucking swear yet?: Rod Liddle’s last column]]></title>
+            <description><![CDATA[By Rod Liddle]]></description>
+            <link>https://spectator.com/article/can-i-fucking-swear-yet-rod-liddles-last-column/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-i-fucking-swear-yet-rod-liddles-last-column/?edition=us</guid>
+            <dc:creator><![CDATA[Rod Liddle]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 11:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drinking with Geoffrey Madan]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/in-vino-veritas-2/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-vino-veritas-2/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 11:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Black Lives Matter created Jason Arday]]></title>
+            <description><![CDATA[By Tom Slater]]></description>
+            <link>https://spectator.com/article/how-black-lives-matter-created-jason-arday/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-black-lives-matter-created-jason-arday/?edition=us</guid>
+            <dc:creator><![CDATA[Tom Slater]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 11:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could Gadi Eisenkot topple Netanyahu?]]></title>
+            <description><![CDATA[By Arieh Kovler]]></description>
+            <link>https://spectator.com/article/bye-bye-bibi/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/bye-bye-bibi/?edition=us</guid>
+            <dc:creator><![CDATA[Arieh Kovler]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 11:38:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Amanda Knox should not do comedy]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -3987,38 +4019,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/toy-story-5-contains-delicious-touches/?edition=us</guid>
             <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 20:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A trove of avian lore and history]]></title>
-            <description><![CDATA[By Horatio Clare]]></description>
-            <link>https://spectator.com/article/a-trove-of-avian-lore-and-history/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-trove-of-avian-lore-and-history/?edition=us</guid>
-            <dc:creator><![CDATA[Horatio Clare]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 20:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Trump’s quest for peace doomed?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/president-trump-quest-peace-doomed-iran/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/president-trump-quest-peace-doomed-iran/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 18:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What went wrong with the Madonna biopic?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 16:07:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who can save America’s 250th birthday?]]></title>
-            <description><![CDATA[By Matt McDonald]]></description>
-            <link>https://spectator.com/article/keith-krach-save-america-250th-birthday/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/keith-krach-save-america-250th-birthday/?edition=us</guid>
-            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 16:07:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

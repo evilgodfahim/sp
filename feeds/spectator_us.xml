@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 18:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 19:44:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 18:41:09 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 19:44:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The revenge of Tony P]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/revenge-tony-p-cockburn-diary-08-07-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/revenge-tony-p-cockburn-diary-08-07-26/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 19:44:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gun massacres are becoming all too regular in Thailand]]></title>
             <description><![CDATA[By Philip Patrick]]></description>
@@ -4011,14 +4019,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/even-andy-burnham-doesnt-know-what-andy-burnham-stands-for/?edition=us</guid>
             <dc:creator><![CDATA[Charles Moore]]></dc:creator>
             <pubDate>Sat, 27 Jun 2026 15:09:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Mark Carney sold Canada to China]]></title>
-            <description><![CDATA[By Jane Stannus]]></description>
-            <link>https://spectator.com/article/how-mark-carney-sold-canada-to-china/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-mark-carney-sold-canada-to-china/?edition=us</guid>
-            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 13:13:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

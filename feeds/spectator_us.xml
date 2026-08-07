@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 02:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 04:48:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 02:10:34 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 04:48:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rod’s bravery made others brave too]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/rods-bravery-made-others-brave-too/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/rods-bravery-made-others-brave-too/?edition=us</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 04:48:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How nukes made the world safer]]></title>
             <description><![CDATA[By Alex Alfirraz Scheers]]></description>
@@ -4010,14 +4018,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/burnhams-worryingly-vague-vision-for-britain/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/burnhams-worryingly-vague-vision-for-britain/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Spectator’s role in the birth of America]]></title>
-            <description><![CDATA[A special relationship]]></description>
-            <link>https://spectator.com/article/the-spectators-role-in-the-birth-of-america/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-spectators-role-in-the-birth-of-america/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Gus Carter]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 13:04:08 GMT</pubDate>
         </item>
     </channel>

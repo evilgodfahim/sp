@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 08:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 09:52:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 08:07:32 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 09:52:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Amanda Knox should not do comedy]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/amanda-knox-should-not-do-comedy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/amanda-knox-should-not-do-comedy/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 09:52:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two more bets for York]]></title>
             <description><![CDATA[Scottish trainer Iain Jardine knows what it takes to win the Sky Bet Ebor Handicap at York. He landed the race, the UK’s most valuable flat handicap, in 2017 with his then six-year-old gelding Nakeeta.
@@ -4034,14 +4042,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/my-run-in-with-hugh-grant/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-run-in-with-hugh-grant/</guid>
             <dc:creator><![CDATA[Sasha Swire]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 13:22:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Gazan family ruling makes a mockery of human rights]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
-            <link>https://spectator.com/article/the-gazan-family-ruling-makes-a-mockery-of-human-rights/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-gazan-family-ruling-makes-a-mockery-of-human-rights/</guid>
-            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 13:22:58 GMT</pubDate>
         </item>
     </channel>

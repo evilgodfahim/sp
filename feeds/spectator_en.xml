@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 00:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 02:52:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 00:57:51 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 02:52:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cambridge has fallen]]></title>
+            <description><![CDATA[By The Spectator]]></description>
+            <link>https://spectator.com/article/cambridge-has-fallen/</link>
+            <guid isPermaLink="true">https://spectator.com/article/cambridge-has-fallen/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 02:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why ticket barriers won’t stop fare dodging on trains]]></title>
+            <description><![CDATA[By Christian Wolmar]]></description>
+            <link>https://spectator.com/article/why-ticket-barriers-wont-stop-fare-dodging-on-trains/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-ticket-barriers-wont-stop-fare-dodging-on-trains/</guid>
+            <dc:creator><![CDATA[Christian Wolmar]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 02:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The wonder of Jaan Kaplinski]]></title>
+            <description><![CDATA[By Robin Ashenden]]></description>
+            <link>https://spectator.com/article/the-wonder-of-jaan-kaplinski/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-wonder-of-jaan-kaplinski/</guid>
+            <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 02:52:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Serial bully’ Bercow back in Labour]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4019,30 +4043,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <guid isPermaLink="true">https://spectator.com/article/the-odyssey-to-the-next-dubai/</guid>
             <dc:creator><![CDATA[Theo Zenou]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 04:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t take down your St George’s Cross]]></title>
-            <description><![CDATA[By Angela Epstein]]></description>
-            <link>https://spectator.com/article/fly-the-st-georges-cross-high/</link>
-            <guid isPermaLink="true">https://spectator.com/article/fly-the-st-georges-cross-high/</guid>
-            <dc:creator><![CDATA[Angela Epstein]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 04:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nationalising British Steel is not the worst idea]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/nationalising-british-steel-is-not-the-worst-idea/</link>
-            <guid isPermaLink="true">https://spectator.com/article/nationalising-british-steel-is-not-the-worst-idea/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 04:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tone policing Nigel Farage will only backfire]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/tone-policing-nigel-farage-will-only-backfire/</link>
-            <guid isPermaLink="true">https://spectator.com/article/tone-policing-nigel-farage-will-only-backfire/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 01:52:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

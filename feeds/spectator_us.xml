@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 20:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 21:20:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 20:18:28 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 21:20:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What went wrong with the Madonna biopic?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 21:20:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The man who could topple Benjamin Netanyahu]]></title>
             <description><![CDATA[Bye-bye Bibi]]></description>
@@ -4011,14 +4019,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/frances-ideological-war-on-air-conditioning/?edition=us</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forget White Fragility: here are 10 books America should be reading about race]]></title>
-            <description><![CDATA[By Thomas Chatterton Williams]]></description>
-            <link>https://spectator.com/article/forget-white-fragility-here-are-10-books-america-should-be-reading-about-race/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/forget-white-fragility-here-are-10-books-america-should-be-reading-about-race/?edition=us</guid>
-            <dc:creator><![CDATA[Thomas Chatterton Williams]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 10:24:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

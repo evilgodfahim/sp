@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 13:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 14:25:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 13:41:24 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 14:25:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Michael Jackson biopic ignores half his life]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/michael-jackson-is-christlike-in-new-biopic/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/michael-jackson-is-christlike-in-new-biopic/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 14:25:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The many claims of Jason Arday]]></title>
             <description><![CDATA[By John Power]]></description>
@@ -4011,14 +4019,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <guid isPermaLink="true">https://spectator.com/article/anglo-inheritance/?edition=us</guid>
             <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 10:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I miss Roger Federer]]></title>
-            <description><![CDATA[By Daniel Seifert]]></description>
-            <link>https://spectator.com/article/i-miss-roger-federer/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-miss-roger-federer/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 19:44:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 06:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 07:45:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 06:39:17 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 07:45:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did the Russian mafia help Trump along his way to the Oval Office?]]></title>
+            <description><![CDATA[By Paul Wood]]></description>
+            <link>https://spectator.com/article/did-the-russian-mafia-help-trump-along-his-way-to-the-oval-office/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-the-russian-mafia-help-trump-along-his-way-to-the-oval-office/?edition=us</guid>
+            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 07:45:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My night with Woah Vicky]]></title>
             <description><![CDATA[By Kelly Chapman]]></description>
@@ -4010,14 +4018,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/serena-williams-no-longer-belongs-at-wimbledon/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/serena-williams-no-longer-belongs-at-wimbledon/?edition=us</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Founding Fathers of AI]]></title>
-            <description><![CDATA[By Geoffrey Cain]]></description>
-            <link>https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
         </item>
     </channel>

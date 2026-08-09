@@ -4,19 +4,37 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 06:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 07:45:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 06:39:22 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 07:45:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The people of Thetford deserve empathy]]></title>
+            <description><![CDATA[Migrant protests]]></description>
+            <link>https://spectator.com/article/the-people-of-thetford-deserve-empathy/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-people-of-thetford-deserve-empathy/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Thomas Casemore]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 07:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why ticket barriers won’t stop fare dodging on trains]]></title>
+            <description><![CDATA[Tickets please]]></description>
+            <link>https://spectator.com/article/why-ticket-barriers-wont-stop-fare-dodging-on-trains/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-ticket-barriers-wont-stop-fare-dodging-on-trains/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Christian Wolmar]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 07:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Serial bully’ Bercow back in Labour]]></title>
+            <description><![CDATA[Labour pains]]></description>
+            <link>https://spectator.com/article/serial-bully-bercow-back-in-labour/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/serial-bully-bercow-back-in-labour/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 07:45:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Lib Dem Councillor]]></title>
-            <description><![CDATA[Nobody can deny that Pippa is a campaigner.  Her friends say it, her children complain about it, even her opponents - she tries very hard not to call them her enemies (in public) - say it.  The leaflets with Liberal Democrats on the front say it; the newspapers with Liberal Democrats in tiny letters on the back say it. Curiously, none of them ever mention what she campaigns for, or whether any of these campaigns have ever been successful - but that is really beside the point. 
-
-
-
-
-
-Ten years ago, she was campaigning against Brexit.  (She might have had more of an impact had she campaigned before the referendum, but that is also beside the point.]]></description>
+            <description><![CDATA[By Anonymous]]></description>
             <link>https://spectator.com/article/the-lib-dem-councillor/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-lib-dem-councillor/</guid>
             <dc:creator><![CDATA[Anonymous]]></dc:creator>
@@ -4017,30 +4035,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-plan-to-reverse-thatcherism-is-a-little-ridiculous/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 15:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A wealth tax is bound to backfire on Andy Burnham]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/a-wealth-tax-is-bound-to-backfire-on-andy-burnham/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-wealth-tax-is-bound-to-backfire-on-andy-burnham/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 13:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A life and death power struggle in Kyiv]]></title>
-            <description><![CDATA[By Svitlana Morenets]]></description>
-            <link>https://spectator.com/article/a-life-and-death-power-struggle-in-kyiv/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-life-and-death-power-struggle-in-kyiv/</guid>
-            <dc:creator><![CDATA[Svitlana Morenets]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 13:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump is doing a fine job of winding up the Democrats]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trump-is-doing-a-fine-job-of-winding-up-the-democrats/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-is-doing-a-fine-job-of-winding-up-the-democrats/</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 13:07:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,24 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 03:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 04:55:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 03:25:00 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 04:55:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Lib Dem Councillor]]></title>
+            <description><![CDATA[Nobody can deny that Pippa is a campaigner.  Her friends say it, her children complain about it, even her opponents - she tries very hard not to call them her enemies (in public) - say it.  The leaflets with Liberal Democrats on the front say it; the newspapers with Liberal Democrats in tiny letters on the back say it. Curiously, none of them ever mention what she campaigns for, or whether any of these campaigns have ever been successful - but that is really beside the point. 
+
+
+
+
+
+Ten years ago, she was campaigning against Brexit.  (She might have had more of an impact had she campaigned before the referendum, but that is also beside the point.]]></description>
+            <link>https://spectator.com/article/the-lib-dem-councillor/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-lib-dem-councillor/</guid>
+            <dc:creator><![CDATA[Anonymous]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 04:55:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to fix Britain’s broken libel laws]]></title>
             <description><![CDATA[By Michael Ellis]]></description>
@@ -4026,14 +4040,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/trump-is-doing-a-fine-job-of-winding-up-the-democrats/</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-is-doing-a-fine-job-of-winding-up-the-democrats/</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 13:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Middle East is drifting into chaos]]></title>
-            <description><![CDATA[By Charlie Gammell]]></description>
-            <link>https://spectator.com/article/the-middle-east-is-drifting-into-chaos/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-middle-east-is-drifting-into-chaos/</guid>
-            <dc:creator><![CDATA[Charlie Gammell]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 13:07:23 GMT</pubDate>
         </item>
     </channel>

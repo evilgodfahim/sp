@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 12:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 13:41:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 12:30:43 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 13:41:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Labour is the real party of the privileged elite]]></title>
+            <description><![CDATA[Class war]]></description>
+            <link>https://spectator.com/article/labour-is-the-real-party-of-the-privileged-elite/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-is-the-real-party-of-the-privileged-elite/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[William Cash]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 13:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I could never dislike Rod – even when he threatened to punch me]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/i-could-never-dislike-rod-even-when-he-threatened-to-punch-me/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-could-never-dislike-rod-even-when-he-threatened-to-punch-me/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 13:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whatever happened to Mickey, Liverpool’s smoking chimpanzee?]]></title>
+            <description><![CDATA[Scouse King Kong]]></description>
+            <link>https://spectator.com/article/whatever-happened-to-mickey-liverpools-smoking-chimpanzee/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/whatever-happened-to-mickey-liverpools-smoking-chimpanzee/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Stephen Smith]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 13:41:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Paris made the Mosleys]]></title>
             <description><![CDATA[By Matthew Fraser]]></description>
@@ -4011,30 +4035,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <guid isPermaLink="true">https://spectator.com/article/the-coming-battle-between-mr-brexit-and-the-king-in-the-north/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 17:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham has a plan – but he won’t tell us what it is yet]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/andy-burnham-has-a-plan-but-he-wont-tell-us-what-it-is-yet/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-has-a-plan-but-he-wont-tell-us-what-it-is-yet/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 17:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s coronation speech was sub-Disney schmaltz]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/burnhams-coronation-speech-was-sub-disney-schmaltz/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnhams-coronation-speech-was-sub-disney-schmaltz/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 17:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The SDP makes a bid for Clacton]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/the-sdp-makes-a-bid-for-clacton/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-sdp-makes-a-bid-for-clacton/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 15:06:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

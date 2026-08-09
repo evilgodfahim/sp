@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 08:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 09:30:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 08:31:22 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 09:30:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Zack Polanski reveals his instant soup politics]]></title>
+            <description><![CDATA[By Lloyd Evans]]></description>
+            <link>https://spectator.com/article/zack-polanski-reveals-his-instant-soup-politics/</link>
+            <guid isPermaLink="true">https://spectator.com/article/zack-polanski-reveals-his-instant-soup-politics/</guid>
+            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 09:30:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The people of Thetford deserve empathy]]></title>
             <description><![CDATA[Migrant protests]]></description>
@@ -4026,14 +4034,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/pakistan-and-shabir-ahmed-are-laughing-at-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/pakistan-and-shabir-ahmed-are-laughing-at-britain/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 15:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham’s plan to reverse Thatcherism is a little ridiculous]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/andy-burnhams-plan-to-reverse-thatcherism-is-a-little-ridiculous/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-plan-to-reverse-thatcherism-is-a-little-ridiculous/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 15:06:40 GMT</pubDate>
         </item>
     </channel>

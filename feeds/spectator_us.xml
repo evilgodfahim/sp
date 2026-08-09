@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 05:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 06:39:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 05:41:39 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 06:39:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My night with Woah Vicky]]></title>
+            <description><![CDATA[By Kelly Chapman]]></description>
+            <link>https://spectator.com/article/my-night-with-woah-vicky/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-night-with-woah-vicky/?edition=us</guid>
+            <dc:creator><![CDATA[Kelly Chapman]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 06:39:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Academics are trying to get my paper retracted — and some of them haven’t even read it]]></title>
             <description><![CDATA[By Nathan Cofnas]]></description>
@@ -4010,14 +4018,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain’s National Health Service believes in fairness – they treat everyone with equal contempt]]></title>
-            <description><![CDATA[No life]]></description>
-            <link>https://spectator.com/article/the-nhs-believes-in-fairness-they-treat-everyone-with-equal-contempt/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-nhs-believes-in-fairness-they-treat-everyone-with-equal-contempt/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
         </item>
     </channel>

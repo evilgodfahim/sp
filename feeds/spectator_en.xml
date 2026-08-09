@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 23:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 01:01:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 23:19:04 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 01:01:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Whatever happened to Mickey, Liverpool’s smoking chimpanzee?]]></title>
+            <description><![CDATA[By Stephen Smith]]></description>
+            <link>https://spectator.com/article/whatever-happened-to-mickey-liverpools-smoking-chimpanzee/</link>
+            <guid isPermaLink="true">https://spectator.com/article/whatever-happened-to-mickey-liverpools-smoking-chimpanzee/</guid>
+            <dc:creator><![CDATA[Stephen Smith]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 01:01:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It’s open season on Nicola Sturgeon for the SNP]]></title>
             <description><![CDATA[By Iain Macwhirter]]></description>
@@ -4026,14 +4034,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/no-we-dont-need-a-better-tone-at-pmqs/</link>
             <guid isPermaLink="true">https://spectator.com/article/no-we-dont-need-a-better-tone-at-pmqs/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 09:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lib Dems plot their own think tank]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/lib-dems-plot-their-own-think-tank/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lib-dems-plot-their-own-think-tank/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 09:48:36 GMT</pubDate>
         </item>
     </channel>

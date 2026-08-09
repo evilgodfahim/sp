@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 01:00:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 23:18:59 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 01:00:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Doug Wilson’s peculiar relationship to politics]]></title>
+            <description><![CDATA[By Anastasia Brown]]></description>
+            <link>https://spectator.com/article/doug-wilson-peculiar-relationship-politics-christ-church/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/doug-wilson-peculiar-relationship-politics-christ-church/?edition=us</guid>
+            <dc:creator><![CDATA[Anastasia Brown]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 01:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[To be a Spectator reader was to love Rod]]></title>
+            <description><![CDATA[By Michael Gove]]></description>
+            <link>https://spectator.com/article/to-be-a-spectator-reader-was-to-love-rod/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/to-be-a-spectator-reader-was-to-love-rod/?edition=us</guid>
+            <dc:creator><![CDATA[Michael Gove]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 01:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Abdul El-Sayed at the Detroit farmers market]]></title>
+            <description><![CDATA[By Ben Clerkin]]></description>
+            <link>https://spectator.com/article/meeting-abdul-el-sayed-at-the-detroit-farmers-market/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/meeting-abdul-el-sayed-at-the-detroit-farmers-market/?edition=us</guid>
+            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 01:00:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What went wrong with the Madonna biopic?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -3994,30 +4018,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/the-secret-to-dressing-exceptionally-well/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/the-secret-to-dressing-exceptionally-well/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Henry Jeffreys]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the US-Israel special relationship over?]]></title>
-            <description><![CDATA[By Yossi Melman]]></description>
-            <link>https://spectator.com/article/is-the-us-israel-special-relationship-over/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-us-israel-special-relationship-over/?edition=us</guid>
-            <dc:creator><![CDATA[Yossi Melman]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It turns out being a hunter-gatherer wasn’t so great after all]]></title>
-            <description><![CDATA[By Mike Pitts]]></description>
-            <link>https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/?edition=us</guid>
-            <dc:creator><![CDATA[Mike Pitts]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France’s ideological war on air conditioning]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/frances-ideological-war-on-air-conditioning/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/frances-ideological-war-on-air-conditioning/?edition=us</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 14:42:17 GMT</pubDate>
         </item>
     </channel>

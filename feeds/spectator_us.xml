@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 23:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 01:03:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 23:21:40 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 01:03:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘I asked for a substitute for the f-word. He suggested the c-word’: the joy of editing Rod]]></title>
+            <description><![CDATA[By Fraser Nelson]]></description>
+            <link>https://spectator.com/article/i-asked-for-a-substitute-for-the-f-word-he-suggested-the-c-word-the-joy-of-editing-rod/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-asked-for-a-substitute-for-the-f-word-he-suggested-the-c-word-the-joy-of-editing-rod/?edition=us</guid>
+            <dc:creator><![CDATA[Fraser Nelson]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 01:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America’s lead over China in the AI race is fragile]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/america-lead-over-china-ai-race-fragile/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-lead-over-china-ai-race-fragile/?edition=us</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 01:03:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Michael Jackson biopic ignores half his life]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4002,22 +4018,6 @@ The United States of America turns 250 having enjoyed a near-uninterrupted run o
             <link>https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 10:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The problem with ‘queer art’]]></title>
-            <description><![CDATA[Arts]]></description>
-            <link>https://spectator.com/article/the-problem-with-queer-art/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-queer-art/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Peter Parker]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 10:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Constitutionally, America is an English country]]></title>
-            <description><![CDATA[By Christopher Caldwell]]></description>
-            <link>https://spectator.com/article/anglo-inheritance/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/anglo-inheritance/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 10:26:36 GMT</pubDate>
         </item>
     </channel>

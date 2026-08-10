@@ -4,10 +4,82 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 03:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 05:17:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 03:44:20 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 05:17:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why my father would have seen through Arday’s nonsense]]></title>
+            <description><![CDATA[White Privilege?]]></description>
+            <link>https://spectator.com/article/why-my-father-would-have-seen-through-ardays-nonsense/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-my-father-would-have-seen-through-ardays-nonsense/</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 05:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Málaga and the dangers of ‘overtourism’]]></title>
+            <description><![CDATA[Costa del Sold]]></description>
+            <link>https://spectator.com/article/malaga-and-the-dangers-of-overtourism/</link>
+            <guid isPermaLink="true">https://spectator.com/article/malaga-and-the-dangers-of-overtourism/</guid>
+            <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 05:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The best German music? It’s not Bach]]></title>
+            <description><![CDATA[Marmite melodies]]></description>
+            <link>https://spectator.com/article/the-best-german-music-its-not-bach/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-best-german-music-its-not-bach/</guid>
+            <dc:creator><![CDATA[James Jeffrey]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 05:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cambridge has fallen]]></title>
+            <description><![CDATA[Leading article]]></description>
+            <link>https://spectator.com/article/cambridge-has-fallen/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/cambridge-has-fallen/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 05:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The monumental failure that was Henry VIII]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-monumental-failure-that-was-henry-viii/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-monumental-failure-that-was-henry-viii/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[David Crane]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 05:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding happiness in simple tactile pleasures]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/finding-happiness-in-simple-tactile-pleasures/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/finding-happiness-in-simple-tactile-pleasures/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Adam Begley]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 05:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sociology is about much more than fools like Jason Arday]]></title>
+            <description><![CDATA[A school for scandal]]></description>
+            <link>https://spectator.com/article/sociology-is-about-much-more-than-fools-like-jason-arday/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sociology-is-about-much-more-than-fools-like-jason-arday/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 05:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The monumental failure that was Henry VIII]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-monumental-failure-that-was-henry-viii/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-monumental-failure-that-was-henry-viii/</guid>
+            <dc:creator><![CDATA[David Crane]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 05:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding happiness in simple tactile pleasures]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/finding-happiness-in-simple-tactile-pleasures/</link>
+            <guid isPermaLink="true">https://spectator.com/article/finding-happiness-in-simple-tactile-pleasures/</guid>
+            <dc:creator><![CDATA[Adam Begley]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 05:17:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Labour is the real party of the privileged elite]]></title>
             <description><![CDATA[Class war]]></description>
@@ -106,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[It’s open season on Nicola Sturgeon for the SNP]]></title>
-            <description><![CDATA[By Iain Macwhirter]]></description>
+            <description><![CDATA[Scotland]]></description>
             <link>https://spectator.com/article/its-open-season-on-nicola-sturgeon-for-the-snp/</link>
             <guid isPermaLink="true">https://spectator.com/article/its-open-season-on-nicola-sturgeon-for-the-snp/</guid>
             <dc:creator><![CDATA[Iain Macwhirter]]></dc:creator>
@@ -170,7 +242,7 @@
         </item>
         <item>
             <title><![CDATA[Cambridge has fallen]]></title>
-            <description><![CDATA[By The Spectator]]></description>
+            <description><![CDATA[Leading article]]></description>
             <link>https://spectator.com/article/cambridge-has-fallen/</link>
             <guid isPermaLink="true">https://spectator.com/article/cambridge-has-fallen/</guid>
             <dc:creator><![CDATA[The Spectator]]></dc:creator>
@@ -178,7 +250,7 @@
         </item>
         <item>
             <title><![CDATA[Why ticket barriers won’t stop fare dodging on trains]]></title>
-            <description><![CDATA[By Christian Wolmar]]></description>
+            <description><![CDATA[Tickets please]]></description>
             <link>https://spectator.com/article/why-ticket-barriers-wont-stop-fare-dodging-on-trains/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-ticket-barriers-wont-stop-fare-dodging-on-trains/</guid>
             <dc:creator><![CDATA[Christian Wolmar]]></dc:creator>
@@ -552,7 +624,7 @@ Gomorrah (or Gomorra – La Serie, as it was in Italian, so one can never rememb
         </item>
         <item>
             <title><![CDATA[In defence of Thames Water]]></title>
-            <description><![CDATA[By Daisy Dunn]]></description>
+            <description><![CDATA[Radio & podcasts]]></description>
             <link>https://spectator.com/article/in-defence-of-thames-water/</link>
             <guid isPermaLink="true">https://spectator.com/article/in-defence-of-thames-water/</guid>
             <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
@@ -3963,78 +4035,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <guid isPermaLink="true">https://spectator.com/article/neil-obrien-this-is-a-radically-different-party/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 12:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham must not neglect Britain’s trashed environment]]></title>
-            <description><![CDATA[By Charles Clover]]></description>
-            <link>https://spectator.com/article/burnham-must-not-neglect-britains-damaged-environment/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-must-not-neglect-britains-damaged-environment/</guid>
-            <dc:creator><![CDATA[Charles Clover]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 10:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan and Shabir Ahmed are laughing at Britain]]></title>
-            <description><![CDATA[Crime]]></description>
-            <link>https://spectator.com/article/pakistan-and-shabir-ahmed-are-laughing-at-britain/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/pakistan-and-shabir-ahmed-are-laughing-at-britain/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 06:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump is doing a fine job of winding up the Democrats]]></title>
-            <description><![CDATA[America]]></description>
-            <link>https://spectator.com/article/trump-is-doing-a-fine-job-of-winding-up-the-democrats/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-is-doing-a-fine-job-of-winding-up-the-democrats/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 06:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham can’t afford to please everyone]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/andy-burnham-cant-afford-to-please-everyone/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-cant-afford-to-please-everyone/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 06:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s coronation speech was sub-Disney schmaltz]]></title>
-            <description><![CDATA[Labour party]]></description>
-            <link>https://spectator.com/article/burnhams-coronation-speech-was-sub-disney-schmaltz/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnhams-coronation-speech-was-sub-disney-schmaltz/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 06:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I’m proud of my utterly insignificant association with Nasa]]></title>
-            <description><![CDATA[By John Rhys-Davies]]></description>
-            <link>https://spectator.com/article/im-proud-of-my-utterly-insignificant-association-with-nasa/</link>
-            <guid isPermaLink="true">https://spectator.com/article/im-proud-of-my-utterly-insignificant-association-with-nasa/</guid>
-            <dc:creator><![CDATA[John Rhys-Davies]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 04:40:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s the real meaning of The Odyssey?]]></title>
-            <description><![CDATA[By Iqbal Ahmed]]></description>
-            <link>https://spectator.com/article/whats-the-true-meaning-of-the-odyssey/</link>
-            <guid isPermaLink="true">https://spectator.com/article/whats-the-true-meaning-of-the-odyssey/</guid>
-            <dc:creator><![CDATA[Iqbal Ahmed]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 01:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The surprising truth about men and multitasking]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/the-surprising-truth-about-men-and-multitasking/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-surprising-truth-about-men-and-multitasking/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 01:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The coming battle between ‘Mr Brexit’ and the ‘King of the North’]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/the-coming-battle-between-mr-brexit-and-the-king-in-the-north/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-coming-battle-between-mr-brexit-and-the-king-in-the-north/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 17:01:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,30 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 16:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 17:43:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 16:43:49 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 17:43:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Marilyn Monroe is still as big a celebrity as ever]]></title>
+            <description><![CDATA[Marilyn Monroe would have celebrated her 100th birthday this year. My new biography of her begins with this story: she’s walking with a friend down Park Avenue dressed in a raincoat and sunglasses and without make-up. As the crowds stream past her, nobody gives her a second glance. Then she turns to her friend and asks, “Do you want to see me be her?”
+
+
+
+Without changing her hair or dress, the transformation begins and, after making some kind of inner psychological adjustment, she morphs from an ordinary woman into Marilyn Monroe, superstar. As her friend, the actress Susan Strasberg, recalled: “There she was – not the simple girl I’d been strolling with, but ‘Marilyn Monroe,’ resplendent, ready for her public. Now heads turned. People crowded around her.]]></description>
+            <link>https://spectator.com/article/marilyn-monroe-still-big-celebrity-ever/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/marilyn-monroe-still-big-celebrity-ever/?edition=us</guid>
+            <dc:creator><![CDATA[Andrew Wilson]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 17:43:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shiva Naipaul’s Journey to Nowhere deserves its reissue]]></title>
+            <description><![CDATA[By D.J. Taylor]]></description>
+            <link>https://spectator.com/article/shiva-naipaul-journey-nowhere-deserves-reissue/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/shiva-naipaul-journey-nowhere-deserves-reissue/?edition=us</guid>
+            <dc:creator><![CDATA[D.J. Taylor]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 17:43:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The strange death of liberalism]]></title>
             <description><![CDATA[By Daniel McCarthy]]></description>
@@ -185,7 +205,7 @@ Without changing her hair or dress, the transformation begins and, after making 
             <pubDate>Mon, 10 Aug 2026 09:08:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What’s the point of Unesco?]]></title>
+            <title><![CDATA[What’s the point of UNESC?]]></title>
             <description><![CDATA[By Alex Diggins]]></description>
             <link>https://spectator.com/article/whats-the-point-of-unesco/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/whats-the-point-of-unesco/?edition=us</guid>
@@ -193,7 +213,7 @@ Without changing her hair or dress, the transformation begins and, after making 
             <pubDate>Mon, 10 Aug 2026 09:08:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“A selfish, ignoble person” – the dark side of the Nobel prize-winner Mario Vargas Llosa]]></title>
+            <title><![CDATA[‘A selfish, ignoble person’ – the dark side of the Nobel prize-winner Mario Vargas Llosa]]></title>
             <description><![CDATA[By Nicholas Shakespeare]]></description>
             <link>https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us</guid>
@@ -4007,22 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/the-confessions-of-j-d-vance/?edition=us</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 09:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dull, duller and Dulles – was Churchill’s jibe about America’s Cold War icon unfair?]]></title>
-            <description><![CDATA[By John R. MacArthur]]></description>
-            <link>https://spectator.com/article/dull-duller-and-dulles-was-churchills-jibe-about-americas-cold-war-icon-unfair/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/dull-duller-and-dulles-was-churchills-jibe-about-americas-cold-war-icon-unfair/?edition=us</guid>
-            <dc:creator><![CDATA[John R. MacArthur]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 21:19:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Berlin should preserve, not destroy, its Nazi bunkers]]></title>
-            <description><![CDATA[By Nigel Jones]]></description>
-            <link>https://spectator.com/article/berlin-should-preserve-not-destroy-its-nazi-bunkers/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/berlin-should-preserve-not-destroy-its-nazi-bunkers/?edition=us</guid>
-            <dc:creator><![CDATA[Nigel Jones]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 17:07:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

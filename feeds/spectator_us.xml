@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 11:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 12:46:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 11:47:00 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 12:46:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[China has subverted the AI race]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/america-lead-over-china-ai-race-fragile/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-lead-over-china-ai-race-fragile/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I suspect a lot of TV is AI-generated]]></title>
+            <description><![CDATA[Television]]></description>
+            <link>https://spectator.com/article/i-suspect-a-lot-of-tv-is-ai-generated/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-suspect-a-lot-of-tv-is-ai-generated/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jason Arday and the Dukes and Dauphins of DEI]]></title>
+            <description><![CDATA[By Peter Wood]]></description>
+            <link>https://spectator.com/article/jason-arday-and-the-dukes-and-dauphins-of-dei/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/jason-arday-and-the-dukes-and-dauphins-of-dei/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:46:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Drinking with Geoffrey Madan]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -3995,30 +4019,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/are-we-edging-closer-to-peace-in-ukraine/?edition=us</guid>
             <dc:creator><![CDATA[Simon Diggins]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 11:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ambition is in America’s DNA]]></title>
-            <description><![CDATA[By Christopher Buskirk]]></description>
-            <link>https://spectator.com/article/ambition-is-in-americas-dna/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/ambition-is-in-americas-dna/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Christopher Buskirk]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 11:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Brand Scotland conquered America]]></title>
-            <description><![CDATA[By Ed West]]></description>
-            <link>https://spectator.com/article/how-brand-scotland-conquered-america/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-brand-scotland-conquered-america/?edition=us</guid>
-            <dc:creator><![CDATA[Ed West]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 11:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Loving and tweaking the Long Island Iced Tea]]></title>
-            <description><![CDATA[By Ross Anderson]]></description>
-            <link>https://spectator.com/article/loving-and-tweaking-the-long-island-iced-tea/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/loving-and-tweaking-the-long-island-iced-tea/?edition=us</guid>
-            <dc:creator><![CDATA[Ross Anderson]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 04:11:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

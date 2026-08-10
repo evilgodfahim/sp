@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 14:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 15:51:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 14:14:29 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 15:51:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nigel Farage: Restore must kick out its racists]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/nigel-farage-restore-must-kick-out-its-racists/</link>
+            <guid isPermaLink="true">https://spectator.com/article/nigel-farage-restore-must-kick-out-its-racists/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 15:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why can’t Britain deport all our foreign prisoners?]]></title>
+            <description><![CDATA[By Stephen Daisley]]></description>
+            <link>https://spectator.com/article/why-cant-britain-deport-all-our-foreign-prisoners/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-cant-britain-deport-all-our-foreign-prisoners/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 15:51:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The genius of Jason Arday]]></title>
             <description><![CDATA[By Melissa Kite]]></description>
@@ -4019,22 +4035,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <guid isPermaLink="true">https://spectator.com/article/how-theresa-may-remade-modern-politics/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 11:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The sheer awfulness of CPAC GB]]></title>
-            <description><![CDATA[By William Atkinson]]></description>
-            <link>https://spectator.com/article/the-sheer-awfulness-of-cpac-gb/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-sheer-awfulness-of-cpac-gb/</guid>
-            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Sun, 19 Jul 2026 10:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let Shabana Mahmood finish the job at the Home Office]]></title>
-            <description><![CDATA[By The Spectator]]></description>
-            <link>https://spectator.com/article/let-shabana-mahmood-finish-the-job-at-the-home-office/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/let-shabana-mahmood-finish-the-job-at-the-home-office/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Sun, 19 Jul 2026 08:01:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

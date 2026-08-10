@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 14:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 15:51:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 14:14:23 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 15:51:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The strange death of liberalism]]></title>
+            <description><![CDATA[By Daniel McCarthy]]></description>
+            <link>https://spectator.com/article/the-strange-death-of-liberalism/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-strange-death-of-liberalism/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 15:51:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can the US run out of long-range precision missiles?]]></title>
+            <description><![CDATA[By Spectator Editorial]]></description>
+            <link>https://spectator.com/article/us-run-out-long-range-precision-missiles/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/us-run-out-long-range-precision-missiles/?edition=us</guid>
+            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 15:51:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get a Trump pardon]]></title>
+            <description><![CDATA[By Matt McDonald]]></description>
+            <link>https://spectator.com/article/get-trump-pardon-second-term/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/get-trump-pardon-second-term/?edition=us</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 15:51:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I regret taking my mother’s last name]]></title>
+            <description><![CDATA[By Michael Brendan Dougherty]]></description>
+            <link>https://spectator.com/article/regret-taking-mothers-last-name/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/regret-taking-mothers-last-name/?edition=us</guid>
+            <dc:creator><![CDATA[Michael Brendan Dougherty]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 15:51:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are we on the brink of World War Three?]]></title>
+            <description><![CDATA[By Tom Switzer]]></description>
+            <link>https://spectator.com/article/brink-world-war-three-guns-august/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/brink-world-war-three-guns-august/?edition=us</guid>
+            <dc:creator><![CDATA[Tom Switzer]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 15:51:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[China has subverted the AI race]]></title>
             <description><![CDATA[By Geoffrey Cain]]></description>
@@ -3979,46 +4019,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/berlin-should-preserve-not-destroy-its-nazi-bunkers/?edition=us</guid>
             <dc:creator><![CDATA[Nigel Jones]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 17:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Trump’s brazen financial disclosures]]></title>
-            <description><![CDATA[By John Fund]]></description>
-            <link>https://spectator.com/article/inside-trumps-brazen-financial-disclosures/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/inside-trumps-brazen-financial-disclosures/?edition=us</guid>
-            <dc:creator><![CDATA[John Fund]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 17:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Roswell incident is the setting for an enjoyably old-fashioned caper]]></title>
-            <description><![CDATA[Television]]></description>
-            <link>https://spectator.com/article/clarksons-farm-remains-the-best-drama-on-tv/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/clarksons-farm-remains-the-best-drama-on-tv/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 11:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Founding Fathers of AI]]></title>
-            <description><![CDATA[Tech barons]]></description>
-            <link>https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/founding-fathers-of-ai/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 11:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Iran war is Trump’s Suez crisis]]></title>
-            <description><![CDATA[Middle East]]></description>
-            <link>https://spectator.com/article/the-iran-war-is-trumps-suez-crisis/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-iran-war-is-trumps-suez-crisis/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 11:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are we edging closer to peace in Ukraine?]]></title>
-            <description><![CDATA[By Simon Diggins]]></description>
-            <link>https://spectator.com/article/are-we-edging-closer-to-peace-in-ukraine/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/are-we-edging-closer-to-peace-in-ukraine/?edition=us</guid>
-            <dc:creator><![CDATA[Simon Diggins]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 11:52:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

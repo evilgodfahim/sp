@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 09:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 10:58:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 09:08:20 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 10:58:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Drinking with Geoffrey Madan]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/drinking-with-geoffrey-madan/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/drinking-with-geoffrey-madan/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 10:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has the hounding of Andrew Mountbatten-Windsor gone too far?]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/has-the-hounding-of-andrew-mountbatten-windsor-gone-too-far/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/has-the-hounding-of-andrew-mountbatten-windsor-gone-too-far/?edition=us</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 10:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I suspect a lot of TV is AI-generated]]></title>
+            <description><![CDATA[By James Delingpole]]></description>
+            <link>https://spectator.com/article/i-suspect-a-lot-of-tv-is-ai-generated/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-suspect-a-lot-of-tv-is-ai-generated/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 10:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘I asked for a substitute for the f-word. He suggested the c-word’: the joy of editing Rod]]></title>
+            <description><![CDATA[True blue]]></description>
+            <link>https://spectator.com/article/i-asked-for-a-substitute-for-the-f-word-he-suggested-the-c-word-the-joy-of-editing-rod/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-asked-for-a-substitute-for-the-f-word-he-suggested-the-c-word-the-joy-of-editing-rod/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Fraser Nelson]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 10:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bringing Homer into the home: how the Iliad and Odyssey became widely available]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/bringing-homer-into-the-home-how-the-iliad-and-odyssey-became-widely-available/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/bringing-homer-into-the-home-how-the-iliad-and-odyssey-became-widely-available/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Philip Womack]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 10:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drinking with Geoffrey Madan]]></title>
+            <description><![CDATA[In vino veritas]]></description>
+            <link>https://spectator.com/article/drinking-with-geoffrey-madan/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/drinking-with-geoffrey-madan/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 10:58:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How can the US run out of long-range precision missiles?]]></title>
             <description><![CDATA[By Spectator Editorial]]></description>
@@ -33,7 +81,7 @@
             <pubDate>Mon, 10 Aug 2026 09:08:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We might be on the brink of World War Three]]></title>
+            <title><![CDATA[Are we on the brink of World War Three?]]></title>
             <description><![CDATA[By Tom Switzer]]></description>
             <link>https://spectator.com/article/we-might-be-on-the-brink-of-world-war-three/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/we-might-be-on-the-brink-of-world-war-three/?edition=us</guid>
@@ -50,7 +98,11 @@
         </item>
         <item>
             <title><![CDATA[Why Marilyn Monroe is still as big a celebrity as ever]]></title>
-            <description><![CDATA[By Andrew Wilson]]></description>
+            <description><![CDATA[Marilyn Monroe would have celebrated her 100th birthday this year. My new biography of her begins with this story: she’s walking with a friend down Park Avenue dressed in a raincoat and sunglasses and without make-up. As the crowds stream past her, nobody gives her a second glance. Then she turns to her friend and asks, “Do you want to see me be her?”
+
+
+
+Without changing her hair or dress, the transformation begins and, after making some kind of inner psychological adjustment, she morphs from an ordinary woman into Marilyn Monroe, superstar. As her friend, the actress Susan Strasberg, recalled: “There she was – not the simple girl I’d been strolling with, but ‘Marilyn Monroe,’ resplendent, ready for her public. Now heads turned. People crowded around her.]]></description>
             <link>https://spectator.com/article/why-marilyn-monroe-is-still-as-big-a-celebrity-as-ever/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/why-marilyn-monroe-is-still-as-big-a-celebrity-as-ever/?edition=us</guid>
             <dc:creator><![CDATA[Andrew Wilson]]></dc:creator>
@@ -113,7 +165,7 @@
             <pubDate>Sun, 09 Aug 2026 14:25:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The many claims of Jason Arday]]></title>
+            <title><![CDATA[Fact check: the many claims of Jason Arday]]></title>
             <description><![CDATA[By John Power]]></description>
             <link>https://spectator.com/article/fact-check-the-many-claims-of-jason-arday/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/fact-check-the-many-claims-of-jason-arday/?edition=us</guid>
@@ -494,11 +546,7 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
         </item>
         <item>
             <title><![CDATA[Is Music, Fashion, Film really the best Charli xcx can do?]]></title>
-            <description><![CDATA[Of the three creative pursuits that give Charli xcx’s eighth album its title, the English pop star seems least interested in the first. She admits as much on “Camera,” the best song on Music, Fashion, Film, which makes clear her obsession with acting and a desire to pursue it more fully. “Do I want to make music?” she asks herself. “Am I being fucking stupid if I try to be a girl on the screen and I’m turning 34?”
-
-
-
-Even without this clue – which, like much of the album, is presented via the singer throwing out rhetorical spiel more or less unexpurgated – it is no great stretch to surmise that the pursuit of making music is struggling to fully hold her attention.]]></description>
+            <description><![CDATA[By Graeme Thomson]]></description>
             <link>https://spectator.com/article/is-this-really-the-best-charli-xcx-can-do/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/is-this-really-the-best-charli-xcx-can-do/?edition=us</guid>
             <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
@@ -3971,58 +4019,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/loving-and-tweaking-the-long-island-iced-tea/?edition=us</guid>
             <dc:creator><![CDATA[Ross Anderson]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 04:11:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A full-throated endorsement of the Pelosi Center]]></title>
-            <description><![CDATA[By Peter Wood]]></description>
-            <link>https://spectator.com/article/a-full-throated-endorsement-of-the-pelosi-center/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-full-throated-endorsement-of-the-pelosi-center/?edition=us</guid>
-            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 20:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fetterman fights Shapiro over crayons]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/fetterman-fights-shapiro-over-crayons-cockburn-diary-06-30-26/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/fetterman-fights-shapiro-over-crayons-cockburn-diary-06-30-26/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 20:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Supreme Court is not in Trump’s thrall]]></title>
-            <description><![CDATA[By Chris Mondics]]></description>
-            <link>https://spectator.com/article/the-supreme-court-is-not-in-trumps-thrall/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-supreme-court-is-not-in-trumps-thrall/?edition=us</guid>
-            <dc:creator><![CDATA[Chris Mondics]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 20:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Yesteryear is the controversial bestseller of 2026]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/why-yesteryear-is-the-controversial-bestseller-of-2026/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-yesteryear-is-the-controversial-bestseller-of-2026/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 18:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America at 250 remains an exceptional country]]></title>
-            <description><![CDATA[Who could ever have imagined what was being unleashed on the world when Thomas Gage ordered 700 Redcoats to march out from Boston and seize supplies in the town of Concord? Who could have dreamed, 250 years ago, what would be built by the descendants of those 56 men who put their names to the Declaration of Independence while gathered in the Pennsylvania State House?
-
-
-
-The United States of America turns 250 having enjoyed a near-uninterrupted run of success unmatched in world history. By her 100th birthday, the US was already master of an entire continent. By her 200th, she had won two world wars, invented the airplane, the atomic bomb and the transistor; created the motion picture and rock ’n’ roll; become the first automobile nation and put a man on the Moon.]]></description>
-            <link>https://spectator.com/article/america-at-250-remains-an-exceptional-country/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/america-at-250-remains-an-exceptional-country/?edition=us</guid>
-            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 13:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ambition is in America’s DNA]]></title>
-            <description><![CDATA[By Christopher Buskirk]]></description>
-            <link>https://spectator.com/article/ambition-is-in-americas-dna/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ambition-is-in-americas-dna/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Buskirk]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 13:04:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

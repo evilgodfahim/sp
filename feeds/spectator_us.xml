@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 21:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 22:27:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 21:33:03 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 22:27:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The strange death of liberalism]]></title>
+            <description><![CDATA[By Daniel McCarthy]]></description>
+            <link>https://spectator.com/article/strange-death-liberalism/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/strange-death-liberalism/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 22:27:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Marilyn Monroe is still as big a celebrity as ever]]></title>
             <description><![CDATA[Marilyn Monroe would have celebrated her 100th birthday this year. My new biography of her begins with this story: she’s walking with a friend down Park Avenue dressed in a raincoat and sunglasses and without make-up. As the crowds stream past her, nobody gives her a second glance. Then she turns to her friend and asks, “Do you want to see me be her?”
@@ -4019,14 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/i-cant-remember-when-i-was-last-so-disgusted-with-trump/?edition=us</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 12:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The confessions of J.D. Vance]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/the-confessions-of-j-d-vance/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-confessions-of-j-d-vance/?edition=us</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 09:53:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

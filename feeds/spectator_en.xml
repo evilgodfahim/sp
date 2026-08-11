@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 15:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 16:48:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 15:51:47 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 16:48:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Burnham: I’ll ‘eradicate’ illegal dinghy crossings]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/burnham-im-completely-focused-on-dinghy-crossings/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-im-completely-focused-on-dinghy-crossings/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 16:48:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is the point of the new ‘Muslim Nato’?]]></title>
             <description><![CDATA[By Simon Diggins]]></description>
@@ -4027,14 +4035,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-rough-record-on-homelessness/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 15:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[They don’t make broadcasters like Ed Stourton any more]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/they-dont-make-broadcasters-like-ed-stourton-any-more/</link>
-            <guid isPermaLink="true">https://spectator.com/article/they-dont-make-broadcasters-like-ed-stourton-any-more/</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

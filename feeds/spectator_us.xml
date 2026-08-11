@@ -4,12 +4,20 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 11:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 12:42:50 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 11:37:21 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 12:42:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Tucker, Hunter, and the new Center]]></title>
+            <title><![CDATA[Sports are just a distraction from death]]></title>
+            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
+            <link>https://spectator.com/article/sports-just-distraction-from-death/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/sports-just-distraction-from-death/?edition=us</guid>
+            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 12:42:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tucker, Hunter and the new center]]></title>
             <description><![CDATA[By Cockburn]]></description>
             <link>https://spectator.com/article/tucker-hunter-and-the-new-center/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/tucker-hunter-and-the-new-center/?edition=us</guid>
@@ -113,7 +121,7 @@
             <pubDate>Tue, 11 Aug 2026 04:58:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The strange death of liberalism]]></title>
+            <title><![CDATA[The strange death of liberal America]]></title>
             <description><![CDATA[By Daniel McCarthy]]></description>
             <link>https://spectator.com/article/strange-death-liberalism/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/strange-death-liberalism/?edition=us</guid>
@@ -4018,14 +4026,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/in-conversation-with-nick-land-the-father-of-accelerationism/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/in-conversation-with-nick-land-the-father-of-accelerationism/?edition=us</guid>
             <dc:creator><![CDATA[Monica Sobchak]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 06:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America has a serious Chinese spying problem]]></title>
-            <description><![CDATA[By Ian Williams]]></description>
-            <link>https://spectator.com/article/america-has-a-serious-chinese-spying-problem/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/america-has-a-serious-chinese-spying-problem/?edition=us</guid>
-            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 06:22:40 GMT</pubDate>
         </item>
     </channel>

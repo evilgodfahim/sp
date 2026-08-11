@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 12:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 14:13:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 12:42:55 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 14:13:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What is the point of the new ‘Muslim Nato’?]]></title>
+            <description><![CDATA[By Simon Diggins]]></description>
+            <link>https://spectator.com/article/what-is-the-point-of-the-new-muslim-nato/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-is-the-point-of-the-new-muslim-nato/</guid>
+            <dc:creator><![CDATA[Simon Diggins]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 14:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Donald Trump becoming the new Jimmy Carter?]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/is-donald-trump-becoming-the-new-jimmy-carter/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-donald-trump-becoming-the-new-jimmy-carter/</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 14:13:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The welcome crackdown on neon signs and vape shops]]></title>
             <description><![CDATA[By Samuel Hughes]]></description>
@@ -4018,22 +4034,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/they-dont-make-broadcasters-like-ed-stourton-any-more/</link>
             <guid isPermaLink="true">https://spectator.com/article/they-dont-make-broadcasters-like-ed-stourton-any-more/</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I feel sorry for Argentina]]></title>
-            <description><![CDATA[By Alex Glover]]></description>
-            <link>https://spectator.com/article/i-feel-sorry-for-argentina/</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-feel-sorry-for-argentina/</guid>
-            <dc:creator><![CDATA[Alex Glover]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My work as Prime Minister is done]]></title>
-            <description><![CDATA[By Keir Starmer]]></description>
-            <link>https://spectator.com/article/my-work-as-prime-minister-is-done/</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-work-as-prime-minister-is-done/</guid>
-            <dc:creator><![CDATA[Keir Starmer]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
         </item>
     </channel>

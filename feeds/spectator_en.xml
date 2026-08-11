@@ -4,12 +4,20 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 09:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 10:42:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 09:52:01 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 10:42:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The prisons crisis needs bold solutions]]></title>
+            <title><![CDATA[Is Iran softening on making women wear the veil?]]></title>
+            <description><![CDATA[By Ryan Modarres]]></description>
+            <link>https://spectator.com/article/is-iran-softening-on-making-women-wear-the-veil/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-iran-softening-on-making-women-wear-the-veil/</guid>
+            <dc:creator><![CDATA[Ryan Modarres]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 10:42:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham still doesn’t get the prisons crisis]]></title>
             <description><![CDATA[By David Shipley]]></description>
             <link>https://spectator.com/article/the-prisons-crisis-needs-bold-solutions-like-the-el-salvador-plan/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-prisons-crisis-needs-bold-solutions-like-the-el-salvador-plan/</guid>
@@ -18,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[Miatta Fahnbulleh and the society of socialist hypocrisy]]></title>
-            <description><![CDATA[By Niall Gooch]]></description>
+            <description><![CDATA[Private education]]></description>
             <link>https://spectator.com/article/miatta-fahnbulleh-and-the-society-of-socialist-hypocrisy/</link>
             <guid isPermaLink="true">https://spectator.com/article/miatta-fahnbulleh-and-the-society-of-socialist-hypocrisy/</guid>
             <dc:creator><![CDATA[Niall Gooch]]></dc:creator>
@@ -98,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Meet Farah Ahmed, Jason Arday’s colleague]]></title>
-            <description><![CDATA[Bad apples]]></description>
+            <description><![CDATA[By Andrew Gilligan]]></description>
             <link>https://spectator.com/article/the-problems-with-the-faculty-of-education-go-beyond-jason-arday/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-problems-with-the-faculty-of-education-go-beyond-jason-arday/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -106,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Jason Arday and the terrible truth about students]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
+            <description><![CDATA[Cambridge blues]]></description>
             <link>https://spectator.com/article/jason-arday-and-the-terrible-truth-about-students/</link>
             <guid isPermaLink="true">https://spectator.com/article/jason-arday-and-the-terrible-truth-about-students/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
@@ -114,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[What has happened to Ricky Gervais?]]></title>
-            <description><![CDATA[By Chas Newkey-Burden]]></description>
+            <description><![CDATA[Tiresome]]></description>
             <link>https://spectator.com/article/what-has-happened-to-ricky-gervais/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-has-happened-to-ricky-gervais/</guid>
             <dc:creator><![CDATA[Chas Newkey-Burden]]></dc:creator>
@@ -122,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[The man who hunted the Kinahans]]></title>
-            <description><![CDATA[Good cop]]></description>
+            <description><![CDATA[By Rory Hanrahan]]></description>
             <link>https://spectator.com/article/the-man-who-hunted-the-kinahans/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-man-who-hunted-the-kinahans/</guid>
             <dc:creator><![CDATA[Rory Hanrahan]]></dc:creator>
@@ -4026,14 +4034,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/keir-starmer-leaves-the-country-in-a-terrible-state/</link>
             <guid isPermaLink="true">https://spectator.com/article/keir-starmer-leaves-the-country-in-a-terrible-state/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Burnham and the King get on?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/will-burnham-and-the-king-get-on/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-burnham-and-the-king-get-on/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
         </item>
     </channel>

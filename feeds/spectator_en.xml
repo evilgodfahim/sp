@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 10:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 11:37:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 10:42:18 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 11:37:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The welcome crackdown on neon signs and vape shops]]></title>
+            <description><![CDATA[By Samuel Hughes]]></description>
+            <link>https://spectator.com/article/the-welcome-crackdown-on-neon-signs-and-vape-shops/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-welcome-crackdown-on-neon-signs-and-vape-shops/</guid>
+            <dc:creator><![CDATA[Samuel Hughes]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 11:37:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rayner: Boat migrants are often ‘women and children’]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/rayner-boat-migrants-are-often-women-and-children/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rayner-boat-migrants-are-often-women-and-children/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 11:37:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Iran softening on making women wear the veil?]]></title>
             <description><![CDATA[By Ryan Modarres]]></description>
@@ -4018,22 +4034,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/my-work-as-prime-minister-is-done/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-work-as-prime-minister-is-done/</guid>
             <dc:creator><![CDATA[Keir Starmer]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham becomes Prime Minister]]></title>
-            <description><![CDATA[As it happened]]></description>
-            <link>https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</link>
-            <guid isPermaLink="true">https://spectator.com/article/live-keir-starmer-prepares-to-resign-as-prime-minister/</guid>
-            <dc:creator><![CDATA[Coffee House]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer leaves the country in a terrible state]]></title>
-            <description><![CDATA[Legacy]]></description>
-            <link>https://spectator.com/article/keir-starmer-leaves-the-country-in-a-terrible-state/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-leaves-the-country-in-a-terrible-state/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
         </item>
     </channel>

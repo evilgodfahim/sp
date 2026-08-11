@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 10:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 11:37:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 10:42:12 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 11:37:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tucker, Hunter, and the new Center]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/tucker-hunter-and-the-new-center/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/tucker-hunter-and-the-new-center/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 11:37:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How can the US run out of long-range precision missiles?]]></title>
             <description><![CDATA[By Spectator Editorial]]></description>
@@ -4019,14 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/america-has-a-serious-chinese-spying-problem/?edition=us</guid>
             <dc:creator><![CDATA[Ian Williams]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 06:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drinking 2009 Mouton Rothschild at Butterworth’s]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/drinking-2009-mouton-rothschild-at-butterworths/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/drinking-2009-mouton-rothschild-at-butterworths/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 02:04:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

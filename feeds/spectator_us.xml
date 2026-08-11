@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 06:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 08:04:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 06:50:46 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 08:04:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[America at 250 remains an exceptional country]]></title>
+            <description><![CDATA[By Spectator Editorial]]></description>
+            <link>https://spectator.com/article/america-at-250-remains-an-exceptional-country/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-at-250-remains-an-exceptional-country/?edition=us</guid>
+            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 08:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Memorial Day pilgrimage to a Pennsylvania Walmart]]></title>
+            <description><![CDATA[By Josie Cox]]></description>
+            <link>https://spectator.com/article/memorial-day-pilgrimage-pennsylvania-walmart/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/memorial-day-pilgrimage-pennsylvania-walmart/?edition=us</guid>
+            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 08:04:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All roads lead to Nashville]]></title>
             <description><![CDATA[By Christopher Caldwell]]></description>
@@ -4011,22 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/what-george-washington-learned-from-brooklyn-heights/?edition=us</guid>
             <dc:creator><![CDATA[Patrick Allitt]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 15:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time for Americans to give tea a second chance]]></title>
-            <description><![CDATA[A new leaf]]></description>
-            <link>https://spectator.com/article/time-for-americans-to-give-tea-a-second-chance/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/time-for-americans-to-give-tea-a-second-chance/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 12:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Longevity is not the meaning of life]]></title>
-            <description><![CDATA[By Zak Asgard]]></description>
-            <link>https://spectator.com/article/longevity-is-not-the-meaning-of-life/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/longevity-is-not-the-meaning-of-life/?edition=us</guid>
-            <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 12:03:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

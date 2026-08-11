@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 06:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 08:04:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 06:50:52 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 08:04:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The prisons crisis needs bold solutions like the El Salvador plan]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/the-prisons-crisis-needs-bold-solutions-like-the-el-salvador-plan/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-prisons-crisis-needs-bold-solutions-like-the-el-salvador-plan/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 08:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miatta Fahnbulleh and the society of socialist hypocrisy]]></title>
+            <description><![CDATA[By Niall Gooch]]></description>
+            <link>https://spectator.com/article/miatta-fahnbulleh-and-the-society-of-socialist-hypocrisy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/miatta-fahnbulleh-and-the-society-of-socialist-hypocrisy/</guid>
+            <dc:creator><![CDATA[Niall Gooch]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 08:04:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Colombia earthquake is a big test for its new president]]></title>
             <description><![CDATA[By Catherine Ellis]]></description>
@@ -4019,22 +4035,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <guid isPermaLink="true">https://spectator.com/article/will-burnham-and-the-king-get-on/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 12:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham cannot allow Ali Milani near power]]></title>
-            <description><![CDATA[New hire]]></description>
-            <link>https://spectator.com/article/burnham-cannot-allow-ali-milani-near-power/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-cannot-allow-ali-milani-near-power/</guid>
-            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 09:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham is doomed if he listens to Labour MPs on immigration]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
-            <link>https://spectator.com/article/burnham-is-doomed-if-he-listens-to-labour-mps-on-immigration/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-is-doomed-if-he-listens-to-labour-mps-on-immigration/</guid>
-            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 09:50:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

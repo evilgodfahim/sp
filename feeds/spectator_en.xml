@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 09:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 10:52:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 09:02:53 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 10:52:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is this the best Labour can do?]]></title>
+            <description><![CDATA[Burnham bounce]]></description>
+            <link>https://spectator.com/article/is-this-the-best-labour-can-do/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-this-the-best-labour-can-do/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 10:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do we really all have to ‘play our part’ housing asylum seekers?]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/do-we-really-all-have-to-play-our-part-housing-asylum-seekers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/do-we-really-all-have-to-play-our-part-housing-asylum-seekers/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 10:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let cyclists pee in public]]></title>
+            <description><![CDATA[By Rose George]]></description>
+            <link>https://spectator.com/article/where-are-cyclists-supposed-to-urinate/</link>
+            <guid isPermaLink="true">https://spectator.com/article/where-are-cyclists-supposed-to-urinate/</guid>
+            <dc:creator><![CDATA[Rose George]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 10:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The myth of Britain’s functioning probation service]]></title>
+            <description><![CDATA[By Alexander Baker]]></description>
+            <link>https://spectator.com/article/the-myth-of-britains-functioning-probation-service/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-myth-of-britains-functioning-probation-service/</guid>
+            <dc:creator><![CDATA[Alexander Baker]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 10:52:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In defence of betting shops]]></title>
             <description><![CDATA[By Neil Clark]]></description>
@@ -3997,38 +4029,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <guid isPermaLink="true">https://spectator.com/article/dear-mary-how-should-i-have-dealt-with-a-seat-thief/?homepage-tracking=high_density-article-3</guid>
             <dc:creator><![CDATA[Mary Killen]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 08:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham is comically out of touch]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
-            <link>https://spectator.com/article/andy-burnham-seems-comically-out-of-touch/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-seems-comically-out-of-touch/</guid>
-            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 08:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The real problem with the BBC’s licence fee ad]]></title>
-            <description><![CDATA[Ideology]]></description>
-            <link>https://spectator.com/article/the-real-problem-with-the-bbcs-licence-fee-ad/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-real-problem-with-the-bbcs-licence-fee-ad/</guid>
-            <dc:creator><![CDATA[Charlie Walsham]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 08:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI’s taken my job]]></title>
-            <description><![CDATA[By Geoff Bagwell]]></description>
-            <link>https://spectator.com/article/ais-taken-my-job/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ais-taken-my-job/</guid>
-            <dc:creator><![CDATA[Geoff Bagwell]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 05:12:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Britain went cold on ice cream vans]]></title>
-            <description><![CDATA[By Zak Asgard]]></description>
-            <link>https://spectator.com/article/what-happened-to-britains-ice-cream-vans/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-happened-to-britains-ice-cream-vans/</guid>
-            <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 05:12:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

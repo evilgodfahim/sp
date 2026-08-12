@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 09:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 10:52:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 09:02:47 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 10:52:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The meaning of the lemonade stand]]></title>
+            <description><![CDATA[By Josie Cox]]></description>
+            <link>https://spectator.com/article/meaning-lemonade-stand/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/meaning-lemonade-stand/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 10:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘He’s either the Messiah – or the Antichrist’: on the campaign trail with Nigel Farage]]></title>
+            <description><![CDATA[Clacton]]></description>
+            <link>https://spectator.com/article/hes-either-the-messiah-or-the-antichrist-on-the-campaign-trail-with-nigel-farage/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/hes-either-the-messiah-or-the-antichrist-on-the-campaign-trail-with-nigel-farage/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 10:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The strange death of liberal America]]></title>
+            <description><![CDATA[Bad ideas]]></description>
+            <link>https://spectator.com/article/strange-death-liberalism/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/strange-death-liberalism/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 10:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Francesca Hong’s defeat won’t stop the DSA]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/francesca-hongs-defeat-wont-stop-the-dsa/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/francesca-hongs-defeat-wont-stop-the-dsa/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 10:52:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who will we be without our ability to read?]]></title>
             <description><![CDATA[By Philip Hensher]]></description>
@@ -3995,38 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/trumps-america-is-losing-its-mojo/?edition=us</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 02:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump, Europe and the power of delusions]]></title>
-            <description><![CDATA[By Christopher Caldwell]]></description>
-            <link>https://spectator.com/article/trump-europe-and-the-power-of-delusions/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-europe-and-the-power-of-delusions/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 20:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Britain taught us]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
-            <link>https://spectator.com/article/what-britain-taught-us/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-britain-taught-us/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 17:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are American workers just ‘settlers?’]]></title>
-            <description><![CDATA[By Travis Aaroe]]></description>
-            <link>https://spectator.com/article/are-american-workers-just-settlers/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/are-american-workers-just-settlers/?edition=us</guid>
-            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 15:02:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A golden age… for Trump]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/a-golden-age-for-trump/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-golden-age-for-trump/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 15:02:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

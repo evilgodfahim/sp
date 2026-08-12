@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 03:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 05:26:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 03:56:38 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 05:26:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The agony of Make Tax Digital]]></title>
+            <description><![CDATA[For decades, I calculated my annual tax return using the same method; as dull and reliable as a shire horse. Over a few consecutive days, mired in files of receipts, I would transcribe all the info into a spreadsheet, which would then whizz off to my accountants (to whom I pay a vast sum for pressing SEND and passing this on to the Tax Man). Sure, this doesn’t count among my most welcome annual events. It’s not even in the top 100. But at least it only happened once a year. 
+
+
+
+Non-compliance - even anarchy - is looking a better bet than this absolute horror show
+
+
+
+Now, Making Tax Digital has arrived, a visitor as unwelcome as a Nazgûl. Like many things, the blame for this can be squarely laid at the polished brogues of George Osborne.]]></description>
+            <link>https://spectator.com/article/the-agony-of-make-tax-digital/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-agony-of-make-tax-digital/</guid>
+            <dc:creator><![CDATA[Philip Womack]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 05:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t outsource your romantic life to AI]]></title>
+            <description><![CDATA[By Zak Asgard]]></description>
+            <link>https://spectator.com/article/dont-outsource-your-romantic-life-to-ai/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-outsource-your-romantic-life-to-ai/</guid>
+            <dc:creator><![CDATA[Zak Asgard]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 05:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are you suffering from the August delusion?]]></title>
+            <description><![CDATA[By Iain Hollingshead]]></description>
+            <link>https://spectator.com/article/are-you-suffering-from-the-august-delusion/</link>
+            <guid isPermaLink="true">https://spectator.com/article/are-you-suffering-from-the-august-delusion/</guid>
+            <dc:creator><![CDATA[Iain Hollingshead]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 05:26:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DEI must die to prevent another Jason Arday scandal]]></title>
             <description><![CDATA[By Stephen Pax Leonard]]></description>
@@ -4011,30 +4043,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <guid isPermaLink="true">https://spectator.com/article/can-andy-burnham-end-rough-sleeping/</guid>
             <dc:creator><![CDATA[John O’Neill]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 17:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham would be mad to introduce rent controls]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/andy-burnham-would-be-mad-to-introduce-rent-controls/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-would-be-mad-to-introduce-rent-controls/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 17:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My run-in with Hugh Grant]]></title>
-            <description><![CDATA[Diary]]></description>
-            <link>https://spectator.com/article/my-run-in-with-hugh-grant/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-run-in-with-hugh-grant/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Sasha Swire]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 17:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘The moment we bring back hope’: Burnham’s plan for Britain]]></title>
-            <description><![CDATA[By Andy Burnham]]></description>
-            <link>https://spectator.com/article/the-moment-we-bring-back-hope-burnhams-plan-for-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-moment-we-bring-back-hope-burnhams-plan-for-britain/</guid>
-            <dc:creator><![CDATA[Andy Burnham]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 15:03:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

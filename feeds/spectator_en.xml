@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 14:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 15:51:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 14:14:51 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 15:51:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bribing Scots to stay in the UK won’t work forever]]></title>
+            <description><![CDATA[Gers Day]]></description>
+            <link>https://spectator.com/article/bribing-scots-to-stay-in-the-uk-wont-work-forever/</link>
+            <guid isPermaLink="true">https://spectator.com/article/bribing-scots-to-stay-in-the-uk-wont-work-forever/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 15:51:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unite members sit out leadership vote]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -42,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Do we really all have to ‘play our part’ housing asylum seekers?]]></title>
-            <description><![CDATA[By David Shipley]]></description>
+            <description><![CDATA[Migration]]></description>
             <link>https://spectator.com/article/do-we-really-all-have-to-play-our-part-housing-asylum-seekers/</link>
             <guid isPermaLink="true">https://spectator.com/article/do-we-really-all-have-to-play-our-part-housing-asylum-seekers/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
@@ -138,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[DEI must die to prevent another Jason Arday scandal]]></title>
-            <description><![CDATA[Schooled]]></description>
+            <description><![CDATA[By Stephen Pax Leonard]]></description>
             <link>https://spectator.com/article/dei-must-die-to-prevent-another-jason-arday-scandal/</link>
             <guid isPermaLink="true">https://spectator.com/article/dei-must-die-to-prevent-another-jason-arday-scandal/</guid>
             <dc:creator><![CDATA[Stephen Pax Leonard]]></dc:creator>
@@ -4020,14 +4028,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/trapped-with-the-plane-passengers-from-hell/</link>
             <guid isPermaLink="true">https://spectator.com/article/trapped-with-the-plane-passengers-from-hell/</guid>
             <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 08:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dear Mary: how should I have dealt with a seat thief?]]></title>
-            <description><![CDATA[Dear Mary]]></description>
-            <link>https://spectator.com/article/dear-mary-how-should-i-have-dealt-with-a-seat-thief/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dear-mary-how-should-i-have-dealt-with-a-seat-thief/</guid>
-            <dc:creator><![CDATA[Mary Killen]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 08:09:25 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 12:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 14:14:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 12:46:27 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 14:14:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Unite members sit out leadership vote]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/unite-members-sit-out-leadership-vote/</link>
+            <guid isPermaLink="true">https://spectator.com/article/unite-members-sit-out-leadership-vote/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 14:14:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andy Burnham is already in a migration muddle]]></title>
             <description><![CDATA[By Noa Hoffman]]></description>
@@ -4020,14 +4028,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/dear-mary-how-should-i-have-dealt-with-a-seat-thief/</link>
             <guid isPermaLink="true">https://spectator.com/article/dear-mary-how-should-i-have-dealt-with-a-seat-thief/</guid>
             <dc:creator><![CDATA[Mary Killen]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 08:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trapped with the plane passengers from Hell]]></title>
-            <description><![CDATA[Still life]]></description>
-            <link>https://spectator.com/article/trapped-with-the-plane-passengers-from-hell/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/trapped-with-the-plane-passengers-from-hell/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 08:09:25 GMT</pubDate>
         </item>
     </channel>

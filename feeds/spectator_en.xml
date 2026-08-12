@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 23:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 01:09:24 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 23:30:33 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 01:09:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[DEI must die to prevent another Jason Arday scandal]]></title>
+            <description><![CDATA[By Stephen Pax Leonard]]></description>
+            <link>https://spectator.com/article/dei-must-die-to-prevent-another-jason-arday-scandal/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dei-must-die-to-prevent-another-jason-arday-scandal/</guid>
+            <dc:creator><![CDATA[Stephen Pax Leonard]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 01:09:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham: I’ll ‘eradicate’ illegal dinghy crossings]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4026,14 +4034,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/the-moment-we-bring-back-hope-burnhams-plan-for-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-moment-we-bring-back-hope-burnhams-plan-for-britain/</guid>
             <dc:creator><![CDATA[Andy Burnham]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 15:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham’s rough record on homelessness]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/andy-burnhams-rough-record-on-homelessness/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-rough-record-on-homelessness/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 15:03:03 GMT</pubDate>
         </item>
     </channel>

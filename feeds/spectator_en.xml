@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 19:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 20:32:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 19:51:35 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 20:32:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Throw away your keyboard]]></title>
+            <description><![CDATA[By Rory Sutherland]]></description>
+            <link>https://spectator.com/article/throw-away-your-keyboard/</link>
+            <guid isPermaLink="true">https://spectator.com/article/throw-away-your-keyboard/</guid>
+            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 20:32:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Confessions of a dog hater]]></title>
             <description><![CDATA[No life]]></description>
@@ -4034,14 +4042,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/my-quest-for-the-perfect-muffuletta/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-quest-for-the-perfect-muffuletta/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 01:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham is much more nostalgic than Nigel Farage]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/andy-burnham-is-much-more-nostalgic-than-nigel-farage/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-much-more-nostalgic-than-nigel-farage/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 01:57:00 GMT</pubDate>
         </item>
     </channel>

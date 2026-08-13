@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 08:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 09:54:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 08:12:01 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 09:54:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[There’s a logic to Donald Trump’s incendiary diplomacy]]></title>
+            <description><![CDATA[By Blake Neff]]></description>
+            <link>https://spectator.com/article/theres-a-logic-to-donald-trumps-incendiary-diplomacy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/theres-a-logic-to-donald-trumps-incendiary-diplomacy/?edition=us</guid>
+            <dc:creator><![CDATA[Blake Neff]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 09:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get a Trump pardon]]></title>
+            <description><![CDATA[By Matt McDonald]]></description>
+            <link>https://spectator.com/article/get-trump-pardon-second-term/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/get-trump-pardon-second-term/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 09:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The meaning of the lemonade stand]]></title>
+            <description><![CDATA[New York life]]></description>
+            <link>https://spectator.com/article/meaning-lemonade-stand/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/meaning-lemonade-stand/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 09:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My top tips for Andy Burnham]]></title>
+            <description><![CDATA[The Wiki Man]]></description>
+            <link>https://spectator.com/article/my-top-tips-for-andy-burnham/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-top-tips-for-andy-burnham/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 09:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rebellion against data centers is growing]]></title>
+            <description><![CDATA[By Robert Bryce]]></description>
+            <link>https://spectator.com/article/rebellion-against-data-centers-growing/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/rebellion-against-data-centers-growing/?edition=us</guid>
+            <dc:creator><![CDATA[Robert Bryce]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 09:54:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An interracial couple have birthed a mixed-race youngling]]></title>
             <description><![CDATA[By Godfrey Elfwick]]></description>
@@ -3987,46 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/the-making-of-america/?edition=us</guid>
             <dc:creator><![CDATA[Simon Jenkins]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 14:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The republic’s public life started with dinner]]></title>
-            <description><![CDATA[By Marc Oestreich]]></description>
-            <link>https://spectator.com/article/the-republics-public-life-started-with-dinner/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-republics-public-life-started-with-dinner/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Marc Oestreich]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 14:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who’s the most underrated American?]]></title>
-            <description><![CDATA[A 250th birthday poll]]></description>
-            <link>https://spectator.com/article/whos-the-most-underrated-american/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/whos-the-most-underrated-american/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 14:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bryan Cranston and Aaron Paul’s cocktail of choice for toasting the 250th]]></title>
-            <description><![CDATA[Drink]]></description>
-            <link>https://spectator.com/article/bryan-cranston-and-aaron-pauls-cocktail-of-choice-for-toasting-the-250th/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/bryan-cranston-and-aaron-pauls-cocktail-of-choice-for-toasting-the-250th/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Bryan Cranston and Aaron Paul]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 14:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The making of America]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-making-of-america/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-making-of-america/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Simon Jenkins]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 14:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bryan Cranston and Aaron Paul’s cocktail of choice for toasting the 250th]]></title>
-            <description><![CDATA[By Bryan Cranston and Aaron Paul]]></description>
-            <link>https://spectator.com/article/bryan-cranston-and-aaron-pauls-cocktail-of-choice-for-toasting-the-250th/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/bryan-cranston-and-aaron-pauls-cocktail-of-choice-for-toasting-the-250th/?edition=us</guid>
-            <dc:creator><![CDATA[Bryan Cranston and Aaron Paul]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 13:02:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

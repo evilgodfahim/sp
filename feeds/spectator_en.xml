@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 09:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 10:54:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 09:54:15 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 10:54:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[It’s no surprise many Britons think migration is ‘mostly bad’]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/its-no-surprise-many-britons-think-migration-is-mostly-bad/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-no-surprise-many-britons-think-migration-is-mostly-bad/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 10:54:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Farage needs to decide if he wants to govern – or just campaign]]></title>
             <description><![CDATA[By The Spectator]]></description>
@@ -4034,14 +4042,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/inside-the-greens-defence-battle/</link>
             <guid isPermaLink="true">https://spectator.com/article/inside-the-greens-defence-battle/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 14:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s AI shakeup is a shambles]]></title>
-            <description><![CDATA[Tech policy]]></description>
-            <link>https://spectator.com/article/burnhams-ai-shakeup-is-a-shambles/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnhams-ai-shakeup-is-a-shambles/</guid>
-            <dc:creator><![CDATA[Ed Vaizey]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 14:57:23 GMT</pubDate>
         </item>
     </channel>

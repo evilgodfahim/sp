@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 01:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 04:01:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 04:01:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How I got Rod Liddle sacked]]></title>
+            <description><![CDATA[By Charles Moore]]></description>
+            <link>https://spectator.com/article/how-i-got-rod-liddle-sacked/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-i-got-rod-liddle-sacked/</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 04:01:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[There’s a logic to Donald Trump’s incendiary diplomacy]]></title>
             <description><![CDATA[By Blake Neff]]></description>
@@ -4032,14 +4040,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/everyone-wants-a-daughter-now/</link>
             <guid isPermaLink="true">https://spectator.com/article/everyone-wants-a-daughter-now/</guid>
             <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 05:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Zelensky more focused on his survival than Ukraine’s victory?]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/is-zelensky-more-focused-on-his-survival-than-ukraines-victory/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-zelensky-more-focused-on-his-survival-than-ukraines-victory/</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 05:11:27 GMT</pubDate>
         </item>
     </channel>

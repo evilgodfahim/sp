@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 12:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 14:09:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 12:43:07 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 14:09:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My friend the failure – and the star]]></title>
+            <description><![CDATA[No life]]></description>
+            <link>https://spectator.com/article/my-friend-the-failure-and-the-star/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-friend-the-failure-and-the-star/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 14:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who will we be without our ability to read?]]></title>
+            <description><![CDATA[By Philip Hensher]]></description>
+            <link>https://spectator.com/article/without-ability-read-literacy/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/without-ability-read-literacy/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Philip Hensher]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 14:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AOC, the radical for normies]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/aoc-the-radical-for-normies/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/aoc-the-radical-for-normies/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 14:09:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[America gets the AI boom. Europe gets the layoffs]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
@@ -4003,30 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/trump-has-exposed-the-limits-of-american-power/?edition=us</guid>
             <dc:creator><![CDATA[Klaus Dodds]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 16:16:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America at 250 remains an exceptional country]]></title>
-            <description><![CDATA[America the great]]></description>
-            <link>https://spectator.com/article/america-at-250-remains-an-exceptional-country/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/america-at-250-remains-an-exceptional-country/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:37:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The glorious silliness of tribute band names]]></title>
-            <description><![CDATA[Notes on...]]></description>
-            <link>https://spectator.com/article/the-glorious-silliness-of-tribute-band-names/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-glorious-silliness-of-tribute-band-names/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Anthony Whitehead]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:37:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Britain taught us]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
-            <link>https://spectator.com/article/what-britain-taught-us/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-britain-taught-us/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:37:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

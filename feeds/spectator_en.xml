@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 08:59:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 10:02:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 08:59:08 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 10:02:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Watch: Tice flounders over Farage’s Clacton no-show]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-tice-flounders-over-farages-clacton-no-show/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-tice-flounders-over-farages-clacton-no-show/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 10:02:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One hot summer won’t silence us climate change sceptics]]></title>
+            <description><![CDATA[By James Delingpole]]></description>
+            <link>https://spectator.com/article/one-hot-summer-wont-silence-us-climate-change-sceptics/</link>
+            <guid isPermaLink="true">https://spectator.com/article/one-hot-summer-wont-silence-us-climate-change-sceptics/</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 10:02:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The two lessons from Farage’s Clacton win]]></title>
             <description><![CDATA[By Stephen Daisley]]></description>
@@ -33,7 +49,7 @@
             <pubDate>Fri, 14 Aug 2026 08:59:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Burnham should bin his idea to ban disposable BBQs]]></title>
+            <title><![CDATA[Burnham should bin his disposable BBQ ban]]></title>
             <description><![CDATA[By Angela Epstein]]></description>
             <link>https://spectator.com/article/burnham-should-bin-his-idea-to-ban-disposable-bbqs/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-should-bin-his-idea-to-ban-disposable-bbqs/</guid>
@@ -4027,22 +4043,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/dont-fall-for-the-deodorant-con/?homepage-tracking=magazine-article-3</guid>
             <dc:creator><![CDATA[Philip Hensher]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 08:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The problem with the Widdecombe suspect’s ‘fair trial’]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/the-problem-with-the-widdecombe-suspects-fair-trial/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-the-widdecombe-suspects-fair-trial/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 05:20:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham is already drifting towards defeat]]></title>
-            <description><![CDATA[By The Spectator]]></description>
-            <link>https://spectator.com/article/burnham-is-already-drifting-towards-defeat/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-is-already-drifting-towards-defeat/</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 05:20:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

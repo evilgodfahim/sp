@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 23:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 01:10:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 23:32:16 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 01:10:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Labour’s marriage-lite revolution could have screwed over Taylor Swift]]></title>
+            <description><![CDATA[By Lois McLatchie Miller]]></description>
+            <link>https://spectator.com/article/how-labours-marriage-lite-revolution-could-have-screwed-over-taylor-swift/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-labours-marriage-lite-revolution-could-have-screwed-over-taylor-swift/</guid>
+            <dc:creator><![CDATA[Lois McLatchie Miller]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 01:10:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Throw away your keyboard]]></title>
             <description><![CDATA[By Rory Sutherland]]></description>
@@ -4034,14 +4042,6 @@ But in a sense Labour is seeking a new relationship with the British public and 
             <link>https://spectator.com/article/the-radical-left-wing-takeover-of-the-democrats-is-nearly-complete/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-radical-left-wing-takeover-of-the-democrats-is-nearly-complete/</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 01:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My quest for the perfect muffuletta]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
-            <link>https://spectator.com/article/my-quest-for-the-perfect-muffuletta/</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-quest-for-the-perfect-muffuletta/</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 01:57:00 GMT</pubDate>
         </item>
     </channel>

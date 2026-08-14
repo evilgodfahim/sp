@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 10:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 11:37:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 10:02:32 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 11:37:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[America gets the AI boom. Europe gets the layoffs]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/america-gets-the-ai-boom-europe-gets-the-layoffs/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-gets-the-ai-boom-europe-gets-the-layoffs/?edition=us</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 11:37:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Liberals blew the 2016 election when they lost their compassion]]></title>
             <description><![CDATA[By F.H. Buckley]]></description>
@@ -397,7 +405,7 @@ Without changing her hair or dress, the transformation begins and, after making 
             <pubDate>Mon, 10 Aug 2026 17:43:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shiva Naipaul’s Journey to Nowhere deserves its reissue]]></title>
+            <title><![CDATA[The dark heart of Jonestown]]></title>
             <description><![CDATA[By D.J. Taylor]]></description>
             <link>https://spectator.com/article/shiva-naipaul-journey-nowhere-deserves-reissue/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/shiva-naipaul-journey-nowhere-deserves-reissue/?edition=us</guid>
@@ -433,7 +441,7 @@ It comes as a shock, then, to learn that the US has apparently all but run out o
             <pubDate>Mon, 10 Aug 2026 15:51:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Near, not in the way]]></title>
+            <title><![CDATA[My Jersey Shore summers]]></title>
             <description><![CDATA[By Michael Brendan Dougherty]]></description>
             <link>https://spectator.com/article/regret-taking-mothers-last-name/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/regret-taking-mothers-last-name/?edition=us</guid>
@@ -4018,14 +4026,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/what-britain-taught-us/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/what-britain-taught-us/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:37:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir George Cockburn, the great emancipator]]></title>
-            <description><![CDATA[Liberator]]></description>
-            <link>https://spectator.com/article/sir-george-cockburn-the-great-emancipator/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/sir-george-cockburn-the-great-emancipator/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Andrew Cockburn]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:37:33 GMT</pubDate>
         </item>
     </channel>

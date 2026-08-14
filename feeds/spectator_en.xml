@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 07:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 08:59:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 07:10:24 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 08:59:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The two lessons from Farage’s Clacton win]]></title>
+            <description><![CDATA[By Stephen Daisley]]></description>
+            <link>https://spectator.com/article/the-two-lessons-from-farages-clacton-win/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-two-lessons-from-farages-clacton-win/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 08:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clacton shows how unserious Reform UK still is]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/clacton-shows-how-unserious-reform-uk-still-is/</link>
+            <guid isPermaLink="true">https://spectator.com/article/clacton-shows-how-unserious-reform-uk-still-is/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 08:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clacton has strengthened Nigel Farage]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/clacton-has-strengthened-nigel-farage/</link>
+            <guid isPermaLink="true">https://spectator.com/article/clacton-has-strengthened-nigel-farage/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 08:59:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham should bin his idea to ban disposable BBQs]]></title>
             <description><![CDATA[By Angela Epstein]]></description>
@@ -4019,30 +4043,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/burnham-is-already-drifting-towards-defeat/</guid>
             <dc:creator><![CDATA[The Spectator]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 05:20:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Victorian Hieronymus Bosch]]></title>
-            <description><![CDATA[By Hermione Eyre]]></description>
-            <link>https://spectator.com/article/the-victorian-hieronymus-bosch/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-victorian-hieronymus-bosch/</guid>
-            <dc:creator><![CDATA[Hermione Eyre]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 01:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The dark truth about dating apps and AI]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
-            <link>https://spectator.com/article/the-dark-truth-about-dating-apps-and-ai/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-dark-truth-about-dating-apps-and-ai/</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 01:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We should all find the time to smoke]]></title>
-            <description><![CDATA[By James Dixon]]></description>
-            <link>https://spectator.com/article/we-should-all-find-the-time-to-smoke/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-should-all-find-the-time-to-smoke/</guid>
-            <dc:creator><![CDATA[James Dixon]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 01:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

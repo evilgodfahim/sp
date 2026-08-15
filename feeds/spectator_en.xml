@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 00:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 02:08:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 00:43:18 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 02:08:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fantasy football is good for you – and your kids]]></title>
+            <description><![CDATA[By Jonathan Maitland]]></description>
+            <link>https://spectator.com/article/in-defence-of-fantasy-football/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-fantasy-football/</guid>
+            <dc:creator><![CDATA[Jonathan Maitland]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 02:08:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The wildfires phone notification was hysterical]]></title>
             <description><![CDATA[By Michael Simmons]]></description>
@@ -4034,14 +4042,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/wes-streeting-is-clueless-about-israel/</link>
             <guid isPermaLink="true">https://spectator.com/article/wes-streeting-is-clueless-about-israel/</guid>
             <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 08:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Ed Miliband preparing to take on Donald Trump?]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/is-ed-miliband-preparing-to-take-on-donald-trump/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-ed-miliband-preparing-to-take-on-donald-trump/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 08:13:30 GMT</pubDate>
         </item>
     </channel>

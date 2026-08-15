@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 08:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 09:17:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 08:16:43 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 09:17:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The tragedy of Jason Arday]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/the-tragedy-of-jason-arday/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tragedy-of-jason-arday/</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 09:17:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We need more emergency phone alerts]]></title>
             <description><![CDATA[By Druin Burch]]></description>
@@ -4026,14 +4034,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/jameela-jamils-brit-bashing-is-embarrassingly-out-of-date/</link>
             <guid isPermaLink="true">https://spectator.com/article/jameela-jamils-brit-bashing-is-embarrassingly-out-of-date/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 13:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A business rates cut won’t save our pubs]]></title>
-            <description><![CDATA[By Rory Hanrahan]]></description>
-            <link>https://spectator.com/article/a-business-rates-cut-wont-save-our-pubs/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-business-rates-cut-wont-save-our-pubs/</guid>
-            <dc:creator><![CDATA[Rory Hanrahan]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 13:26:28 GMT</pubDate>
         </item>
     </channel>

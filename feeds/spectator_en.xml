@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 04:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 05:17:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 04:21:14 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 05:17:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is Cambridge platforming Islamic creationism?]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/why-is-cambridge-platforming-islamic-creationism/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-cambridge-platforming-islamic-creationism/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 05:17:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Frida Kahlo is a right-wing icon]]></title>
             <description><![CDATA[When Theresa May coughed into her hand during her painful conference speech back in 2017, adorning her wrist was a chunky Frida Kahlo bracelet. Some left-wingers were outraged that a Tory would ‘appropriate’ the image of ‘a Communist, bisexual artist who was also a disabled woman of colour’ . The Guardian described it as ‘a surprising statement’ given that Kahlo ‘spent her career concerned with the plight of the impoverished, our connectedness to self, nature and the universe, the relationship between pain and identity, and imagined, one day, we could live in a classless society’.
@@ -4034,14 +4042,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/kemi-needs-her-centrists/</link>
             <guid isPermaLink="true">https://spectator.com/article/kemi-needs-her-centrists/</guid>
             <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 08:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The madness of crowds is keeping markets afloat]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/the-madness-of-crowds-is-keeping-markets-afloat/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-madness-of-crowds-is-keeping-markets-afloat/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 08:13:30 GMT</pubDate>
         </item>
     </channel>

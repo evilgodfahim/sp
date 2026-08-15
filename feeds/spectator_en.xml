@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 05:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 06:21:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 05:17:20 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 06:21:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We need more emergency phone alerts]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/we-need-more-emergency-phone-alerts/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-need-more-emergency-phone-alerts/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 06:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I learnt to stop worrying and love pessimism]]></title>
+            <description><![CDATA[By Julie Burchill]]></description>
+            <link>https://spectator.com/article/how-i-learnt-to-stop-worrying-and-love-pessimism/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-i-learnt-to-stop-worrying-and-love-pessimism/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 06:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Clacton taught us about Nigel Farage’s path to power]]></title>
+            <description><![CDATA[Reform]]></description>
+            <link>https://spectator.com/article/the-gulf-between-those-who-love-and-hate-nigel-farage-is-growing-wider/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-gulf-between-those-who-love-and-hate-nigel-farage-is-growing-wider/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 06:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Iran crisis has exposed Britain’s strategic paralysis]]></title>
+            <description><![CDATA[Middle East]]></description>
+            <link>https://spectator.com/article/the-iran-crisis-has-exposed-britains-strategic-paralysis/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-iran-crisis-has-exposed-britains-strategic-paralysis/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Ali Ansari]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 06:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fantasy football is good for you – and your kids]]></title>
+            <description><![CDATA[Sport]]></description>
+            <link>https://spectator.com/article/in-defence-of-fantasy-football/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-fantasy-football/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Jonathan Maitland]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 06:21:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is Cambridge platforming Islamic creationism?]]></title>
             <description><![CDATA[By Andrew Gilligan]]></description>
@@ -18,15 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Frida Kahlo is a right-wing icon]]></title>
-            <description><![CDATA[When Theresa May coughed into her hand during her painful conference speech back in 2017, adorning her wrist was a chunky Frida Kahlo bracelet. Some left-wingers were outraged that a Tory would ‘appropriate’ the image of ‘a Communist, bisexual artist who was also a disabled woman of colour’ . The Guardian described it as ‘a surprising statement’ given that Kahlo ‘spent her career concerned with the plight of the impoverished, our connectedness to self, nature and the universe, the relationship between pain and identity, and imagined, one day, we could live in a classless society’.
-
-
-
-She was as much a materialist as a Marxist
-
-
-
-But I believe it was an apt choice for my fellow Conservative. Kahlo is a capitalist icon, a right-wing poster girl.]]></description>
+            <description><![CDATA[By Alys Denby]]></description>
             <link>https://spectator.com/article/frida-kahlo-is-a-right-wing-icon/</link>
             <guid isPermaLink="true">https://spectator.com/article/frida-kahlo-is-a-right-wing-icon/</guid>
             <dc:creator><![CDATA[Alys Denby]]></dc:creator>
@@ -4003,46 +4035,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/a-business-rates-cut-wont-save-our-pubs/</guid>
             <dc:creator><![CDATA[Rory Hanrahan]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 13:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gary Lineker’s tax hypocrisy]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/gary-linekers-tax-hypocrisy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/gary-linekers-tax-hypocrisy/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 13:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Badenoch on Shapps: The Tories are now a ‘very different party’]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/badenoch-on-shapps-the-tories-are-now-a-very-different-party/</link>
-            <guid isPermaLink="true">https://spectator.com/article/badenoch-on-shapps-the-tories-are-now-a-very-different-party/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 11:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The joyous ridicule of Stella Creasy’s avian error]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/the-joyous-ridicule-of-stella-creasys-avian-error/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-joyous-ridicule-of-stella-creasys-avian-error/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 11:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Reform and the Tories plan to fight Andy Burnham]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/how-reform-and-the-tories-plan-to-fight-andy-burnham/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-reform-and-the-tories-plan-to-fight-andy-burnham/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 08:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kemi needs her centrists]]></title>
-            <description><![CDATA[By Matthew Parris]]></description>
-            <link>https://spectator.com/article/kemi-needs-her-centrists/</link>
-            <guid isPermaLink="true">https://spectator.com/article/kemi-needs-her-centrists/</guid>
-            <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 08:13:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 02:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 03:32:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 02:08:42 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 03:32:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nothing beats writing by hand]]></title>
+            <description><![CDATA[By James Dixon]]></description>
+            <link>https://spectator.com/article/nothing-beats-writing-by-hand/</link>
+            <guid isPermaLink="true">https://spectator.com/article/nothing-beats-writing-by-hand/</guid>
+            <dc:creator><![CDATA[James Dixon]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 03:32:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fantasy football is good for you – and your kids]]></title>
             <description><![CDATA[By Jonathan Maitland]]></description>
@@ -4034,14 +4042,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/in-defence-of-career-politicians/?homepage-tracking=magazine-article-4</link>
             <guid isPermaLink="true">https://spectator.com/article/in-defence-of-career-politicians/?homepage-tracking=magazine-article-4</guid>
             <dc:creator><![CDATA[George Osborne]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 08:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wes Streeting is clueless about Israel]]></title>
-            <description><![CDATA[By Jonathan Sacerdoti]]></description>
-            <link>https://spectator.com/article/wes-streeting-is-clueless-about-israel/</link>
-            <guid isPermaLink="true">https://spectator.com/article/wes-streeting-is-clueless-about-israel/</guid>
-            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 08:13:30 GMT</pubDate>
         </item>
     </channel>

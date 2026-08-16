@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 02:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 03:40:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 02:16:35 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 03:40:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Iran crisis has exposed Britain’s strategic paralysis]]></title>
+            <description><![CDATA[By Ali Ansari]]></description>
+            <link>https://spectator.com/article/the-iran-crisis-has-exposed-britains-strategic-paralysis/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-iran-crisis-has-exposed-britains-strategic-paralysis/</guid>
+            <dc:creator><![CDATA[Ali Ansari]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 03:40:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will Andy Burnham send the Parthenon Marbles to Greece?]]></title>
             <description><![CDATA[By Alexander Herman]]></description>
@@ -4027,14 +4035,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/why-im-not-celebrating-andy-burnhams-northern-cabal/</guid>
             <dc:creator><![CDATA[Angela Epstein]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 01:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s nothing stopping Gary Lineker from paying more tax]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/theres-nothing-stopping-gary-lineker-from-paying-more-tax/</link>
-            <guid isPermaLink="true">https://spectator.com/article/theres-nothing-stopping-gary-lineker-from-paying-more-tax/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 15:48:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

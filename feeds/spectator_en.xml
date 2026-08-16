@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 05:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 06:23:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 05:20:05 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 06:23:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Britain’s universities have an English language problem]]></title>
+            <description><![CDATA[By Ryan Modarres]]></description>
+            <link>https://spectator.com/article/britains-universities-have-an-english-language-problem/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britains-universities-have-an-english-language-problem/</guid>
+            <dc:creator><![CDATA[Ryan Modarres]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 06:23:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Russia and China are helping North Korea dodge sanctions]]></title>
             <description><![CDATA[By Edward Howell]]></description>
@@ -4033,14 +4041,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/when-did-fighting-for-britain-become-such-a-fringe-idea/</guid>
             <dc:creator><![CDATA[Alexander Glover]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 08:09:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Therapy speak is turning us into sissies]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/therapy-speak-is-turning-us-into-sissies/</link>
-            <guid isPermaLink="true">https://spectator.com/article/therapy-speak-is-turning-us-into-sissies/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 05:13:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

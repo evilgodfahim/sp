@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 09:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 10:14:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 09:18:52 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 10:14:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What ‘London-style’ pizzerias could learn from America]]></title>
+            <description><![CDATA[Slice of the action]]></description>
+            <link>https://spectator.com/article/london-style-pizzerias-could-learn-from-america/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/london-style-pizzerias-could-learn-from-america/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What’s the point of UNESCO?]]></title>
+            <description><![CDATA[By Alex Diggins]]></description>
+            <link>https://spectator.com/article/whats-the-point-of-unesco/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/whats-the-point-of-unesco/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steeplechase is a profoundly English sport]]></title>
+            <description><![CDATA[Country life]]></description>
+            <link>https://spectator.com/article/steeplechase-profoundly-english-sport/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/steeplechase-profoundly-english-sport/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Istanbul gave me]]></title>
+            <description><![CDATA[Author’s notebook]]></description>
+            <link>https://spectator.com/article/what-istanbul-gave-me/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-istanbul-gave-me/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Lawrence Osborne]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jason Arday’s death is dreadful – and enraging]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/jason-ardays-death-is-dreadful-and-enraging/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/jason-ardays-death-is-dreadful-and-enraging/?edition=us</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:14:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside Russia’s repression of Ukraine’s churches]]></title>
             <description><![CDATA[By Peter Pomerantsev]]></description>
@@ -3987,46 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/nato-mission-impossible-defense-spending/?edition=us</guid>
             <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 10:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Kanye West the David Bowie of his age?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/ye-kanye-west-david-bowie-age/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ye-kanye-west-david-bowie-age/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 08:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Is Andrew free already?’]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/is-andrew-free-already/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-andrew-free-already/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 18:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Graham Platner’s defenders are the biggest losers of his implosion]]></title>
-            <description><![CDATA[By Isaac Schorr]]></description>
-            <link>https://spectator.com/article/graham-platner-defenders-biggest-losers-implosion/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/graham-platner-defenders-biggest-losers-implosion/?edition=us</guid>
-            <dc:creator><![CDATA[Isaac Schorr]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 18:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the ‘anti-Trump playbook’ work in Britain?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/will-the-anti-trump-playbook-work-in-britain/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-the-anti-trump-playbook-work-in-britain/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 13:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drinking 2009 Mouton Rothschild at Butterworth’s]]></title>
-            <description><![CDATA[In vino veritas]]></description>
-            <link>https://spectator.com/article/drinking-2009-mouton-rothschild-at-butterworths/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/drinking-2009-mouton-rothschild-at-butterworths/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:47:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

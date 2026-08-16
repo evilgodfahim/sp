@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 12:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 13:24:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 12:20:37 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 13:24:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Kanye West the David Bowie of his age?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/ye-kanye-west-david-bowie-age/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ye-kanye-west-david-bowie-age/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 13:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A book made with gilded leather scales, shimmering organza, and not a single word]]></title>
+            <description><![CDATA[By Georgie Young]]></description>
+            <link>https://spectator.com/article/a-book-made-with-gilded-leather-scales-shimmering-organza-and-not-a-single-word/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-book-made-with-gilded-leather-scales-shimmering-organza-and-not-a-single-word/?edition=us</guid>
+            <dc:creator><![CDATA[Georgie Young]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 13:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berluti’s shoes have been worn by icons from Cardin to Warhol. Now, it’s created a sneaker for the 21st century]]></title>
+            <description><![CDATA[By Peter Howarth]]></description>
+            <link>https://spectator.com/article/berlutis-shoes-have-been-worn-by-icons-from-cardin-to-warhol-now-its-created-a-sneaker-for-the-21st-century/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/berlutis-shoes-have-been-worn-by-icons-from-cardin-to-warhol-now-its-created-a-sneaker-for-the-21st-century/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Howarth]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 13:24:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What ‘London-style’ pizzerias could learn from America]]></title>
             <description><![CDATA[Slice of the action]]></description>
@@ -4002,30 +4026,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/prince-harry-has-lost-his-most-high-stakes-gamble/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/prince-harry-has-lost-his-most-high-stakes-gamble/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 10:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The perfect sycophancy of an AI running coach]]></title>
-            <description><![CDATA[By Angus Colwell]]></description>
-            <link>https://spectator.com/article/the-perfect-sycophancy-of-an-ai-running-coach/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-perfect-sycophancy-of-an-ai-running-coach/?edition=us</guid>
-            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 10:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why socialism will fail]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/why-socialism-will-fail/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-socialism-will-fail/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 10:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump inadvertently boosted Europe’s defense industry]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/nato-mission-impossible-defense-spending/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/nato-mission-impossible-defense-spending/?edition=us</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 10:55:09 GMT</pubDate>
         </item>
     </channel>

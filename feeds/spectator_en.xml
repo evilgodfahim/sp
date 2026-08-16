@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 04:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 05:20:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 04:26:30 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 05:20:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Russia and China are helping North Korea dodge sanctions]]></title>
+            <description><![CDATA[By Edward Howell]]></description>
+            <link>https://spectator.com/article/how-russia-and-china-are-helping-north-korea-dodge-sanctions/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-russia-and-china-are-helping-north-korea-dodge-sanctions/</guid>
+            <dc:creator><![CDATA[Edward Howell]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 05:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who was the real Anthony Bourdain?]]></title>
+            <description><![CDATA[By Richard Crampton Platt]]></description>
+            <link>https://spectator.com/article/who-was-the-real-anthony-bourdain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-was-the-real-anthony-bourdain/</guid>
+            <dc:creator><![CDATA[Richard Crampton Platt]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 05:20:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Closet Posho]]></title>
             <description><![CDATA[You won’t find Charlie Thompson amongst the pages of Debrett’s Peerage, unless you look especially hard. Thanks to ChatGPT, though, inquisitive researchers can stumble on his name (though inconspicuous enough) bracketed with illustrious, even aristocratic families. His ancestry is not his fault, as he frequently tells himself. Just because a great-grandmother was an Earl's daughter doesn't make him a toff. Even so, he lives in perpetual anxiety of being found out.  
@@ -4024,22 +4040,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/therapy-speak-is-turning-us-into-sissies/</link>
             <guid isPermaLink="true">https://spectator.com/article/therapy-speak-is-turning-us-into-sissies/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 05:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The problem with Maga maternity wear]]></title>
-            <description><![CDATA[By Zoe Strimpel]]></description>
-            <link>https://spectator.com/article/the-problem-with-maga-maternity-wear/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-maga-maternity-wear/</guid>
-            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 05:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John Healey is more left-wing than you think]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/john-healey-is-more-left-wing-than-you-think/</link>
-            <guid isPermaLink="true">https://spectator.com/article/john-healey-is-more-left-wing-than-you-think/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 05:13:13 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,32 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 03:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 04:26:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 03:40:18 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 04:26:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Closet Posho]]></title>
+            <description><![CDATA[You won’t find Charlie Thompson amongst the pages of Debrett’s Peerage, unless you look especially hard. Thanks to ChatGPT, though, inquisitive researchers can stumble on his name (though inconspicuous enough) bracketed with illustrious, even aristocratic families. His ancestry is not his fault, as he frequently tells himself. Just because a great-grandmother was an Earl's daughter doesn't make him a toff. Even so, he lives in perpetual anxiety of being found out.  
+
+
+
+
+
+His colleagues at the large media firm, where he’s worked for 20 years, spend more time bashing ‘posh twats’ and ‘nepo babies’ than he’s entirely comfortable with.]]></description>
+            <link>https://spectator.com/article/the-closet-posho/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-closet-posho/</guid>
+            <dc:creator><![CDATA[Anonymous]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 04:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jason Arday’s death is dreadful – and enraging]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/jason-ardays-death-is-dreadful-and-enraging/</link>
+            <guid isPermaLink="true">https://spectator.com/article/jason-ardays-death-is-dreadful-and-enraging/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 04:26:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Iran crisis has exposed Britain’s strategic paralysis]]></title>
             <description><![CDATA[By Ali Ansari]]></description>
@@ -4019,22 +4041,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/john-healey-is-more-left-wing-than-you-think/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 05:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the point of the Lib Dems?]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/what-is-the-point-of-the-lib-dems/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-is-the-point-of-the-lib-dems/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 05:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I’m not celebrating Andy Burnham’s northern cabal]]></title>
-            <description><![CDATA[By Angela Epstein]]></description>
-            <link>https://spectator.com/article/why-im-not-celebrating-andy-burnhams-northern-cabal/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-im-not-celebrating-andy-burnhams-northern-cabal/</guid>
-            <dc:creator><![CDATA[Angela Epstein]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 01:52:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

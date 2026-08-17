@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 08:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 09:31:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 08:32:48 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 09:31:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[I crashed Rupert Murdoch’s birthday party]]></title>
+            <description><![CDATA[By Lachlan Cartwright]]></description>
+            <link>https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</guid>
+            <dc:creator><![CDATA[Lachlan Cartwright]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 09:31:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Babies on demand: the nasty side of surrogacy]]></title>
             <description><![CDATA[By Madeleine Kearns]]></description>
@@ -4018,14 +4026,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/a-tower-of-nonsense/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/a-tower-of-nonsense/?edition=us</guid>
             <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 17:20:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Sunny Hostin scared of the American flag?]]></title>
-            <description><![CDATA[By Sabrina Philip]]></description>
-            <link>https://spectator.com/article/sunny-hostin-scared-american-flag-view/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/sunny-hostin-scared-american-flag-view/?edition=us</guid>
-            <dc:creator><![CDATA[Sabrina Philip]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 17:20:28 GMT</pubDate>
         </item>
     </channel>

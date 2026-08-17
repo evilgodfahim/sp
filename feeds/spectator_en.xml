@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 14:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 15:17:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 14:18:23 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 15:17:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The end of the Luigi cult]]></title>
+            <description><![CDATA[By Alex Bronzini-Vender]]></description>
+            <link>https://spectator.com/article/the-end-of-the-luigi-mangione-cult/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-end-of-the-luigi-mangione-cult/</guid>
+            <dc:creator><![CDATA[Alex Bronzini-Vender]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 15:17:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why won’t Reform’s welfare cuts apply to the triple lock?]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/why-wont-reforms-welfare-cuts-apply-to-the-triple-lock/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-wont-reforms-welfare-cuts-apply-to-the-triple-lock/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 15:17:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can Reform really end benefits Britain?]]></title>
             <description><![CDATA[Concern for welfare]]></description>
@@ -4018,22 +4034,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/the-office-politics-behind-tokyos-hairy-leg-panic/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/the-office-politics-behind-tokyos-hairy-leg-panic/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 10:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voters are buying what Burnham is selling]]></title>
-            <description><![CDATA[Exclusive poll:]]></description>
-            <link>https://spectator.com/article/exclusive-poll-voters-are-buying-what-burnham-is-selling/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/exclusive-poll-voters-are-buying-what-burnham-is-selling/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 10:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Healey must fix the ONS]]></title>
-            <description><![CDATA[Economics]]></description>
-            <link>https://spectator.com/article/healey-must-fix-the-ons/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/healey-must-fix-the-ons/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 10:20:54 GMT</pubDate>
         </item>
     </channel>

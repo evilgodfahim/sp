@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 15:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 16:17:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 15:17:12 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 16:17:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reform’s messy welfare crackdown deserves some credit]]></title>
+            <description><![CDATA[By Annabel Denham]]></description>
+            <link>https://spectator.com/article/reforms-messy-welfare-crackdown-deserves-some-credit/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reforms-messy-welfare-crackdown-deserves-some-credit/</guid>
+            <dc:creator><![CDATA[Annabel Denham]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 16:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour MP suspended amid Covid loan probe]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/labour-mp-suspended-amid-covid-loan-questions/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-mp-suspended-amid-covid-loan-questions/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 16:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s no surprise that Andy Burnham was duped]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/its-no-surprise-that-andy-burnham-was-duped/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-no-surprise-that-andy-burnham-was-duped/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 16:17:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The end of the Luigi cult]]></title>
             <description><![CDATA[By Alex Bronzini-Vender]]></description>
@@ -4011,30 +4035,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/why-the-bus-2-price-cap-might-just-pay-off-for-burnham/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 17:52:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Burnham end rough sleeping?]]></title>
-            <description><![CDATA[By The Spectator]]></description>
-            <link>https://spectator.com/article/can-burnham-end-rough-sleeping/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-burnham-end-rough-sleeping/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 17:52:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defence of career politicians]]></title>
-            <description><![CDATA[By George Osborne]]></description>
-            <link>https://spectator.com/article/in-defence-of-career-politicians/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-career-politicians/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[George Osborne]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 10:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The office politics behind Tokyo’s hairy leg panic]]></title>
-            <description><![CDATA[Sume-hara]]></description>
-            <link>https://spectator.com/article/the-office-politics-behind-tokyos-hairy-leg-panic/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-office-politics-behind-tokyos-hairy-leg-panic/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 10:20:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

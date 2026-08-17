@@ -4,21 +4,29 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 12:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 13:33:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 12:24:33 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 13:33:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Trump’s military distancing from South Korea makes no sense]]></title>
-            <description><![CDATA[By Edward Howell]]></description>
+            <title><![CDATA[Can Reform really end benefits Britain?]]></title>
+            <description><![CDATA[Concern for welfare]]></description>
+            <link>https://spectator.com/article/can-reform-really-end-benefits-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-reform-really-end-benefits-britain/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 13:33:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is Trump unhappy about military drills with South Korea?]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
             <link>https://spectator.com/article/trumps-military-distancing-from-south-korea-makes-no-sense/</link>
             <guid isPermaLink="true">https://spectator.com/article/trumps-military-distancing-from-south-korea-makes-no-sense/</guid>
-            <dc:creator><![CDATA[Edward Howell]]></dc:creator>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 12:24:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Ceuta crisis isn’t over]]></title>
-            <description><![CDATA[By Jim Lawley]]></description>
+            <description><![CDATA[Mass migration]]></description>
             <link>https://spectator.com/article/the-ceuta-crisis-isnt-over/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-ceuta-crisis-isnt-over/</guid>
             <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
@@ -26,7 +34,7 @@
         </item>
         <item>
             <title><![CDATA[Emmanuel Macron is an embarrassment to France]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
+            <description><![CDATA[Nearing the end]]></description>
             <link>https://spectator.com/article/emmanuel-macron-has-become-a-humiliation-for-france/</link>
             <guid isPermaLink="true">https://spectator.com/article/emmanuel-macron-has-become-a-humiliation-for-france/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
@@ -34,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Why people cared about Jason Arday]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
+            <description><![CDATA[Cambridge]]></description>
             <link>https://spectator.com/article/why-people-cared-about-jason-arday/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-people-cared-about-jason-arday/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -130,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Send the emergency alert to Whitehall]]></title>
-            <description><![CDATA[Whitehall wake-up]]></description>
+            <description><![CDATA[By Max Jeffery]]></description>
             <link>https://spectator.com/article/send-the-emergency-alert-to-whitehall/</link>
             <guid isPermaLink="true">https://spectator.com/article/send-the-emergency-alert-to-whitehall/</guid>
             <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
@@ -218,7 +226,7 @@
         </item>
         <item>
             <title><![CDATA[Jason Arday’s death is dreadful – and enraging]]></title>
-            <description><![CDATA[Cambridge]]></description>
+            <description><![CDATA[By Brendan O’Neill]]></description>
             <link>https://spectator.com/article/jason-ardays-death-is-dreadful-and-enraging/</link>
             <guid isPermaLink="true">https://spectator.com/article/jason-ardays-death-is-dreadful-and-enraging/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -4027,14 +4035,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/healey-must-fix-the-ons/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 10:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the bourbon trail in Cincinnati]]></title>
-            <description><![CDATA[By Jonathan Ray]]></description>
-            <link>https://spectator.com/article/on-the-bourbon-trail-in-cincinnati/</link>
-            <guid isPermaLink="true">https://spectator.com/article/on-the-bourbon-trail-in-cincinnati/</guid>
-            <dc:creator><![CDATA[Jonathan Ray]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 06:09:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

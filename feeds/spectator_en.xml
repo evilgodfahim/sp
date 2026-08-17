@@ -4,13 +4,61 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 04:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 05:27:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 04:32:53 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 05:27:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Nothing beats writing by hand]]></title>
+            <description><![CDATA[Pen pals]]></description>
+            <link>https://spectator.com/article/nothing-beats-writing-by-hand/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/nothing-beats-writing-by-hand/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[James Dixon]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 05:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does anyone take Ai Weiwei seriously?]]></title>
+            <description><![CDATA[Exhibitions]]></description>
+            <link>https://spectator.com/article/why-does-anyone-take-ai-weiwei-seriously/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-does-anyone-take-ai-weiwei-seriously/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Digby Warde-Aldam]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 05:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Throw away your keyboard]]></title>
+            <description><![CDATA[The Wiki Man]]></description>
+            <link>https://spectator.com/article/throw-away-your-keyboard/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/throw-away-your-keyboard/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 05:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t grow a beard]]></title>
+            <description><![CDATA[Notes on...]]></description>
+            <link>https://spectator.com/article/dont-grow-a-beard/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-grow-a-beard/</guid>
+            <dc:creator><![CDATA[Nigel Jones]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 05:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jason Arday wasn’t the victim of a ‘racist witch hunt’]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/jason-arday-wasnt-the-victim-of-a-racist-witch-hunt/</link>
+            <guid isPermaLink="true">https://spectator.com/article/jason-arday-wasnt-the-victim-of-a-racist-witch-hunt/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 05:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does anyone take Ai Weiwei seriously?]]></title>
+            <description><![CDATA[Exhibitions]]></description>
+            <link>https://spectator.com/article/why-does-anyone-take-ai-weiwei-seriously/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-does-anyone-take-ai-weiwei-seriously/</guid>
+            <dc:creator><![CDATA[Digby Warde-Aldam]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 05:27:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The joy of England’s ungentrified beaches]]></title>
-            <description><![CDATA[By Flora Watkins]]></description>
+            <description><![CDATA[Jaywick over Holkham]]></description>
             <link>https://spectator.com/article/the-joy-of-englands-non-gentrified-beaches/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-joy-of-englands-non-gentrified-beaches/</guid>
             <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
@@ -18,15 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Holidays shouldn’t be for snobby reading]]></title>
-            <description><![CDATA[When I go on my hols this summer, I will, as ever, be taking a couple of novels with me. My golden rule for any break is only to take the kind of books that I’m actually likely to read, which not only rules out most of what I write and research, in the form of biographical and historical non-fiction, but also anything that’s going to sit in my suitcase reproachfully unopened, taking up space and leaving me feeling like an intellectual pygmy. 
-
-
-
-Burying oneself in books should be an enjoyable rather than excruciating experience
-
-
-
-Last summer, I raced through an Amanda Craig, several Simon Ravens and a William Boyd. This year, for consistency, I’m hoping to pack the latest Boyd.]]></description>
+            <description><![CDATA[Beach reads]]></description>
             <link>https://spectator.com/article/holidays-shouldnt-be-for-snobby-reading/</link>
             <guid isPermaLink="true">https://spectator.com/article/holidays-shouldnt-be-for-snobby-reading/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -34,7 +74,7 @@ Last summer, I raced through an Amanda Craig, several Simon Ravens and a William
         </item>
         <item>
             <title><![CDATA[A civilised drinker’s guide to Soho pub etiquette]]></title>
-            <description><![CDATA[By Richard Crampton Platt]]></description>
+            <description><![CDATA[Vertical drinking]]></description>
             <link>https://spectator.com/article/a-civilised-drinkers-guide-to-soho-pub-etiquette/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-civilised-drinkers-guide-to-soho-pub-etiquette/</guid>
             <dc:creator><![CDATA[Richard Crampton Platt]]></dc:creator>
@@ -58,7 +98,7 @@ Last summer, I raced through an Amanda Craig, several Simon Ravens and a William
         </item>
         <item>
             <title><![CDATA[Send the emergency alert to Whitehall]]></title>
-            <description><![CDATA[By Max Jeffery]]></description>
+            <description><![CDATA[Whitehall wake-up]]></description>
             <link>https://spectator.com/article/send-the-emergency-alert-to-whitehall/</link>
             <guid isPermaLink="true">https://spectator.com/article/send-the-emergency-alert-to-whitehall/</guid>
             <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
@@ -146,7 +186,7 @@ Last summer, I raced through an Amanda Craig, several Simon Ravens and a William
         </item>
         <item>
             <title><![CDATA[Jason Arday’s death is dreadful – and enraging]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
+            <description><![CDATA[Cambridge]]></description>
             <link>https://spectator.com/article/jason-ardays-death-is-dreadful-and-enraging/</link>
             <guid isPermaLink="true">https://spectator.com/article/jason-ardays-death-is-dreadful-and-enraging/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -242,7 +282,7 @@ Last summer, I raced through an Amanda Craig, several Simon Ravens and a William
         </item>
         <item>
             <title><![CDATA[Nothing beats writing by hand]]></title>
-            <description><![CDATA[By James Dixon]]></description>
+            <description><![CDATA[Pen pals]]></description>
             <link>https://spectator.com/article/nothing-beats-writing-by-hand/</link>
             <guid isPermaLink="true">https://spectator.com/article/nothing-beats-writing-by-hand/</guid>
             <dc:creator><![CDATA[James Dixon]]></dc:creator>
@@ -290,7 +330,7 @@ Last summer, I raced through an Amanda Craig, several Simon Ravens and a William
         </item>
         <item>
             <title><![CDATA[What Clacton taught us about Nigel Farage’s path to power]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
+            <description><![CDATA[Reform]]></description>
             <link>https://spectator.com/article/the-gulf-between-those-who-love-and-hate-nigel-farage-is-growing-wider/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-gulf-between-those-who-love-and-hate-nigel-farage-is-growing-wider/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -450,7 +490,7 @@ Last summer, I raced through an Amanda Craig, several Simon Ravens and a William
         </item>
         <item>
             <title><![CDATA[Throw away your keyboard]]></title>
-            <description><![CDATA[By Rory Sutherland]]></description>
+            <description><![CDATA[The Wiki Man]]></description>
             <link>https://spectator.com/article/throw-away-your-keyboard/</link>
             <guid isPermaLink="true">https://spectator.com/article/throw-away-your-keyboard/</guid>
             <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
@@ -3995,54 +4035,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/the-office-politics-behind-tokyos-hairy-leg-panic/</guid>
             <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 03:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voters are buying what Burnham is selling]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/exclusive-poll-voters-are-buying-what-burnham-is-selling/</link>
-            <guid isPermaLink="true">https://spectator.com/article/exclusive-poll-voters-are-buying-what-burnham-is-selling/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 18:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Axel Rudakubana playing the system?]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/is-axel-rudakubana-playing-the-system/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-axel-rudakubana-playing-the-system/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 18:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The radical left-wing takeover of the Democrats is nearly complete]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/the-radical-left-wing-takeover-of-the-democrats-is-nearly-complete/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-radical-left-wing-takeover-of-the-democrats-is-nearly-complete/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 14:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The dark truth about dating apps and AI]]></title>
-            <description><![CDATA[Save the date]]></description>
-            <link>https://spectator.com/article/the-dark-truth-about-dating-apps-and-ai/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-dark-truth-about-dating-apps-and-ai/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 14:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We should all find the time to smoke]]></title>
-            <description><![CDATA[Pipe dreams]]></description>
-            <link>https://spectator.com/article/we-should-all-find-the-time-to-smoke/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-should-all-find-the-time-to-smoke/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[James Dixon]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 14:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The madness of crowds is keeping markets afloat]]></title>
-            <description><![CDATA[Lucky dip]]></description>
-            <link>https://spectator.com/article/the-madness-of-crowds-is-keeping-markets-afloat/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-madness-of-crowds-is-keeping-markets-afloat/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 14:45:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

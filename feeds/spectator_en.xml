@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 16:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 17:18:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 16:17:01 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 17:18:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reservoirs are not about to run dry]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/reservoirs-are-not-about-to-run-dry/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reservoirs-are-not-about-to-run-dry/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 17:18:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reform’s messy welfare crackdown deserves some credit]]></title>
             <description><![CDATA[By Annabel Denham]]></description>
@@ -4027,14 +4035,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/why-ive-given-up-on-supermarkets/</guid>
             <dc:creator><![CDATA[Alex Klaushofer]]></dc:creator>
             <pubDate>Sun, 26 Jul 2026 01:55:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the bus £2 price cap might just pay off for Burnham]]></title>
-            <description><![CDATA[Transport]]></description>
-            <link>https://spectator.com/article/why-the-bus-2-price-cap-might-just-pay-off-for-burnham/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-bus-2-price-cap-might-just-pay-off-for-burnham/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 17:52:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

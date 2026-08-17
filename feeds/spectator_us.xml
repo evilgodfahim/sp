@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 03:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 04:32:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 03:41:39 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 04:32:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Carl Jung, the man behind the psychobabble]]></title>
+            <description><![CDATA[By Amelia Butler-Gallie]]></description>
+            <link>https://spectator.com/article/carl-jung-man-psychobabble-speaking/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/carl-jung-man-psychobabble-speaking/?edition=us</guid>
+            <dc:creator><![CDATA[Amelia Butler-Gallie]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 04:32:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bob Dylan, the song and dance man]]></title>
+            <description><![CDATA[By Anne Margaret Daniel]]></description>
+            <link>https://spectator.com/article/bob-dylan-the-song-and-dance-man/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/bob-dylan-the-song-and-dance-man/?edition=us</guid>
+            <dc:creator><![CDATA[Anne Margaret Daniel]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 04:32:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did conservatives win the culture war?]]></title>
             <description><![CDATA[By Toby Young]]></description>
@@ -4011,22 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/watching-andy-burnham-in-manchester-pronouncing-the-return-of-a-more-old-fashioned-pro-worker-left-i-had-a-sense-of-deja-vu/?edition=us</guid>
             <dc:creator><![CDATA[Alex Morton]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 15:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has not forgotten about Greenland]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
-            <link>https://spectator.com/article/trump-has-not-forgotten-about-greenland/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-has-not-forgotten-about-greenland/?edition=us</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 15:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A tower of nonsense]]></title>
-            <description><![CDATA[Prejudices]]></description>
-            <link>https://spectator.com/article/a-tower-of-nonsense/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-tower-of-nonsense/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 10:55:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

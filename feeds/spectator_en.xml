@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 10:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 11:17:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 10:22:48 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 11:17:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Ceuta crisis isn’t over]]></title>
+            <description><![CDATA[By Jim Lawley]]></description>
+            <link>https://spectator.com/article/the-ceuta-crisis-isnt-over/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-ceuta-crisis-isnt-over/</guid>
+            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 11:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emmanuel Macron is an embarrassment to France]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/emmanuel-macron-has-become-a-humiliation-for-france/</link>
+            <guid isPermaLink="true">https://spectator.com/article/emmanuel-macron-has-become-a-humiliation-for-france/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 11:17:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why people cared about Jason Arday]]></title>
             <description><![CDATA[By Druin Burch]]></description>
@@ -4019,22 +4035,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/why-the-bus-2-price-cap-might-just-pay-off-for-burnham/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 06:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I’m so glad that Big Ange is back]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/im-so-glad-that-big-ange-is-back/</link>
-            <guid isPermaLink="true">https://spectator.com/article/im-so-glad-that-big-ange-is-back/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 06:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Britain’s imperial history affects diplomacy today]]></title>
-            <description><![CDATA[By Bethany Elliott]]></description>
-            <link>https://spectator.com/article/how-britains-imperial-history-affects-diplomacy-today/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-britains-imperial-history-affects-diplomacy-today/</guid>
-            <dc:creator><![CDATA[Bethany Elliott]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 03:14:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

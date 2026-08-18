@@ -4,10 +4,40 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 03:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 04:26:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 03:37:00 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 04:26:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How to have a real Roman Holiday]]></title>
+            <description><![CDATA[By Theo Zenou]]></description>
+            <link>https://spectator.com/article/how-to-have-a-real-roman-holiday/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-have-a-real-roman-holiday/</guid>
+            <dc:creator><![CDATA[Theo Zenou]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 04:26:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can English Test cricket reinvent itself?]]></title>
+            <description><![CDATA[Bazball's revels are now ended, and this week English cricket enters a brave new world after the retirement of captain Ben Stokes and defenestration of head coach Brendan McCullum. Well, actually, it's not all that brave, nor particularly new - Joe Root returning as skipper; recalls for Dan Lawrence and Ollie Pope for the Test series against Pakistan. And overseeing it all is another New Zealander in Stephen Fleming; though McCullum does assure us that his former international team-mate is 'like me only better'. 
+
+
+
+
+
+ Of course, one might argue that reinvention isn't necessarily hard. Fleming's tenure started in a blaze of glory in that heady summer of 2022 when all things – enormous run chases at least - seemed possible.]]></description>
+            <link>https://spectator.com/article/can-english-test-cricket-reinvent-itself-post-bazball/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-english-test-cricket-reinvent-itself-post-bazball/</guid>
+            <dc:creator><![CDATA[Charles Walford]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 04:26:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How corporate twaddle makes us less productive]]></title>
+            <description><![CDATA[By Daniel Seifert]]></description>
+            <link>https://spectator.com/article/why-corporate-twaddle-makes-us-less-productive/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-corporate-twaddle-makes-us-less-productive/</guid>
+            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 04:26:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is this Cambridge-linked project promoting an Islamic curriculum?]]></title>
             <description><![CDATA[By Andrew Gilligan]]></description>
@@ -4011,30 +4041,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/is-elon-musk-wrong-about-britain-and-civil-war/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
             <pubDate>Sun, 26 Jul 2026 08:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ghostwriter]]></title>
-            <description><![CDATA[By Anonymous]]></description>
-            <link>https://spectator.com/article/the-ghostwriter/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-ghostwriter/</guid>
-            <dc:creator><![CDATA[Anonymous]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2026 05:24:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham is a joke]]></title>
-            <description><![CDATA[By William Atkinson]]></description>
-            <link>https://spectator.com/article/andy-burnham-is-a-joke/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-a-joke/</guid>
-            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2026 05:24:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We sacrifice the humanities at our peril]]></title>
-            <description><![CDATA[By Dominic Selwood]]></description>
-            <link>https://spectator.com/article/we-sacrifice-the-humanities-at-our-peril/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-sacrifice-the-humanities-at-our-peril/</guid>
-            <dc:creator><![CDATA[Dominic Selwood]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2026 01:55:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

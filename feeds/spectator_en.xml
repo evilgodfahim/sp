@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 00:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 02:10:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 00:42:18 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 02:10:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is this Cambridge-linked project promoting an Islamic curriculum?]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/why-is-this-cambridge-linked-project-promoting-an-islamic-curriculum/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-this-cambridge-linked-project-promoting-an-islamic-curriculum/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 02:10:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reservoirs are not about to run dry]]></title>
             <description><![CDATA[By John Power]]></description>
@@ -4026,14 +4034,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/we-sacrifice-the-humanities-at-our-peril/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-sacrifice-the-humanities-at-our-peril/</guid>
             <dc:creator><![CDATA[Dominic Selwood]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2026 01:55:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I’ve given up on supermarkets]]></title>
-            <description><![CDATA[By Alex Klaushofer]]></description>
-            <link>https://spectator.com/article/why-ive-given-up-on-supermarkets/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-ive-given-up-on-supermarkets/</guid>
-            <dc:creator><![CDATA[Alex Klaushofer]]></dc:creator>
             <pubDate>Sun, 26 Jul 2026 01:55:42 GMT</pubDate>
         </item>
     </channel>

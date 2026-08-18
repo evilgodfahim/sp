@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 04:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 05:20:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 04:26:18 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 05:20:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Universities must urgently crack down on AI exam cheating]]></title>
+            <description><![CDATA[By Iain Mansfield]]></description>
+            <link>https://spectator.com/article/universities-must-urgently-crack-down-on-ai-exam-cheating/</link>
+            <guid isPermaLink="true">https://spectator.com/article/universities-must-urgently-crack-down-on-ai-exam-cheating/</guid>
+            <dc:creator><![CDATA[Iain Mansfield]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 05:20:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to have a real Roman Holiday]]></title>
             <description><![CDATA[By Theo Zenou]]></description>
@@ -4032,14 +4040,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/i-invented-nixonmaxxing/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-invented-nixonmaxxing/</guid>
             <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2026 08:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Elon Musk wrong about Britain and civil war?]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/is-elon-musk-wrong-about-britain-and-civil-war/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-elon-musk-wrong-about-britain-and-civil-war/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
             <pubDate>Sun, 26 Jul 2026 08:10:14 GMT</pubDate>
         </item>
     </channel>

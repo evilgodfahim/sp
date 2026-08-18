@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 12:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 13:35:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 12:26:18 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 13:35:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Reform cracking up?]]></title>
+            <description><![CDATA[By William Atkinson]]></description>
+            <link>https://spectator.com/article/is-reform-cracking-up/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-reform-cracking-up/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 13:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reform suspend Tim Montgomerie]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/reform-suspend-tim-montgomerie/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reform-suspend-tim-montgomerie/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 13:35:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Green plot for a free speech crackdown]]></title>
             <description><![CDATA[By Noa Hoffman]]></description>
@@ -26,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Why is Rayner helping travellers build more sites?]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
+            <description><![CDATA[On the house]]></description>
             <link>https://spectator.com/article/why-is-rayner-helping-travellers-build-more-sites/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-is-rayner-helping-travellers-build-more-sites/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -50,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Was Rachel Reeves really defamed by dodgy data?]]></title>
-            <description><![CDATA[Reality Check]]></description>
+            <description><![CDATA[By John O'Neill]]></description>
             <link>https://spectator.com/article/was-rachel-reeves-really-defamed-by-dodgy-data/</link>
             <guid isPermaLink="true">https://spectator.com/article/was-rachel-reeves-really-defamed-by-dodgy-data/</guid>
             <dc:creator><![CDATA[John O'Neill]]></dc:creator>
@@ -154,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Reservoirs are not about to run dry]]></title>
-            <description><![CDATA[Reality Check]]></description>
+            <description><![CDATA[By John Power]]></description>
             <link>https://spectator.com/article/reservoirs-are-not-about-to-run-dry/</link>
             <guid isPermaLink="true">https://spectator.com/article/reservoirs-are-not-about-to-run-dry/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
@@ -4018,22 +4034,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/the-horror-of-a-french-heatwave/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-horror-of-a-french-heatwave/</guid>
             <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YouTube is destroying childhood]]></title>
-            <description><![CDATA[By Nancy Alsop]]></description>
-            <link>https://spectator.com/article/youtube-is-destroying-childhood/</link>
-            <guid isPermaLink="true">https://spectator.com/article/youtube-is-destroying-childhood/</guid>
-            <dc:creator><![CDATA[Nancy Alsop]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where the super-rich rev their engines]]></title>
-            <description><![CDATA[By Adam Hay-Nicholls]]></description>
-            <link>https://spectator.com/article/where-the-super-rich-rev-their-engines/</link>
-            <guid isPermaLink="true">https://spectator.com/article/where-the-super-rich-rev-their-engines/</guid>
-            <dc:creator><![CDATA[Adam Hay-Nicholls]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
         </item>
     </channel>

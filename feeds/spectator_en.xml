@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 14:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 15:22:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 14:23:22 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 15:22:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hamas is playing for time in Gaza]]></title>
+            <description><![CDATA[By Jonathan Spyer]]></description>
+            <link>https://spectator.com/article/hamas-is-playing-for-time-in-gaza/</link>
+            <guid isPermaLink="true">https://spectator.com/article/hamas-is-playing-for-time-in-gaza/</guid>
+            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 15:22:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Firing a senior banker won’t save Putin’s faltering war economy]]></title>
             <description><![CDATA[By Lisa Haseldine]]></description>
@@ -26,7 +34,7 @@
         </item>
         <item>
             <title><![CDATA[Reform suspend Tim Montgomerie]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[Bust up]]></description>
             <link>https://spectator.com/article/reform-suspend-tim-montgomerie/</link>
             <guid isPermaLink="true">https://spectator.com/article/reform-suspend-tim-montgomerie/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -4026,14 +4034,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/why-spiders-deserve-our-respect-not-fear-or-disgust/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-spiders-deserve-our-respect-not-fear-or-disgust/</guid>
             <dc:creator><![CDATA[Bryan Appleyard]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wolves are at my door]]></title>
-            <description><![CDATA[Dolce Vita]]></description>
-            <link>https://spectator.com/article/the-wolves-are-at-my-door/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wolves-are-at-my-door/</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
         </item>
     </channel>

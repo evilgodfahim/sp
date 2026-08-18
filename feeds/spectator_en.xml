@@ -4,13 +4,21 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 09:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 10:18:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 09:23:21 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 10:18:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The media didn’t kill Jason Arday]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/the-media-didnt-kill-jason-arday/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-media-didnt-kill-jason-arday/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 10:18:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Was Rachel Reeves really defamed by dodgy data?]]></title>
-            <description><![CDATA[By John O'Neill]]></description>
+            <description><![CDATA[Reality Check]]></description>
             <link>https://spectator.com/article/was-rachel-reeves-really-defamed-by-dodgy-data/</link>
             <guid isPermaLink="true">https://spectator.com/article/was-rachel-reeves-really-defamed-by-dodgy-data/</guid>
             <dc:creator><![CDATA[John O'Neill]]></dc:creator>
@@ -18,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham’s jobs apocalypse]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
+            <description><![CDATA[Economy]]></description>
             <link>https://spectator.com/article/burnhams-jobs-apocalypse/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnhams-jobs-apocalypse/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
@@ -74,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Universities must urgently crack down on AI exam cheating]]></title>
-            <description><![CDATA[Education]]></description>
+            <description><![CDATA[By Iain Mansfield]]></description>
             <link>https://spectator.com/article/universities-must-urgently-crack-down-on-ai-exam-cheating/</link>
             <guid isPermaLink="true">https://spectator.com/article/universities-must-urgently-crack-down-on-ai-exam-cheating/</guid>
             <dc:creator><![CDATA[Iain Mansfield]]></dc:creator>
@@ -105,8 +113,8 @@
             <pubDate>Tue, 18 Aug 2026 04:26:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why is this Cambridge-linked project promoting an Islamic curriculum?]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
+            <title><![CDATA[Cambridge University-linked project erases Israel]]></title>
+            <description><![CDATA[Middle East]]></description>
             <link>https://spectator.com/article/why-is-this-cambridge-linked-project-promoting-an-islamic-curriculum/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-is-this-cambridge-linked-project-promoting-an-islamic-curriculum/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -234,7 +242,7 @@
         </item>
         <item>
             <title><![CDATA[Jason Arday wasn’t the victim of a ‘racist witch hunt’]]></title>
-            <description><![CDATA[Cambridge]]></description>
+            <description><![CDATA[By Patrick West]]></description>
             <link>https://spectator.com/article/jason-arday-wasnt-the-victim-of-a-racist-witch-hunt/</link>
             <guid isPermaLink="true">https://spectator.com/article/jason-arday-wasnt-the-victim-of-a-racist-witch-hunt/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -4027,14 +4035,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/should-we-let-women-out-of-jail/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 02:04:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There is nothing surprising about the Berlin pride attack]]></title>
-            <description><![CDATA[By Jonathan Sacerdoti]]></description>
-            <link>https://spectator.com/article/there-is-nothing-surprising-about-the-berlin-pride-attack/</link>
-            <guid isPermaLink="true">https://spectator.com/article/there-is-nothing-surprising-about-the-berlin-pride-attack/</guid>
-            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2026 14:56:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

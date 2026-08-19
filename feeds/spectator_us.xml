@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 07:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 08:25:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 07:30:39 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 08:25:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Frank S. Meyer was a political paradox]]></title>
+            <description><![CDATA[By Robert Dean Lurie]]></description>
+            <link>https://spectator.com/article/frank-s-meyer-was-a-political-paradox/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/frank-s-meyer-was-a-political-paradox/?edition=us</guid>
+            <dc:creator><![CDATA[Robert Dean Lurie]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 08:25:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The urgent case for fixing California’s broken elections]]></title>
             <description><![CDATA[By John Fund]]></description>
@@ -4019,14 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/how-does-the-catholic-j-d-vance-justify-trumpian-policies/?edition=us</guid>
             <dc:creator><![CDATA[Nick Spencer]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 01:50:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America is still gripped by the gerontocracy]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/america-is-still-gripped-by-the-gerontocracy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/america-is-still-gripped-by-the-gerontocracy/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 21:52:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

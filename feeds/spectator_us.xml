@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 17:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 18:20:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 17:18:48 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 18:20:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The disappointing Darline Graham]]></title>
+            <description><![CDATA[By John Fund]]></description>
+            <link>https://spectator.com/article/disappointing-darline-graham-south-carolina/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/disappointing-darline-graham-south-carolina/?edition=us</guid>
+            <dc:creator><![CDATA[John Fund]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 18:20:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kim Jong-un has everything to gain from a meeting with Trump]]></title>
             <description><![CDATA[By Edward Howell]]></description>
@@ -4018,14 +4026,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/inside-the-handover-of-hong-kong/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/inside-the-handover-of-hong-kong/?edition=us</guid>
             <dc:creator><![CDATA[Algy Cluff]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 05:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America has too many state secrets]]></title>
-            <description><![CDATA[By Eli Lake]]></description>
-            <link>https://spectator.com/article/america-has-too-many-state-secrets/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/america-has-too-many-state-secrets/?edition=us</guid>
-            <dc:creator><![CDATA[Eli Lake]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 05:19:20 GMT</pubDate>
         </item>
     </channel>

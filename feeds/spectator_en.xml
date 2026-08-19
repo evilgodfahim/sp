@@ -4,10 +4,40 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 03:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 04:28:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 03:38:45 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 04:28:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The car crash appeal of Charles Bukowski]]></title>
+            <description><![CDATA[By Mark Nayler]]></description>
+            <link>https://spectator.com/article/the-car-crash-appeal-of-charles-bukowski/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-car-crash-appeal-of-charles-bukowski/</guid>
+            <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 04:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The day my house burned down]]></title>
+            <description><![CDATA[These wildfires are terrifying. We had a billowing blaze in the barley field next to us in Kent only a couple of days ago. Within moments it was yards away from our ancient tumbledown cottage. Mercifully, the wind abruptly switched direction and the flames and smoke moved away, finally beaten down by the local farmer and fire crew. It was soberingly close call. 
+
+
+
+
+
+Those folk in Stourbridge, West Midlands, last week were less lucky, with 19 houses destroyed, and 18 badly damaged. Looking at the photos of the stark, smouldering wrecks, I can almost smell the awfulness. The reek of a burned out, water-and foam-soaked building never leaves you.]]></description>
+            <link>https://spectator.com/article/the-day-my-house-burned-down/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-day-my-house-burned-down/</guid>
+            <dc:creator><![CDATA[Johnny Ray]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 04:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘Kinda chic’ trend is mere humblebrag]]></title>
+            <description><![CDATA[By Rebecca Reid]]></description>
+            <link>https://spectator.com/article/kinda-chic-is-mere-humblebrag/</link>
+            <guid isPermaLink="true">https://spectator.com/article/kinda-chic-is-mere-humblebrag/</guid>
+            <dc:creator><![CDATA[Rebecca Reid]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 04:28:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why the ‘Be Kind’ brigade are so horrible]]></title>
             <description><![CDATA[By Patrick West]]></description>
@@ -4011,30 +4041,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/does-burnham-think-he-can-get-away-with-calling-out-trump/</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 10:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We should politicise the Berlin Pride attack]]></title>
-            <description><![CDATA[Terror]]></description>
-            <link>https://spectator.com/article/we-should-politicise-the-berlin-pride-attack/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-should-politicise-the-berlin-pride-attack/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 10:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wolves are at my door]]></title>
-            <description><![CDATA[Dolce Vita]]></description>
-            <link>https://spectator.com/article/the-wolves-are-at-my-door/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wolves-are-at-my-door/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Macron could have done more to stop the Bordeaux fires]]></title>
-            <description><![CDATA[In hot water]]></description>
-            <link>https://spectator.com/article/macron-couldve-done-more-to-stop-the-bordeaux-fires/</link>
-            <guid isPermaLink="true">https://spectator.com/article/macron-couldve-done-more-to-stop-the-bordeaux-fires/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 06:18:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

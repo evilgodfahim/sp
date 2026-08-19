@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 09:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 10:19:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 09:24:27 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 10:19:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will the BBC apologize for its role in the Jason Arday story?]]></title>
+            <description><![CDATA[By Steven Edginton]]></description>
+            <link>https://spectator.com/article/will-the-bbc-apologise-for-its-role-in-the-jason-arday-story/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-the-bbc-apologise-for-its-role-in-the-jason-arday-story/?edition=us</guid>
+            <dc:creator><![CDATA[Steven Edginton]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 10:19:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An American in Paris]]></title>
             <description><![CDATA[By Jane Coombs]]></description>
@@ -4019,14 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/e-jean-carrolls-victory-lap/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 09:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Black Mirror season seven offers a welcome return to form]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/black-mirror-season-seven-offers-a-welcome-return-to-form/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/black-mirror-season-seven-offers-a-welcome-return-to-form/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 07:07:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

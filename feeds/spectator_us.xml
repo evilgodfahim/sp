@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 10:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 11:16:50 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 10:19:48 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 11:16:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘A selfish, ignoble person’ – the dark side of the Nobel prize-winner Mario Vargas Llosa]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Nicholas Shakespeare]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 11:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Arizona’s battle for school choice]]></title>
+            <description><![CDATA[By Corey DeAngelis]]></description>
+            <link>https://spectator.com/article/inside-arizonas-battle-for-school-choice/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/inside-arizonas-battle-for-school-choice/?edition=us</guid>
+            <dc:creator><![CDATA[Corey DeAngelis]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 11:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The car crash appeal of Charles Bukowski]]></title>
+            <description><![CDATA[By Mark Nayler]]></description>
+            <link>https://spectator.com/article/the-car-crash-appeal-of-charles-bukowski/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-car-crash-appeal-of-charles-bukowski/?edition=us</guid>
+            <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 11:16:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will the BBC apologize for its role in the Jason Arday story?]]></title>
             <description><![CDATA[By Steven Edginton]]></description>
@@ -4003,30 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/no-im-not-a-cia-spy-in-greenland/?edition=us</guid>
             <dc:creator><![CDATA[Drew Horn]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 18:46:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of the Orienfluencers]]></title>
-            <description><![CDATA[By Margaret Mitchell]]></description>
-            <link>https://spectator.com/article/the-rise-of-the-orienfluencers/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-the-orienfluencers/?edition=us</guid>
-            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 16:43:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A mystery on Mount Everest]]></title>
-            <description><![CDATA[By Harry Cluff]]></description>
-            <link>https://spectator.com/article/a-mystery-on-mount-everest/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-mystery-on-mount-everest/?edition=us</guid>
-            <dc:creator><![CDATA[Harry Cluff]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 09:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E. Jean Carroll’s victory lap]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/e-jean-carrolls-victory-lap/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/e-jean-carrolls-victory-lap/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 09:18:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

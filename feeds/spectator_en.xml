@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 06:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 07:30:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 06:28:06 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 07:30:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will the BBC apologise for its role in the Jason Arday story?]]></title>
+            <description><![CDATA[By Steven Edginton]]></description>
+            <link>https://spectator.com/article/will-the-bbc-apologise-for-its-role-in-the-jason-arday-story/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-the-bbc-apologise-for-its-role-in-the-jason-arday-story/</guid>
+            <dc:creator><![CDATA[Steven Edginton]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 07:30:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why are the young obsessed with drinking water?]]></title>
             <description><![CDATA[Diary]]></description>
@@ -66,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Why the ‘Be Kind’ brigade are so horrible]]></title>
-            <description><![CDATA[By Patrick West]]></description>
+            <description><![CDATA[Green with hate]]></description>
             <link>https://spectator.com/article/why-the-be-kind-brigade-are-so-horrible/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-be-kind-brigade-are-so-horrible/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -4026,14 +4034,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/barristers-shouldnt-be-above-the-law/</link>
             <guid isPermaLink="true">https://spectator.com/article/barristers-shouldnt-be-above-the-law/</guid>
             <dc:creator><![CDATA[Michael Ellis]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 13:32:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europe minister suggests rejoining EU could be in next manifesto]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/europe-minister-suggests-rejoining-eu-could-be-in-next-manifesto/</link>
-            <guid isPermaLink="true">https://spectator.com/article/europe-minister-suggests-rejoining-eu-could-be-in-next-manifesto/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 13:32:58 GMT</pubDate>
         </item>
     </channel>

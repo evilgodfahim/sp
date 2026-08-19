@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 11:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 12:26:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 11:16:50 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 12:26:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[All roads lead to Nashville]]></title>
+            <description><![CDATA[Robert Altman’s Nashville]]></description>
+            <link>https://spectator.com/article/all-roads-lead-nashville/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/all-roads-lead-nashville/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:26:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘A selfish, ignoble person’ – the dark side of the Nobel prize-winner Mario Vargas Llosa]]></title>
+            <description><![CDATA[By Nicholas Shakespeare]]></description>
+            <link>https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Nicholas Shakespeare]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:26:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Natalie Harp does for Trump]]></title>
+            <description><![CDATA[By Sarah Beth Spraggins]]></description>
+            <link>https://spectator.com/article/what-natalie-harp-does-for-trump/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-natalie-harp-does-for-trump/?edition=us</guid>
+            <dc:creator><![CDATA[Sarah Beth Spraggins]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:26:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘A selfish, ignoble person’ – the dark side of the Nobel prize-winner Mario Vargas Llosa]]></title>
             <description><![CDATA[Books]]></description>
@@ -4003,30 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/southern-gothic-the-horror-story-of-alex-murdaugh-paterfamilias-and-family-annihilator/?edition=us</guid>
             <dc:creator><![CDATA[Scott Bradfield]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 01:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there any route back for the Society of St. Pius X?]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
-            <link>https://spectator.com/article/is-there-any-route-back-for-the-society-of-st-pius-x/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-there-any-route-back-for-the-society-of-st-pius-x/?edition=us</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 01:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thirty-five years of crying to  Planes, Trains and Automobiles]]></title>
-            <description><![CDATA[By Art Tavana]]></description>
-            <link>https://spectator.com/article/thirty-five-years-of-crying-to-planes-trains-and-automobiles/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/thirty-five-years-of-crying-to-planes-trains-and-automobiles/?edition=us</guid>
-            <dc:creator><![CDATA[Art Tavana]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 22:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No, I’m not a CIA spy in Greenland]]></title>
-            <description><![CDATA[By Drew Horn]]></description>
-            <link>https://spectator.com/article/no-im-not-a-cia-spy-in-greenland/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/no-im-not-a-cia-spy-in-greenland/?edition=us</guid>
-            <dc:creator><![CDATA[Drew Horn]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 18:46:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

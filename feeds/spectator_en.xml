@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 12:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 13:36:55 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 12:26:23 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 13:36:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How the SNP failed Ferguson Marine]]></title>
+            <description><![CDATA[By John Ferry]]></description>
+            <link>https://spectator.com/article/how-the-snp-failed-ferguson-marine/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-snp-failed-ferguson-marine/</guid>
+            <dc:creator><![CDATA[John Ferry]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 13:36:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is the Treasury really being dismantled?]]></title>
             <description><![CDATA[By James Nation]]></description>
@@ -4026,14 +4034,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/when-mum-went-marching-with-the-edl/?homepage-tracking=high_density-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/when-mum-went-marching-with-the-edl/?homepage-tracking=high_density-article-2</guid>
             <dc:creator><![CDATA[Elisa Segrave]]></dc:creator>
-            <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This J. Edgar Hoover musical is destined for Broadway]]></title>
-            <description><![CDATA[Theatre]]></description>
-            <link>https://spectator.com/article/this-j-edgar-hoover-musical-is-destined-for-broadway/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-j-edgar-hoover-musical-is-destined-for-broadway/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 05:38:59 GMT</pubDate>
         </item>
     </channel>

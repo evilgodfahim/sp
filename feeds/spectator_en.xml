@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 08:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 09:24:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 08:25:37 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 09:24:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The truth about Net Zero]]></title>
+            <description><![CDATA[By Claire Coutinho]]></description>
+            <link>https://spectator.com/article/the-truth-about-net-zero/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-net-zero/</guid>
+            <dc:creator><![CDATA[Claire Coutinho]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 09:24:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inflation hits Burnham’s cost of living pledge]]></title>
             <description><![CDATA[By Michael Simmons]]></description>
@@ -74,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[The ‘Kinda chic’ trend is mere humblebrag]]></title>
-            <description><![CDATA[Kinda lame]]></description>
+            <description><![CDATA[Faux modesty]]></description>
             <link>https://spectator.com/article/kinda-chic-is-mere-humblebrag/</link>
             <guid isPermaLink="true">https://spectator.com/article/kinda-chic-is-mere-humblebrag/</guid>
             <dc:creator><![CDATA[Rebecca Reid]]></dc:creator>
@@ -4026,14 +4034,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/the-berlin-pride-attack-is-becoming-a-scarily-familiar-story/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-berlin-pride-attack-is-becoming-a-scarily-familiar-story/</guid>
             <dc:creator><![CDATA[Kunwar Khuldune Shahid]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 13:32:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s only one reason Meghan went on MasterChef Australia]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/theres-only-one-reason-meghan-went-on-masterchef-australia/</link>
-            <guid isPermaLink="true">https://spectator.com/article/theres-only-one-reason-meghan-went-on-masterchef-australia/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 13:32:58 GMT</pubDate>
         </item>
     </channel>

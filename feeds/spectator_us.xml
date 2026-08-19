@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 08:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 09:24:27 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 08:25:31 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 09:24:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[An American in Paris]]></title>
+            <description><![CDATA[By Jane Coombs]]></description>
+            <link>https://spectator.com/article/an-american-in-paris-2/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/an-american-in-paris-2/?edition=us</guid>
+            <dc:creator><![CDATA[Jane Coombs]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 09:24:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Frank S. Meyer was a political paradox]]></title>
             <description><![CDATA[By Robert Dean Lurie]]></description>
@@ -4019,14 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/black-mirror-season-seven-offers-a-welcome-return-to-form/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 07:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Trump all but invisible in J.D. Vance’s Communion?]]></title>
-            <description><![CDATA[By Nick Spencer]]></description>
-            <link>https://spectator.com/article/how-does-the-catholic-j-d-vance-justify-trumpian-policies/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-does-the-catholic-j-d-vance-justify-trumpian-policies/?edition=us</guid>
-            <dc:creator><![CDATA[Nick Spencer]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 01:50:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

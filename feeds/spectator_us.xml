@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 13:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 14:26:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 13:38:35 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 14:26:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Middle England is finally waking up to the migrant crisis]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/middle-england-is-finally-waking-up-to-the-migrant-crisis/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/middle-england-is-finally-waking-up-to-the-migrant-crisis/?edition=us</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 14:26:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Shards is easily the best drama on TV]]></title>
             <description><![CDATA[By James Delingpole]]></description>
@@ -4019,14 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/the-oldest-luxury-brand-in-britain-has-made-its-hollywood-comeback/?edition=us</guid>
             <dc:creator><![CDATA[Antonino Biondo]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 12:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba is a lovesick country]]></title>
-            <description><![CDATA[Havana life]]></description>
-            <link>https://spectator.com/article/cuba-is-a-lovesick-country/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/cuba-is-a-lovesick-country/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 14:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 15:24:50 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 14:26:14 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 15:24:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The horror of when your own side turns on you]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/the-horror-of-when-your-own-side-turns-on-you/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-horror-of-when-your-own-side-turns-on-you/</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 15:24:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Labour really considering a Rwanda-style scheme?]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/is-labour-really-considering-a-rwanda-style-scheme/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-labour-really-considering-a-rwanda-style-scheme/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 15:24:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The trouble with Cambridge’s education faculty goes all the way to the top]]></title>
             <description><![CDATA[By Andrew Gilligan]]></description>
@@ -4037,22 +4053,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/burnham-is-wrong-to-model-social-care-reform-on-the-nhs/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 13:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham and Powell want to bring back stupid]]></title>
-            <description><![CDATA[By Michael Gove]]></description>
-            <link>https://spectator.com/article/burnham-and-powell-want-to-bring-back-stupid/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-and-powell-want-to-bring-back-stupid/</guid>
-            <dc:creator><![CDATA[Michael Gove]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 13:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham won’t reform social care with ‘cross-party consensus’]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/burnham-wont-reform-social-care-with-cross-party-consensus/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-wont-reform-social-care-with-cross-party-consensus/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

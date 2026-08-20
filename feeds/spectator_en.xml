@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 09:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 10:20:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 09:24:31 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 10:20:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Victorian moralising of the Home Office’s migrant rape advice]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/the-victorian-moralising-of-the-home-offices-migrant-rape-advice/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-victorian-moralising-of-the-home-offices-migrant-rape-advice/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 10:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harry and Meghan’s return to Britain is no April Fool’s]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/harry-and-meghans-return-to-britain-is-no-april-fools/</link>
+            <guid isPermaLink="true">https://spectator.com/article/harry-and-meghans-return-to-britain-is-no-april-fools/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 10:20:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are Ukraine’s deep strikes simply strengthening Putin’s hand?]]></title>
             <description><![CDATA[By Owen Matthews]]></description>
@@ -4036,22 +4052,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/fifa-should-be-allowed-to-sell-off-the-world-cup/</link>
             <guid isPermaLink="true">https://spectator.com/article/fifa-should-be-allowed-to-sell-off-the-world-cup/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Lucy Powell really think ‘knight’ is an obscure word?]]></title>
-            <description><![CDATA[Post-literate]]></description>
-            <link>https://spectator.com/article/does-lucy-powell-really-think-knight-is-an-obscure-word/</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-lucy-powell-really-think-knight-is-an-obscure-word/</guid>
-            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why a ‘social care levy’ is a bad idea]]></title>
-            <description><![CDATA[Hospital pass]]></description>
-            <link>https://spectator.com/article/why-a-social-care-levy-is-a-bad-idea/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-a-social-care-levy-is-a-bad-idea/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 11:14:52 GMT</pubDate>
         </item>
     </channel>

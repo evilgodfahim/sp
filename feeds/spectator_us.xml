@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 09:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 10:20:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 09:24:26 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 10:20:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How luxury pen company Yard-O-Led is setting today’s digital and disposable world to writes]]></title>
+            <description><![CDATA[By Joanne Glasbey]]></description>
+            <link>https://spectator.com/article/how-luxury-pen-company-yard-o-led-is-setting-todays-digital-and-disposable-world-to-writes/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-luxury-pen-company-yard-o-led-is-setting-todays-digital-and-disposable-world-to-writes/?edition=us</guid>
+            <dc:creator><![CDATA[Joanne Glasbey]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 10:20:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Shards is easily the best drama on TV]]></title>
+            <description><![CDATA[By James Delingpole]]></description>
+            <link>https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/?edition=us</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 10:20:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Goodbye, Harry and Meghan]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/harry-and-meghans-return-to-britain-is-no-april-fools/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/harry-and-meghans-return-to-britain-is-no-april-fools/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 10:20:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A brief history of selling bath water]]></title>
             <description><![CDATA[By Charlie Nash]]></description>
@@ -4003,30 +4027,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Peter Jones]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A tower of nonsense]]></title>
-            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
-            <link>https://spectator.com/article/a-tower-of-nonsense/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-tower-of-nonsense/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Confronting the climate Jeremiahs]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/confronting-the-climate-jeremiahs/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/confronting-the-climate-jeremiahs/?edition=us</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A fresh assassination of Brett Kavanaugh’s character]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/a-fresh-assassination-of-brett-kavanaughs-character/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-fresh-assassination-of-brett-kavanaughs-character/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 10:19:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

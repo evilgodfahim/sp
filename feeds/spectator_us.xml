@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 10:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 11:18:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 10:20:32 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 11:18:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Shards is easily the best drama on TV]]></title>
+            <description><![CDATA[By James Delingpole]]></description>
+            <link>https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 11:18:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The insanity of the Lindsay Clancy sympathizers]]></title>
+            <description><![CDATA[By Monica Sobchak]]></description>
+            <link>https://spectator.com/article/the-insanity-of-the-lindsay-clancy-sympathizers/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-insanity-of-the-lindsay-clancy-sympathizers/?edition=us</guid>
+            <dc:creator><![CDATA[Monica Sobchak]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 11:18:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How luxury pen company Yard-O-Led is setting today’s digital and disposable world to writes]]></title>
             <description><![CDATA[By Joanne Glasbey]]></description>
@@ -4010,22 +4026,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/cuba-is-a-lovesick-country/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/cuba-is-a-lovesick-country/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why do men think it’s acceptable to wear a hat in church?]]></title>
-            <description><![CDATA[Hat tip]]></description>
-            <link>https://spectator.com/article/why-do-men-think-its-acceptable-to-wear-a-hat-in-church/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-do-men-think-its-acceptable-to-wear-a-hat-in-church/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Laurie Graham]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Would the ancients have appreciated David Hockney?]]></title>
-            <description><![CDATA[Ancient and modern]]></description>
-            <link>https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/would-the-ancients-have-appreciated-david-hockney/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 11:53:08 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 11:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 12:28:56 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 11:18:30 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 12:28:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The trouble with Cambridge’s education faculty goes all the way to the top]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/the-trouble-with-cambridges-education-faculty-goes-all-the-way-to-the-top/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-trouble-with-cambridges-education-faculty-goes-all-the-way-to-the-top/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 12:28:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lucy Powell: There’s nothing wrong with migrant rape pamphlet]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -25,7 +33,7 @@
             <pubDate>Thu, 20 Aug 2026 10:20:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Harry and Meghan’s return to Britain is no April Fool’s]]></title>
+            <title><![CDATA[Harry and Meghan’s return to Britain is no joke]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/harry-and-meghans-return-to-britain-is-no-april-fools/</link>
             <guid isPermaLink="true">https://spectator.com/article/harry-and-meghans-return-to-britain-is-no-april-fools/</guid>
@@ -4044,14 +4052,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/burnham-wont-reform-social-care-with-cross-party-consensus/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-wont-reform-social-care-with-cross-party-consensus/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Burnham prepared to get tough with his NEET shake-up?]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
-            <link>https://spectator.com/article/is-burnham-prepared-to-get-tough-with-his-neet-shake-up/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-burnham-prepared-to-get-tough-with-his-neet-shake-up/</guid>
-            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 11:14:52 GMT</pubDate>
         </item>
     </channel>

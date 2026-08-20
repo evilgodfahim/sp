@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 16:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 17:20:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 16:23:29 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 17:20:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[America won’t miss Harry and Meghan]]></title>
+            <description><![CDATA[By Lee Cohen]]></description>
+            <link>https://spectator.com/article/america-wont-miss-harry-and-meghan/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-wont-miss-harry-and-meghan/?edition=us</guid>
+            <dc:creator><![CDATA[Lee Cohen]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 17:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The insanity of the Lindsay Clancy sympathizers]]></title>
+            <description><![CDATA[By Monica Sobchak]]></description>
+            <link>https://spectator.com/article/insanity-same-lindsay-clancy-sympathizers/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/insanity-same-lindsay-clancy-sympathizers/?edition=us</guid>
+            <dc:creator><![CDATA[Monica Sobchak]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 17:20:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Middle England is finally waking up to the migrant crisis]]></title>
             <description><![CDATA[By Douglas Murray]]></description>
@@ -4010,22 +4026,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/ever-since-the-wright-brothers-the-earthbound-have-dreamed-of-gaining-personal-access-to-the-sky/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/ever-since-the-wright-brothers-the-earthbound-have-dreamed-of-gaining-personal-access-to-the-sky/?edition=us</guid>
             <dc:creator><![CDATA[Jeremy Collins-White]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 12:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Return of the Manx]]></title>
-            <description><![CDATA[By Jason Barlow]]></description>
-            <link>https://spectator.com/article/return-of-the-manx/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/return-of-the-manx/?edition=us</guid>
-            <dc:creator><![CDATA[Jason Barlow]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 12:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The oldest luxury brand in Britain has made its ‘Hollywood comeback’]]></title>
-            <description><![CDATA[By Antonino Biondo]]></description>
-            <link>https://spectator.com/article/the-oldest-luxury-brand-in-britain-has-made-its-hollywood-comeback/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-oldest-luxury-brand-in-britain-has-made-its-hollywood-comeback/?edition=us</guid>
-            <dc:creator><![CDATA[Antonino Biondo]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 12:58:57 GMT</pubDate>
         </item>
     </channel>

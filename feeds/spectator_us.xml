@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 04:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 05:23:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 04:28:53 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 05:23:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How will harsh sanctions on Iran play out?]]></title>
+            <description><![CDATA[By Charles Lipson]]></description>
+            <link>https://spectator.com/article/harsh-sanctions-iran-play-out/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/harsh-sanctions-iran-play-out/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 05:23:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Not your average Jo]]></title>
             <description><![CDATA[By Jane Coombs]]></description>
@@ -4023,14 +4031,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/how-the-ukraine-war-could-end-in-revolt/?edition=us</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 23:43:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The death of Superman]]></title>
-            <description><![CDATA[By Stephen L. Miller]]></description>
-            <link>https://spectator.com/article/the-death-of-superman/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-death-of-superman/?edition=us</guid>
-            <dc:creator><![CDATA[Stephen L. Miller]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 22:38:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

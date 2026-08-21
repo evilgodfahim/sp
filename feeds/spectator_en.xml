@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 04:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 05:23:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 04:28:58 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 05:23:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Premier League has lost its passion]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/the-premier-league-has-lost-its-passion/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-premier-league-has-lost-its-passion/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 05:23:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The charity shop cartel is coming to an end]]></title>
             <description><![CDATA[This summer’s news that the charity shop retail bubble has begun to burst should, in a normal civilized society, elicit solemn sympathy. Yet, I’m struggling to shed a single tear. In fact, across the country, I bet a collective, cynical cheer is rising from the cobblestones. Recently, Cancer Research announced plans to shut 200 shops, while disability charity Scope warned that over half of its high-street estate is at risk. Sombre charity sector spokespeople complain shops are buckling under rising costs.  
@@ -4047,14 +4055,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/livestream-an-evening-with-rory-sutherland/</guid>
             <dc:creator><![CDATA[The Spectator]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 18:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: French police sit back as small boats set sail]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-french-police-sit-back-as-small-boats-set-sail/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-french-police-sit-back-as-small-boats-set-sail/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 17:05:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

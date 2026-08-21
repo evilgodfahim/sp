@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 11:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 12:28:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 11:17:31 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 12:28:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The canonization of Tupac]]></title>
+            <description><![CDATA[By Ivo Delingpole]]></description>
+            <link>https://spectator.com/article/the-canonization-of-tupac/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-canonization-of-tupac/?edition=us</guid>
+            <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 12:28:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple Music has redeemed itself]]></title>
             <description><![CDATA[Classical music]]></description>
@@ -74,15 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Apple Music has redeemed itself]]></title>
-            <description><![CDATA[Just two weeks ago I was ready to cancel my subscription to Apple Music. I’d stumbled across its “Composer Essentials” – a list of 100 composers so significant that they merit their own curated playlists. It includes Bonds, Boyle, Caccini, Dawson, Dett, Perry, Poldowski, Sohy, Strohl and Walker.
-
-
-
-If those names don’t ring a bell, how about the composers who are missing? Albéniz, C.P.E. Bach, Bellini, Berg, Bizet, Borodin, Chabrier, Kodály, Martinu, Messiaen, Mussorgsky, Nielsen, Poulenc, Schoenberg, Walton, Weber and Webern.
-
-
-
-See what I mean? The “Essentials” list is stuffed with DEI hires. Which – an analogy to Cambridge University comes to mind – does no favors to the black and female composers who deservedly feature in it, such as Joplin and Beach.]]></description>
+            <description><![CDATA[By Damian Thompson]]></description>
             <link>https://spectator.com/article/apple-music-has-redeemed-itself/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/apple-music-has-redeemed-itself/?edition=us</guid>
             <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
@@ -4022,14 +4022,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/is-the-us-heading-for-another-oil-shock/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/is-the-us-heading-for-another-oil-shock/?edition=us</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 11:53:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fresh, original Mozart]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/fresh-original-mozart/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/fresh-original-mozart/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 11:53:05 GMT</pubDate>
         </item>
     </channel>

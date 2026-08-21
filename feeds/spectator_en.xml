@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 10:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 11:17:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 10:20:47 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 11:17:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The NUJ’s grotesque Jason Arday rant is the final straw]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/the-nujs-grotesque-jason-arday-rant-is-the-final-straw/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-nujs-grotesque-jason-arday-rant-is-the-final-straw/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 11:17:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Britain’s books are getting harder than ever to balance]]></title>
             <description><![CDATA[By Michael Simmons]]></description>
@@ -4044,18 +4052,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/whats-the-point-of-unesco/</link>
             <guid isPermaLink="true">https://spectator.com/article/whats-the-point-of-unesco/</guid>
             <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schools out: the dissolution of private education]]></title>
-            <description><![CDATA[St Joseph’s College in Reading survived two world wars, the Great Depression and a pandemic. But it could not weather two years under this Labour government. Next month, its 500 pupils will be among thousands across the country who do not return to the schools from which they broke up for the summer holidays. These are the casualties of the government’s decision to impose VAT on private school fees and remove business rate relief – a policy ministers promised would not have such consequences.
-
-
-
-We still haven’t seen the full effects of Labour’s recklessness. The true damage will take time to set in.]]></description>
-            <link>https://spectator.com/article/schools-out-the-dissolution-of-private-education/</link>
-            <guid isPermaLink="true">https://spectator.com/article/schools-out-the-dissolution-of-private-education/</guid>
-            <dc:creator><![CDATA[Lara Brown]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
         </item>
     </channel>

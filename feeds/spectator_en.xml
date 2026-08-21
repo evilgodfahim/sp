@@ -4,10 +4,22 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 07:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 08:28:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 07:35:28 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 08:28:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Four tips for the last two days at York]]></title>
+            <description><![CDATA[Lambourn trainer Ed Walker is one of racing’s good guys but even he found it difficult to stay cheerful after his stable star Almaqam was collared on the line by Item in the big race of the week at York, the Juddmonte International Stakes. So near yet so far to win a Group 1 contest, all the more frustrating since Alamaqam comfortably beat the two short-priced horses in the race, Ombudsman and Constitution River.
+
+
+
+I am hoping Walker’s disappointment will be short-lived because another of his leading lights, TEN BOB TONY, has a good chance of winning the Sky Bet City of York Stakes tomorrow (3 p.m.), even though stepping back in distance from a mile to seven furlongs may not be ideal.]]></description>
+            <link>https://spectator.com/article/four-tips-for-the-last-two-days-at-york/</link>
+            <guid isPermaLink="true">https://spectator.com/article/four-tips-for-the-last-two-days-at-york/</guid>
+            <dc:creator><![CDATA[Penworthy]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 08:28:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Revealed: the feuding at the heart of Reform]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -4044,14 +4056,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/the-curious-history-of-sporting-superstitions/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-curious-history-of-sporting-superstitions/</guid>
             <dc:creator><![CDATA[Patrick Kidd]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The unspoken truth about wildfires]]></title>
-            <description><![CDATA[By Matt Ridley]]></description>
-            <link>https://spectator.com/article/the-unspoken-truth-about-wildfires/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-unspoken-truth-about-wildfires/</guid>
-            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
         </item>
     </channel>

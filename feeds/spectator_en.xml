@@ -4,10 +4,32 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 03:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 04:28:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 03:42:35 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 04:28:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The charity shop cartel is coming to an end]]></title>
+            <description><![CDATA[This summer’s news that the charity shop retail bubble has begun to burst should, in a normal civilized society, elicit solemn sympathy. Yet, I’m struggling to shed a single tear. In fact, across the country, I bet a collective, cynical cheer is rising from the cobblestones. Recently, Cancer Research announced plans to shut 200 shops, while disability charity Scope warned that over half of its high-street estate is at risk. Sombre charity sector spokespeople complain shops are buckling under rising costs.  
+
+
+
+
+
+Well, for the last three decades, I’ve watched their hostile, tax-sheltered colonization of our town centres. Are they now cracking under the weight of their own bloated administrative overheads?]]></description>
+            <link>https://spectator.com/article/the-charity-shop-cartel-is-coming-to-an-end/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-charity-shop-cartel-is-coming-to-an-end/</guid>
+            <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 04:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Nazi generals spent their time in Enfield]]></title>
+            <description><![CDATA[By George Young]]></description>
+            <link>https://spectator.com/article/how-nazi-generals-spent-their-time-in-enfield/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-nazi-generals-spent-their-time-in-enfield/</guid>
+            <dc:creator><![CDATA[George Young]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 04:28:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andy Burnham’s plan to end rough sleeping will fail]]></title>
             <description><![CDATA[By Bartek Staniszewski]]></description>
@@ -264,11 +286,7 @@ The Knights were led by Sir A.P. McCoy, who looks a bit like Bryson DeChambeau w
         </item>
         <item>
             <title><![CDATA[I want to be a good father – like Machiavelli]]></title>
-            <description><![CDATA[Dante’s Beach, Ravenna
-
-
-
-When Machiavelli was tortured, then banished from Florence in 1513 to his modest farm in the Tuscan countryside, in the afternoons he used to ‘sink into vulgarity’, as he put it, and play cards and backgammon with the local men in the tavern next to his small house.]]></description>
+            <description><![CDATA[By Nicholas Farrell]]></description>
             <link>https://spectator.com/article/i-want-to-be-a-good-father-like-machiavelli/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-want-to-be-a-good-father-like-machiavelli/</guid>
             <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
@@ -4037,22 +4055,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/watch-french-police-sit-back-as-small-boats-set-sail/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 17:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s amazing how far Burnham has got by not being Keir Starmer]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/its-amazing-how-far-burnham-has-got-by-not-being-keir-starmer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-amazing-how-far-burnham-has-got-by-not-being-keir-starmer/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 17:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trade unions boycott Labour women’s conference over trans ban]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/trade-unions-boycott-labour-womens-conference-over-trans-ban/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trade-unions-boycott-labour-womens-conference-over-trans-ban/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 15:44:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 12:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 13:38:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 12:28:09 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 13:38:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Obamas are to blame for the Sussexes’s failure in the US]]></title>
+            <description><![CDATA[By David Christopher Kaufman]]></description>
+            <link>https://spectator.com/article/the-obamas-are-to-blame-for-the-sussexess-failure-in-the-us/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-obamas-are-to-blame-for-the-sussexess-failure-in-the-us/</guid>
+            <dc:creator><![CDATA[David Christopher Kaufman]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 13:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lucy Powell would be mad to undo the Tories’ school reforms]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/lucy-powell-would-be-mad-to-undo-the-tories-school-reforms/</link>
+            <guid isPermaLink="true">https://spectator.com/article/lucy-powell-would-be-mad-to-undo-the-tories-school-reforms/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 13:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A defection to the AfD has rattled Germany’s ruling party]]></title>
+            <description><![CDATA[By Elisabeth Dampier]]></description>
+            <link>https://spectator.com/article/a-defection-to-the-afd-has-rattled-germanys-ruling-party/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-defection-to-the-afd-has-rattled-germanys-ruling-party/</guid>
+            <dc:creator><![CDATA[Elisabeth Dampier]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 13:38:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The NUJ’s grotesque Jason Arday rant is the final straw]]></title>
             <description><![CDATA[By Stephen Pollard]]></description>
@@ -4028,30 +4052,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/bring-back-the-old-tube-seat-designs/</link>
             <guid isPermaLink="true">https://spectator.com/article/bring-back-the-old-tube-seat-designs/</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The concert of the year]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/the-concert-of-the-year/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-concert-of-the-year/</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new Spider-Man is a triumph of Hollywood professionalism]]></title>
-            <description><![CDATA[Cinema]]></description>
-            <link>https://spectator.com/article/the-new-spider-man-is-a-triumph-of-hollywood-professionalism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-new-spider-man-is-a-triumph-of-hollywood-professionalism/</guid>
-            <dc:creator><![CDATA[James Walton]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s the point of Unesco?]]></title>
-            <description><![CDATA[Arts]]></description>
-            <link>https://spectator.com/article/whats-the-point-of-unesco/</link>
-            <guid isPermaLink="true">https://spectator.com/article/whats-the-point-of-unesco/</guid>
-            <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
         </item>
     </channel>

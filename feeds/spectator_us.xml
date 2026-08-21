@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 09:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 10:20:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 09:27:04 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 10:20:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Apple Music has redeemed itself]]></title>
+            <description><![CDATA[Classical music]]></description>
+            <link>https://spectator.com/article/apple-music-has-redeemed-itself/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/apple-music-has-redeemed-itself/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 10:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Shards is easily the best drama on TV]]></title>
+            <description><![CDATA[Television]]></description>
+            <link>https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 10:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All roads lead to Nashville]]></title>
+            <description><![CDATA[Robert Altman’s Nashville]]></description>
+            <link>https://spectator.com/article/all-roads-lead-nashville/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/all-roads-lead-nashville/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 10:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There’s still time to save the West]]></title>
+            <description><![CDATA[By Mathias Döpfner]]></description>
+            <link>https://spectator.com/article/theres-still-time-to-save-the-west/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/theres-still-time-to-save-the-west/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Mathias Döpfner]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 10:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ghent University shouldn’t have suspended Nathan Cofnas]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/ghent-university-shouldnt-have-suspended-nathan-cofnas/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ghent-university-shouldnt-have-suspended-nathan-cofnas/?edition=us</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 10:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is our education system radicalizing young men?]]></title>
             <description><![CDATA[By Michael Young]]></description>
@@ -3991,46 +4031,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/fresh-original-mozart/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 11:53:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Lindsey Graham was always ready for war]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
-            <link>https://spectator.com/article/why-lindsey-graham-was-always-ready-for-war/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-lindsey-graham-was-always-ready-for-war/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 11:53:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the importance of dogs]]></title>
-            <description><![CDATA[By Sam Neill]]></description>
-            <link>https://spectator.com/article/sam-neill-spectator-importance-of-dogs/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/sam-neill-spectator-importance-of-dogs/?edition=us</guid>
-            <dc:creator><![CDATA[Sam Neill]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 11:53:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joe Manchin’s next move: West Virginia University?]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/joe-manchins-next-move-west-virginia-university/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/joe-manchins-next-move-west-virginia-university/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 08:51:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A prayer in Ukraine]]></title>
-            <description><![CDATA[By Dylan Colligan]]></description>
-            <link>https://spectator.com/article/a-prayer-in-ukraine/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-prayer-in-ukraine/?edition=us</guid>
-            <dc:creator><![CDATA[Dylan Colligan]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about Robert Mueller]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/the-truth-about-robert-mueller/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-robert-mueller/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 01:55:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

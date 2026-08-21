@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 09:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 10:20:47 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 09:27:09 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 10:20:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Britain’s books are getting harder than ever to balance]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/britains-books-are-getting-harder-than-ever-to-balance/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britains-books-are-getting-harder-than-ever-to-balance/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 10:20:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Labour MP rewrites the laws of economics]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4048,14 +4056,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/schools-out-the-dissolution-of-private-education/</link>
             <guid isPermaLink="true">https://spectator.com/article/schools-out-the-dissolution-of-private-education/</guid>
             <dc:creator><![CDATA[Lara Brown]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘He’s either the Messiah – or the Antichrist’: on the campaign trail with Nigel Farage]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/hes-either-the-messiah-or-the-antichrist-on-the-campaign-trail-with-nigel-farage/</link>
-            <guid isPermaLink="true">https://spectator.com/article/hes-either-the-messiah-or-the-antichrist-on-the-campaign-trail-with-nigel-farage/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
         </item>
     </channel>

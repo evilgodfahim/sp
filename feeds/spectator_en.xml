@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 08:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 09:27:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 08:28:32 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 09:27:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Labour MP rewrites the laws of economics]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/labour-mp-rewrites-the-laws-of-economics/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-mp-rewrites-the-laws-of-economics/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 09:27:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Four tips for the last two days at York]]></title>
             <description><![CDATA[Lambourn trainer Ed Walker is one of racing’s good guys but even he found it difficult to stay cheerful after his stable star Almaqam was collared on the line by Item in the big race of the week at York, the Juddmonte International Stakes. So near yet so far to win a Group 1 contest, all the more frustrating since Alamaqam comfortably beat the two short-priced horses in the race, Ombudsman and Constitution River.
@@ -4048,14 +4056,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <link>https://spectator.com/article/hes-either-the-messiah-or-the-antichrist-on-the-campaign-trail-with-nigel-farage/</link>
             <guid isPermaLink="true">https://spectator.com/article/hes-either-the-messiah-or-the-antichrist-on-the-campaign-trail-with-nigel-farage/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The curious history of sporting superstitions]]></title>
-            <description><![CDATA[By Patrick Kidd]]></description>
-            <link>https://spectator.com/article/the-curious-history-of-sporting-superstitions/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-curious-history-of-sporting-superstitions/</guid>
-            <dc:creator><![CDATA[Patrick Kidd]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
         </item>
     </channel>

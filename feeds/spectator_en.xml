@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 05:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 06:29:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 05:23:48 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 06:29:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Revealed: the feuding at the heart of Reform]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/revealed-the-feuding-at-the-heart-of-reform/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/revealed-the-feuding-at-the-heart-of-reform/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 06:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The great whataboutery delusion]]></title>
+            <description><![CDATA[Debate]]></description>
+            <link>https://spectator.com/article/the-great-whataboutery-delusion/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-great-whataboutery-delusion/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 06:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Alley Cats really that bad?]]></title>
+            <description><![CDATA[Television]]></description>
+            <link>https://spectator.com/article/is-alley-cats-really-that-bad/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-alley-cats-really-that-bad/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[James Walton]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 06:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shots in the dark: Fatal Love, by Louisa Treger, reviewed]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/shots-in-the-dark-fatal-love-by-louisa-treger-reviewed/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/shots-in-the-dark-fatal-love-by-louisa-treger-reviewed/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 06:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the heatwaves make this year’s French wines better?]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/will-the-heatwaves-make-this-years-french-wines-better/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-the-heatwaves-make-this-years-french-wines-better/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 06:29:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Premier League has lost its passion]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
@@ -18,13 +58,7 @@
         </item>
         <item>
             <title><![CDATA[The charity shop cartel is coming to an end]]></title>
-            <description><![CDATA[This summer’s news that the charity shop retail bubble has begun to burst should, in a normal civilized society, elicit solemn sympathy. Yet, I’m struggling to shed a single tear. In fact, across the country, I bet a collective, cynical cheer is rising from the cobblestones. Recently, Cancer Research announced plans to shut 200 shops, while disability charity Scope warned that over half of its high-street estate is at risk. Sombre charity sector spokespeople complain shops are buckling under rising costs.  
-
-
-
-
-
-Well, for the last three decades, I’ve watched their hostile, tax-sheltered colonization of our town centres. Are they now cracking under the weight of their own bloated administrative overheads?]]></description>
+            <description><![CDATA[By Simon Heptinstall]]></description>
             <link>https://spectator.com/article/the-charity-shop-cartel-is-coming-to-an-end/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-charity-shop-cartel-is-coming-to-an-end/</guid>
             <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
@@ -168,7 +202,7 @@ Well, for the last three decades, I’ve watched their hostile, tax-sheltere
         </item>
         <item>
             <title><![CDATA[Bond’s identity crisis mirrors Britain’s]]></title>
-            <description><![CDATA[Culture]]></description>
+            <description><![CDATA[By Madeline Grant]]></description>
             <link>https://spectator.com/article/bonds-identity-crisis-mirrors-britains/</link>
             <guid isPermaLink="true">https://spectator.com/article/bonds-identity-crisis-mirrors-britains/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -200,7 +234,7 @@ Well, for the last three decades, I’ve watched their hostile, tax-sheltere
         </item>
         <item>
             <title><![CDATA[Middle England is finally waking up to the migrant crisis]]></title>
-            <description><![CDATA[Small boats]]></description>
+            <description><![CDATA[By Douglas Murray]]></description>
             <link>https://spectator.com/article/middle-england-is-finally-waking-up-to-the-migrant-crisis/</link>
             <guid isPermaLink="true">https://spectator.com/article/middle-england-is-finally-waking-up-to-the-migrant-crisis/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -301,8 +335,12 @@ The Knights were led by Sir A.P. McCoy, who looks a bit like Bryson DeChambeau w
             <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The West must win]]></title>
-            <description><![CDATA[By Mathias Döpfner]]></description>
+            <title><![CDATA[There’s still time to save the West]]></title>
+            <description><![CDATA[When The Spectator asked me whether I would write an essay on ‘Why we need to strengthen the West’, I was delighted – and bemused. Why is this even up for debate? That we must explain and justify ‘the West’ at all indicates just how weak it has become. It would be better if it did not need strengthening at all but the truth is that the West has become an invalid.
+
+
+
+What exactly, though, needs to be strengthened? The West is an idea, not a location. It is not a matter of geography, it is a way of life. The idea of the West rests on four pillars: Athens – where democracy was born. Rome – the cradle of the rule of law. Jerusalem – where Judeo-Christian values placed the inviolable dignity of the individual at the centre.]]></description>
             <link>https://spectator.com/article/theres-still-time-to-save-the-west/</link>
             <guid isPermaLink="true">https://spectator.com/article/theres-still-time-to-save-the-west/</guid>
             <dc:creator><![CDATA[Mathias Döpfner]]></dc:creator>
@@ -318,7 +356,7 @@ The Knights were led by Sir A.P. McCoy, who looks a bit like Bryson DeChambeau w
         </item>
         <item>
             <title><![CDATA[Revealed: the feuding at the heart of Reform]]></title>
-            <description><![CDATA[Right mess]]></description>
+            <description><![CDATA[By Tim Shipman]]></description>
             <link>https://spectator.com/article/revealed-the-feuding-at-the-heart-of-reform/</link>
             <guid isPermaLink="true">https://spectator.com/article/revealed-the-feuding-at-the-heart-of-reform/</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
@@ -4015,46 +4053,6 @@ We still haven’t seen the full effects of Labour’s recklessness. The true da
             <guid isPermaLink="true">https://spectator.com/article/the-unspoken-truth-about-wildfires/</guid>
             <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We have a true book-loving Queen – and she is a marvel]]></title>
-            <description><![CDATA[By Nicky Dunne]]></description>
-            <link>https://spectator.com/article/we-have-a-true-book-loving-queen-and-she-is-a-marvel/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-have-a-true-book-loving-queen-and-she-is-a-marvel/</guid>
-            <dc:creator><![CDATA[Nicky Dunne]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Trainspotting musical is made for cruise ships]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/the-trainspotting-musical-is-made-for-cruise-ships/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-trainspotting-musical-is-made-for-cruise-ships/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has the Ford Capri gone woke?]]></title>
-            <description><![CDATA[By Tanya Gold]]></description>
-            <link>https://spectator.com/article/has-the-ford-capri-gone-woke/</link>
-            <guid isPermaLink="true">https://spectator.com/article/has-the-ford-capri-gone-woke/</guid>
-            <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Right-wingers know better food’: Rosina reviewed]]></title>
-            <description><![CDATA[By Angus Colwell]]></description>
-            <link>https://spectator.com/article/right-wingers-know-better-food-rosina-reviewed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/right-wingers-know-better-food-rosina-reviewed/</guid>
-            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Livestream: An evening with Rory Sutherland]]></title>
-            <description><![CDATA[By The Spectator]]></description>
-            <link>https://spectator.com/article/livestream-an-evening-with-rory-sutherland/</link>
-            <guid isPermaLink="true">https://spectator.com/article/livestream-an-evening-with-rory-sutherland/</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 18:59:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

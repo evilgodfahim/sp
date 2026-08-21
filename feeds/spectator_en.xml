@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 15:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 16:21:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 15:24:19 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 16:21:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[This year’s silly season has turned sinister]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/this-years-silly-season-has-turned-sinister/</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-years-silly-season-has-turned-sinister/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 16:21:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How will harsh US sanctions on Iran play out?]]></title>
             <description><![CDATA[By Charles Lipson]]></description>
@@ -4044,14 +4052,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/i-suspect-a-lot-of-tv-is-ai-generated/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-suspect-a-lot-of-tv-is-ai-generated/</guid>
             <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is this really the best Charli XCX can do?]]></title>
-            <description><![CDATA[By Graeme Thomson]]></description>
-            <link>https://spectator.com/article/is-this-really-the-best-charli-xcx-can-do/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-this-really-the-best-charli-xcx-can-do/</guid>
-            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 01:40:51 GMT</pubDate>
         </item>
     </channel>

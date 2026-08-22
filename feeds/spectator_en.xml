@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 15:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 16:13:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 15:12:15 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 16:13:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Death to the dinner party!]]></title>
+            <description><![CDATA[By Harry Mount]]></description>
+            <link>https://spectator.com/article/death-to-the-dinner-party/</link>
+            <guid isPermaLink="true">https://spectator.com/article/death-to-the-dinner-party/</guid>
+            <dc:creator><![CDATA[Harry Mount]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 16:13:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What could possibly explain my poor Uber rating?]]></title>
             <description><![CDATA[By Rachel Johnson]]></description>
@@ -4041,14 +4049,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <guid isPermaLink="true">https://spectator.com/article/burnham-must-resist-the-urge-to-tax-banking-profits/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:23:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cambridge is coming out very badly from the Jason Arday affair]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
-            <link>https://spectator.com/article/cambridge-is-coming-out-very-badly-from-the-jason-arday-affair/</link>
-            <guid isPermaLink="true">https://spectator.com/article/cambridge-is-coming-out-very-badly-from-the-jason-arday-affair/</guid>
-            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 10:14:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

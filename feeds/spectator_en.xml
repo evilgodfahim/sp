@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 06:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 07:24:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 06:23:40 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 07:24:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Andy Burnham can’t get enough of reviews and consultations]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/andy-burnham-cant-get-enough-of-reviews-and-consultations/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-cant-get-enough-of-reviews-and-consultations/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 07:24:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Britain is in for a difficult autumn]]></title>
             <description><![CDATA[By Isabel Hardman]]></description>
@@ -780,7 +788,7 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
         </item>
         <item>
             <title><![CDATA[The media didn’t kill Jason Arday]]></title>
-            <description><![CDATA[Tragedy]]></description>
+            <description><![CDATA[By Brendan O’Neill]]></description>
             <link>https://spectator.com/article/the-media-didnt-kill-jason-arday/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-media-didnt-kill-jason-arday/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -4040,14 +4048,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/tax-the-poor/</link>
             <guid isPermaLink="true">https://spectator.com/article/tax-the-poor/</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 07:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tears and terror on the front line of the French wildfires]]></title>
-            <description><![CDATA[By Catriona Olding]]></description>
-            <link>https://spectator.com/article/tears-and-terror-on-the-front-line-of-the-french-wildfires/</link>
-            <guid isPermaLink="true">https://spectator.com/article/tears-and-terror-on-the-front-line-of-the-french-wildfires/</guid>
-            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 07:28:26 GMT</pubDate>
         </item>
     </channel>

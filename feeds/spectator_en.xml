@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 23:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 00:42:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 23:15:11 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 00:42:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is the high-street pharmacy in danger?]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/is-the-high-street-pharmacy-in-danger/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-high-street-pharmacy-in-danger/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 00:42:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why won’t the UK curtail the Muslim Brotherhood?]]></title>
             <description><![CDATA[By Robin Simcox]]></description>
@@ -4045,14 +4053,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <guid isPermaLink="true">https://spectator.com/article/why-wont-burnham-commit-to-the-2030-defence-target/</guid>
             <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 07:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham is boldly going nowhere]]></title>
-            <description><![CDATA[Leading article]]></description>
-            <link>https://spectator.com/article/burnham-is-boldly-going-nowhere/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-is-boldly-going-nowhere/</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 04:49:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 03:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 04:23:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 03:35:14 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 04:23:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will Harry and Meghan move to the Cotswolds?]]></title>
+            <description><![CDATA[We longstanding residents of Oxfordshire have had a lot to put up with in recent years. First, there were the Beckhams with their faux flat-cap invasion of honey stone Great Tew and queasy talk of 'Golden Beez' honey. Then came Hollywood proper in the form of Ellen de Generes in her quest for ‘Engerland’: a Frankenstein vision of romcom The Holiday and indeterminate fantasies about the Old World. Last, came Maga as American Vice President J.D. Vance’s motorcade howled through the village lanes of Dean last summer. But frankly, we ‘aint seen nothing yet.]]></description>
+            <link>https://spectator.com/article/will-harry-and-meghan-move-to-the-cotswolds/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-harry-and-meghan-move-to-the-cotswolds/</guid>
+            <dc:creator><![CDATA[Arabella Byrne]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 04:23:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is the high-street pharmacy in danger?]]></title>
             <description><![CDATA[By Druin Burch]]></description>
@@ -98,11 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Four tips for the last two days at York]]></title>
-            <description><![CDATA[Lambourn trainer Ed Walker is one of racing’s good guys but even he found it difficult to stay cheerful after his stable star Almaqam was collared on the line by Item in the big race of the week at York, the Juddmonte International Stakes. So near yet so far to win a Group 1 contest, all the more frustrating since Alamaqam comfortably beat the two short-priced horses in the race, Ombudsman and Constitution River.
-
-
-
-I am hoping Walker’s disappointment will be short-lived because another of his leading lights, TEN BOB TONY, has a good chance of winning the Sky Bet City of York Stakes tomorrow (3 p.m.), even though stepping back in distance from a mile to seven furlongs may not be ideal.]]></description>
+            <description><![CDATA[By Penworthy]]></description>
             <link>https://spectator.com/article/four-tips-for-the-last-two-days-at-york/</link>
             <guid isPermaLink="true">https://spectator.com/article/four-tips-for-the-last-two-days-at-york/</guid>
             <dc:creator><![CDATA[Penworthy]]></dc:creator>
@@ -4044,14 +4048,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/blue-and-white-collar-jobs-will-never-be-valued-equally/</link>
             <guid isPermaLink="true">https://spectator.com/article/blue-and-white-collar-jobs-will-never-be-valued-equally/</guid>
             <dc:creator><![CDATA[Jimmy Nicholls]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 07:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why won’t Burnham commit to the 2030 defence target?]]></title>
-            <description><![CDATA[By Eliot Wilson]]></description>
-            <link>https://spectator.com/article/why-wont-burnham-commit-to-the-2030-defence-target/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-wont-burnham-commit-to-the-2030-defence-target/</guid>
-            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 07:28:26 GMT</pubDate>
         </item>
     </channel>

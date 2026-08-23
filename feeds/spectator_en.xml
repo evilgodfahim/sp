@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 11:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 12:20:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 11:12:55 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 12:20:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[France is rediscovering its Catholic soul]]></title>
+            <description><![CDATA[By Matthew Fraser]]></description>
+            <link>https://spectator.com/article/france-is-rediscovering-its-catholic-soul/</link>
+            <guid isPermaLink="true">https://spectator.com/article/france-is-rediscovering-its-catholic-soul/</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 12:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The joy of walking out of a bad play]]></title>
+            <description><![CDATA[Stage bore]]></description>
+            <link>https://spectator.com/article/the-joy-of-walking-out-of-a-bad-play/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-joy-of-walking-out-of-a-bad-play/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 12:20:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The great whataboutery delusion]]></title>
             <description><![CDATA[By Peter Hitchens]]></description>
@@ -4033,22 +4049,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <guid isPermaLink="true">https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/</guid>
             <dc:creator><![CDATA[Nicholas Shakespeare]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 01:57:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What students still get wrong about the Final Solution]]></title>
-            <description><![CDATA[By Andy Pearce]]></description>
-            <link>https://spectator.com/article/what-students-still-get-wrong-about-the-final-solution/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-students-still-get-wrong-about-the-final-solution/</guid>
-            <dc:creator><![CDATA[Andy Pearce]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 01:57:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Thousands of illegal migrants storm the border into Spain]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-thousands-of-illegal-migrants-storm-the-border-into-spain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-thousands-of-illegal-migrants-storm-the-border-into-spain/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 19:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

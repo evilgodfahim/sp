@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 00:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 02:19:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 00:45:34 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 02:19:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Amsterdam’s growing gun problem]]></title>
+            <description><![CDATA[By Arnout Nuijt]]></description>
+            <link>https://spectator.com/article/amsterdams-growing-gun-problem/</link>
+            <guid isPermaLink="true">https://spectator.com/article/amsterdams-growing-gun-problem/</guid>
+            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 02:19:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Death to the dinner party!]]></title>
             <description><![CDATA[By Harry Mount]]></description>
@@ -4040,14 +4048,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/can-burnham-raise-care-workers-wages-without-raising-taxes/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-burnham-raise-care-workers-wages-without-raising-taxes/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 12:23:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham must resist the urge to tax banking profits]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/burnham-must-resist-the-urge-to-tax-banking-profits/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-must-resist-the-urge-to-tax-banking-profits/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:23:51 GMT</pubDate>
         </item>
     </channel>

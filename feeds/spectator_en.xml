@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 04:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 05:21:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 04:28:12 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 05:21:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why you can’t ignore Ukraine]]></title>
+            <description><![CDATA[By Nigel Gould-Davies]]></description>
+            <link>https://spectator.com/article/why-you-cant-ignore-ukraine/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-you-cant-ignore-ukraine/</guid>
+            <dc:creator><![CDATA[Nigel Gould-Davies]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 05:21:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The History Teacher]]></title>
             <description><![CDATA[When people ask Matt what he does for a living, he sometimes replies that he’s a historian. Oh, they say, feigning mild interest, might I have read anything that you’ve written. At which point he has to admit it’s unlikely, unless they have a particular interest in Year 9 reports.  To be frank, Matt fell into being a history teacher. In three years at Durham, he became a master at speed-reading the introductions to books and writing semi-plagiarised essays while still mildly drunk at 4am. Despite his father’s hopes that he might cash in his unexpected First, a punishing summer internship at an American bank persuaded Matt to stay in academia a little longer.]]></description>
@@ -4041,14 +4049,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <guid isPermaLink="true">https://spectator.com/article/is-making-joe-root-england-captain-such-a-good-idea/</guid>
             <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 15:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The tragedy of Live at the Apollo]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/the-inevitable-demise-of-live-at-the-apollo/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-inevitable-demise-of-live-at-the-apollo/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 12:23:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

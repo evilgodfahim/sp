@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 06:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 07:25:53 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 06:25:02 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 07:25:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The great whataboutery delusion]]></title>
+            <description><![CDATA[By Peter Hitchens]]></description>
+            <link>https://spectator.com/article/the-great-whataboutery-delusion/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-great-whataboutery-delusion/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 07:25:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amsterdam’s growing gun problem]]></title>
+            <description><![CDATA[Zuidoost]]></description>
+            <link>https://spectator.com/article/amsterdams-growing-gun-problem/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/amsterdams-growing-gun-problem/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 07:25:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why you can’t ignore Ukraine]]></title>
+            <description><![CDATA[In the crossfire]]></description>
+            <link>https://spectator.com/article/why-you-cant-ignore-ukraine/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-you-cant-ignore-ukraine/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Nigel Gould-Davies]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 07:25:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham can’t get enough of reviews and consultations]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/andy-burnham-cant-get-enough-of-reviews-and-consultations/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-cant-get-enough-of-reviews-and-consultations/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 07:25:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why you can’t ignore Ukraine]]></title>
             <description><![CDATA[By Nigel Gould-Davies]]></description>
@@ -18,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[The History Teacher]]></title>
-            <description><![CDATA[When people ask Matt what he does for a living, he sometimes replies that he’s a historian. Oh, they say, feigning mild interest, might I have read anything that you’ve written. At which point he has to admit it’s unlikely, unless they have a particular interest in Year 9 reports.  To be frank, Matt fell into being a history teacher. In three years at Durham, he became a master at speed-reading the introductions to books and writing semi-plagiarised essays while still mildly drunk at 4am. Despite his father’s hopes that he might cash in his unexpected First, a punishing summer internship at an American bank persuaded Matt to stay in academia a little longer.]]></description>
+            <description><![CDATA[By Anonymous]]></description>
             <link>https://spectator.com/article/the-history-teacher/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-history-teacher/</guid>
             <dc:creator><![CDATA[Anonymous]]></dc:creator>
@@ -4017,38 +4049,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <guid isPermaLink="true">https://spectator.com/article/watch-thousands-of-illegal-migrants-storm-the-border-into-spain/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 19:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to respond to a wildfire]]></title>
-            <description><![CDATA[By Mark Solomons]]></description>
-            <link>https://spectator.com/article/how-to-respond-to-a-wildfire/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-respond-to-a-wildfire/</guid>
-            <dc:creator><![CDATA[Mark Solomons]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 19:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s boats problem]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/burnhams-boats-problem/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnhams-boats-problem/</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 17:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We still know little about Andy Burnham’s defence stance]]></title>
-            <description><![CDATA[By Eliot Wilson]]></description>
-            <link>https://spectator.com/article/we-still-know-little-about-andy-burnhams-defence-stance/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-still-know-little-about-andy-burnhams-defence-stance/</guid>
-            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 17:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is making Joe Root England captain such a good idea?]]></title>
-            <description><![CDATA[By Jim Lawley]]></description>
-            <link>https://spectator.com/article/is-making-joe-root-england-captain-such-a-good-idea/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-making-joe-root-england-captain-such-a-good-idea/</guid>
-            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 15:03:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

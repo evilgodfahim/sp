@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 03:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 04:28:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 03:42:29 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 04:28:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The History Teacher]]></title>
+            <description><![CDATA[When people ask Matt what he does for a living, he sometimes replies that he’s a historian. Oh, they say, feigning mild interest, might I have read anything that you’ve written. At which point he has to admit it’s unlikely, unless they have a particular interest in Year 9 reports.  To be frank, Matt fell into being a history teacher. In three years at Durham, he became a master at speed-reading the introductions to books and writing semi-plagiarised essays while still mildly drunk at 4am. Despite his father’s hopes that he might cash in his unexpected First, a punishing summer internship at an American bank persuaded Matt to stay in academia a little longer.]]></description>
+            <link>https://spectator.com/article/the-history-teacher/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-history-teacher/</guid>
+            <dc:creator><![CDATA[Anonymous]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 04:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this really the ‘most dangerous man in Germany’?]]></title>
+            <description><![CDATA[By Leon Mangasarian]]></description>
+            <link>https://spectator.com/article/is-this-really-the-most-dangerous-man-in-germany/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-this-really-the-most-dangerous-man-in-germany/</guid>
+            <dc:creator><![CDATA[Leon Mangasarian]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 04:28:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The joy of walking out of a bad play]]></title>
             <description><![CDATA[By Stephen Pollard]]></description>
@@ -4032,22 +4048,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/the-inevitable-demise-of-live-at-the-apollo/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-inevitable-demise-of-live-at-the-apollo/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 12:23:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bank of England’s rate hold is good news for John Healey]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/the-bank-of-englands-rate-hold-is-good-news-for-john-healey/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-bank-of-englands-rate-hold-is-good-news-for-john-healey/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 12:23:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain has made its mind up about Nigel Farage]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/britain-has-made-its-mind-up-about-nigel-farage/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-has-made-its-mind-up-about-nigel-farage/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:23:51 GMT</pubDate>
         </item>
     </channel>

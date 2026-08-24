@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 13:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 14:32:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 13:42:54 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 14:32:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Storm Shadow missiles won’t change the Ukraine war]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/storm-shadow-missiles-wont-change-the-ukraine-war/</link>
+            <guid isPermaLink="true">https://spectator.com/article/storm-shadow-missiles-wont-change-the-ukraine-war/</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 14:32:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who should pay for Meghan and Harry’s security?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4040,14 +4048,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/professor-arday-is-the-gift-that-keeps-on-giving/</link>
             <guid isPermaLink="true">https://spectator.com/article/professor-arday-is-the-gift-that-keeps-on-giving/</guid>
             <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 11:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham welcomes Diane Abbott back to Labour]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/burnham-welcomes-diane-abbott-back-to-labour/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-welcomes-diane-abbott-back-to-labour/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 11:22:09 GMT</pubDate>
         </item>
     </channel>

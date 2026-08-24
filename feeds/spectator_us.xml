@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 13:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 14:32:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 13:42:49 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 14:32:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is the ADHD myth unraveling?]]></title>
+            <description><![CDATA[By Alastair Mordey]]></description>
+            <link>https://spectator.com/article/is-the-adhd-myth-unravelling/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-adhd-myth-unravelling/?edition=us</guid>
+            <dc:creator><![CDATA[Alastair Mordey]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 14:32:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do Meghan and Harry know what the monarchy means to Britain?]]></title>
             <description><![CDATA[By Theo Hobson]]></description>
@@ -4015,14 +4023,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/the-odyssey-will-take-audiences-by-storm/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Wed, 15 Jul 2026 20:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The special counsel industrial complex]]></title>
-            <description><![CDATA[By Maud Maron]]></description>
-            <link>https://spectator.com/article/the-special-counsel-industrial-complex/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-special-counsel-industrial-complex/?edition=us</guid>
-            <dc:creator><![CDATA[Maud Maron]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 18:56:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

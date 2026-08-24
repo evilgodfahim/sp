@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 20:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 21:20:19 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 20:19:26 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 21:20:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can General Bessent win the war?]]></title>
+            <description><![CDATA[By Charles Lipson]]></description>
+            <link>https://spectator.com/article/can-general-bessent-win-the-war/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-general-bessent-win-the-war/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 21:20:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is the ADHD myth unraveling?]]></title>
             <description><![CDATA[By Alastair Mordey]]></description>
@@ -4015,14 +4023,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/supreme-court-poised-back-trans-bans/?edition=us</guid>
             <dc:creator><![CDATA[Chris Mondics]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 01:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Odyssey will take audiences by storm]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/the-odyssey-will-take-audiences-by-storm/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-odyssey-will-take-audiences-by-storm/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 20:03:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,13 +4,21 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 12:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 13:42:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 12:29:06 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 13:42:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Who should pay for Meghan and Harry’s security?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/who-should-pay-for-meghan-and-harrys-security/</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-should-pay-for-meghan-and-harrys-security/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why the French hate Parisians]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
+            <description><![CDATA[L'Étranger]]></description>
             <link>https://spectator.com/article/why-the-french-hate-parisians/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-french-hate-parisians/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
@@ -58,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Trump’s tariff wars are a godsend to the Democrats]]></title>
-            <description><![CDATA[America]]></description>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
             <link>https://spectator.com/article/trumps-tariff-wars-are-a-godsend-to-the-democrats/</link>
             <guid isPermaLink="true">https://spectator.com/article/trumps-tariff-wars-are-a-godsend-to-the-democrats/</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
@@ -90,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Testing asylum seekers on the law is a preposterous idea]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <description><![CDATA[Migration]]></description>
             <link>https://spectator.com/article/testing-asylum-seekers-on-the-law-is-a-preposterous-idea/</link>
             <guid isPermaLink="true">https://spectator.com/article/testing-asylum-seekers-on-the-law-is-a-preposterous-idea/</guid>
             <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
@@ -202,7 +210,7 @@
         </item>
         <item>
             <title><![CDATA[The joy of walking out of a bad play]]></title>
-            <description><![CDATA[Stage bore]]></description>
+            <description><![CDATA[By Stephen Pollard]]></description>
             <link>https://spectator.com/article/the-joy-of-walking-out-of-a-bad-play/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-joy-of-walking-out-of-a-bad-play/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -4040,14 +4048,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/burnham-welcomes-diane-abbott-back-to-labour/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-welcomes-diane-abbott-back-to-labour/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 11:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is this the end of Argos?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/is-this-the-end-of-argos/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-this-the-end-of-argos/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 11:22:09 GMT</pubDate>
         </item>
     </channel>

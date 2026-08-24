@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 09:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 10:28:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 09:37:05 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 10:28:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump’s tariff wars are a godsend to the Democrats]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/trumps-tariff-wars-are-a-godsend-to-the-democrats/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-tariff-wars-are-a-godsend-to-the-democrats/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 10:28:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The US currency is under attack like never before]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
@@ -4015,14 +4023,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/a-lifesaving-prisoner-swap-with-the-worst-incentives/?edition=us</guid>
             <dc:creator><![CDATA[Ben Domenech]]></dc:creator>
             <pubDate>Wed, 15 Jul 2026 07:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You can’t negotiate with Iran]]></title>
-            <description><![CDATA[By Jason Brodsky]]></description>
-            <link>https://spectator.com/article/you-cant-negotiate-with-iran/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/you-cant-negotiate-with-iran/?edition=us</guid>
-            <dc:creator><![CDATA[Jason Brodsky]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 20:51:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

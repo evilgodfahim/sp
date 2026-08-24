@@ -4,21 +4,61 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 05:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 06:37:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 05:30:50 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 06:37:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Trump’s tariff wars are a godsend to the Democrats]]></title>
+            <description><![CDATA[America]]></description>
+            <link>https://spectator.com/article/trumps-tariff-wars-are-a-godsend-to-the-democrats/</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-tariff-wars-are-a-godsend-to-the-democrats/</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 06:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The great whataboutery delusion]]></title>
+            <description><![CDATA[Debate]]></description>
+            <link>https://spectator.com/article/the-great-whataboutery-delusion/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-great-whataboutery-delusion/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 06:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I love Cape Town – but it’s not Africa]]></title>
+            <description><![CDATA[Travel]]></description>
+            <link>https://spectator.com/article/i-love-cape-town-but-its-not-africa/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-love-cape-town-but-its-not-africa/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 06:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The man who – inadvertently – invented the 1970s]]></title>
+            <description><![CDATA[Arts]]></description>
+            <link>https://spectator.com/article/the-man-who-inadvertently-invented-the-1970s/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-man-who-inadvertently-invented-the-1970s/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Jonathan Meades]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 06:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testing asylum seekers on the law is a preposterous idea]]></title>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
+            <link>https://spectator.com/article/testing-asylum-seekers-on-the-law-is-a-preposterous-idea/</link>
+            <guid isPermaLink="true">https://spectator.com/article/testing-asylum-seekers-on-the-law-is-a-preposterous-idea/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 06:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The truth about Andy Burnham’s tea-drinking habit]]></title>
+            <description><![CDATA[Milk first?]]></description>
+            <link>https://spectator.com/article/the-truth-about-andy-burnhams-tea-drinking-habit/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-andy-burnhams-tea-drinking-habit/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 06:37:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shakespeare is best drunk]]></title>
-            <description><![CDATA[Over the last few years, I have gotten smashed with some fairly interesting people in some fairly interesting places. But never before have I got shitfaced - a technical term - with people whose professional obligation was getting tanked up before me. This is the premise of Shitfaced Shakespeare, a show in which one member of the (professionally trained!) cast is chosen to spend four hours drinking before performing a Shakespeare play while their sober colleagues try to stop them from destroying the Bard's work.
-
-
-
-This is Shakespeare as Shakespeare intended it
-
-
-
-Currently, the company is performing Romeo and Juliet in London before touring the UK. I joined the cast for their ‘drink up’ on Saturday, arriving at the Leicester Square Theatre a few hours before the curtain went up.]]></description>
+            <description><![CDATA[Propping up the Bard]]></description>
             <link>https://spectator.com/article/shakespeare-is-best-drunk/</link>
             <guid isPermaLink="true">https://spectator.com/article/shakespeare-is-best-drunk/</guid>
             <dc:creator><![CDATA[Andy Twelves]]></dc:creator>
@@ -26,7 +66,7 @@ Currently, the company is performing Romeo and Juliet in London before touring t
         </item>
         <item>
             <title><![CDATA[Telling jokes is a dying art]]></title>
-            <description><![CDATA[By John Sturgis]]></description>
+            <description><![CDATA[Why the long face?]]></description>
             <link>https://spectator.com/article/no-one-tells-jokes-anymore/</link>
             <guid isPermaLink="true">https://spectator.com/article/no-one-tells-jokes-anymore/</guid>
             <dc:creator><![CDATA[John Sturgis]]></dc:creator>
@@ -34,7 +74,7 @@ Currently, the company is performing Romeo and Juliet in London before touring t
         </item>
         <item>
             <title><![CDATA[Harry is escaping his own Hotel California]]></title>
-            <description><![CDATA[By William Cash]]></description>
+            <description><![CDATA[California dreamin'?]]></description>
             <link>https://spectator.com/article/harry-is-escaping-his-own-hotel-california/</link>
             <guid isPermaLink="true">https://spectator.com/article/harry-is-escaping-his-own-hotel-california/</guid>
             <dc:creator><![CDATA[William Cash]]></dc:creator>
@@ -106,7 +146,7 @@ Currently, the company is performing Romeo and Juliet in London before touring t
         </item>
         <item>
             <title><![CDATA[Is this really the ‘most dangerous man in Germany’?]]></title>
-            <description><![CDATA[By Leon Mangasarian]]></description>
+            <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/is-this-really-the-most-dangerous-man-in-germany/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-this-really-the-most-dangerous-man-in-germany/</guid>
             <dc:creator><![CDATA[Leon Mangasarian]]></dc:creator>
@@ -114,7 +154,7 @@ Currently, the company is performing Romeo and Juliet in London before touring t
         </item>
         <item>
             <title><![CDATA[The joy of walking out of a bad play]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
+            <description><![CDATA[Stage bore]]></description>
             <link>https://spectator.com/article/the-joy-of-walking-out-of-a-bad-play/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-joy-of-walking-out-of-a-bad-play/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -466,7 +506,7 @@ Currently, the company is performing Romeo and Juliet in London before touring t
         </item>
         <item>
             <title><![CDATA[I love Cape Town – but it’s not Africa]]></title>
-            <description><![CDATA[By Matthew Parris]]></description>
+            <description><![CDATA[Travel]]></description>
             <link>https://spectator.com/article/i-love-cape-town-but-its-not-africa/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-love-cape-town-but-its-not-africa/</guid>
             <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
@@ -614,7 +654,7 @@ His music is stuffed with this fabulous fax-machine weirdness. It reaches an apo
         </item>
         <item>
             <title><![CDATA[The man who – inadvertently – invented the 1970s]]></title>
-            <description><![CDATA[By Jonathan Meades]]></description>
+            <description><![CDATA[Arts]]></description>
             <link>https://spectator.com/article/the-man-who-inadvertently-invented-the-1970s/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-man-who-inadvertently-invented-the-1970s/</guid>
             <dc:creator><![CDATA[Jonathan Meades]]></dc:creator>
@@ -684,7 +724,7 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
         </item>
         <item>
             <title><![CDATA[The great whataboutery delusion]]></title>
-            <description><![CDATA[By Peter Hitchens]]></description>
+            <description><![CDATA[Debate]]></description>
             <link>https://spectator.com/article/the-great-whataboutery-delusion/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-great-whataboutery-delusion/</guid>
             <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
@@ -4008,54 +4048,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/why-brittany-is-fast-becoming-the-new-provence/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-brittany-is-fast-becoming-the-new-provence/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Burnham’s levelling-up drive is sure to backfire]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/why-burnhams-levelling-up-drive-is-sure-to-backfire/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-burnhams-levelling-up-drive-is-sure-to-backfire/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The offensive farce of Hackney’s urge to de-twin with Haifa]]></title>
-            <description><![CDATA[By Zoe Strimpel]]></description>
-            <link>https://spectator.com/article/the-offensive-farce-of-hackneys-urge-to-de-twin-with-haifa/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-offensive-farce-of-hackneys-urge-to-de-twin-with-haifa/</guid>
-            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The unspoken etiquette of plane seats]]></title>
-            <description><![CDATA[By Sophie Law]]></description>
-            <link>https://spectator.com/article/the-unspoken-etiquette-of-plane-seats/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-unspoken-etiquette-of-plane-seats/</guid>
-            <dc:creator><![CDATA[Sophie Law]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The unspoken truth about wildfires]]></title>
-            <description><![CDATA[By Matt Ridley]]></description>
-            <link>https://spectator.com/article/the-unspoken-truth-about-wildfires/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-unspoken-truth-about-wildfires/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to be a truly patriotic millionaire]]></title>
-            <description><![CDATA[Any other business]]></description>
-            <link>https://spectator.com/article/how-to-be-a-truly-patriotic-millionaire/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-be-a-truly-patriotic-millionaire/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The grim rise of the ‘death positivity’ movement]]></title>
-            <description><![CDATA[Live and let die]]></description>
-            <link>https://spectator.com/article/the-grim-rise-of-the-death-positivity-movement/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-grim-rise-of-the-death-positivity-movement/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 05:33:45 GMT</pubDate>
         </item>
     </channel>

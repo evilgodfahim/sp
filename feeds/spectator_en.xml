@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 03:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 04:30:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 03:40:21 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 04:30:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Farah Ahmed: study engineering ‘to produce weaponry for Jihad’]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/cambridge-professor-study-engineering-to-produce-weaponry-for-jihad/</link>
+            <guid isPermaLink="true">https://spectator.com/article/cambridge-professor-study-engineering-to-produce-weaponry-for-jihad/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 04:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There’s no shame in a wine box]]></title>
+            <description><![CDATA[By Julie Bindel]]></description>
+            <link>https://spectator.com/article/theres-no-shame-in-a-wine-box/</link>
+            <guid isPermaLink="true">https://spectator.com/article/theres-no-shame-in-a-wine-box/</guid>
+            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 04:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keep Spoons noisy!]]></title>
+            <description><![CDATA[The much-loved - in some quarters - Wetherspoon pub chain is associated with many things. For their supporters, who include this writer, they supply a range of interesting, well-chosen drinks at reasonable prices, often in buildings of historic or architectural interest that would otherwise have been demolished or turned into luxury flats. To their detractors, they are bilious, low-rent establishments that have caricatured the great British pub beyond recognition. Not for nothing have several taken their names from The Moon Under Water, George Orwell’s fantasia of what an alehouse should be, in what might be seen as either affectionate homage or opportunistic hijacking.
+
+
+
+Pubs should be fun, convivial and welcoming places
+
+
+
+Yet what Wetherspoon establishments do not offer is quiet.]]></description>
+            <link>https://spectator.com/article/keep-spoons-noisy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keep-spoons-noisy/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 04:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why climate skeptics are winning]]></title>
+            <description><![CDATA[By Philip Patrick]]></description>
+            <link>https://spectator.com/article/why-climate-skeptics-are-winning/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-climate-skeptics-are-winning/</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 04:30:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Storm Shadow missiles won’t change the Ukraine war]]></title>
             <description><![CDATA[By Owen Matthews]]></description>
@@ -4017,38 +4057,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <guid isPermaLink="true">https://spectator.com/article/will-hamas-really-disarm/</guid>
             <dc:creator><![CDATA[Michael Evans]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 13:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Haigh pleads for a second chance]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-haigh-pleads-for-a-second-chance/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-haigh-pleads-for-a-second-chance/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 13:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s the ideology, stupid]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/its-the-ideology-stupid/</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-the-ideology-stupid/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 11:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s the ideology, stupid]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/its-the-ideology-stupid/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-the-ideology-stupid/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 11:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Professor Arday is the gift that keeps on giving]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/professor-arday-is-the-gift-that-keeps-on-giving/</link>
-            <guid isPermaLink="true">https://spectator.com/article/professor-arday-is-the-gift-that-keeps-on-giving/</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 11:22:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

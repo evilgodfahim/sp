@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 14:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 15:34:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 14:35:12 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 15:34:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What North Devon’s maternity closure tells us about Britain]]></title>
+            <description><![CDATA[By Simon Heptinstall]]></description>
+            <link>https://spectator.com/article/what-north-devons-maternity-closure-tells-us-about-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-north-devons-maternity-closure-tells-us-about-britain/</guid>
+            <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 15:34:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Does Poland have an image problem?]]></title>
             <description><![CDATA[By Piotr Wilczek]]></description>
@@ -4041,14 +4049,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <guid isPermaLink="true">https://spectator.com/article/spains-options-for-dealing-with-moroccan-migrants-are-limited/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Richard Ekins and Guglielmo Verdirame]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 11:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The EU has failed to get a grip on Europe’s wildfires]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/the-eu-has-failed-to-get-a-grip-on-europes-wildfires/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-eu-has-failed-to-get-a-grip-on-europes-wildfires/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 08:05:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

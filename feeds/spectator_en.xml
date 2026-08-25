@@ -4,12 +4,68 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 05:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 06:29:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 05:23:37 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 06:29:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Farah Ahmed: study engineering ‘to produce weaponry for Jihad’]]></title>
+            <title><![CDATA[How have we allowed star ratings to take over our lives?]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/how-have-we-allowed-star-ratings-to-take-over-our-lives/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-have-we-allowed-star-ratings-to-take-over-our-lives/</guid>
+            <dc:creator><![CDATA[Sarah Ditum]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 06:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The enigma of Juba II, ‘the most fortunate captive ever taken’]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-enigma-of-juba-ii-the-most-fortunate-captive-ever-taken/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-enigma-of-juba-ii-the-most-fortunate-captive-ever-taken/</guid>
+            <dc:creator><![CDATA[Thomas W. Hodgkinson]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 06:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I love Cape Town – but it’s not Africa]]></title>
+            <description><![CDATA[Travel]]></description>
+            <link>https://spectator.com/article/i-love-cape-town-but-its-not-africa/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-love-cape-town-but-its-not-africa/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 06:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How have we allowed star ratings to take over our lives?]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/how-have-we-allowed-star-ratings-to-take-over-our-lives/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-have-we-allowed-star-ratings-to-take-over-our-lives/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Sarah Ditum]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 06:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The enigma of Juba II, ‘the most fortunate captive ever taken’]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-enigma-of-juba-ii-the-most-fortunate-captive-ever-taken/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-enigma-of-juba-ii-the-most-fortunate-captive-ever-taken/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Thomas W. Hodgkinson]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 06:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why shouldn’t British workers be prioritised for council housing?]]></title>
+            <description><![CDATA[By Ameer Kotecha]]></description>
+            <link>https://spectator.com/article/why-shouldnt-british-workers-be-prioritised-for-council-housing/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-shouldnt-british-workers-be-prioritised-for-council-housing/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 06:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is short-form video rotting our brains?]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/is-short-form-video-rotting-our-brains/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-short-form-video-rotting-our-brains/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 06:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cambridge’s Farah Ahmed: study engineering ‘to produce weaponry for Jihad’]]></title>
             <description><![CDATA[By Andrew Gilligan]]></description>
             <link>https://spectator.com/article/cambridge-professor-study-engineering-to-produce-weaponry-for-jihad/</link>
             <guid isPermaLink="true">https://spectator.com/article/cambridge-professor-study-engineering-to-produce-weaponry-for-jihad/</guid>
@@ -18,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[There’s no shame in a wine box]]></title>
-            <description><![CDATA[By Julie Bindel]]></description>
+            <description><![CDATA[Château Cardboard]]></description>
             <link>https://spectator.com/article/theres-no-shame-in-a-wine-box/</link>
             <guid isPermaLink="true">https://spectator.com/article/theres-no-shame-in-a-wine-box/</guid>
             <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
@@ -26,15 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Keep Spoons noisy!]]></title>
-            <description><![CDATA[The much-loved - in some quarters - Wetherspoon pub chain is associated with many things. For their supporters, who include this writer, they supply a range of interesting, well-chosen drinks at reasonable prices, often in buildings of historic or architectural interest that would otherwise have been demolished or turned into luxury flats. To their detractors, they are bilious, low-rent establishments that have caricatured the great British pub beyond recognition. Not for nothing have several taken their names from The Moon Under Water, George Orwell’s fantasia of what an alehouse should be, in what might be seen as either affectionate homage or opportunistic hijacking.
-
-
-
-Pubs should be fun, convivial and welcoming places
-
-
-
-Yet what Wetherspoon establishments do not offer is quiet.]]></description>
+            <description><![CDATA[Hogarthian affair]]></description>
             <link>https://spectator.com/article/keep-spoons-noisy/</link>
             <guid isPermaLink="true">https://spectator.com/article/keep-spoons-noisy/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -42,7 +90,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[Why climate skeptics are winning]]></title>
-            <description><![CDATA[By Philip Patrick]]></description>
+            <description><![CDATA[Here comes the sun]]></description>
             <link>https://spectator.com/article/why-climate-skeptics-are-winning/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-climate-skeptics-are-winning/</guid>
             <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
@@ -50,7 +98,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[Storm Shadow missiles won’t change the Ukraine war]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
+            <description><![CDATA[Weapons pledge]]></description>
             <link>https://spectator.com/article/storm-shadow-missiles-wont-change-the-ukraine-war/</link>
             <guid isPermaLink="true">https://spectator.com/article/storm-shadow-missiles-wont-change-the-ukraine-war/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -58,7 +106,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[Who should pay for Meghan and Harry’s security?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Royal return]]></description>
             <link>https://spectator.com/article/who-should-pay-for-meghan-and-harrys-security/</link>
             <guid isPermaLink="true">https://spectator.com/article/who-should-pay-for-meghan-and-harrys-security/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -66,7 +114,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[Why the French hate Parisians]]></title>
-            <description><![CDATA[L'Étranger]]></description>
+            <description><![CDATA[By Gavin Mortimer]]></description>
             <link>https://spectator.com/article/why-the-french-hate-parisians/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-french-hate-parisians/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
@@ -82,7 +130,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[Is the ADHD myth unravelling?]]></title>
-            <description><![CDATA[By Alastair Mordey]]></description>
+            <description><![CDATA[Mental health]]></description>
             <link>https://spectator.com/article/is-the-adhd-myth-unravelling/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-the-adhd-myth-unravelling/</guid>
             <dc:creator><![CDATA[Alastair Mordey]]></dc:creator>
@@ -106,7 +154,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[Do Meghan and Harry know what the monarchy means to Britain?]]></title>
-            <description><![CDATA[By Theo Hobson]]></description>
+            <description><![CDATA[Royal return]]></description>
             <link>https://spectator.com/article/do-meghan-and-harry-know-what-the-monarchy-means-to-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/do-meghan-and-harry-know-what-the-monarchy-means-to-britain/</guid>
             <dc:creator><![CDATA[Theo Hobson]]></dc:creator>
@@ -146,7 +194,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[Testing asylum seekers on the law is a preposterous idea]]></title>
-            <description><![CDATA[Migration]]></description>
+            <description><![CDATA[By Andrew Tettenborn]]></description>
             <link>https://spectator.com/article/testing-asylum-seekers-on-the-law-is-a-preposterous-idea/</link>
             <guid isPermaLink="true">https://spectator.com/article/testing-asylum-seekers-on-the-law-is-a-preposterous-idea/</guid>
             <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
@@ -154,7 +202,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[The truth about Andy Burnham’s tea-drinking habit]]></title>
-            <description><![CDATA[Milk first?]]></description>
+            <description><![CDATA[By Sam Leith]]></description>
             <link>https://spectator.com/article/the-truth-about-andy-burnhams-tea-drinking-habit/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-truth-about-andy-burnhams-tea-drinking-habit/</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
@@ -162,7 +210,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[Shakespeare is best drunk]]></title>
-            <description><![CDATA[Propping up the Bard]]></description>
+            <description><![CDATA[By Andy Twelves]]></description>
             <link>https://spectator.com/article/shakespeare-is-best-drunk/</link>
             <guid isPermaLink="true">https://spectator.com/article/shakespeare-is-best-drunk/</guid>
             <dc:creator><![CDATA[Andy Twelves]]></dc:creator>
@@ -170,7 +218,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[Telling jokes is a dying art]]></title>
-            <description><![CDATA[Why the long face?]]></description>
+            <description><![CDATA[By John Sturgis]]></description>
             <link>https://spectator.com/article/no-one-tells-jokes-anymore/</link>
             <guid isPermaLink="true">https://spectator.com/article/no-one-tells-jokes-anymore/</guid>
             <dc:creator><![CDATA[John Sturgis]]></dc:creator>
@@ -178,7 +226,7 @@ Yet what Wetherspoon establishments do not offer is quiet.]]></description>
         </item>
         <item>
             <title><![CDATA[Harry is escaping his own Hotel California]]></title>
-            <description><![CDATA[Checking out]]></description>
+            <description><![CDATA[By William Cash]]></description>
             <link>https://spectator.com/article/harry-is-escaping-his-own-hotel-california/</link>
             <guid isPermaLink="true">https://spectator.com/article/harry-is-escaping-his-own-hotel-california/</guid>
             <dc:creator><![CDATA[William Cash]]></dc:creator>
@@ -758,7 +806,7 @@ His music is stuffed with this fabulous fax-machine weirdness. It reaches an apo
         </item>
         <item>
             <title><![CDATA[The man who – inadvertently – invented the 1970s]]></title>
-            <description><![CDATA[Arts]]></description>
+            <description><![CDATA[By Jonathan Meades]]></description>
             <link>https://spectator.com/article/the-man-who-inadvertently-invented-the-1970s/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-man-who-inadvertently-invented-the-1970s/</guid>
             <dc:creator><![CDATA[Jonathan Meades]]></dc:creator>
@@ -828,7 +876,7 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
         </item>
         <item>
             <title><![CDATA[The great whataboutery delusion]]></title>
-            <description><![CDATA[Debate]]></description>
+            <description><![CDATA[By Peter Hitchens]]></description>
             <link>https://spectator.com/article/the-great-whataboutery-delusion/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-great-whataboutery-delusion/</guid>
             <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
@@ -4001,62 +4049,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <guid isPermaLink="true">https://spectator.com/article/my-friend-the-failure-and-the-star/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 05:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Hamas really disarm?]]></title>
-            <description><![CDATA[Gaza war]]></description>
-            <link>https://spectator.com/article/will-hamas-really-disarm/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-hamas-really-disarm/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Michael Evans]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 05:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Professor Arday is the gift that keeps on giving]]></title>
-            <description><![CDATA[Universities]]></description>
-            <link>https://spectator.com/article/professor-arday-is-the-gift-that-keeps-on-giving/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/professor-arday-is-the-gift-that-keeps-on-giving/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 05:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keep the robots out of the classroom]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
-            <link>https://spectator.com/article/keep-the-robots-out-of-the-classroom/</link>
-            <guid isPermaLink="true">https://spectator.com/article/keep-the-robots-out-of-the-classroom/</guid>
-            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 02:27:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ceuta should be a wake-up call for Europe]]></title>
-            <description><![CDATA[By David Goodhart]]></description>
-            <link>https://spectator.com/article/ceuta-should-be-a-wake-up-call-for-europe/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ceuta-should-be-a-wake-up-call-for-europe/</guid>
-            <dc:creator><![CDATA[David Goodhart]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 17:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain has limited options for deporting Moroccan migrants]]></title>
-            <description><![CDATA[By Richard Ekins and Guglielmo Verdirame]]></description>
-            <link>https://spectator.com/article/spains-options-for-dealing-with-moroccan-migrants-are-limited/</link>
-            <guid isPermaLink="true">https://spectator.com/article/spains-options-for-dealing-with-moroccan-migrants-are-limited/</guid>
-            <dc:creator><![CDATA[Richard Ekins and Guglielmo Verdirame]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 17:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The invasion of Ceuta]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/the-invasion-of-ceuta/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-invasion-of-ceuta/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 15:55:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Hamas really disarm?]]></title>
-            <description><![CDATA[By Michael Evans]]></description>
-            <link>https://spectator.com/article/will-hamas-really-disarm/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-hamas-really-disarm/</guid>
-            <dc:creator><![CDATA[Michael Evans]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 13:43:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

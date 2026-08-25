@@ -4,9 +4,9 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 11:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 12:29:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 11:18:41 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 12:29:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Andy Burnham has discovered the cost of nationalisation]]></title>
@@ -18,7 +18,7 @@
         </item>
         <item>
             <title><![CDATA[We are already at war with Iran]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
+            <description><![CDATA[UK attacks]]></description>
             <link>https://spectator.com/article/we-are-already-at-war-with-iran/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-are-already-at-war-with-iran/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -74,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Is short-form video rotting our brains?]]></title>
-            <description><![CDATA[By David Shipley]]></description>
+            <description><![CDATA[Phone addiction]]></description>
             <link>https://spectator.com/article/is-short-form-video-rotting-our-brains/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-short-form-video-rotting-our-brains/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
@@ -82,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Cambridge’s Farah Ahmed: study engineering ‘to produce weaponry for Jihad’]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
+            <description><![CDATA[Universally challenged]]></description>
             <link>https://spectator.com/article/cambridge-professor-study-engineering-to-produce-weaponry-for-jihad/</link>
             <guid isPermaLink="true">https://spectator.com/article/cambridge-professor-study-engineering-to-produce-weaponry-for-jihad/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -114,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Storm Shadow missiles won’t change the Ukraine war]]></title>
-            <description><![CDATA[Weapons pledge]]></description>
+            <description><![CDATA[By Owen Matthews]]></description>
             <link>https://spectator.com/article/storm-shadow-missiles-wont-change-the-ukraine-war/</link>
             <guid isPermaLink="true">https://spectator.com/article/storm-shadow-missiles-wont-change-the-ukraine-war/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -122,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Who should pay for Meghan and Harry’s security?]]></title>
-            <description><![CDATA[Royal return]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/who-should-pay-for-meghan-and-harrys-security/</link>
             <guid isPermaLink="true">https://spectator.com/article/who-should-pay-for-meghan-and-harrys-security/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -170,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Do Meghan and Harry know what the monarchy means to Britain?]]></title>
-            <description><![CDATA[Royal return]]></description>
+            <description><![CDATA[By Theo Hobson]]></description>
             <link>https://spectator.com/article/do-meghan-and-harry-know-what-the-monarchy-means-to-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/do-meghan-and-harry-know-what-the-monarchy-means-to-britain/</guid>
             <dc:creator><![CDATA[Theo Hobson]]></dc:creator>

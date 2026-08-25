@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 09:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 10:22:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 09:25:45 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 10:22:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Arcade Fire extinguished]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/arcade-fire-extinguished/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/arcade-fire-extinguished/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 10:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a young inventor with no printing experience revolutionized the newspaper world]]></title>
+            <description><![CDATA[By Dennis Duncan]]></description>
+            <link>https://spectator.com/article/how-a-young-inventor-with-no-printing-experience-revolutionised-the-newspaper-world/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-a-young-inventor-with-no-printing-experience-revolutionised-the-newspaper-world/?edition=us</guid>
+            <dc:creator><![CDATA[Dennis Duncan]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 10:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A much-deserved revival of John McCabe, a formidable British composer]]></title>
+            <description><![CDATA[Grade: B+
+
+
+
+“Cheltenham Symphonies”, they used to call them – a catch-all term for the kind of large-scale, traditionally inclined postwar works that found a natural home at the Cheltenham Music Festival. But it was also a sneer: a dig at the supposedly parochial nature of British music in the 1960s and 1970s. Over in Europe, the avant-garde was doing whizzy things with Marxism and electronics. British music, went the narrative, was suburban, outdated and drab.
+
+
+
+Now listen to John McCabe’s Third Symphony of 1978. McCabe’s orchestration is as gorgeous as a bird of paradise; it shimmers like the colors on the surface of a bubble. Not that there’s anything fragile about McCabe’s musical engineering.]]></description>
+            <link>https://spectator.com/article/a-much-deserved-revival-of-a-formidable-british-composer/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-much-deserved-revival-of-a-formidable-british-composer/?edition=us</guid>
+            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 10:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s DSA vs ICE in the battle of the acronyms]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/its-dsa-vs-ice-in-the-battle-of-the-acronyms/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-dsa-vs-ice-in-the-battle-of-the-acronyms/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 10:22:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet the man road-tripping across America in a giant pear]]></title>
             <description><![CDATA[By Sabrina Philip]]></description>
@@ -274,7 +314,7 @@
         </item>
         <item>
             <title><![CDATA[The canonization of Tupac]]></title>
-            <description><![CDATA[The Tupac murder trial has finally begun. A 63-year-old former gang leader, Duane “Keffe D” Davis, is accused of orchestrating the murder of rapper, actor, and activist Tupac Shakur in a drive-by shooting 30 years ago. Tupac’s reputation – both alive and since – is chequered to say the least. Some still perceive him as one of a cadre of thugs who glorified gun violence and the gang lifestyle in the 1990s (if you’ve ever heard the phrase “Thug Life,” that’s one of his). Others have continued a campaign of quasi-canonization, presenting him as a tortured poet struggling against the strictures of fate. The latter argument gradually won through, with Tupac now closing in on Princess Diana in the global “national treasure” stakes.]]></description>
+            <description><![CDATA[By Ivo Delingpole]]></description>
             <link>https://spectator.com/article/the-canonization-of-tupac/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-canonization-of-tupac/?edition=us</guid>
             <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
@@ -3990,38 +4030,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/the-highs-and-lows-of-life-as-an-artist/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/the-highs-and-lows-of-life-as-an-artist/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death of a looksmaxxer]]></title>
-            <description><![CDATA[The Beautiful Ones]]></description>
-            <link>https://spectator.com/article/death-of-a-looksmaxxer/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/death-of-a-looksmaxxer/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Charles Cornish-Dale]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the man road-tripping across America in a giant pear]]></title>
-            <description><![CDATA[In pear-suit of greatness]]></description>
-            <link>https://spectator.com/article/meet-man-road-tripping-across-america-giant-pear-andrew-glubbey/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/meet-man-road-tripping-across-america-giant-pear-andrew-glubbey/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Sabrina Philip]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let right-wing politicians rest in peace]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/the-hijacking-of-ann-widdecombes-death/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-hijacking-of-ann-widdecombes-death/?edition=us</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defense of Little House on the Prairie]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/in-defence-of-little-house-on-the-prairie/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-little-house-on-the-prairie/?edition=us</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 11:38:28 GMT</pubDate>
         </item>
     </channel>

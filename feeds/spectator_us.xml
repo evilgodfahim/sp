@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 15:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 16:25:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 15:34:01 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 16:25:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[I want to be a good father – like Machiavelli]]></title>
+            <description><![CDATA[Dolce Vita]]></description>
+            <link>https://spectator.com/article/i-want-to-be-a-good-father-like-machiavelli/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-want-to-be-a-good-father-like-machiavelli/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 16:25:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who should pay for Meghan and Harry’s security?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/who-should-pay-for-meghan-and-harrys-security/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-should-pay-for-meghan-and-harrys-security/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 16:25:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is short-form video rotting our brains?]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/is-short-form-video-rotting-our-brains/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-short-form-video-rotting-our-brains/?edition=us</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 16:25:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How the Ramones redefined punk rock]]></title>
             <description><![CDATA[By Christopher Sandford]]></description>
@@ -4014,30 +4038,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/why-the-actor-sam-neill-was-so-loved/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-actor-sam-neill-was-so-loved/?edition=us</guid>
             <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 13:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drop the wacky wedding stunts]]></title>
-            <description><![CDATA[I don't]]></description>
-            <link>https://spectator.com/article/drop-the-wacky-wedding-stunts/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/drop-the-wacky-wedding-stunts/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 13:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Middle East is drifting into chaos]]></title>
-            <description><![CDATA[By Charlie Gammell]]></description>
-            <link>https://spectator.com/article/the-middle-east-is-drifting-into-chaos/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-middle-east-is-drifting-into-chaos/?edition=us</guid>
-            <dc:creator><![CDATA[Charlie Gammell]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 13:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The real Chinese election plot]]></title>
-            <description><![CDATA[By Ian Williams]]></description>
-            <link>https://spectator.com/article/the-real-chinese-election-plot/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-real-chinese-election-plot/?edition=us</guid>
-            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 13:07:17 GMT</pubDate>
         </item>
     </channel>

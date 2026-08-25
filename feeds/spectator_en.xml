@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 16:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 17:23:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 16:25:48 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 17:23:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is social media causing dangerous driving?]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/is-social-media-causing-dangerous-driving/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-social-media-causing-dangerous-driving/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 17:23:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[North Devon’s maternity desert shames Britain]]></title>
             <description><![CDATA[By Simon Heptinstall]]></description>
@@ -4040,14 +4048,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/does-russias-exiled-opposition-want-whats-best-for-europe/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/does-russias-exiled-opposition-want-whats-best-for-europe/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Nigel Gould-Davies]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 11:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain has limited options for deporting Moroccan migrants]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/spains-options-for-dealing-with-moroccan-migrants-are-limited/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/spains-options-for-dealing-with-moroccan-migrants-are-limited/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Richard Ekins and Guglielmo Verdirame]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 11:56:54 GMT</pubDate>
         </item>
     </channel>

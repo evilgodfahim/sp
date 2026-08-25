@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 20:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 21:23:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 20:18:20 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 21:23:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What Palm Beach reveals about America’s new class system]]></title>
+            <description><![CDATA[By Peter Watson]]></description>
+            <link>https://spectator.com/article/palm-beach-reveals-about-america-new-class-system/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/palm-beach-reveals-about-america-new-class-system/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Watson]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 21:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RIP Dolly Parton]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/rip-dolly-parton/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/rip-dolly-parton/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 21:23:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I want to be a good father – like Machiavelli]]></title>
             <description><![CDATA[Dolce Vita]]></description>
@@ -170,15 +186,7 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
         </item>
         <item>
             <title><![CDATA[A much-deserved revival of John McCabe, a formidable British composer]]></title>
-            <description><![CDATA[Grade: B+
-
-
-
-“Cheltenham Symphonies”, they used to call them – a catch-all term for the kind of large-scale, traditionally inclined postwar works that found a natural home at the Cheltenham Music Festival. But it was also a sneer: a dig at the supposedly parochial nature of British music in the 1960s and 1970s. Over in Europe, the avant-garde was doing whizzy things with Marxism and electronics. British music, went the narrative, was suburban, outdated and drab.
-
-
-
-Now listen to John McCabe’s Third Symphony of 1978. McCabe’s orchestration is as gorgeous as a bird of paradise; it shimmers like the colors on the surface of a bubble. Not that there’s anything fragile about McCabe’s musical engineering.]]></description>
+            <description><![CDATA[By Richard Bratby]]></description>
             <link>https://spectator.com/article/a-much-deserved-revival-of-a-formidable-british-composer/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/a-much-deserved-revival-of-a-formidable-british-composer/?edition=us</guid>
             <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
@@ -4023,22 +4031,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/blame-white-house-teleprompter-operator-america-savviest-gambler/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 17:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christopher Nolan’s Odyssey is a triumph]]></title>
-            <description><![CDATA[By Count Binface]]></description>
-            <link>https://spectator.com/article/christopher-nolans-odyssey-is-a-triumph/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/christopher-nolans-odyssey-is-a-triumph/?edition=us</guid>
-            <dc:creator><![CDATA[Count Binface]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 13:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Sam Neill was so loved]]></title>
-            <description><![CDATA[By Terry Barnes]]></description>
-            <link>https://spectator.com/article/why-the-actor-sam-neill-was-so-loved/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-the-actor-sam-neill-was-so-loved/?edition=us</guid>
-            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 13:07:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

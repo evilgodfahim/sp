@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 21:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 22:17:01 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 21:24:02 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 22:17:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[RIP Dolly Parton]]></title>
+            <description><![CDATA[On her terms]]></description>
+            <link>https://spectator.com/article/rip-dolly-parton/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rip-dolly-parton/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 22:17:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is social media causing dangerous driving?]]></title>
             <description><![CDATA[By John Power]]></description>
@@ -50,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[We are already at war with Iran]]></title>
-            <description><![CDATA[UK attacks]]></description>
+            <description><![CDATA[By Stephen Pollard]]></description>
             <link>https://spectator.com/article/we-are-already-at-war-with-iran/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-are-already-at-war-with-iran/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -802,11 +810,7 @@
         </item>
         <item>
             <title><![CDATA[The genius of Romeo Castellucci]]></title>
-            <description><![CDATA[Birds do not sing. They bleep and rattle and buzz like a dial-up modem. That we consider what comes out of those pointy mouths as synonymous with natural beauty and the highest achievements of melody is all down to a musical sleight of hand – centuries of gaslighting and free PR from classical music. The first composer to level with us, to faithfully transcribe the monstrous noises that these creatures actually make, was Olivier Messiaen.
-
-
-
-His music is stuffed with this fabulous fax-machine weirdness. It reaches an apotheosis in his massive opera Saint François d’Assise (1983) – six hours with intervals.]]></description>
+            <description><![CDATA[By Igor Toronyi-Lalic]]></description>
             <link>https://spectator.com/article/the-genius-of-romeo-castellucci/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-genius-of-romeo-castellucci/</guid>
             <dc:creator><![CDATA[Igor Toronyi-Lalic]]></dc:creator>
@@ -4040,14 +4044,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/the-curious-history-of-sporting-superstitions/?homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/the-curious-history-of-sporting-superstitions/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Patrick Kidd]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 11:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Russia’s exiled opposition want what’s best for Europe?]]></title>
-            <description><![CDATA[White knights]]></description>
-            <link>https://spectator.com/article/does-russias-exiled-opposition-want-whats-best-for-europe/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-russias-exiled-opposition-want-whats-best-for-europe/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Nigel Gould-Davies]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 11:56:54 GMT</pubDate>
         </item>
     </channel>

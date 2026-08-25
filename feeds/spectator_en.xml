@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 06:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 07:36:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 06:29:52 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 07:36:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We are already at war with Iran]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/we-are-already-at-war-with-iran/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-are-already-at-war-with-iran/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 07:36:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How have we allowed star ratings to take over our lives?]]></title>
             <description><![CDATA[Books]]></description>
@@ -4040,14 +4048,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/does-russias-exiled-opposition-want-whats-best-for-europe/</link>
             <guid isPermaLink="true">https://spectator.com/article/does-russias-exiled-opposition-want-whats-best-for-europe/</guid>
             <dc:creator><![CDATA[Nigel Gould-Davies]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 05:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My friend the failure – and the star]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/my-friend-the-failure-and-the-star/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-friend-the-failure-and-the-star/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 05:46:49 GMT</pubDate>
         </item>
     </channel>

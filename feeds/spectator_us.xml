@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 07:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 08:32:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 07:38:17 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 08:32:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The joy of getting lost in the Peloponnese]]></title>
+            <description><![CDATA[By Alice Hancock]]></description>
+            <link>https://spectator.com/article/joy-getting-lost-peloponnese/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/joy-getting-lost-peloponnese/?edition=us</guid>
+            <dc:creator><![CDATA[Alice Hancock]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 08:32:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A crime still in progress]]></title>
             <description><![CDATA[By Lee Smith]]></description>
@@ -4023,14 +4031,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/trump-is-smoke-signaling-with-forrest-fire-tariff/?edition=us</guid>
             <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 16:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Odyssey is shallow and tiring]]></title>
-            <description><![CDATA[By Deborah Ross]]></description>
-            <link>https://spectator.com/article/the-odyssey-is-shallow-and-tiring/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-odyssey-is-shallow-and-tiring/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 15:45:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

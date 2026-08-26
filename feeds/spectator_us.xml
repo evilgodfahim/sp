@@ -4,9 +4,9 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 13:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 14:35:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 13:45:34 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 14:35:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What was the CIA doing in Moscow?]]></title>
@@ -121,7 +121,7 @@
             <pubDate>Wed, 26 Aug 2026 03:44:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The case for drone policing]]></title>
+            <title><![CDATA[In defense of Flock Safety]]></title>
             <description><![CDATA[By Heather Mac Donald]]></description>
             <link>https://spectator.com/article/case-drone-policing-flock/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/case-drone-policing-flock/?edition=us</guid>

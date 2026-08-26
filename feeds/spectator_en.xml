@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 00:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 02:19:50 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 00:44:38 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 02:19:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Finally – an authoritative, stimulating history of the modern Middle East]]></title>
+            <description><![CDATA[By Jason Burke]]></description>
+            <link>https://spectator.com/article/finally-an-authoritative-stimulating-history-of-the-modern-middle-east/</link>
+            <guid isPermaLink="true">https://spectator.com/article/finally-an-authoritative-stimulating-history-of-the-modern-middle-east/</guid>
+            <dc:creator><![CDATA[Jason Burke]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 02:19:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RIP Dolly Parton]]></title>
             <description><![CDATA[On her terms]]></description>
@@ -4037,14 +4045,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <guid isPermaLink="true">https://spectator.com/article/the-manchester-by-election-proves-farage-is-floundering/</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 13:07:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The curious history of sporting superstitions]]></title>
-            <description><![CDATA[By Patrick Kidd]]></description>
-            <link>https://spectator.com/article/the-curious-history-of-sporting-superstitions/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-curious-history-of-sporting-superstitions/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Patrick Kidd]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 11:56:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

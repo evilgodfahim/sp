@@ -4,13 +4,21 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 08:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 09:32:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 08:32:25 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 09:32:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The truth about Andy Burnham’s ‘impromptu’ guitar session]]></title>
+            <description><![CDATA[By Ivo Delingpole]]></description>
+            <link>https://spectator.com/article/the-truth-about-andy-burnhams-impromptu-guitar-session/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-andy-burnhams-impromptu-guitar-session/</guid>
+            <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 09:32:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why ‘I’m backing Britain’ would never happen today]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
+            <description><![CDATA[Economic woes]]></description>
             <link>https://spectator.com/article/why-im-backing-britain-would-never-happen-today/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-im-backing-britain-would-never-happen-today/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -34,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Why the world loved Dolly Parton]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
+            <description><![CDATA[RIP]]></description>
             <link>https://spectator.com/article/why-the-world-loved-dolly-parton/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-world-loved-dolly-parton/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
@@ -98,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Middle East Eye seems to get stupider and stupider]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
+            <description><![CDATA[Jason Arday]]></description>
             <link>https://spectator.com/article/middle-east-eye-seems-to-get-stupider-and-stupider/</link>
             <guid isPermaLink="true">https://spectator.com/article/middle-east-eye-seems-to-get-stupider-and-stupider/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -114,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[RIP Dolly Parton]]></title>
-            <description><![CDATA[On her terms]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/rip-dolly-parton/</link>
             <guid isPermaLink="true">https://spectator.com/article/rip-dolly-parton/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -122,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[Is social media causing dangerous driving?]]></title>
-            <description><![CDATA[Reality Check]]></description>
+            <description><![CDATA[By John Power]]></description>
             <link>https://spectator.com/article/is-social-media-causing-dangerous-driving/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-social-media-causing-dangerous-driving/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
@@ -154,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[Andy Burnham has discovered the cost of nationalisation]]></title>
-            <description><![CDATA[Tapped out]]></description>
+            <description><![CDATA[By Matthew Lynn]]></description>
             <link>https://spectator.com/article/andy-burnham-has-discovered-the-cost-of-nationalisation/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-has-discovered-the-cost-of-nationalisation/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
@@ -4040,14 +4048,6 @@ He started doing a monthly Listener in 2017. His musical interests were vast an
             <link>https://spectator.com/article/inside-frances-war-against-radical-mosques/</link>
             <guid isPermaLink="true">https://spectator.com/article/inside-frances-war-against-radical-mosques/</guid>
             <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 10:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Lowe offers an alliance with Farage]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-lowe-offers-an-alliance-with-farage/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-lowe-offers-an-alliance-with-farage/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Sun, 02 Aug 2026 10:26:44 GMT</pubDate>
         </item>
     </channel>

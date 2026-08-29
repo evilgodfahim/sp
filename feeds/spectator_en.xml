@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 14:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 18:02:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 14:49:59 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 18:02:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bring back the privileged class]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/bring-back-the-privileged-class/</link>
+            <guid isPermaLink="true">https://spectator.com/article/bring-back-the-privileged-class/</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 18:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can James Cleverly turn London blue?]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/few-things-were-more-foreseeable-in-politics-than-james-cleverly-running-for-mayor-of-london/</link>
+            <guid isPermaLink="true">https://spectator.com/article/few-things-were-more-foreseeable-in-politics-than-james-cleverly-running-for-mayor-of-london/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 18:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wilderness and war are changing Chernobyl forever]]></title>
+            <description><![CDATA[Fallout]]></description>
+            <link>https://spectator.com/article/chernobyl-faces-an-uncertain-future/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/chernobyl-faces-an-uncertain-future/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Harry Stourton]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 18:02:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nepal must learn from the Rasuwa floods]]></title>
             <description><![CDATA[By Billi Bierling]]></description>
@@ -4033,30 +4057,6 @@ There are all sorts of enlightened souls in and around journalism who pretend to
             <guid isPermaLink="true">https://spectator.com/article/we-cant-keep-pretending-anti-israel-hate-and-anti-semitism-are-unrelated/</guid>
             <dc:creator><![CDATA[Dave Rich]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The troubling legacy of John Esposito]]></title>
-            <description><![CDATA[A reflection]]></description>
-            <link>https://spectator.com/article/the-troubling-legacy-of-john-esposito/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-troubling-legacy-of-john-esposito/</guid>
-            <dc:creator><![CDATA[John Jenkins]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antisemitism is now part of life in Britain]]></title>
-            <description><![CDATA[Jew hate]]></description>
-            <link>https://spectator.com/article/antisemitism-is-now-part-of-life-in-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/antisemitism-is-now-part-of-life-in-britain/</guid>
-            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wicked exploitation of Ariana Grande]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/ariana-grande-wicked-bodyweight/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ariana-grande-wicked-bodyweight/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 10:27:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

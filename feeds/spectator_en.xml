@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 09:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 14:49:59 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 09:41:47 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 14:49:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nepal must learn from the Rasuwa floods]]></title>
+            <description><![CDATA[By Billi Bierling]]></description>
+            <link>https://spectator.com/article/when-i-first-heard-the-news-that-the-rasuwa-region-in-nepal-had-been-seriously-flooded-i-barely-paid-attention/</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-i-first-heard-the-news-that-the-rasuwa-region-in-nepal-had-been-seriously-flooded-i-barely-paid-attention/</guid>
+            <dc:creator><![CDATA[Billi Bierling]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 14:49:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I have more in common with Meghan than I care to admit]]></title>
+            <description><![CDATA[By Jim Grenville]]></description>
+            <link>https://spectator.com/article/i-have-more-in-common-with-meghan-than-i-care-to-admit/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-have-more-in-common-with-meghan-than-i-care-to-admit/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Jim Grenville]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 14:49:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Choosing a coffin for my younger brother]]></title>
+            <description><![CDATA[RIP]]></description>
+            <link>https://spectator.com/article/choosing-a-coffin-for-my-younger-brother/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/choosing-a-coffin-for-my-younger-brother/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Stephen Smith]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 14:49:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Britain must stand up to the US before it’s too late]]></title>
             <description><![CDATA[Special relationship]]></description>
@@ -4032,30 +4056,6 @@ There are all sorts of enlightened souls in and around journalism who pretend to
             <link>https://spectator.com/article/ariana-grande-wicked-bodyweight/</link>
             <guid isPermaLink="true">https://spectator.com/article/ariana-grande-wicked-bodyweight/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 10:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Rod Liddle revolutionised Today]]></title>
-            <description><![CDATA[In memory]]></description>
-            <link>https://spectator.com/article/how-rod-revolutionised-today/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-rod-revolutionised-today/</guid>
-            <dc:creator><![CDATA[Roger Harrabin]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 10:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our airports have won the battle against net zero – but not the war]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/our-airports-have-won-the-battle-against-net-zero-but-not-the-war/</link>
-            <guid isPermaLink="true">https://spectator.com/article/our-airports-have-won-the-battle-against-net-zero-but-not-the-war/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 10:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why millionaires like me shouldn’t leave the country]]></title>
-            <description><![CDATA[By David Ross]]></description>
-            <link>https://spectator.com/article/why-millionaires-like-me-shouldnt-leave-the-country/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-millionaires-like-me-shouldnt-leave-the-country/</guid>
-            <dc:creator><![CDATA[David Ross]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 10:27:08 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 20:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 02:57:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 20:30:53 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 02:57:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[British citizenship has become meaningless]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/british-citizenship-has-become-meaningless/</link>
+            <guid isPermaLink="true">https://spectator.com/article/british-citizenship-has-become-meaningless/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 02:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Choosing a coffin for my younger brother]]></title>
+            <description><![CDATA[By Stephen Smith]]></description>
+            <link>https://spectator.com/article/choosing-a-coffin-for-my-younger-brother/</link>
+            <guid isPermaLink="true">https://spectator.com/article/choosing-a-coffin-for-my-younger-brother/</guid>
+            <dc:creator><![CDATA[Stephen Smith]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 02:57:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Has Burnham gone shy on welfare reform?]]></title>
             <description><![CDATA[By Ross Clark]]></description>
@@ -4048,22 +4064,6 @@ There are all sorts of enlightened souls in and around journalism who pretend to
             <link>https://spectator.com/article/second-homes-are-overrated/</link>
             <guid isPermaLink="true">https://spectator.com/article/second-homes-are-overrated/</guid>
             <dc:creator><![CDATA[Monica Porter]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 04:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the ‘Monaco of the Balkans’]]></title>
-            <description><![CDATA[La vie en rose]]></description>
-            <link>https://spectator.com/article/welcome-to-the-monaco-of-the-balkans/</link>
-            <guid isPermaLink="true">https://spectator.com/article/welcome-to-the-monaco-of-the-balkans/</guid>
-            <dc:creator><![CDATA[Adam James Pollock]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 04:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why it hurts when cricketers cheat]]></title>
-            <description><![CDATA[By Iain Hollingshead]]></description>
-            <link>https://spectator.com/article/why-it-hurts-when-cricketers-cheat/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-it-hurts-when-cricketers-cheat/</guid>
-            <dc:creator><![CDATA[Iain Hollingshead]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 04:57:06 GMT</pubDate>
         </item>
     </channel>

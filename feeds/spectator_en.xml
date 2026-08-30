@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 23:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 02:36:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 23:44:08 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 02:36:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why are French kids’ school bags so heavy?]]></title>
+            <description><![CDATA[By Matthew Fraser]]></description>
+            <link>https://spectator.com/article/why-are-french-kids-school-bags-so-heavy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-are-french-kids-school-bags-so-heavy/</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 02:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this the way to fix a university education?]]></title>
+            <description><![CDATA[By Angela Epstein]]></description>
+            <link>https://spectator.com/article/is-this-the-way-to-fix-a-university-education/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-this-the-way-to-fix-a-university-education/</guid>
+            <dc:creator><![CDATA[Angela Epstein]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 02:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poland’s homeland defence strategy puts Britain to shame]]></title>
+            <description><![CDATA[By Ted Jeffrey]]></description>
+            <link>https://spectator.com/article/polands-homeland-defence-strategy-puts-britain-to-shame/</link>
+            <guid isPermaLink="true">https://spectator.com/article/polands-homeland-defence-strategy-puts-britain-to-shame/</guid>
+            <dc:creator><![CDATA[Ted Jeffrey]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 02:36:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bring back the privileged class]]></title>
             <description><![CDATA[By Toby Young]]></description>
@@ -4032,30 +4056,6 @@ There are all sorts of enlightened souls in and around journalism who pretend to
             <link>https://spectator.com/article/the-jason-arday-debacle-is-becoming-a-national-scandal/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-jason-arday-debacle-is-becoming-a-national-scandal/</guid>
             <dc:creator><![CDATA[James Hanson]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine is having fun attacking ‘Russia’s Amazon’]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
-            <link>https://spectator.com/article/ukraine-is-having-fun-attacking-russias-amazon/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ukraine-is-having-fun-attacking-russias-amazon/</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s healthy for kids to learn the meaning of true boredom]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
-            <link>https://spectator.com/article/its-healthy-for-kids-to-learn-the-meaning-of-true-boredom/</link>
-            <guid isPermaLink="true">https://spectator.com/article/its-healthy-for-kids-to-learn-the-meaning-of-true-boredom/</guid>
-            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We can’t keep pretending anti-Israel hate and anti-Semitism are unrelated]]></title>
-            <description><![CDATA[By Dave Rich]]></description>
-            <link>https://spectator.com/article/we-cant-keep-pretending-anti-israel-hate-and-anti-semitism-are-unrelated/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-cant-keep-pretending-anti-israel-hate-and-anti-semitism-are-unrelated/</guid>
-            <dc:creator><![CDATA[Dave Rich]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:48:08 GMT</pubDate>
         </item>
     </channel>

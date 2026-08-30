@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 08:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 14:07:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2026 08:43:37 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 14:07:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We are ignoring the biggest threat the world faces]]></title>
+            <description><![CDATA[By Lionel Shriver]]></description>
+            <link>https://spectator.com/article/we-are-ignoring-the-biggest-threat-the-world-faces/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-are-ignoring-the-biggest-threat-the-world-faces/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 14:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are French kids’ school bags so heavy?]]></title>
+            <description><![CDATA[‘Rentrée scolaire’]]></description>
+            <link>https://spectator.com/article/why-are-french-kids-school-bags-so-heavy/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-are-french-kids-school-bags-so-heavy/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 14:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British citizenship has become meaningless]]></title>
+            <description><![CDATA[Crushing alienation]]></description>
+            <link>https://spectator.com/article/british-citizenship-has-become-meaningless/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/british-citizenship-has-become-meaningless/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 14:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wilderness and war are changing Chernobyl forever]]></title>
+            <description><![CDATA[Fallout]]></description>
+            <link>https://spectator.com/article/chernobyl-faces-an-uncertain-future/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/chernobyl-faces-an-uncertain-future/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Harry Stourton]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 14:07:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Windsors have much to learn from Harald of Norway’s reign]]></title>
             <description><![CDATA[Royal family]]></description>
@@ -4025,38 +4057,6 @@ There are all sorts of enlightened souls in and around journalism who pretend to
             <guid isPermaLink="true">https://spectator.com/article/jason-arday-quits-cambridge-finally/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 20:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The NHS is not in a crisis of racism]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/the-nhs-is-not-in-a-crisis-of-racism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-nhs-is-not-in-a-crisis-of-racism/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 19:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What happened to the Democrats?]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/what-happened-to-the-democrats/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-happened-to-the-democrats/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 17:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has Abdul El-Sayed just saved Trump?]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/abdul-el-sayed-has-just-saved-trump/</link>
-            <guid isPermaLink="true">https://spectator.com/article/abdul-el-sayed-has-just-saved-trump/</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 15:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain, Ukraine and the EU must strike a new deal]]></title>
-            <description><![CDATA[By Nick Boles]]></description>
-            <link>https://spectator.com/article/britain-ukraine-and-the-eu-must-strike-a-new-deal/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-ukraine-and-the-eu-must-strike-a-new-deal/</guid>
-            <dc:creator><![CDATA[Nick Boles]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 15:08:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

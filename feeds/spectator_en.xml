@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Aug 2026 06:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 14:38:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 31 Aug 2026 06:26:47 GMT</pubDate>
+        <pubDate>Mon, 31 Aug 2026 14:38:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Badenoch bets on a new economy team]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/badenoch-bets-on-a-new-economy-team/</link>
+            <guid isPermaLink="true">https://spectator.com/article/badenoch-bets-on-a-new-economy-team/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 14:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has the internet killed comedy?]]></title>
+            <description><![CDATA[By Lauren Sneade]]></description>
+            <link>https://spectator.com/article/has-the-internet-killed-comedy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/has-the-internet-killed-comedy/</guid>
+            <dc:creator><![CDATA[Lauren Sneade]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 14:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Priti Patel out as Kemi Badenoch shuffles her team]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/priti-patel-out-as-kemi-badenoch-shuffles-her-team/</link>
+            <guid isPermaLink="true">https://spectator.com/article/priti-patel-out-as-kemi-badenoch-shuffles-her-team/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 14:38:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Mussolini still fascinates Italians]]></title>
             <description><![CDATA[Books]]></description>
@@ -58,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Simon Woolley is not fit to lead a Cambridge college]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
+            <description><![CDATA[Education]]></description>
             <link>https://spectator.com/article/simon-woolley-is-not-fit-to-lead-a-cambridge-college/</link>
             <guid isPermaLink="true">https://spectator.com/article/simon-woolley-is-not-fit-to-lead-a-cambridge-college/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -4025,30 +4049,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <guid isPermaLink="true">https://spectator.com/article/how-nukes-made-the-world-safer/</guid>
             <dc:creator><![CDATA[Alex Alfirraz Scheers]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 07:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rod’s genius? Driving his enemies nuts]]></title>
-            <description><![CDATA[By Boris Johnson]]></description>
-            <link>https://spectator.com/article/rods-genius-driving-his-enemies-nuts/</link>
-            <guid isPermaLink="true">https://spectator.com/article/rods-genius-driving-his-enemies-nuts/</guid>
-            <dc:creator><![CDATA[Boris Johnson]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 01:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘The Middlesbrough Shakespeare’: Why I loved Rod]]></title>
-            <description><![CDATA[By Sophie Winkleman]]></description>
-            <link>https://spectator.com/article/the-middlesbrough-shakespeare-why-i-loved-rod/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-middlesbrough-shakespeare-why-i-loved-rod/</guid>
-            <dc:creator><![CDATA[Sophie Winkleman]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 01:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I didn’t want to like Rod Liddle]]></title>
-            <description><![CDATA[By Kemi Badenoch]]></description>
-            <link>https://spectator.com/article/i-didnt-want-to-like-rod-liddle/</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-didnt-want-to-like-rod-liddle/</guid>
-            <dc:creator><![CDATA[Kemi Badenoch]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 01:45:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

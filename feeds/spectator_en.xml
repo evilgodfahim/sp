@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Aug 2026 14:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 20:31:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 31 Aug 2026 14:38:32 GMT</pubDate>
+        <pubDate>Mon, 31 Aug 2026 20:31:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Katie Lam gets Cleverly’s old brief]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/katie-lam-gets-cleverlys-old-brief/</link>
+            <guid isPermaLink="true">https://spectator.com/article/katie-lam-gets-cleverlys-old-brief/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 20:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: the new Tory MPs promoted to Badenoch’s shadow cabinet]]></title>
+            <description><![CDATA[By Tali Fraser]]></description>
+            <link>https://spectator.com/article/revealed-the-new-tory-mps-promoted-to-badenochs-shadow-cabinet/</link>
+            <guid isPermaLink="true">https://spectator.com/article/revealed-the-new-tory-mps-promoted-to-badenochs-shadow-cabinet/</guid>
+            <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 20:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the shadow chancellor scrap inheritance tax?]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/will-the-shadow-chancellor-scrap-inheritance-tax/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-the-shadow-chancellor-scrap-inheritance-tax/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 20:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Badenoch bets on a new economy team]]></title>
             <description><![CDATA[By James Heale]]></description>
@@ -4024,30 +4048,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <link>https://spectator.com/article/rods-genius-driving-his-enemies-nuts/?homepage-tracking=magazine-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/rods-genius-driving-his-enemies-nuts/?homepage-tracking=magazine-article-2</guid>
             <dc:creator><![CDATA[Boris Johnson]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 07:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I didn’t want to like Rod Liddle]]></title>
-            <description><![CDATA[In memory]]></description>
-            <link>https://spectator.com/article/i-didnt-want-to-like-rod-liddle/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-didnt-want-to-like-rod-liddle/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[Kemi Badenoch]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 07:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I asked for a substitute for the f-word. He suggested the c-word’: the joy of editing Rod]]></title>
-            <description><![CDATA[True blue]]></description>
-            <link>https://spectator.com/article/i-asked-for-a-substitute-for-the-f-word-he-suggested-the-c-word-the-joy-of-editing-rod/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-asked-for-a-substitute-for-the-f-word-he-suggested-the-c-word-the-joy-of-editing-rod/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Fraser Nelson]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 07:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How nukes made the world safer]]></title>
-            <description><![CDATA[By Alex Alfirraz Scheers]]></description>
-            <link>https://spectator.com/article/how-nukes-made-the-world-safer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-nukes-made-the-world-safer/</guid>
-            <dc:creator><![CDATA[Alex Alfirraz Scheers]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 07:36:44 GMT</pubDate>
         </item>
     </channel>

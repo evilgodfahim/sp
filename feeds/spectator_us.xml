@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 00:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 05:53:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 00:13:50 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 05:53:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Celebrity Justices compromise the  Supreme Court]]></title>
+            <description><![CDATA[By Chris Mondics]]></description>
+            <link>https://spectator.com/article/celebrity-justices-compromise-the-supreme-court/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/celebrity-justices-compromise-the-supreme-court/?edition=us</guid>
+            <dc:creator><![CDATA[Chris Mondics]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 05:53:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unlikely defenders of Milo Yiannopoulos]]></title>
+            <description><![CDATA[By Pedro L. Gonzalez]]></description>
+            <link>https://spectator.com/article/unlikely-defenders-milo-yiannopoulos/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/unlikely-defenders-milo-yiannopoulos/?edition=us</guid>
+            <dc:creator><![CDATA[Pedro L. Gonzalez]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 05:53:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How old is Meghan Markle… really?]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -4018,22 +4034,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/america-is-lying-about-the-nord-stream-pipeline/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/america-is-lying-about-the-nord-stream-pipeline/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 10:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China has Russia over a barrel]]></title>
-            <description><![CDATA[By Mark Galeotti]]></description>
-            <link>https://spectator.com/article/china-has-russia-over-a-barrel/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/china-has-russia-over-a-barrel/?edition=us</guid>
-            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 10:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The urgent need to fix voter fraud]]></title>
-            <description><![CDATA[By John Fund]]></description>
-            <link>https://spectator.com/article/the-urgent-need-to-fix-voter-fraud/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-urgent-need-to-fix-voter-fraud/?edition=us</guid>
-            <dc:creator><![CDATA[John Fund]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 10:58:57 GMT</pubDate>
         </item>
     </channel>

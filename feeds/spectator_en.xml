@@ -4,12 +4,52 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 10:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 15:19:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 10:49:42 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Has Andy Burnham considered the consequences of early releases?]]></title>
+            <title><![CDATA[Burnham should drop the Northern Ireland Troubles Bill]]></title>
+            <description><![CDATA[By Stephen Laws]]></description>
+            <link>https://spectator.com/article/burnham-should-drop-the-northern-ireland-troubles-bill/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-should-drop-the-northern-ireland-troubles-bill/</guid>
+            <dc:creator><![CDATA[Stephen Laws]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The great teacher shortage is turning into a crisis]]></title>
+            <description><![CDATA[By Kristina ﻿Murkett]]></description>
+            <link>https://spectator.com/article/when-will-the-teacher-shortage-become-a-crisis/</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-will-the-teacher-shortage-become-a-crisis/</guid>
+            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The SNP’s food price cap bill is stupid and cynical]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/the-snps-food-price-cap-bill-is-stupid-and-cynical/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-snps-food-price-cap-bill-is-stupid-and-cynical/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Middlesbrough carnage is just the beginning]]></title>
+            <description><![CDATA[By Simon Clarke]]></description>
+            <link>https://spectator.com/article/the-middlesbrough-carnage-is-just-the-beginning/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-middlesbrough-carnage-is-just-the-beginning/</guid>
+            <dc:creator><![CDATA[Simon Clarke]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir Keir Starmer resigns from parliament]]></title>
+            <description><![CDATA[Labour]]></description>
+            <link>https://spectator.com/article/sir-keir-starmer-resigns-from-parliament/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sir-keir-starmer-resigns-from-parliament/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has Andy Burnham considered the consequences of early prison releases?]]></title>
             <description><![CDATA[By Isabel Hardman]]></description>
             <link>https://spectator.com/article/has-andy-burnham-considered-the-consequences-of-early-releases/</link>
             <guid isPermaLink="true">https://spectator.com/article/has-andy-burnham-considered-the-consequences-of-early-releases/</guid>
@@ -26,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham is a big state man heading for disaster]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
+            <description><![CDATA[Economy]]></description>
             <link>https://spectator.com/article/burnham-is-a-big-state-man-heading-for-disaster/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-is-a-big-state-man-heading-for-disaster/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -34,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Iceland’s ‘No’ vote is a warning to Europe]]></title>
-            <description><![CDATA[By John Fund]]></description>
+            <description><![CDATA[EU accession]]></description>
             <link>https://spectator.com/article/icelands-no-vote-is-a-warning-to-europe/</link>
             <guid isPermaLink="true">https://spectator.com/article/icelands-no-vote-is-a-warning-to-europe/</guid>
             <dc:creator><![CDATA[John Fund]]></dc:creator>
@@ -129,8 +169,8 @@
             <pubDate>Mon, 31 Aug 2026 20:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The new Tory MPs promoted to Badenoch's shadow cabinet]]></title>
-            <description><![CDATA[Revealed]]></description>
+            <title><![CDATA[Revealed: the new Tory MPs promoted to Badenoch’s shadow cabinet]]></title>
+            <description><![CDATA[By Tali Fraser]]></description>
             <link>https://spectator.com/article/revealed-the-new-tory-mps-promoted-to-badenochs-shadow-cabinet/</link>
             <guid isPermaLink="true">https://spectator.com/article/revealed-the-new-tory-mps-promoted-to-badenochs-shadow-cabinet/</guid>
             <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
@@ -4009,46 +4049,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <guid isPermaLink="true">https://spectator.com/article/how-black-lives-matter-created-jason-arday/</guid>
             <dc:creator><![CDATA[Tom Slater]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 02:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Yvette Cooper’s new mental health centres work?]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/will-yvette-coopers-new-mental-health-centres-offer-anything-new/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-yvette-coopers-new-mental-health-centres-offer-anything-new/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 15:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marco Rubio’s defence spending call is nothing new]]></title>
-            <description><![CDATA[By Eliot Wilson]]></description>
-            <link>https://spectator.com/article/marco-rubios-defence-spending-urge-is-nothing-new/</link>
-            <guid isPermaLink="true">https://spectator.com/article/marco-rubios-defence-spending-urge-is-nothing-new/</guid>
-            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 15:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kehinde Andrews is the Hiroo Onoda of the Jason Arday saga]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/kehinde-andrews-is-the-hiroo-onoda-of-the-jason-arday-saga/</link>
-            <guid isPermaLink="true">https://spectator.com/article/kehinde-andrews-is-the-hiroo-onoda-of-the-jason-arday-saga/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 15:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What would an Epstein inquiry teach us?]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
-            <link>https://spectator.com/article/what-would-an-epstein-inquiry-teach-us/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-would-an-epstein-inquiry-teach-us/</guid>
-            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 15:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Good riddance, Rod]]></title>
-            <description><![CDATA[By Titania McGrath]]></description>
-            <link>https://spectator.com/article/good-riddance-rod/</link>
-            <guid isPermaLink="true">https://spectator.com/article/good-riddance-rod/</guid>
-            <dc:creator><![CDATA[Titania McGrath]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 12:51:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

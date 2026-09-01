@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 19:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 22:12:47 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 19:01:40 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 22:12:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Dan Brown finished?]]></title>
+            <description><![CDATA[By J.S. Barnes]]></description>
+            <link>https://spectator.com/article/is-dan-brown-finished/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-dan-brown-finished/?edition=us</guid>
+            <dc:creator><![CDATA[J.S. Barnes]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 22:12:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iceland’s ‘No’ vote is a warning to Europe]]></title>
+            <description><![CDATA[By John Fund]]></description>
+            <link>https://spectator.com/article/icelands-no-vote-is-a-warning-to-europe/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/icelands-no-vote-is-a-warning-to-europe/?edition=us</guid>
+            <dc:creator><![CDATA[John Fund]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 22:12:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Ceuta the beginning of the end for Pedro Sánchez?]]></title>
             <description><![CDATA[By Jim Lawley]]></description>
@@ -4019,22 +4035,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/the-radical-left-wing-takeover-of-the-democrats-is-nearly-complete/?edition=us</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 11:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are the British the most evil people in history?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/does-jameela-jamil-really-think-the-british-are-the-most-evil-people-in-history/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-jameela-jamil-really-think-the-british-are-the-most-evil-people-in-history/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 20:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Energy investor that bailed on Britain IPOs for $230 million]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/energy-investor-bailed-britain-ipos-230-million-samos-oil/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/energy-investor-bailed-britain-ipos-230-million-samos-oil/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 18:02:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

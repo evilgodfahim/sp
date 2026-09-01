@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 05:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 10:49:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 05:53:54 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 10:49:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ali G and the death of comedy]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/ali-g-and-the-death-of-comedy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ali-g-and-the-death-of-comedy/?edition=us</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 10:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real men don’t look like Clavicular]]></title>
+            <description><![CDATA[By Julie Burchill]]></description>
+            <link>https://spectator.com/article/men-shouldnt-be-worrying-about-their-looks/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/men-shouldnt-be-worrying-about-their-looks/?edition=us</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 10:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lee Greenwood is Trump’s court bard]]></title>
+            <description><![CDATA[By Matt McDonald]]></description>
+            <link>https://spectator.com/article/lee-greenwood-trump-court-bard/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/lee-greenwood-trump-court-bard/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 10:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn to stop worrying and love data centers]]></title>
+            <description><![CDATA[Center stage]]></description>
+            <link>https://spectator.com/article/learn-stop-worrying-love-data-centers/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/learn-stop-worrying-love-data-centers/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 10:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Trump can’t control the price of a burger]]></title>
+            <description><![CDATA[By Robert F. Moss]]></description>
+            <link>https://spectator.com/article/why-trump-cant-control-the-price-of-a-burger/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-trump-cant-control-the-price-of-a-burger/?edition=us</guid>
+            <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 10:49:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Celebrity Justices compromise the  Supreme Court]]></title>
             <description><![CDATA[By Chris Mondics]]></description>
@@ -3995,46 +4035,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/why-arent-american-companies-passing-on-tariff-refunds/?edition=us</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 14:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Elbridge Colby’s NATO warning shots will backfire]]></title>
-            <description><![CDATA[Colby's conundrum]]></description>
-            <link>https://spectator.com/article/warning-shots-fired-nato-elbridge-colby-backfire/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/warning-shots-fired-nato-elbridge-colby-backfire/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[David Blagden]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 10:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Macron won’t stop at a social media ban for children]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/macron-wont-stop-at-a-social-media-ban-for-children/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/macron-wont-stop-at-a-social-media-ban-for-children/?edition=us</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 10:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long vacations are the worst]]></title>
-            <description><![CDATA[By Ysenda Maxtone Graham]]></description>
-            <link>https://spectator.com/article/long-holidays-are-the-worst/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/long-holidays-are-the-worst/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 10:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colombia’s transition is being brokered on the Potomac]]></title>
-            <description><![CDATA[Donroe Doctrine]]></description>
-            <link>https://spectator.com/article/colombia-transition-being-brokered-potomac/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/colombia-transition-being-brokered-potomac/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Alexander Munguia]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 10:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who believes the latest version of the Nord Stream saga?]]></title>
-            <description><![CDATA[Murky waters]]></description>
-            <link>https://spectator.com/article/america-is-lying-about-the-nord-stream-pipeline/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/america-is-lying-about-the-nord-stream-pipeline/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 10:58:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

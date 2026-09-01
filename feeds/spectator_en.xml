@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 05:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 10:49:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 05:53:59 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 10:49:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Has Andy Burnham considered the consequences of early releases?]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/has-andy-burnham-considered-the-consequences-of-early-releases/</link>
+            <guid isPermaLink="true">https://spectator.com/article/has-andy-burnham-considered-the-consequences-of-early-releases/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 10:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The thinking behind Badenoch’s reshuffle]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/the-thinking-behind-badenochs-reshuffle/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-thinking-behind-badenochs-reshuffle/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 10:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham is a big state man heading for disaster]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/burnham-is-a-big-state-man-heading-for-disaster/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-is-a-big-state-man-heading-for-disaster/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 10:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iceland’s ‘No’ vote is a warning to Europe]]></title>
+            <description><![CDATA[By John Fund]]></description>
+            <link>https://spectator.com/article/icelands-no-vote-is-a-warning-to-europe/</link>
+            <guid isPermaLink="true">https://spectator.com/article/icelands-no-vote-is-a-warning-to-europe/</guid>
+            <dc:creator><![CDATA[John Fund]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 10:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Ceuta the beginning of the end for Pedro Sanchez?]]></title>
+            <description><![CDATA[By Jim Lawley]]></description>
+            <link>https://spectator.com/article/is-ceuta-the-beginning-of-the-end-for-pedro-sanchez/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-ceuta-the-beginning-of-the-end-for-pedro-sanchez/</guid>
+            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 10:49:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The strange endurance of Dr Feelgood]]></title>
             <description><![CDATA[Milk and Alcohol]]></description>
@@ -4009,46 +4049,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <guid isPermaLink="true">https://spectator.com/article/good-riddance-rod/</guid>
             <dc:creator><![CDATA[Titania McGrath]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 12:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lucy Powell is comically misinformed about education]]></title>
-            <description><![CDATA[By Toby Young]]></description>
-            <link>https://spectator.com/article/lucy-powell-is-comically-misinformed-about-education/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lucy-powell-is-comically-misinformed-about-education/</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 12:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour: Kids can vote – but not use sunbeds]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/labour-kids-can-vote-but-not-use-sunbeds/</link>
-            <guid isPermaLink="true">https://spectator.com/article/labour-kids-can-vote-but-not-use-sunbeds/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 10:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spare us an inquiry into Jeffrey Epstein]]></title>
-            <description><![CDATA[By Mary Dejevsky]]></description>
-            <link>https://spectator.com/article/spare-us-an-enquiry-into-jeffrey-epstein/</link>
-            <guid isPermaLink="true">https://spectator.com/article/spare-us-an-enquiry-into-jeffrey-epstein/</guid>
-            <dc:creator><![CDATA[Mary Dejevsky]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 10:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact check: the many claims of Jason Arday]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/fact-check-the-many-claims-of-jason-arday/</link>
-            <guid isPermaLink="true">https://spectator.com/article/fact-check-the-many-claims-of-jason-arday/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 10:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Keminisation of the Tory party]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/the-keminisation-of-the-tory-party/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-keminisation-of-the-tory-party/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 07:36:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

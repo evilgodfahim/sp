@@ -4,10 +4,40 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 00:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 05:16:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 00:42:02 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 05:16:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why the Japanese don’t need fat jabs]]></title>
+            <description><![CDATA[‘You can never be too rich or too thin’: so said Wallis Simpson. Or perhaps Dorothy Parker. Or perhaps Joan Rivers. No one really knows. But whoever said it, Japan appears to have had it engraved on its national escutcheon. Japan is officially the world’s thinnest rich country, with an obesity rate of just 4.3 per cent of the population. By comparison, it’s 28 per cent in the UK and 40 per cent in the USA. A close comparison to Japan is Bangladesh, where the rate is 4.5 per cent - but where one in ten people is dangerously undernourished. These are extraordinary statistics. What on earth is going on? 
+
+
+
+
+
+The most reached-for reason is diet. Japanese food, so it is thought, is healthy and lean.]]></description>
+            <link>https://spectator.com/article/why-the-japanese-dont-need-fat-jabs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-japanese-dont-need-fat-jabs/</guid>
+            <dc:creator><![CDATA[Gary Dexter]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 05:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Clean Cocaine’ isn’t worth it]]></title>
+            <description><![CDATA[By Robert Jackman]]></description>
+            <link>https://spectator.com/article/clean-cocaine-isnt-worth-it/</link>
+            <guid isPermaLink="true">https://spectator.com/article/clean-cocaine-isnt-worth-it/</guid>
+            <dc:creator><![CDATA[Robert Jackman]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 05:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yes, you’re allowed to listen to Dolly Parton and Handel]]></title>
+            <description><![CDATA[By Georgia Mann]]></description>
+            <link>https://spectator.com/article/yes-youre-allowed-to-listen-to-dolly-parton-and-handel/</link>
+            <guid isPermaLink="true">https://spectator.com/article/yes-youre-allowed-to-listen-to-dolly-parton-and-handel/</guid>
+            <dc:creator><![CDATA[Georgia Mann]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 05:16:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham should drop the Northern Ireland Troubles Bill]]></title>
             <description><![CDATA[By Stephen Laws]]></description>
@@ -4025,30 +4055,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <guid isPermaLink="true">https://spectator.com/article/the-hypocrisy-of-dawn-french/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 04:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘From billionaires to family sailors’ – the social jigsaw of Cowes Week]]></title>
-            <description><![CDATA[By Tali Fraser]]></description>
-            <link>https://spectator.com/article/from-billionaires-to-family-sailors-the-social-jigsaw-of-cowes-week/</link>
-            <guid isPermaLink="true">https://spectator.com/article/from-billionaires-to-family-sailors-the-social-jigsaw-of-cowes-week/</guid>
-            <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 04:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The strange world of ‘2D exclusive’ Japanese women]]></title>
-            <description><![CDATA[By Philip Patrick]]></description>
-            <link>https://spectator.com/article/the-strange-world-of-2d-exclusive-japanese-women/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-strange-world-of-2d-exclusive-japanese-women/</guid>
-            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 02:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Black Lives Matter created Jason Arday]]></title>
-            <description><![CDATA[By Tom Slater]]></description>
-            <link>https://spectator.com/article/how-black-lives-matter-created-jason-arday/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-black-lives-matter-created-jason-arday/</guid>
-            <dc:creator><![CDATA[Tom Slater]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 02:10:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

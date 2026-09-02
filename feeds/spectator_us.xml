@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 18:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 21:27:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 18:15:24 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 21:27:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Clean cocaine’ isn’t worth it]]></title>
+            <description><![CDATA[By Robert Jackman]]></description>
+            <link>https://spectator.com/article/clean-cocaine-isnt-worth-it/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/clean-cocaine-isnt-worth-it/?edition=us</guid>
+            <dc:creator><![CDATA[Robert Jackman]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 21:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Wendell Berry mattered]]></title>
+            <description><![CDATA[By Nate Hanrahan]]></description>
+            <link>https://spectator.com/article/wendell-berry-mattered-poetry/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/wendell-berry-mattered-poetry/?edition=us</guid>
+            <dc:creator><![CDATA[Nate Hanrahan]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 21:27:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Call me a cripple]]></title>
             <description><![CDATA[By Julie Burchill]]></description>
@@ -378,11 +394,7 @@
         </item>
         <item>
             <title><![CDATA[The new right-wing art scene is disappointing]]></title>
-            <description><![CDATA[It averaged a brutal 91 degrees this week in Cameron County, the southernmost tip of Texas, and a group dressed as the cast of O Brother, Where Art Thou have been there sweating away at something big. A colossal limbless torso is parked on the dunes and a head, suspended from a crane, is swaying very gently in an ocean breeze. There is the smell of metal and hot dust. 
-
-
-
-Pending some finishing touches and last-minute dabs of glue, this Atelier Missor’s Prometheus, soon to be unveiled at SpaceX’s Starbase launch site – standing contrapposto, torch aloft, bidding the rockets a comradely “Adieu!]]></description>
+            <description><![CDATA[By Aiden Abbott]]></description>
             <link>https://spectator.com/article/the-new-right-wing-art-scene-is-disappointing/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-new-right-wing-art-scene-is-disappointing/?edition=us</guid>
             <dc:creator><![CDATA[Aiden Abbott]]></dc:creator>
@@ -4019,22 +4031,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/the-fetterman-show/?edition=us</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 10:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America must rediscover statecraft]]></title>
-            <description><![CDATA[By Joshua S. Treviño]]></description>
-            <link>https://spectator.com/article/republicans-have-a-fake-realist-problem/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/republicans-have-a-fake-realist-problem/?edition=us</guid>
-            <dc:creator><![CDATA[Joshua S. Treviño]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 10:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The incredible case of Dr. Gorka]]></title>
-            <description><![CDATA[By Paul Wood]]></description>
-            <link>https://spectator.com/article/incredible-case-dr-sebastian-gorka/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/incredible-case-dr-sebastian-gorka/?edition=us</guid>
-            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 01:52:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 14:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 18:15:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 14:49:38 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 18:15:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[When will Scottish nationalists come clean about devolution?]]></title>
+            <description><![CDATA[In a state]]></description>
+            <link>https://spectator.com/article/when-will-scottish-nationalists-come-clean-about-devolution/</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-will-scottish-nationalists-come-clean-about-devolution/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 18:15:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham is about to face a hard lesson]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/andy-burnham-is-a-liz-truss-tribute-act/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-a-liz-truss-tribute-act/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 18:15:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Giving 16-year-olds the vote would be absurd]]></title>
             <description><![CDATA[By Eliot Wilson]]></description>
@@ -34,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[No. 10 refuses to condemn Diane Abbott’s Nato conspiracy rant]]></title>
-            <description><![CDATA[By Steerpike]]></description>
+            <description><![CDATA[Labour]]></description>
             <link>https://spectator.com/article/no-10-refuses-to-condemn-diane-abbotts-nato-conspiracy-rant/</link>
             <guid isPermaLink="true">https://spectator.com/article/no-10-refuses-to-condemn-diane-abbotts-nato-conspiracy-rant/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -50,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Sadiq Khan is the victim of a terrible miscarriage of justice]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
+            <description><![CDATA[Single Justice Procedure]]></description>
             <link>https://spectator.com/article/sadiq-khan-is-the-victim-of-a-terrible-miscarriage-of-justice/</link>
             <guid isPermaLink="true">https://spectator.com/article/sadiq-khan-is-the-victim-of-a-terrible-miscarriage-of-justice/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -66,7 +82,7 @@
         </item>
         <item>
             <title><![CDATA[Fixing depressed kids is a near-impossible business]]></title>
-            <description><![CDATA[Bottled up]]></description>
+            <description><![CDATA[By Druin Burch]]></description>
             <link>https://spectator.com/article/fixing-depressed-kids-is-a-near-impossible-business/</link>
             <guid isPermaLink="true">https://spectator.com/article/fixing-depressed-kids-is-a-near-impossible-business/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -130,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Gordon Brown is wrong about a united Ireland]]></title>
-            <description><![CDATA[Broken union]]></description>
+            <description><![CDATA[By Arlene Foster]]></description>
             <link>https://spectator.com/article/gordon-brown-is-wrong-about-a-united-ireland/</link>
             <guid isPermaLink="true">https://spectator.com/article/gordon-brown-is-wrong-about-a-united-ireland/</guid>
             <dc:creator><![CDATA[Arlene Foster]]></dc:creator>
@@ -4032,22 +4048,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <link>https://spectator.com/article/rods-genius-driving-his-enemies-nuts/?homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/rods-genius-driving-his-enemies-nuts/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Boris Johnson]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 06:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wonder of Jaan Kaplinski]]></title>
-            <description><![CDATA[A tribute]]></description>
-            <link>https://spectator.com/article/the-wonder-of-jaan-kaplinski/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wonder-of-jaan-kaplinski/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 06:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Meaning of Michael Oatley]]></title>
-            <description><![CDATA[The art of spying]]></description>
-            <link>https://spectator.com/article/the-meaning-of-michael-oatley/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-meaning-of-michael-oatley/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Dean Godson]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 06:36:08 GMT</pubDate>
         </item>
     </channel>

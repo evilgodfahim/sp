@@ -4,19 +4,93 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 05:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 10:14:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 05:16:46 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[How is Burnham different to Starmer?]]></title>
+            <description><![CDATA[‘Substantial change’]]></description>
+            <link>https://spectator.com/article/how-is-burnham-different-to-starmer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-is-burnham-different-to-starmer/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I am a persecuted human rights icon]]></title>
+            <description><![CDATA[Deportation diary]]></description>
+            <link>https://spectator.com/article/i-am-a-persecuted-human-rights-icon/</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-am-a-persecuted-human-rights-icon/</guid>
+            <dc:creator><![CDATA[Milo Yiannopoulos]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A world full of artifice: Life of M, by Rachel Cusk, reviewed]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/a-world-full-of-artifice-life-of-m-by-rachel-cusk-reviewed/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-world-full-of-artifice-life-of-m-by-rachel-cusk-reviewed/</guid>
+            <dc:creator><![CDATA[Leyla Sanai]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Mussolini still fascinates Italians]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/why-mussolini-still-fascinates-italians/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-mussolini-still-fascinates-italians/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Caroline Moorehead]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A world full of artifice: Life of M, by Rachel Cusk, reviewed]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/a-world-full-of-artifice-life-of-m-by-rachel-cusk-reviewed/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-world-full-of-artifice-life-of-m-by-rachel-cusk-reviewed/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Leyla Sanai]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When did the Cure become universally beloved?]]></title>
+            <description><![CDATA[Pop]]></description>
+            <link>https://spectator.com/article/when-did-the-cure-become-universally-beloved/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-did-the-cure-become-universally-beloved/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gordon Brown is wrong about a united Ireland]]></title>
+            <description><![CDATA[By Arlene Foster]]></description>
+            <link>https://spectator.com/article/gordon-brown-is-wrong-about-a-united-ireland/</link>
+            <guid isPermaLink="true">https://spectator.com/article/gordon-brown-is-wrong-about-a-united-ireland/</guid>
+            <dc:creator><![CDATA[Arlene Foster]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unlikely defenders of Milo Yiannopoulos]]></title>
+            <description><![CDATA[By Pedro L. Gonzalez]]></description>
+            <link>https://spectator.com/article/unlikely-defenders-milo-yiannopoulos/</link>
+            <guid isPermaLink="true">https://spectator.com/article/unlikely-defenders-milo-yiannopoulos/</guid>
+            <dc:creator><![CDATA[Pedro L. Gonzalez]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham’s ‘triple helix’ is bizarre, meaningless guff]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/andy-burnhams-triple-helix-is-bizarre-meaningless-guff/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-triple-helix-is-bizarre-meaningless-guff/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bond markets are panicked by Burnham’s Britain]]></title>
+            <description><![CDATA[Moron premium]]></description>
+            <link>https://spectator.com/article/the-real-reason-bond-markets-are-spooked/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-bond-markets-are-spooked/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:14:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why the Japanese don’t need fat jabs]]></title>
-            <description><![CDATA[‘You can never be too rich or too thin’: so said Wallis Simpson. Or perhaps Dorothy Parker. Or perhaps Joan Rivers. No one really knows. But whoever said it, Japan appears to have had it engraved on its national escutcheon. Japan is officially the world’s thinnest rich country, with an obesity rate of just 4.3 per cent of the population. By comparison, it’s 28 per cent in the UK and 40 per cent in the USA. A close comparison to Japan is Bangladesh, where the rate is 4.5 per cent - but where one in ten people is dangerously undernourished. These are extraordinary statistics. What on earth is going on? 
-
-
-
-
-
-The most reached-for reason is diet. Japanese food, so it is thought, is healthy and lean.]]></description>
+            <description><![CDATA[Sushi diet]]></description>
             <link>https://spectator.com/article/why-the-japanese-dont-need-fat-jabs/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-japanese-dont-need-fat-jabs/</guid>
             <dc:creator><![CDATA[Gary Dexter]]></dc:creator>
@@ -24,7 +98,7 @@ The most reached-for reason is diet. Japanese food, so it is thought, is healthy
         </item>
         <item>
             <title><![CDATA[‘Clean Cocaine’ isn’t worth it]]></title>
-            <description><![CDATA[By Robert Jackman]]></description>
+            <description><![CDATA[White stuff]]></description>
             <link>https://spectator.com/article/clean-cocaine-isnt-worth-it/</link>
             <guid isPermaLink="true">https://spectator.com/article/clean-cocaine-isnt-worth-it/</guid>
             <dc:creator><![CDATA[Robert Jackman]]></dc:creator>
@@ -32,7 +106,7 @@ The most reached-for reason is diet. Japanese food, so it is thought, is healthy
         </item>
         <item>
             <title><![CDATA[Yes, you’re allowed to listen to Dolly Parton and Handel]]></title>
-            <description><![CDATA[By Georgia Mann]]></description>
+            <description><![CDATA[Islands in the stream]]></description>
             <link>https://spectator.com/article/yes-youre-allowed-to-listen-to-dolly-parton-and-handel/</link>
             <guid isPermaLink="true">https://spectator.com/article/yes-youre-allowed-to-listen-to-dolly-parton-and-handel/</guid>
             <dc:creator><![CDATA[Georgia Mann]]></dc:creator>
@@ -64,7 +138,7 @@ The most reached-for reason is diet. Japanese food, so it is thought, is healthy
         </item>
         <item>
             <title><![CDATA[The Middlesbrough carnage is just the beginning]]></title>
-            <description><![CDATA[By Simon Clarke]]></description>
+            <description><![CDATA[Bandit territory]]></description>
             <link>https://spectator.com/article/the-middlesbrough-carnage-is-just-the-beginning/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-middlesbrough-carnage-is-just-the-beginning/</guid>
             <dc:creator><![CDATA[Simon Clarke]]></dc:creator>
@@ -72,7 +146,7 @@ The most reached-for reason is diet. Japanese food, so it is thought, is healthy
         </item>
         <item>
             <title><![CDATA[Sir Keir Starmer resigns from parliament]]></title>
-            <description><![CDATA[Labour]]></description>
+            <description><![CDATA[By Steerpike]]></description>
             <link>https://spectator.com/article/sir-keir-starmer-resigns-from-parliament/</link>
             <guid isPermaLink="true">https://spectator.com/article/sir-keir-starmer-resigns-from-parliament/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
@@ -120,7 +194,7 @@ The most reached-for reason is diet. Japanese food, so it is thought, is healthy
         </item>
         <item>
             <title><![CDATA[The strange endurance of Dr Feelgood]]></title>
-            <description><![CDATA[Milk and Alcohol]]></description>
+            <description><![CDATA[By Jonathan Maitland]]></description>
             <link>https://spectator.com/article/the-strange-endurance-of-dr-feelgood/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-strange-endurance-of-dr-feelgood/</guid>
             <dc:creator><![CDATA[Jonathan Maitland]]></dc:creator>
@@ -128,7 +202,7 @@ The most reached-for reason is diet. Japanese food, so it is thought, is healthy
         </item>
         <item>
             <title><![CDATA[Men shouldn’t be worrying about their looks]]></title>
-            <description><![CDATA[I predict a diet]]></description>
+            <description><![CDATA[By Julie Burchill]]></description>
             <link>https://spectator.com/article/men-shouldnt-be-worrying-about-their-looks/</link>
             <guid isPermaLink="true">https://spectator.com/article/men-shouldnt-be-worrying-about-their-looks/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
@@ -136,7 +210,7 @@ The most reached-for reason is diet. Japanese food, so it is thought, is healthy
         </item>
         <item>
             <title><![CDATA[The decadent joy of a forgotten hotel]]></title>
-            <description><![CDATA[The world of yesterday]]></description>
+            <description><![CDATA[By Owen Matthews]]></description>
             <link>https://spectator.com/article/the-decadent-joy-of-a-forgotten-hotel/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-decadent-joy-of-a-forgotten-hotel/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -856,7 +930,7 @@ The most reached-for reason is diet. Japanese food, so it is thought, is healthy
         </item>
         <item>
             <title><![CDATA[When did the Cure become universally beloved?]]></title>
-            <description><![CDATA[By Graeme Thomson]]></description>
+            <description><![CDATA[Pop]]></description>
             <link>https://spectator.com/article/when-did-the-cure-become-universally-beloved/</link>
             <guid isPermaLink="true">https://spectator.com/article/when-did-the-cure-become-universally-beloved/</guid>
             <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
@@ -872,7 +946,7 @@ The most reached-for reason is diet. Japanese food, so it is thought, is healthy
         </item>
         <item>
             <title><![CDATA[The Northern Ireland Troubles Bill only serves the IRA]]></title>
-            <description><![CDATA[Law footing]]></description>
+            <description><![CDATA[By Al Carns]]></description>
             <link>https://spectator.com/article/the-northern-ireland-troubles-bill-only-serves-the-ira/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-northern-ireland-troubles-bill-only-serves-the-ira/</guid>
             <dc:creator><![CDATA[Al Carns]]></dc:creator>
@@ -3975,86 +4049,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <guid isPermaLink="true">https://spectator.com/article/gun-massacres-are-becoming-all-too-regular-in-thailand/</guid>
             <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 14:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What makes someone British?]]></title>
-            <description><![CDATA[By Ed West]]></description>
-            <link>https://spectator.com/article/the-real-reason-the-social-contract-is-broken/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-the-social-contract-is-broken/</guid>
-            <dc:creator><![CDATA[Ed West]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 12:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Progressives no longer care about women]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/progressives-no-longer-care-about-women/</link>
-            <guid isPermaLink="true">https://spectator.com/article/progressives-no-longer-care-about-women/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 11:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No, Westminster isn’t banning ‘vertical drinking’]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/no-westminster-isnt-banning-vertical-drinking/</link>
-            <guid isPermaLink="true">https://spectator.com/article/no-westminster-isnt-banning-vertical-drinking/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 11:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amanda Knox should not do comedy]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/amanda-knox-should-not-do-comedy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/amanda-knox-should-not-do-comedy/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 09:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two more bets for York]]></title>
-            <description><![CDATA[By Penworthy]]></description>
-            <link>https://spectator.com/article/two-more-bets-for-york/</link>
-            <guid isPermaLink="true">https://spectator.com/article/two-more-bets-for-york/</guid>
-            <dc:creator><![CDATA[Penworthy]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 08:07:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rod had one great regret]]></title>
-            <description><![CDATA[By William Clouston]]></description>
-            <link>https://spectator.com/article/rod-had-one-great-regret/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/rod-had-one-great-regret/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[William Clouston]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 06:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Keminisation of the Tory party]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/the-keminisation-of-the-tory-party/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-keminisation-of-the-tory-party/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 06:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Project Spire is the Church of England’s Chagos deal]]></title>
-            <description><![CDATA[Religion]]></description>
-            <link>https://spectator.com/article/why-is-the-c-of-e-still-devoted-to-woke/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-is-the-c-of-e-still-devoted-to-woke/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 06:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Were the French structuralists of the 1960s really as cool as they seemed?]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/were-the-french-structuralists-of-the-1960s-really-as-cool-as-they-seemed/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/were-the-french-structuralists-of-the-1960s-really-as-cool-as-they-seemed/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Sarah Moorhouse]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 06:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The hypocrisy of Dawn French]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/the-hypocrisy-of-dawn-french/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-hypocrisy-of-dawn-french/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 04:48:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

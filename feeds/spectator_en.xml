@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 12:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 16:46:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 12:23:00 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 16:46:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Chris Langham was disgusting but talented]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/chris-langham-was-disgusting-but-talented/</link>
+            <guid isPermaLink="true">https://spectator.com/article/chris-langham-was-disgusting-but-talented/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 16:46:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Europe brave enough to keep pointing the finger at Putin?]]></title>
             <description><![CDATA[By Lisa Haseldine]]></description>
@@ -4048,14 +4056,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <link>https://spectator.com/article/the-genius-of-jason-arday/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-genius-of-jason-arday/</guid>
             <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 14:14:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Burnham wealth tax looks inevitable]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/a-burnham-wealth-tax-looks-inevitable/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-burnham-wealth-tax-looks-inevitable/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 14:14:29 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 12:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 16:46:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 12:22:54 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 16:46:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who says Lauren Sánchez Bezos doesn’t belong at the Met Gala?]]></title>
+            <description><![CDATA[By Sarah Beth Spraggins]]></description>
+            <link>https://spectator.com/article/who-says-lauren-sanchez-bezos-doesnt-belong-at-the-met-gala/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-says-lauren-sanchez-bezos-doesnt-belong-at-the-met-gala/?edition=us</guid>
+            <dc:creator><![CDATA[Sarah Beth Spraggins]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 16:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wendell Berry’s homecoming]]></title>
+            <description><![CDATA[By John-Paul Heil]]></description>
+            <link>https://spectator.com/article/wendell-berrys-homecoming/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/wendell-berrys-homecoming/?edition=us</guid>
+            <dc:creator><![CDATA[John-Paul Heil]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 16:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Europe brave enough to keep pointing the finger at Putin?]]></title>
+            <description><![CDATA[By Lisa Haseldine]]></description>
+            <link>https://spectator.com/article/is-europe-brave-enough-to-keep-pointing-the-finger-at-putin/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-europe-brave-enough-to-keep-pointing-the-finger-at-putin/?edition=us</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 16:46:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don’t fall for the latest scam targeting authors — I nearly did]]></title>
             <description><![CDATA[By James Gray]]></description>
@@ -4006,30 +4030,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/confessions-ii-gets-thrillingly-close-to-vintage-madonna/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/confessions-ii-gets-thrillingly-close-to-vintage-madonna/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 18:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I was targeted by a killer – but I’m still against more security for politicians]]></title>
-            <description><![CDATA[Politics]]></description>
-            <link>https://spectator.com/article/i-was-targeted-by-a-killer-but-im-still-against-more-security-for-mps/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-was-targeted-by-a-killer-but-im-still-against-more-security-for-mps/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Michael Gove]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 18:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bringing Homer into the home: how the Iliad and Odyssey became widely available]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/bringing-homer-into-the-home-how-the-iliad-and-odyssey-became-widely-available/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/bringing-homer-into-the-home-how-the-iliad-and-odyssey-became-widely-available/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Philip Womack]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 18:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Trump’s ‘massive attack’ be on Yemen?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/will-trumps-massive-attack-be-on-yemen/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-trumps-massive-attack-be-on-yemen/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 18:11:53 GMT</pubDate>
         </item>
     </channel>

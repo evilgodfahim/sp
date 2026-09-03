@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 16:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 19:31:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 16:46:40 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 19:31:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Tories and Reform take the economic fight to Labour]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/the-tories-and-reform-take-the-economic-fight-to-labour/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tories-and-reform-take-the-economic-fight-to-labour/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 19:31:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chris Langham was disgusting but talented]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4049,14 +4057,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <guid isPermaLink="true">https://spectator.com/article/why-cant-britain-deport-all-our-foreign-prisoners/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 15:51:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The genius of Jason Arday]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
-            <link>https://spectator.com/article/the-genius-of-jason-arday/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-genius-of-jason-arday/</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 14:14:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

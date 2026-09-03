@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 02:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 07:31:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 02:11:27 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 07:31:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Elliot Page’s memoir is a tale of tragic self-destruction]]></title>
+            <description><![CDATA[By Madeleine Kearns]]></description>
+            <link>https://spectator.com/article/elliot-pages-memoir-is-a-tale-of-tragic-self-destruction/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/elliot-pages-memoir-is-a-tale-of-tragic-self-destruction/?edition=us</guid>
+            <dc:creator><![CDATA[Madeleine Kearns]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 07:31:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Clean cocaine’ isn’t worth it]]></title>
             <description><![CDATA[By Robert Jackman]]></description>
@@ -4022,14 +4030,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/can-rogue-ai-agents-be-stopped/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/can-rogue-ai-agents-be-stopped/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Rory Blundell]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 10:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fetterman Show]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/the-fetterman-show/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-fetterman-show/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 10:54:50 GMT</pubDate>
         </item>
     </channel>

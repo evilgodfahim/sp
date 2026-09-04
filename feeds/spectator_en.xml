@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 10:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 14:38:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 10:19:43 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 14:38:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Ofsted lost its way]]></title>
+            <description><![CDATA[By Richard Parrish]]></description>
+            <link>https://spectator.com/article/how-ofsted-lost-its-way/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-ofsted-lost-its-way/</guid>
+            <dc:creator><![CDATA[Richard Parrish]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 14:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farage calls his aides ‘injudicious’ after signing boats pact with Bardella]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/farage-calls-his-aides-injudicious-after-signing-boats-pact-with-bardella/</link>
+            <guid isPermaLink="true">https://spectator.com/article/farage-calls-his-aides-injudicious-after-signing-boats-pact-with-bardella/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 14:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are our maps colonialist?]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/are-our-maps-colonialist-2/</link>
+            <guid isPermaLink="true">https://spectator.com/article/are-our-maps-colonialist-2/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 14:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bardella offers Britain European olive branch]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/bardella-offers-britain-european-olive-branch/</link>
+            <guid isPermaLink="true">https://spectator.com/article/bardella-offers-britain-european-olive-branch/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 14:38:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Weekend tips for Haydock and Ascot]]></title>
             <description><![CDATA[Quality staying handicaps are my favourite flat races for betting purposes. Unlike with sprints, the wager is not almost certainly lost if the horse you backed is slowly away or gets hampered in running. In staying races there is plenty of time to make up for some bad luck so the best horse on the day usually wins.
@@ -4029,38 +4061,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <guid isPermaLink="true">https://spectator.com/article/is-iran-softening-on-making-women-wear-the-veil/</guid>
             <dc:creator><![CDATA[Ryan Modarres]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 10:42:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham still doesn’t get the prisons crisis]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/the-prisons-crisis-needs-bold-solutions-like-the-el-salvador-plan/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-prisons-crisis-needs-bold-solutions-like-the-el-salvador-plan/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 08:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miatta Fahnbulleh and the society of socialist hypocrisy]]></title>
-            <description><![CDATA[By Niall Gooch]]></description>
-            <link>https://spectator.com/article/miatta-fahnbulleh-and-the-society-of-socialist-hypocrisy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/miatta-fahnbulleh-and-the-society-of-socialist-hypocrisy/</guid>
-            <dc:creator><![CDATA[Niall Gooch]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 08:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Colombia earthquake is a big test for its new president]]></title>
-            <description><![CDATA[By Catherine Ellis]]></description>
-            <link>https://spectator.com/article/the-colombia-earthquake-is-a-big-test-for-its-new-president/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-colombia-earthquake-is-a-big-test-for-its-new-president/</guid>
-            <dc:creator><![CDATA[Catherine Ellis]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 06:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why we must forgive Immanuel Kant his misogyny and racism]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/why-we-must-forgive-immanuel-kant-his-misogyny-and-racism/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-we-must-forgive-immanuel-kant-his-misogyny-and-racism/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[David Edmonds]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 05:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

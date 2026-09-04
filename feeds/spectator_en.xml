@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 14:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 17:55:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 14:38:16 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 17:55:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Watch: Farage’s conference speech disrupted by hecklers]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-farages-conference-speech-disrupted-by-hecklers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-farages-conference-speech-disrupted-by-hecklers/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 17:55:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reformers don’t care about the Channel 4 investigation]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/reformers-dont-care-about-the-channel-4-investigation/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reformers-dont-care-about-the-channel-4-investigation/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 17:55:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Danny Kruger: ‘Reform are not revolutionary. We are trying to restore’]]></title>
+            <description><![CDATA[By Max Jeffery]]></description>
+            <link>https://spectator.com/article/danny-kruger-reform-are-not-revolutionary-we-are-trying-to-restore/</link>
+            <guid isPermaLink="true">https://spectator.com/article/danny-kruger-reform-are-not-revolutionary-we-are-trying-to-restore/</guid>
+            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 17:55:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Ofsted lost its way]]></title>
             <description><![CDATA[By Richard Parrish]]></description>
@@ -4037,30 +4061,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <guid isPermaLink="true">https://spectator.com/article/is-donald-trump-becoming-the-new-jimmy-carter/</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 14:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The welcome crackdown on neon signs and vape shops]]></title>
-            <description><![CDATA[By Samuel Hughes]]></description>
-            <link>https://spectator.com/article/the-welcome-crackdown-on-neon-signs-and-vape-shops/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-welcome-crackdown-on-neon-signs-and-vape-shops/</guid>
-            <dc:creator><![CDATA[Samuel Hughes]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 11:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rayner: Boat migrants are often ‘women and children’]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/rayner-boat-migrants-are-often-women-and-children/</link>
-            <guid isPermaLink="true">https://spectator.com/article/rayner-boat-migrants-are-often-women-and-children/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 11:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Iran softening on making women wear the veil?]]></title>
-            <description><![CDATA[By Ryan Modarres]]></description>
-            <link>https://spectator.com/article/is-iran-softening-on-making-women-wear-the-veil/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-iran-softening-on-making-women-wear-the-veil/</guid>
-            <dc:creator><![CDATA[Ryan Modarres]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 10:42:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

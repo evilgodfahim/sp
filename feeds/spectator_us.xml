@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 14:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 17:55:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 14:38:11 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 17:55:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The oil field at the heart of Milei’s Falklands threat]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/the-oil-field-at-the-heart-of-mileis-falklands-threat/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-oil-field-at-the-heart-of-mileis-falklands-threat/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 17:55:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smarter machines are going to need wiser humans]]></title>
             <description><![CDATA[By Jamie Metzl]]></description>
@@ -4023,14 +4031,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/goy-goyim-pejorative-terms/?edition=us</guid>
             <dc:creator><![CDATA[Alan Dershowitz]]></dc:creator>
             <pubDate>Sun, 26 Jul 2026 01:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The media will miss Trump when he’s gone]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trump-targets-unelected-elites-media-second-white-house-correspondents-dinner/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-targets-unelected-elites-media-second-white-house-correspondents-dinner/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 14:55:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

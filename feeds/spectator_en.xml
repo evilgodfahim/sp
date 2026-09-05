@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Sep 2026 13:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 16:24:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Sep 2026 13:07:24 GMT</pubDate>
+        <pubDate>Sat, 05 Sep 2026 16:24:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Inside Badenoch’s economic unit]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/inside-badenochs-economic-unit/</link>
+            <guid isPermaLink="true">https://spectator.com/article/inside-badenochs-economic-unit/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Sat, 05 Sep 2026 16:24:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham’s ‘clear diagnosis’ of Britain’s problems doesn’t add up]]></title>
             <description><![CDATA[By John Power]]></description>
@@ -185,7 +193,7 @@
             <pubDate>Fri, 04 Sep 2026 10:19:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reform is a party in crisis]]></title>
+            <title><![CDATA[Reform UK is a party in crisis]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
             <link>https://spectator.com/article/reform-is-a-party-in-crisis/</link>
             <guid isPermaLink="true">https://spectator.com/article/reform-is-a-party-in-crisis/</guid>
@@ -4044,14 +4052,6 @@ At one level, Arday’s fall reveals how, even in our most elite universities, D
             <link>https://spectator.com/article/where-are-cyclists-supposed-to-urinate/</link>
             <guid isPermaLink="true">https://spectator.com/article/where-are-cyclists-supposed-to-urinate/</guid>
             <dc:creator><![CDATA[Rose George]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 10:52:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The myth of Britain’s functioning probation service]]></title>
-            <description><![CDATA[By Alexander Baker]]></description>
-            <link>https://spectator.com/article/the-myth-of-britains-functioning-probation-service/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-myth-of-britains-functioning-probation-service/</guid>
-            <dc:creator><![CDATA[Alexander Baker]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 10:52:32 GMT</pubDate>
         </item>
     </channel>

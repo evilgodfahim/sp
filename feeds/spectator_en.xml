@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 20:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 22:39:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 20:57:28 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 22:39:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The horror that emerges from the columns of Domesday Book]]></title>
+            <description><![CDATA[By Mark Bostridge]]></description>
+            <link>https://spectator.com/article/the-horror-that-emerges-from-the-columns-of-domesday-book/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-horror-that-emerges-from-the-columns-of-domesday-book/</guid>
+            <dc:creator><![CDATA[Mark Bostridge]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 22:39:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[To understand England, go to the pub]]></title>
             <description><![CDATA[By James Vitali]]></description>
@@ -4036,14 +4044,6 @@ But Marianela Nunez and Carlos Acosta seem to have enough traction in the metrop
             <link>https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/</guid>
             <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A joyous opening to Edinburgh]]></title>
-            <description><![CDATA[By Graeme Thomson]]></description>
-            <link>https://spectator.com/article/a-joyous-opening-to-edinburgh/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-joyous-opening-to-edinburgh/</guid>
-            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
         </item>
     </channel>

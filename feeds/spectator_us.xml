@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 18:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 20:57:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 18:44:58 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 20:57:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Catholic Church has turned on the faithful]]></title>
+            <description><![CDATA[By Jane Stannus]]></description>
+            <link>https://spectator.com/article/the-catholic-church-has-turned-on-the-faithful/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-catholic-church-has-turned-on-the-faithful/?edition=us</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 20:57:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don’t blame climate change for the Himalayan flash flood]]></title>
             <description><![CDATA[By Matt Ridley]]></description>
@@ -4022,14 +4030,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <link>https://spectator.com/article/theres-only-one-reason-meghan-went-on-masterchef-australia/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/theres-only-one-reason-meghan-went-on-masterchef-australia/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 16:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We should politicize the Berlin Pride attack]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/we-should-politicise-the-berlin-pride-attack/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-should-politicise-the-berlin-pride-attack/?edition=us</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 16:08:23 GMT</pubDate>
         </item>
     </channel>

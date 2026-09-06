@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 09:57:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 13:21:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 09:57:03 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 13:21:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[An open letter to fee-paying parents]]></title>
+            <description><![CDATA[By Flora Watkins]]></description>
+            <link>https://spectator.com/article/an-open-letter-to-fee-paying-parents/</link>
+            <guid isPermaLink="true">https://spectator.com/article/an-open-letter-to-fee-paying-parents/</guid>
+            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 13:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunday shows round-up: Farage on donation sting: ‘I frankly wasn’t even listening’]]></title>
+            <description><![CDATA[By Joe Bedell-Brill]]></description>
+            <link>https://spectator.com/article/sunday-shows-round-up-farage-on-donation-sting-i-frankly-wasnt-even-listening/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-farage-on-donation-sting-i-frankly-wasnt-even-listening/</guid>
+            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 13:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jenrick’s personal allowance pledge is populist Keynesianism]]></title>
+            <description><![CDATA[By Mani Basharzad]]></description>
+            <link>https://spectator.com/article/jenricks-personal-allowance-pledge-is-populist-keynesianism/</link>
+            <guid isPermaLink="true">https://spectator.com/article/jenricks-personal-allowance-pledge-is-populist-keynesianism/</guid>
+            <dc:creator><![CDATA[Mani Basharzad]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 13:21:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is the Golden Age of the long-form interview]]></title>
             <description><![CDATA[Video]]></description>
@@ -4020,30 +4044,6 @@ But Marianela Nunez and Carlos Acosta seem to have enough traction in the metrop
             <link>https://spectator.com/article/the-wisdom-of-anthony-bourdain/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-wisdom-of-anthony-bourdain/</guid>
             <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A much-deserved revival of a formidable British composer]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/a-much-deserved-revival-of-a-formidable-british-composer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-much-deserved-revival-of-a-formidable-british-composer/</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple Music has redeemed itself]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
-            <link>https://spectator.com/article/apple-music-has-redeemed-itself/</link>
-            <guid isPermaLink="true">https://spectator.com/article/apple-music-has-redeemed-itself/</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A BMW has no soul – but does that matter?]]></title>
-            <description><![CDATA[By Tanya Gold]]></description>
-            <link>https://spectator.com/article/a-bmw-has-no-soul-but-does-that-matter/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-bmw-has-no-soul-but-does-that-matter/</guid>
-            <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
         </item>
     </channel>

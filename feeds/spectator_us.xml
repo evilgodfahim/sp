@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 00:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 05:28:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 00:31:17 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 05:28:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Alice’s Restaurant’ and how the hippies blew it]]></title>
+            <description><![CDATA[By Grayson Quay]]></description>
+            <link>https://spectator.com/article/alices-restaurant-and-how-the-hippies-blew-it/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/alices-restaurant-and-how-the-hippies-blew-it/?edition=us</guid>
+            <dc:creator><![CDATA[Grayson Quay]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:28:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Catholic Church has turned on the faithful]]></title>
             <description><![CDATA[By Jane Stannus]]></description>
@@ -4023,14 +4031,6 @@ Trump signed 143 executive orders in those first 100 days, more than any previou
             <guid isPermaLink="true">https://spectator.com/article/drama-debt-dysfunction-dnc-democratic-national-committee/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 18:18:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s only one reason Meghan Markle went on MasterChef Australia]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/theres-only-one-reason-meghan-went-on-masterchef-australia/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/theres-only-one-reason-meghan-went-on-masterchef-australia/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 16:08:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

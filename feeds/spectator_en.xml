@@ -4,13 +4,77 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 00:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 05:28:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 00:31:22 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 05:28:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The curious history of pigeon-fancying]]></title>
+            <description><![CDATA[Bird is the word]]></description>
+            <link>https://spectator.com/article/the-curious-history-of-pigeon-fancying/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-curious-history-of-pigeon-fancying/</guid>
+            <dc:creator><![CDATA[Melanie Ferbreach]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robin Hood has lost his way]]></title>
+            <description><![CDATA[Not-so-merry men]]></description>
+            <link>https://spectator.com/article/robin-hood-has-lost-his-way/</link>
+            <guid isPermaLink="true">https://spectator.com/article/robin-hood-has-lost-his-way/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Glyndebourne won me over to picnics]]></title>
+            <description><![CDATA[A bite at the opera]]></description>
+            <link>https://spectator.com/article/how-glyndebourne-won-me-over-to-picnics/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-glyndebourne-won-me-over-to-picnics/</guid>
+            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Want to get on in society? Read an etiquette guide]]></title>
+            <description><![CDATA[Civil war]]></description>
+            <link>https://spectator.com/article/want-to-get-on-in-society-read-an-etiquette-guide/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/want-to-get-on-in-society-read-an-etiquette-guide/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:28:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The horror that emerges from the columns of Domesday Book]]></title>
-            <description><![CDATA[By Mark Bostridge]]></description>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-horror-that-emerges-from-the-columns-of-domesday-book/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-horror-that-emerges-from-the-columns-of-domesday-book/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Mark Bostridge]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help! My shoes hurt]]></title>
+            <description><![CDATA[By William Atkinson]]></description>
+            <link>https://spectator.com/article/help-my-shoes-hurt/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/help-my-shoes-hurt/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The proof that Cambridge’s Jason Arday inquiry will be a whitewash]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/the-proof-that-cambridges-jason-arday-inquiry-will-be-a-whitewash/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-proof-that-cambridges-jason-arday-inquiry-will-be-a-whitewash/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help! My shoes hurt]]></title>
+            <description><![CDATA[By William Atkinson]]></description>
+            <link>https://spectator.com/article/help-my-shoes-hurt/</link>
+            <guid isPermaLink="true">https://spectator.com/article/help-my-shoes-hurt/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The horror that emerges from the columns of Domesday Book]]></title>
+            <description><![CDATA[Books]]></description>
             <link>https://spectator.com/article/the-horror-that-emerges-from-the-columns-of-domesday-book/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-horror-that-emerges-from-the-columns-of-domesday-book/</guid>
             <dc:creator><![CDATA[Mark Bostridge]]></dc:creator>
@@ -90,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[The safest thing for children is to keep social media dangerous]]></title>
-            <description><![CDATA[By Theo Hobson]]></description>
+            <description><![CDATA[Online harm]]></description>
             <link>https://spectator.com/article/the-safest-thing-for-children-is-to-keep-social-media-dangerous/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-safest-thing-for-children-is-to-keep-social-media-dangerous/</guid>
             <dc:creator><![CDATA[Theo Hobson]]></dc:creator>
@@ -98,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[This is the Golden Age of the long-form interview]]></title>
-            <description><![CDATA[By Robin Ashenden]]></description>
+            <description><![CDATA[Video]]></description>
             <link>https://spectator.com/article/this-is-the-golden-age-of-the-long-form-interview/</link>
             <guid isPermaLink="true">https://spectator.com/article/this-is-the-golden-age-of-the-long-form-interview/</guid>
             <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
@@ -106,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[James Rebanks and the trouble with sheep farming]]></title>
-            <description><![CDATA[By Ben Goldsmith]]></description>
+            <description><![CDATA[Farming]]></description>
             <link>https://spectator.com/article/james-rebanks-and-the-trouble-with-sheep-farming/</link>
             <guid isPermaLink="true">https://spectator.com/article/james-rebanks-and-the-trouble-with-sheep-farming/</guid>
             <dc:creator><![CDATA[Ben Goldsmith]]></dc:creator>
@@ -178,7 +242,7 @@
         </item>
         <item>
             <title><![CDATA[Jolyon Maugham and the rise and fall of the celebrity lawyer]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
+            <description><![CDATA[Bad Law]]></description>
             <link>https://spectator.com/article/jolyon-maugham-and-the-rise-and-fall-of-the-celebrity-lawyer/</link>
             <guid isPermaLink="true">https://spectator.com/article/jolyon-maugham-and-the-rise-and-fall-of-the-celebrity-lawyer/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
@@ -434,7 +498,7 @@
         </item>
         <item>
             <title><![CDATA[Want to get on in society? Read an etiquette guide]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
+            <description><![CDATA[Civil war]]></description>
             <link>https://spectator.com/article/want-to-get-on-in-society-read-an-etiquette-guide/</link>
             <guid isPermaLink="true">https://spectator.com/article/want-to-get-on-in-society-read-an-etiquette-guide/</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
@@ -3977,74 +4041,6 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
             <guid isPermaLink="true">https://spectator.com/article/where-do-asylum-seekers-live-in-britain/</guid>
             <dc:creator><![CDATA[John O’Neill]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 06:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I got Rod Liddle sacked]]></title>
-            <description><![CDATA[By Charles Moore]]></description>
-            <link>https://spectator.com/article/how-i-got-rod-liddle-sacked/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-i-got-rod-liddle-sacked/</guid>
-            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 04:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s a logic to Donald Trump’s incendiary diplomacy]]></title>
-            <description><![CDATA[By Blake Neff]]></description>
-            <link>https://spectator.com/article/theres-a-logic-to-donald-trumps-incendiary-diplomacy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/theres-a-logic-to-donald-trumps-incendiary-diplomacy/</guid>
-            <dc:creator><![CDATA[Blake Neff]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Nigel Farage’s ‘Australia-style’ border policy is doomed to fail]]></title>
-            <description><![CDATA[By George Brandis]]></description>
-            <link>https://spectator.com/article/why-nigel-farages-australia-style-border-policy-is-doomed-to-fail/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-nigel-farages-australia-style-border-policy-is-doomed-to-fail/</guid>
-            <dc:creator><![CDATA[George Brandis]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do you have Old Money Face?]]></title>
-            <description><![CDATA[By Arabella Byrne]]></description>
-            <link>https://spectator.com/article/do-you-have-old-money-face/</link>
-            <guid isPermaLink="true">https://spectator.com/article/do-you-have-old-money-face/</guid>
-            <dc:creator><![CDATA[Arabella Byrne]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who decides if a word is racist?]]></title>
-            <description><![CDATA[By Nigel Biggar]]></description>
-            <link>https://spectator.com/article/who-decides-if-a-word-is-racist/</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-decides-if-a-word-is-racist/</guid>
-            <dc:creator><![CDATA[Nigel Biggar]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carlos Acosta just gets better with age]]></title>
-            <description><![CDATA[No ballet dancer has been a ‘household name’ in Britain for more than a generation now – even mention of Darcey Bussell would draw a blank on the Clapham omnibus were it not for her post-retirement stint as a judge on Strictly. The days when the likes of Margot Fonteyn and Moira Shearer were splashed over front pages have long gone.
-
-
-
-But Marianela Nunez and Carlos Acosta seem to have enough traction in the metropolis to sell about 11,000 seats each for week-long seasons at Covent Garden showcasing their artistry. (In other words, they could just about fill Wembley Arena once.) Both are without question enormous talents, celebrated internationally, their Hispanic origins reflecting a global trend in ballet demographics.]]></description>
-            <link>https://spectator.com/article/carlos-acosta-just-gets-better-with-age/</link>
-            <guid isPermaLink="true">https://spectator.com/article/carlos-acosta-just-gets-better-with-age/</guid>
-            <dc:creator><![CDATA[Rupert Christiansen]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The slow death of the Edinburgh Fringe]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/the-slow-death-of-the-edinburgh-fringe/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-slow-death-of-the-edinburgh-fringe/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Shards is easily the best drama on TV]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 01:11:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

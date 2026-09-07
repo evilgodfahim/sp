@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 20:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 23:10:59 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 20:17:36 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 23:10:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What my GB News incest row critics fail to understand]]></title>
+            <description><![CDATA[By Charles Amos]]></description>
+            <link>https://spectator.com/article/what-my-gb-news-incest-row-critics-fail-to-understand/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-my-gb-news-incest-row-critics-fail-to-understand/</guid>
+            <dc:creator><![CDATA[Charles Amos]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 23:10:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why has John Healey started speaking like Confucius?]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
@@ -4032,14 +4040,6 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
             <link>https://spectator.com/article/dont-blame-supermarkets-for-your-expensive-shop/</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-blame-supermarkets-for-your-expensive-shop/</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 08:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I learnt to stop worrying and love pessimism]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/how-i-learnt-to-stop-worrying-and-love-pessimism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-i-learnt-to-stop-worrying-and-love-pessimism/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 08:12:07 GMT</pubDate>
         </item>
     </channel>

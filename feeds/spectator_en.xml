@@ -4,13 +4,53 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 11:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 16:54:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 11:06:24 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 16:54:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Why has John Healey started speaking like Confucius?]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/why-has-john-healey-started-speaking-like-confucius/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-has-john-healey-started-speaking-like-confucius/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 16:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The scandal of HMP Millsike]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/the-scandal-of-hmp-millsike/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-scandal-of-hmp-millsike/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 16:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is John Healey any different from Rachel Reeves?]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/is-john-healey-any-different-from-rachel-reeves/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-john-healey-any-different-from-rachel-reeves/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 16:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stella Creasy’s gender double standard on parade]]></title>
+            <description><![CDATA[Labour]]></description>
+            <link>https://spectator.com/article/stella-creasys-gender-double-standard-on-parade/</link>
+            <guid isPermaLink="true">https://spectator.com/article/stella-creasys-gender-double-standard-on-parade/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 16:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we really saw at the Portsmouth migrant boat protest]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/what-we-really-saw-at-the-portsmouth-migrant-boat-protest/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-we-really-saw-at-the-portsmouth-migrant-boat-protest/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 16:54:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The lesson Cambridge should – but won’t – learn from Jason Arday]]></title>
-            <description><![CDATA[Tragedy]]></description>
+            <description><![CDATA[By Patrick West]]></description>
             <link>https://spectator.com/article/the-lesson-cambridge-should-but-wont-learn-from-jason-arday/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-lesson-cambridge-should-but-wont-learn-from-jason-arday/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -98,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[The proof that Cambridge’s Jason Arday inquiry will be a whitewash]]></title>
-            <description><![CDATA[University]]></description>
+            <description><![CDATA[University challenged]]></description>
             <link>https://spectator.com/article/the-proof-that-cambridges-jason-arday-inquiry-will-be-a-whitewash/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-proof-that-cambridges-jason-arday-inquiry-will-be-a-whitewash/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -4001,46 +4041,6 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
             <guid isPermaLink="true">https://spectator.com/article/how-i-learnt-to-stop-worrying-and-love-pessimism/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 08:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Confessions of a dog hater]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/confessions-of-a-dog-hater-2/</link>
-            <guid isPermaLink="true">https://spectator.com/article/confessions-of-a-dog-hater-2/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 08:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain’s economy is growing – but not enough]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/britains-economy-is-growing-but-not-enough/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britains-economy-is-growing-but-not-enough/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 08:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If we allow dogs at weddings, why not a python?]]></title>
-            <description><![CDATA[By Sophia Money-Coutts]]></description>
-            <link>https://spectator.com/article/if-we-allow-dogs-at-weddings-why-not-a-python/</link>
-            <guid isPermaLink="true">https://spectator.com/article/if-we-allow-dogs-at-weddings-why-not-a-python/</guid>
-            <dc:creator><![CDATA[Sophia Money-Coutts]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 06:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Politicians’ contempt for the press is contempt for the public]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/politicians-contempt-for-the-press-is-contempt-for-the-public/</link>
-            <guid isPermaLink="true">https://spectator.com/article/politicians-contempt-for-the-press-is-contempt-for-the-public/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 06:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The mawkish madness of Dobby’s ‘grave’]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/the-mawkish-madness-of-dobbys-grave/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-mawkish-madness-of-dobbys-grave/</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 06:10:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 16:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 19:41:19 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 16:56:08 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 19:41:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The problem with Ed Miliband’s West Bank sanctions]]></title>
+            <description><![CDATA[By Jon Mendelsohn]]></description>
+            <link>https://spectator.com/article/the-problem-with-ed-milibands-west-bank-sanctions/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-ed-milibands-west-bank-sanctions/</guid>
+            <dc:creator><![CDATA[Jon Mendelsohn]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 19:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lucy Powell must acknowledge England’s Pisa success]]></title>
+            <description><![CDATA[By John O’Neill]]></description>
+            <link>https://spectator.com/article/lucy-powell-must-acknowledge-englands-pisa-success/</link>
+            <guid isPermaLink="true">https://spectator.com/article/lucy-powell-must-acknowledge-englands-pisa-success/</guid>
+            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 19:41:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Burnham’s West Bank sanctions are savvy politics]]></title>
             <description><![CDATA[By Noa Hoffman]]></description>
@@ -4024,22 +4040,6 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
             <link>https://spectator.com/article/meet-the-eclipse-fanatics/</link>
             <guid isPermaLink="true">https://spectator.com/article/meet-the-eclipse-fanatics/</guid>
             <dc:creator><![CDATA[Rosie Millard]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who decides if a word is racist?]]></title>
-            <description><![CDATA[Language barriers]]></description>
-            <link>https://spectator.com/article/who-decides-if-a-word-is-racist/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-decides-if-a-word-is-racist/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Nigel Biggar]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nothing beats writing by hand]]></title>
-            <description><![CDATA[Pen pals]]></description>
-            <link>https://spectator.com/article/nothing-beats-writing-by-hand/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/nothing-beats-writing-by-hand/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[James Dixon]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 05:28:26 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 23:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 02:12:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 23:10:59 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 02:12:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The biggest of all the delusions about Reform]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/the-biggest-of-all-the-delusions-about-reform/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-biggest-of-all-the-delusions-about-reform/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 02:12:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What my GB News incest row critics fail to understand]]></title>
             <description><![CDATA[By Charles Amos]]></description>
@@ -4032,14 +4040,6 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
             <link>https://spectator.com/article/when-does-killing-the-enemy-become-murder/</link>
             <guid isPermaLink="true">https://spectator.com/article/when-does-killing-the-enemy-become-murder/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 08:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t blame supermarkets for your expensive shop]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
-            <link>https://spectator.com/article/dont-blame-supermarkets-for-your-expensive-shop/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-blame-supermarkets-for-your-expensive-shop/</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 08:12:07 GMT</pubDate>
         </item>
     </channel>

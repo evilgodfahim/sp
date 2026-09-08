@@ -4,13 +4,29 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 12:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 16:56:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 12:25:29 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 16:56:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Why Burnham’s West Bank sanctions are savvy politics]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/why-burnhams-west-bank-sanctions-are-savvy-politics/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-burnhams-west-bank-sanctions-are-savvy-politics/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 16:56:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Houthi-Saudi war is the last thing the Middle East needs]]></title>
+            <description><![CDATA[By Nicholas Hopton]]></description>
+            <link>https://spectator.com/article/a-houthi-saudi-war-is-the-last-thing-the-middle-east-needs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-houthi-saudi-war-is-the-last-thing-the-middle-east-needs/</guid>
+            <dc:creator><![CDATA[Nicholas Hopton]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 16:56:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Even playgrounds are no longer safe in Ceuta after the migrant invasion]]></title>
-            <description><![CDATA[By Jim Lawley]]></description>
+            <description><![CDATA[Spain]]></description>
             <link>https://spectator.com/article/even-playgrounds-are-no-longer-safe-in-ceuta-after-the-migrant-invasion/</link>
             <guid isPermaLink="true">https://spectator.com/article/even-playgrounds-are-no-longer-safe-in-ceuta-after-the-migrant-invasion/</guid>
             <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
@@ -42,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Labour knows it can’t call immigration protesters racist]]></title>
-            <description><![CDATA[Rocking the boat]]></description>
+            <description><![CDATA[By Isabel Hardman]]></description>
             <link>https://spectator.com/article/labour-knows-it-cant-call-immigration-protesters-racist/</link>
             <guid isPermaLink="true">https://spectator.com/article/labour-knows-it-cant-call-immigration-protesters-racist/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -4024,22 +4040,6 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
             <link>https://spectator.com/article/nothing-beats-writing-by-hand/?homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/nothing-beats-writing-by-hand/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[James Dixon]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s a logic to Donald Trump’s incendiary diplomacy]]></title>
-            <description><![CDATA[US politics]]></description>
-            <link>https://spectator.com/article/theres-a-logic-to-donald-trumps-incendiary-diplomacy/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/theres-a-logic-to-donald-trumps-incendiary-diplomacy/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Blake Neff]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why does Labour hate gambling so much?]]></title>
-            <description><![CDATA[By Rupert Hawksley]]></description>
-            <link>https://spectator.com/article/why-does-labour-hate-gambling-so-much/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-does-labour-hate-gambling-so-much/</guid>
-            <dc:creator><![CDATA[Rupert Hawksley]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 05:28:26 GMT</pubDate>
         </item>
     </channel>

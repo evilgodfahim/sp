@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 12:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 16:56:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 16:56:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[New Yorkers don’t get DC]]></title>
+            <description><![CDATA[By Kelly Chapman]]></description>
+            <link>https://spectator.com/article/new-yorkers-dont-get-dc/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/new-yorkers-dont-get-dc/?edition=us</guid>
+            <dc:creator><![CDATA[Kelly Chapman]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 16:56:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Houthi-Saudi war is the last thing the Middle East needs]]></title>
+            <description><![CDATA[By Nicholas Hopton]]></description>
+            <link>https://spectator.com/article/a-houthi-saudi-war-is-the-last-thing-the-middle-east-needs/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-houthi-saudi-war-is-the-last-thing-the-middle-east-needs/?edition=us</guid>
+            <dc:creator><![CDATA[Nicholas Hopton]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 16:56:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Democrats are both cynical and naive]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -4019,22 +4035,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/america-can-still-win-over-africa/?edition=us</guid>
             <dc:creator><![CDATA[Ivor Ichikowitz]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 11:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Pharma wants to sell you psychedelic drugs]]></title>
-            <description><![CDATA[By Jules Evans]]></description>
-            <link>https://spectator.com/article/big-pharma-wants-to-sell-you-psychedelic-drugs/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/big-pharma-wants-to-sell-you-psychedelic-drugs/?edition=us</guid>
-            <dc:creator><![CDATA[Jules Evans]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CNN can’t kill Tim Dillon]]></title>
-            <description><![CDATA[By Damian Reilly]]></description>
-            <link>https://spectator.com/article/cnn-cant-kill-tim-dillon/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/cnn-cant-kill-tim-dillon/?edition=us</guid>
-            <dc:creator><![CDATA[Damian Reilly]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 05:13:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

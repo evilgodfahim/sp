@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 05:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 10:27:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 05:35:13 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 10:27:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We don’t swear like we used to]]></title>
+            <description><![CDATA[By Daniel Seifert]]></description>
+            <link>https://spectator.com/article/we-dont-swear-like-we-used-to/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-dont-swear-like-we-used-to/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 10:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nature is an assassin]]></title>
+            <description><![CDATA[By Ann Coulter]]></description>
+            <link>https://spectator.com/article/diary/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/diary/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Ann Coulter]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 10:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Jared Kushner’s Albanian adventure]]></title>
+            <description><![CDATA[The Albanian question]]></description>
+            <link>https://spectator.com/article/inside-jared-kushners-albanian-adventure/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/inside-jared-kushners-albanian-adventure/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Ian Thomson]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 10:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Yorkers don’t get DC]]></title>
+            <description><![CDATA[DC life]]></description>
+            <link>https://spectator.com/article/new-yorkers-dont-get-dc/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/new-yorkers-dont-get-dc/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Kelly Chapman]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 10:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If woke is over, why do we still capitalize ‘black?’]]></title>
+            <description><![CDATA[Capital crime]]></description>
+            <link>https://spectator.com/article/woke-1-over-capitalize-black/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/woke-1-over-capitalize-black/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 10:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In America, murder has become mainstream]]></title>
+            <description><![CDATA[By Daniel McCarthy]]></description>
+            <link>https://spectator.com/article/in-america-murder-has-become-mainstream/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-america-murder-has-become-mainstream/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 10:27:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Britain’s West Bank sanctions are savvy politics]]></title>
             <description><![CDATA[By Noa Hoffman]]></description>
@@ -109,7 +157,7 @@ The jazz industry, meanwhile, is gorging on their centenaries with recordings, n
             <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Welcome to Kushner Island]]></title>
+            <title><![CDATA[Inside Jared Kushner’s Albanian adventure]]></title>
             <description><![CDATA[By Ian Thomson]]></description>
             <link>https://spectator.com/article/inside-jared-kushners-albanian-adventure/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/inside-jared-kushners-albanian-adventure/?edition=us</guid>
@@ -134,7 +182,7 @@ The jazz industry, meanwhile, is gorging on their centenaries with recordings, n
         </item>
         <item>
             <title><![CDATA[Even playgrounds are no longer safe in Ceuta after the migrant invasion]]></title>
-            <description><![CDATA[Spain]]></description>
+            <description><![CDATA[By Jim Lawley]]></description>
             <link>https://spectator.com/article/even-playgrounds-are-no-longer-safe-in-ceuta-after-the-migrant-invasion/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/even-playgrounds-are-no-longer-safe-in-ceuta-after-the-migrant-invasion/?edition=us</guid>
             <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
@@ -190,7 +238,7 @@ The jazz industry, meanwhile, is gorging on their centenaries with recordings, n
         </item>
         <item>
             <title><![CDATA[Lust can’t be lectured]]></title>
-            <description><![CDATA[Calvin Klein]]></description>
+            <description><![CDATA[By Sean Thomas]]></description>
             <link>https://spectator.com/article/lust-cant-be-lectured/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/lust-cant-be-lectured/?edition=us</guid>
             <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
@@ -198,7 +246,7 @@ The jazz industry, meanwhile, is gorging on their centenaries with recordings, n
         </item>
         <item>
             <title><![CDATA[Ukraine is losing the war]]></title>
-            <description><![CDATA[Diplomacy]]></description>
+            <description><![CDATA[By Owen Matthews]]></description>
             <link>https://spectator.com/article/ukraine-is-losing-the-war-kushner-witkoff/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/ukraine-is-losing-the-war-kushner-witkoff/?edition=us</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -3987,54 +4035,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/trumps-battle-for-sovereignty/?edition=us</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 13:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why won’t western scientists condemn Wuhan?]]></title>
-            <description><![CDATA[By Matt Ridley]]></description>
-            <link>https://spectator.com/article/why-wont-western-scientists-condemn-wuhan/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-wont-western-scientists-condemn-wuhan/?edition=us</guid>
-            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham’s centrist act isn’t fooling anyone]]></title>
-            <description><![CDATA[Simply red]]></description>
-            <link>https://spectator.com/article/andy-burnhams-centrist-act-isnt-fooling-anyone/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-centrist-act-isnt-fooling-anyone/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s battle for sovereignty]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/trumps-battle-for-sovereignty/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-battle-for-sovereignty/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Picnicking in the park on July 4]]></title>
-            <description><![CDATA[Local life]]></description>
-            <link>https://spectator.com/article/picnicking-park-july-4/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/picnicking-park-july-4/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The movie industry is broken]]></title>
-            <description><![CDATA[Roll credits]]></description>
-            <link>https://spectator.com/article/hollywood-ending-movie-industry-broken/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/hollywood-ending-movie-industry-broken/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Peachy Keenan]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The GOP has eaten MAGA]]></title>
-            <description><![CDATA[By Travis Aaroe]]></description>
-            <link>https://spectator.com/article/the-gop-has-eaten-maga/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-gop-has-eaten-maga/?edition=us</guid>
-            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 11:14:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

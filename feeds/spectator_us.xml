@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 14:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 18:12:07 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 14:55:34 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 18:12:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Oil at $100 a barrel is a disaster for Trump]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/oil-100-barrel-disaster-trump/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/oil-100-barrel-disaster-trump/?edition=us</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 18:12:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Democrats are both cynical and naive]]></title>
             <description><![CDATA[Speaking from experience]]></description>
@@ -4027,14 +4035,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/hollywood-ending-movie-industry-broken/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Peachy Keenan]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 10:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Trump improve the ‘terrible’ Dulles Airport?]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/trump-improve-terrible-washington-dulles-airport/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-improve-terrible-washington-dulles-airport/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 21:51:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

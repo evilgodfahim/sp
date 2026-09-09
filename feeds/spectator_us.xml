@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 10:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 14:55:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 10:27:05 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 14:55:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Democrats are both cynical and naive]]></title>
+            <description><![CDATA[Speaking from experience]]></description>
+            <link>https://spectator.com/article/speaking-from-experience/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/speaking-from-experience/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 14:55:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why were women banned from the Eiffel Tower?]]></title>
+            <description><![CDATA[By Matthew Fraser]]></description>
+            <link>https://spectator.com/article/why-were-women-banned-from-the-eiffel-tower/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-were-women-banned-from-the-eiffel-tower/?edition=us</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 14:55:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain’s sanctions against Israel will backfire]]></title>
+            <description><![CDATA[By Paul Wood]]></description>
+            <link>https://spectator.com/article/britains-sanctions-against-israel-will-backfire/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/britains-sanctions-against-israel-will-backfire/?edition=us</guid>
+            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 14:55:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I love the NFL]]></title>
+            <description><![CDATA[By Charlie Young]]></description>
+            <link>https://spectator.com/article/why-i-love-the-nfl/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-i-love-the-nfl/?edition=us</guid>
+            <dc:creator><![CDATA[Charlie Young]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 14:55:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We don’t swear like we used to]]></title>
             <description><![CDATA[By Daniel Seifert]]></description>
@@ -4003,38 +4035,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/trump-improve-terrible-washington-dulles-airport/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 21:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How ‘defund the police’ ideologues laid waste to Portland]]></title>
-            <description><![CDATA[By Christopher Sandford]]></description>
-            <link>https://spectator.com/article/how-defund-the-police-ideologues-laid-waste-to-portland/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-defund-the-police-ideologues-laid-waste-to-portland/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Sandford]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 17:05:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the wars in Ukraine and Iran merge?]]></title>
-            <description><![CDATA[By Charles Lipson]]></description>
-            <link>https://spectator.com/article/will-the-wars-in-ukraine-and-iran-merge/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-the-wars-in-ukraine-and-iran-merge/?edition=us</guid>
-            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 17:05:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rare, startling silence of Anthony Fauci]]></title>
-            <description><![CDATA[By John Fund]]></description>
-            <link>https://spectator.com/article/rare-startling-silence-anthony-fauci/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/rare-startling-silence-anthony-fauci/?edition=us</guid>
-            <dc:creator><![CDATA[John Fund]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 15:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s battle for sovereignty]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/trumps-battle-for-sovereignty/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-battle-for-sovereignty/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 13:47:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

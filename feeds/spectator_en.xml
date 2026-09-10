@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 07:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 12:31:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 07:39:52 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Long live death’s dark humour]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/long-live-deaths-dark-humour/</link>
+            <guid isPermaLink="true">https://spectator.com/article/long-live-deaths-dark-humour/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t sympathise with Lindsay Clancy]]></title>
+            <description><![CDATA[By Lionel Shriver]]></description>
+            <link>https://spectator.com/article/dont-sympathise-with-lindsay-clancy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-sympathise-with-lindsay-clancy/</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we just stop AI?]]></title>
+            <description><![CDATA[By Sean Thomas]]></description>
+            <link>https://spectator.com/article/can-we-just-stop-ai/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-we-just-stop-ai/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Britain can really keep itself safe from Putin’s Russia]]></title>
+            <description><![CDATA[By Mark Galeotti]]></description>
+            <link>https://spectator.com/article/how-britain-can-really-keep-itself-safe-from-putins-russia/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-britain-can-really-keep-itself-safe-from-putins-russia/</guid>
+            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The desperation of the ‘Trump Dividend’]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/the-desperation-of-the-trump-dividend/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-desperation-of-the-trump-dividend/</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t believe everything that AI companies say]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/dont-believe-everything-that-ai-companies-say/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-believe-everything-that-ai-companies-say/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Online Safety Act is wrecking the internet]]></title>
+            <description><![CDATA[By Maya Thomas]]></description>
+            <link>https://spectator.com/article/the-online-safety-act-is-wrecking-the-internet/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-online-safety-act-is-wrecking-the-internet/</guid>
+            <dc:creator><![CDATA[Maya Thomas]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Now I’ve left Today, I can finally say what I really think…]]></title>
             <description><![CDATA[By Amol Rajan]]></description>
@@ -29,7 +85,7 @@ So was it worth it? I’m writing this more quickly after the meal than usual. W
             <pubDate>Thu, 10 Sep 2026 07:39:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How social media ‘clippers’ are shaping politics]]></title>
+            <title><![CDATA[Politicians need to learn from Andrew Tate]]></title>
             <description><![CDATA[Clip art]]></description>
             <link>https://spectator.com/article/how-social-media-clippers-are-shaping-politics/?homepage-tracking=magazine-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/how-social-media-clippers-are-shaping-politics/?homepage-tracking=magazine-article-3</guid>
@@ -165,7 +221,7 @@ So was it worth it? I’m writing this more quickly after the meal than usual. W
             <pubDate>Thu, 10 Sep 2026 02:14:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How social media ‘clippers’ are shaping politics]]></title>
+            <title><![CDATA[Politicians need to learn from Andrew Tate]]></title>
             <description><![CDATA[By John Power]]></description>
             <link>https://spectator.com/article/how-social-media-clippers-are-shaping-politics/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-social-media-clippers-are-shaping-politics/</guid>
@@ -217,7 +273,7 @@ Yvonne, who also happens to be multilingual, banters with her in Italian and Ger
             <pubDate>Thu, 10 Sep 2026 02:14:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The assisted dying vote is a test of Labour’s core values]]></title>
+            <title><![CDATA[The assisted dying vote is a test of Labour’s values]]></title>
             <description><![CDATA[By Lois McLatchie Miller]]></description>
             <link>https://spectator.com/article/the-assisted-dying-vote-is-a-test-of-labours-core-values/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-assisted-dying-vote-is-a-test-of-labours-core-values/</guid>
@@ -225,7 +281,7 @@ Yvonne, who also happens to be multilingual, banters with her in Italian and Ger
             <pubDate>Thu, 10 Sep 2026 02:14:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Britain already knows what’s wrong with maternity care]]></title>
+            <title><![CDATA[Will anyone ever fix Britain’s broken maternity care services?]]></title>
             <description><![CDATA[By Isabel Hardman]]></description>
             <link>https://spectator.com/article/there-are-a-lot-of-things-we-know-about-nhs-maternity-that-its-in-crisis-that-there-are-a-lot-of-reports-confirming-that-it-is-in-crisis/</link>
             <guid isPermaLink="true">https://spectator.com/article/there-are-a-lot-of-things-we-know-about-nhs-maternity-that-its-in-crisis-that-there-are-a-lot-of-reports-confirming-that-it-is-in-crisis/</guid>
@@ -3993,62 +4049,6 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
             <guid isPermaLink="true">https://spectator.com/article/can-reform-really-end-benefits-britain/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 13:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Trump unhappy about military drills with South Korea?]]></title>
-            <description><![CDATA[By Eliot Wilson]]></description>
-            <link>https://spectator.com/article/trumps-military-distancing-from-south-korea-makes-no-sense/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-military-distancing-from-south-korea-makes-no-sense/</guid>
-            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 12:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ceuta crisis isn’t over]]></title>
-            <description><![CDATA[By Jim Lawley]]></description>
-            <link>https://spectator.com/article/the-ceuta-crisis-isnt-over/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-ceuta-crisis-isnt-over/</guid>
-            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 11:17:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emmanuel Macron is an embarrassment to France]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/emmanuel-macron-has-become-a-humiliation-for-france/</link>
-            <guid isPermaLink="true">https://spectator.com/article/emmanuel-macron-has-become-a-humiliation-for-france/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 11:17:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why people cared about Jason Arday]]></title>
-            <description><![CDATA[Cambridge]]></description>
-            <link>https://spectator.com/article/why-people-cared-about-jason-arday/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-people-cared-about-jason-arday/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 06:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nothing beats writing by hand]]></title>
-            <description><![CDATA[Pen pals]]></description>
-            <link>https://spectator.com/article/nothing-beats-writing-by-hand/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/nothing-beats-writing-by-hand/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[James Dixon]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 05:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why does anyone take Ai Weiwei seriously?]]></title>
-            <description><![CDATA[Exhibitions]]></description>
-            <link>https://spectator.com/article/why-does-anyone-take-ai-weiwei-seriously/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-does-anyone-take-ai-weiwei-seriously/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Digby Warde-Aldam]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 05:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Throw away your keyboard]]></title>
-            <description><![CDATA[The Wiki Man]]></description>
-            <link>https://spectator.com/article/throw-away-your-keyboard/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/throw-away-your-keyboard/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 05:27:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

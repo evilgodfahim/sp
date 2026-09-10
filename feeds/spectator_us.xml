@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 12:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 16:46:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 12:31:16 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 16:46:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We risk another 9/11 by ignoring Afghanistan]]></title>
+            <description><![CDATA[By David Loyn]]></description>
+            <link>https://spectator.com/article/we-risk-another-9-11-by-ignoring-afghanistan/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-risk-another-9-11-by-ignoring-afghanistan/?edition=us</guid>
+            <dc:creator><![CDATA[David Loyn]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 16:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the Silicon Valley cinematic universe]]></title>
+            <description><![CDATA[By Margaret Mitchell]]></description>
+            <link>https://spectator.com/article/welcome-to-the-silicon-valley-cinematic-universe/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/welcome-to-the-silicon-valley-cinematic-universe/?edition=us</guid>
+            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 16:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t believe everything that AI companies say]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/dont-believe-everything-that-ai-companies-say/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/dont-believe-everything-that-ai-companies-say/?edition=us</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 16:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Would Sadiq Khan back a rave in a mosque?]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/would-sadiq-khan-back-a-rave-in-a-mosque/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/would-sadiq-khan-back-a-rave-in-a-mosque/?edition=us</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 16:46:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don’t sympathize with Lindsay Clancy]]></title>
             <description><![CDATA[By Lionel Shriver]]></description>
@@ -4003,38 +4035,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/mamdanis-reparations-talk-is-risible/?edition=us</guid>
             <dc:creator><![CDATA[Maud Maron]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 11:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Legal organ harvesting is just a PR campaign away]]></title>
-            <description><![CDATA[By Jane Stannus]]></description>
-            <link>https://spectator.com/article/legal-organ-harvesting-pr-campaign-away/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/legal-organ-harvesting-pr-campaign-away/?edition=us</guid>
-            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 19:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cambridge is coming out very badly from the Jason Arday affair]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
-            <link>https://spectator.com/article/cambridge-is-coming-out-very-badly-from-the-jason-arday-affair/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/cambridge-is-coming-out-very-badly-from-the-jason-arday-affair/?edition=us</guid>
-            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 17:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the success of the DSA tells us]]></title>
-            <description><![CDATA[By Chilton Williamson, Jr.]]></description>
-            <link>https://spectator.com/article/what-the-success-of-the-dsa-tells-us/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-the-success-of-the-dsa-tells-us/?edition=us</guid>
-            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 12:23:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Tainan the world’s most dangerous city?]]></title>
-            <description><![CDATA[By Sean Thomas]]></description>
-            <link>https://spectator.com/article/is-tainan-the-worlds-most-dangerous-city/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-tainan-the-worlds-most-dangerous-city/?edition=us</guid>
-            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 12:23:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

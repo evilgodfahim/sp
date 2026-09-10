@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 12:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 16:46:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 16:46:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Labour’s woman problem is never-ending]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/labours-woman-problem-is-never-ending/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labours-woman-problem-is-never-ending/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 16:46:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Long live death’s dark humour]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
@@ -4041,14 +4049,6 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
             <guid isPermaLink="true">https://spectator.com/article/why-wont-reforms-welfare-cuts-apply-to-the-triple-lock/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 15:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Reform really end benefits Britain?]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/can-reform-really-end-benefits-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-reform-really-end-benefits-britain/</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 13:33:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

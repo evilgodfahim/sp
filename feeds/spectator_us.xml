@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 00:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 05:27:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 00:41:52 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 05:27:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did ‘gender studies’ lose Afghanistan?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/did-gender-studies-lose-afghanistan/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-gender-studies-lose-afghanistan/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 05:27:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We risk another 9/11 by ignoring Afghanistan]]></title>
             <description><![CDATA[By David Loyn]]></description>
@@ -4026,14 +4034,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <link>https://spectator.com/article/the-rise-of-japans-organic-right/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/the-rise-of-japans-organic-right/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Gary Dexter]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 11:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani’s reparations talk is risible]]></title>
-            <description><![CDATA[By Maud Maron]]></description>
-            <link>https://spectator.com/article/mamdanis-reparations-talk-is-risible/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/mamdanis-reparations-talk-is-risible/?edition=us</guid>
-            <dc:creator><![CDATA[Maud Maron]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 11:22:04 GMT</pubDate>
         </item>
     </channel>

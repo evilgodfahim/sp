@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 05:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 10:16:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 05:27:04 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 10:16:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why did the British government label Charlie Kirk supporters ‘extremists’?]]></title>
+            <description><![CDATA[By Steven Edginton]]></description>
+            <link>https://spectator.com/article/why-did-the-british-government-label-charlie-kirk-supporters-extremists/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-did-the-british-government-label-charlie-kirk-supporters-extremists/?edition=us</guid>
+            <dc:creator><![CDATA[Steven Edginton]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 10:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘A failure of imagination’ did not cause 9/11]]></title>
+            <description><![CDATA[By Alex Alfirraz Scheers]]></description>
+            <link>https://spectator.com/article/a-failure-of-imagination-did-not-cause-9-11/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-failure-of-imagination-did-not-cause-9-11/?edition=us</guid>
+            <dc:creator><![CDATA[Alex Alfirraz Scheers]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 10:16:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did ‘gender studies’ lose Afghanistan?]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -49,7 +65,7 @@
             <pubDate>Thu, 10 Sep 2026 16:46:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don’t sympathize with Lindsay Clancy]]></title>
+            <title><![CDATA[We need to talk about Lindsay Clancy]]></title>
             <description><![CDATA[By Lionel Shriver]]></description>
             <link>https://spectator.com/article/dont-sympathise-with-lindsay-clancy/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-sympathise-with-lindsay-clancy/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
@@ -4018,22 +4034,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <link>https://spectator.com/article/is-barbecue-a-summer-food/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/is-barbecue-a-summer-food/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 11:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump is a study of indecision on Iran]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trump-is-a-study-of-indecision-on-iran/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-is-a-study-of-indecision-on-iran/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 11:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of Japan’s organic right]]></title>
-            <description><![CDATA[By Gary Dexter]]></description>
-            <link>https://spectator.com/article/the-rise-of-japans-organic-right/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-japans-organic-right/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Gary Dexter]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 11:22:04 GMT</pubDate>
         </item>
     </channel>

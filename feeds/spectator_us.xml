@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 21:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 23:42:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 21:27:14 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 23:42:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What exactly was the Republican midterm convention?]]></title>
+            <description><![CDATA[By Matt McDonald]]></description>
+            <link>https://spectator.com/article/exactly-republican-midterm-convention-dallas/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/exactly-republican-midterm-convention-dallas/?edition=us</guid>
+            <dc:creator><![CDATA[Matt McDonald]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 23:42:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cockburn does Dallas]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -4022,14 +4030,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <link>https://spectator.com/article/why-do-political-elites-insist-on-posing-as-outsiders/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/why-do-political-elites-insist-on-posing-as-outsiders/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Carson Becker]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the political donors lining up to influence AI policy]]></title>
-            <description><![CDATA[By Geoffrey Cain]]></description>
-            <link>https://spectator.com/article/apocalypse-lobby-political-donors-ai-policy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/apocalypse-lobby-political-donors-ai-policy/?edition=us</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 14:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 18:01:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 14:43:33 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 18:01:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Vance is back in the box seat]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/vance-is-back-in-the-box-seat/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/vance-is-back-in-the-box-seat/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 18:01:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lonnie Bunch’s long march through the Smithsonian]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -4023,14 +4031,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/ceuta-should-be-a-wake-up-call-for-europe/?edition=us</guid>
             <dc:creator><![CDATA[David Goodhart]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the Odyssey means to America]]></title>
-            <description><![CDATA[By Peter Wood]]></description>
-            <link>https://spectator.com/article/odyssey-adaptations-translations-jack-london/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/odyssey-adaptations-translations-jack-london/?edition=us</guid>
-            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 02:27:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

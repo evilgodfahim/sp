@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Sep 2026 14:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 17:32:56 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Sep 2026 14:40:46 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 17:32:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Where is liberalism heading?]]></title>
+            <description><![CDATA[Freedom matters]]></description>
+            <link>https://spectator.com/article/where-is-liberalism-heading/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/where-is-liberalism-heading/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 17:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The journey to Assisi, 800 years after St. Francis]]></title>
+            <description><![CDATA[Pilgrim’s progress]]></description>
+            <link>https://spectator.com/article/the-journey-to-assisi-800-years-after-st-francis/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-journey-to-assisi-800-years-after-st-francis/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 17:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The spellbinding power of the du Maurier family]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-spellbinding-power-of-the-du-maurier-family/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-spellbinding-power-of-the-du-maurier-family/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Frances Wilson]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 17:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does time work?]]></title>
+            <description><![CDATA[By David Whitehouse]]></description>
+            <link>https://spectator.com/article/how-does-time-work/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-does-time-work/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 17:32:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How does time work?]]></title>
             <description><![CDATA[By David Whitehouse]]></description>
@@ -3999,38 +4031,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/do-deals-get-done-at-sun-valley-anymore/?edition=us</guid>
             <dc:creator><![CDATA[Kilby]]></dc:creator>
             <pubDate>Sun, 02 Aug 2026 10:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gen Z is going back to physical media]]></title>
-            <description><![CDATA[By Anastasia Brown]]></description>
-            <link>https://spectator.com/article/gen-z-going-back-physical-media/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/gen-z-going-back-physical-media/?edition=us</guid>
-            <dc:creator><![CDATA[Anastasia Brown]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 01:55:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of Japan’s organic right]]></title>
-            <description><![CDATA[By Gary Dexter]]></description>
-            <link>https://spectator.com/article/the-rise-of-japans-organic-right/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-japans-organic-right/?edition=us</guid>
-            <dc:creator><![CDATA[Gary Dexter]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defense of Little House on the Prairie]]></title>
-            <description><![CDATA[Television]]></description>
-            <link>https://spectator.com/article/in-defence-of-little-house-on-the-prairie/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-little-house-on-the-prairie/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jeanette Rubio, first lady in waiting?]]></title>
-            <description><![CDATA[Court circular]]></description>
-            <link>https://spectator.com/article/jeanette-rubio-first-lady-in-waiting/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/jeanette-rubio-first-lady-in-waiting/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Sarah Beth Spraggins]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 08:05:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Sep 2026 19:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 21:50:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Sep 2026 19:54:27 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 21:50:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The journey to Assisi, 800 years after St. Francis]]></title>
+            <description><![CDATA[By Jane Stannus]]></description>
+            <link>https://spectator.com/article/the-journey-to-assisi-800-years-after-st-francis/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-journey-to-assisi-800-years-after-st-francis/?edition=us</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 21:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bayeux Tapestry must never be returned to France]]></title>
+            <description><![CDATA[By Sahil Mahtani]]></description>
+            <link>https://spectator.com/article/the-bayeux-tapestry-must-never-be-returned-to-france/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-bayeux-tapestry-must-never-be-returned-to-france/?edition=us</guid>
+            <dc:creator><![CDATA[Sahil Mahtani]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 21:50:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where is liberalism heading?]]></title>
             <description><![CDATA[Freedom matters]]></description>
@@ -4015,22 +4031,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/the-scenic-route-2/?edition=us</guid>
             <dc:creator><![CDATA[Ian Belcher]]></dc:creator>
             <pubDate>Sun, 02 Aug 2026 13:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of mediated murder]]></title>
-            <description><![CDATA[By Katherine Dee]]></description>
-            <link>https://spectator.com/article/the-rise-of-mediated-murder/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-mediated-murder/?edition=us</guid>
-            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 13:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do deals get done at Sun Valley anymore?]]></title>
-            <description><![CDATA[By Kilby]]></description>
-            <link>https://spectator.com/article/do-deals-get-done-at-sun-valley-anymore/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/do-deals-get-done-at-sun-valley-anymore/?edition=us</guid>
-            <dc:creator><![CDATA[Kilby]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 10:26:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

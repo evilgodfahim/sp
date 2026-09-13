@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 21:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 23:52:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Sep 2026 21:57:30 GMT</pubDate>
+        <pubDate>Sun, 13 Sep 2026 23:52:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Double jeopardy: the story of history’s most audacious KGB defector]]></title>
+            <description><![CDATA[By Clare Mulley]]></description>
+            <link>https://spectator.com/article/double-jeopardy-the-story-of-historys-most-audacious-kgb-defector/</link>
+            <guid isPermaLink="true">https://spectator.com/article/double-jeopardy-the-story-of-historys-most-audacious-kgb-defector/</guid>
+            <dc:creator><![CDATA[Clare Mulley]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 23:52:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sunday shows round-up: Rayner warns that ‘you cannot buy your way into democracy’]]></title>
             <description><![CDATA[By Joe Bedell-Brill]]></description>
@@ -546,7 +554,7 @@
         </item>
         <item>
             <title><![CDATA[Can Britain learn from Sweden’s immigration crackdown?]]></title>
-            <description><![CDATA[Swede dreams]]></description>
+            <description><![CDATA[By Dean Godson]]></description>
             <link>https://spectator.com/article/can-britain-learn-from-swedens-immigration-crackdown/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-britain-learn-from-swedens-immigration-crackdown/</guid>
             <dc:creator><![CDATA[Dean Godson]]></dc:creator>
@@ -4044,14 +4052,6 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
             <link>https://spectator.com/article/enjoy-anglican-priests-while-you-still-can/</link>
             <guid isPermaLink="true">https://spectator.com/article/enjoy-anglican-priests-while-you-still-can/</guid>
             <dc:creator><![CDATA[Quentin Letts]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The great whataboutery delusion]]></title>
-            <description><![CDATA[By Peter Hitchens]]></description>
-            <link>https://spectator.com/article/the-great-whataboutery-delusion/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-great-whataboutery-delusion/</guid>
-            <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
             <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
         </item>
     </channel>

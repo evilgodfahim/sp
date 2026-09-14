@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 08:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 15:28:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 08:20:19 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The dark side of Japanese convenience stores]]></title>
+            <description><![CDATA[By Philip Patrick]]></description>
+            <link>https://spectator.com/article/the-dark-side-of-japanese-convenience-stores/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-dark-side-of-japanese-convenience-stores/?edition=us</guid>
+            <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tolkien knew the truth about power]]></title>
+            <description><![CDATA[By D.J. Taylor]]></description>
+            <link>https://spectator.com/article/tolkien-knew-the-truth-about-power/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/tolkien-knew-the-truth-about-power/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[D.J. Taylor]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My cave house’s wonderful history]]></title>
+            <description><![CDATA[Still life]]></description>
+            <link>https://spectator.com/article/my-cave-houses-wonderful-history/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-cave-houses-wonderful-history/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where is liberalism heading?]]></title>
+            <description><![CDATA[Freedom matters]]></description>
+            <link>https://spectator.com/article/where-is-liberalism-heading/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/where-is-liberalism-heading/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What will life look like on the Moon?]]></title>
+            <description><![CDATA[By Jonathan Morrison]]></description>
+            <link>https://spectator.com/article/what-will-life-look-like-on-the-moon/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-will-life-look-like-on-the-moon/?edition=us</guid>
+            <dc:creator><![CDATA[Jonathan Morrison]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The real reason AI is so frightening]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/the-real-reason-ai-is-so-frightening/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-ai-is-so-frightening/?edition=us</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scott Bessent versus the world]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/scott-bessent-versus-the-world/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/scott-bessent-versus-the-world/?edition=us</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dario Amodei and the apocalypse alchemists]]></title>
+            <description><![CDATA[By Sean Thomas]]></description>
+            <link>https://spectator.com/article/dario-amodei-and-the-ai-apocalypse-alchemists/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/dario-amodei-and-the-ai-apocalypse-alchemists/?edition=us</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The journey to Assisi, 800 years after St. Francis]]></title>
             <description><![CDATA[By Jane Stannus]]></description>
@@ -3967,70 +4031,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/the-welsh-governments-mad-decolonisation-plans/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The strange death of Islamism]]></title>
-            <description><![CDATA[By Paul Wood]]></description>
-            <link>https://spectator.com/article/the-strange-death-of-islamism/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-strange-death-of-islamism/?edition=us</guid>
-            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
-            <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I need literary Viagra]]></title>
-            <description><![CDATA[By William Cash]]></description>
-            <link>https://spectator.com/article/why-i-need-literary-viagra-at-60/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-i-need-literary-viagra-at-60/?edition=us</guid>
-            <dc:creator><![CDATA[William Cash]]></dc:creator>
-            <pubDate>Mon, 03 Aug 2026 12:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Come on: we all know Kellyanne Conway is above the Hatch Act]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/come-on-we-all-know-kellyanne-conway-is-above-the-hatch-act/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/come-on-we-all-know-kellyanne-conway-is-above-the-hatch-act/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Mon, 03 Aug 2026 05:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did Robert McNamara know Vietnam was unwinnable?]]></title>
-            <description><![CDATA[By Mark Piesing]]></description>
-            <link>https://spectator.com/article/did-robert-mcnamara-know-vietnam-was-unwinnable/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/did-robert-mcnamara-know-vietnam-was-unwinnable/?edition=us</guid>
-            <dc:creator><![CDATA[Mark Piesing]]></dc:creator>
-            <pubDate>Mon, 03 Aug 2026 05:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why do political elites insist on posing as outsiders?]]></title>
-            <description><![CDATA[Power struggle]]></description>
-            <link>https://spectator.com/article/why-do-political-elites-insist-on-posing-as-outsiders/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-do-political-elites-insist-on-posing-as-outsiders/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Carson Becker]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 17:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New York is built on the remnants of its past]]></title>
-            <description><![CDATA[By Peter Wood]]></description>
-            <link>https://spectator.com/article/new-york-is-built-on-the-remnants-of-its-past/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/new-york-is-built-on-the-remnants-of-its-past/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 17:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should politicians have tans?]]></title>
-            <description><![CDATA[Notes on...]]></description>
-            <link>https://spectator.com/article/should-politicians-have-tans/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/should-politicians-have-tans/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Christa D’Souza]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 17:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The scenic route]]></title>
-            <description><![CDATA[By Ian Belcher]]></description>
-            <link>https://spectator.com/article/the-scenic-route-2/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-scenic-route-2/?edition=us</guid>
-            <dc:creator><![CDATA[Ian Belcher]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 13:00:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

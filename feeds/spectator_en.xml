@@ -4,10 +4,98 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 02:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 08:20:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 02:31:46 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 08:20:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The real reason AI is so frightening]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/the-real-reason-ai-is-so-frightening/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-ai-is-so-frightening/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dario Amodei and the AI apocalypse alchemists]]></title>
+            <description><![CDATA[By Sean Thomas]]></description>
+            <link>https://spectator.com/article/dario-amodei-and-the-ai-apocalypse-alchemists/</link>
+            <guid isPermaLink="true">https://spectator.com/article/dario-amodei-and-the-ai-apocalypse-alchemists/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The paradox of Ealing Broadway’s ‘Calm Space’]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/the-paradox-of-ealing-broadways-calm-space/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-paradox-of-ealing-broadways-calm-space/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is reading really dead?]]></title>
+            <description><![CDATA[Author’s notebook]]></description>
+            <link>https://spectator.com/article/is-reading-really-dead/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-reading-really-dead/</guid>
+            <dc:creator><![CDATA[Sebastian Faulks]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chicken has never been trendier]]></title>
+            <description><![CDATA[Working towards the Colonel]]></description>
+            <link>https://spectator.com/article/chicken-has-become-trendy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/chicken-has-become-trendy/</guid>
+            <dc:creator><![CDATA[Matthew Bowles]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The revival of Bristol Cars is good news for Britain]]></title>
+            <description><![CDATA[Fighter]]></description>
+            <link>https://spectator.com/article/why-the-revival-of-the-bristol-is-good-news-for-great-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-revival-of-the-bristol-is-good-news-for-great-britain/</guid>
+            <dc:creator><![CDATA[Alec Marsh]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why we need noir]]></title>
+            <description><![CDATA[Hardboiled]]></description>
+            <link>https://spectator.com/article/why-we-need-noir/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-we-need-noir/</guid>
+            <dc:creator><![CDATA[Theo Zenou]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Israeli settlements lie]]></title>
+            <description><![CDATA[Israel]]></description>
+            <link>https://spectator.com/article/the-israeli-settlements-lie/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-israeli-settlements-lie/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Natasha Hausdorff]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The death of biblical literacy]]></title>
+            <description><![CDATA[Closed book]]></description>
+            <link>https://spectator.com/article/the-death-of-biblical-literacy/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-death-of-biblical-literacy/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Gwion Wyn Jones]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is reading really dead?]]></title>
+            <description><![CDATA[Author’s notebook]]></description>
+            <link>https://spectator.com/article/is-reading-really-dead/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-reading-really-dead/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Sebastian Faulks]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emma Barnett was never the right fit for Today]]></title>
+            <description><![CDATA[By Jonathan Maitland]]></description>
+            <link>https://spectator.com/article/emma-barnett-was-never-the-right-fit-for-today/</link>
+            <guid isPermaLink="true">https://spectator.com/article/emma-barnett-was-never-the-right-fit-for-today/</guid>
+            <dc:creator><![CDATA[Jonathan Maitland]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 08:20:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cuts to army training will have lethal consequences]]></title>
             <description><![CDATA[By Ben Barry]]></description>
@@ -18,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Is Britain racist? It depends who you ask – and what you watch online]]></title>
-            <description><![CDATA[By Jide Ehizele]]></description>
+            <description><![CDATA[Poilitics]]></description>
             <link>https://spectator.com/article/is-britain-racist-it-depends-who-you-ask-and-what-you-watch-online/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-britain-racist-it-depends-who-you-ask-and-what-you-watch-online/</guid>
             <dc:creator><![CDATA[Jide Ehizele]]></dc:creator>
@@ -106,7 +194,7 @@
         </item>
         <item>
             <title><![CDATA[What The Uprising gets wrong about the Peasants’ Revolt]]></title>
-            <description><![CDATA[By Patrick West]]></description>
+            <description><![CDATA[Film]]></description>
             <link>https://spectator.com/article/what-the-uprising-gets-wrong-about-the-peasants-revolt/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-the-uprising-gets-wrong-about-the-peasants-revolt/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -146,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[The pathetic pearl clutching over Reform’s donations]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
+            <description><![CDATA[Money talks]]></description>
             <link>https://spectator.com/article/a-record-breaking-36-million-donation-to-reform-announced-last-night-from-ben-delo-has-been-matched-today-by-christopher-harborne/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-record-breaking-36-million-donation-to-reform-announced-last-night-from-ben-delo-has-been-matched-today-by-christopher-harborne/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
@@ -242,7 +330,7 @@
         </item>
         <item>
             <title><![CDATA[The Bayeux Tapestry must never be returned to France]]></title>
-            <description><![CDATA[By Sahil Mahtani]]></description>
+            <description><![CDATA[History]]></description>
             <link>https://spectator.com/article/the-bayeux-tapestry-must-never-be-returned-to-france/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-bayeux-tapestry-must-never-be-returned-to-france/</guid>
             <dc:creator><![CDATA[Sahil Mahtani]]></dc:creator>
@@ -642,7 +730,7 @@ Twenty years after the Jackdaw field was first successfully prospected, it will,
         </item>
         <item>
             <title><![CDATA[The Israeli settlements lie]]></title>
-            <description><![CDATA[By Natasha Hausdorff]]></description>
+            <description><![CDATA[Israel]]></description>
             <link>https://spectator.com/article/the-israeli-settlements-lie/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-israeli-settlements-lie/</guid>
             <dc:creator><![CDATA[Natasha Hausdorff]]></dc:creator>
@@ -650,7 +738,7 @@ Twenty years after the Jackdaw field was first successfully prospected, it will,
         </item>
         <item>
             <title><![CDATA[The death of biblical literacy]]></title>
-            <description><![CDATA[By Gwion Wyn Jones]]></description>
+            <description><![CDATA[Closed book]]></description>
             <link>https://spectator.com/article/the-death-of-biblical-literacy/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-death-of-biblical-literacy/</guid>
             <dc:creator><![CDATA[Gwion Wyn Jones]]></dc:creator>
@@ -3947,112 +4035,6 @@ It’s not the press that needs to be investigated and held to account. If newsp
             <guid isPermaLink="true">https://spectator.com/article/why-are-more-women-trying-to-cross-the-channel/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
             <pubDate>Thu, 20 Aug 2026 02:11:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The genius of Romeo Castellucci]]></title>
-            <description><![CDATA[Birds do not sing. They bleep and rattle and buzz like a dial-up modem. That we consider what comes out of those pointy mouths as synonymous with natural beauty and the highest achievements of melody is all down to a musical sleight of hand – centuries of gaslighting and free PR from classical music. The first composer to level with us, to faithfully transcribe the monstrous noises that these creatures actually make, was Olivier Messiaen.
-
-
-
-His music is stuffed with this fabulous fax-machine weirdness. It reaches an apotheosis in his massive opera Saint François d’Assise (1983) – six hours with intervals.]]></description>
-            <link>https://spectator.com/article/the-genius-of-romeo-castellucci/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-genius-of-romeo-castellucci/</guid>
-            <dc:creator><![CDATA[Igor Toronyi-Lalic]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This giant of romanticism deserves so much more]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/this-giant-of-romanticism-deserves-so-much-more/</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-giant-of-romanticism-deserves-so-much-more/</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Alley Cats really that bad?]]></title>
-            <description><![CDATA[By James Walton]]></description>
-            <link>https://spectator.com/article/is-alley-cats-really-that-bad/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-alley-cats-really-that-bad/</guid>
-            <dc:creator><![CDATA[James Walton]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stars can’t rescue this snooze-fest]]></title>
-            <description><![CDATA[By Deborah Ross]]></description>
-            <link>https://spectator.com/article/stars-cant-rescue-this-snooze-fest/</link>
-            <guid isPermaLink="true">https://spectator.com/article/stars-cant-rescue-this-snooze-fest/</guid>
-            <dc:creator><![CDATA[Deborah Ross]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The joy of Toto’s ‘Africa’]]></title>
-            <description><![CDATA[By Michael Hann]]></description>
-            <link>https://spectator.com/article/the-joy-of-totos-africa/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-joy-of-totos-africa/</guid>
-            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The star of the Fringe]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/the-star-of-the-fringe/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-star-of-the-fringe/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The man who – inadvertently – invented the 1970s]]></title>
-            <description><![CDATA[By Jonathan Meades]]></description>
-            <link>https://spectator.com/article/the-man-who-inadvertently-invented-the-1970s/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-man-who-inadvertently-invented-the-1970s/</guid>
-            <dc:creator><![CDATA[Jonathan Meades]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could a round of golf be the answer to racing’s problems?]]></title>
-            <description><![CDATA[I don’t want you getting the impression that I fritter away my life on a golf course, but when I was asked to join a Knights vs Commoners/Chairmen match at Sunningdale last week, I couldn’t resist, even though I’m injured. No better place to find out what’s going on in the racing world than shooting the breeze during 18 holes at ‘the dale’.
-
-
-
-The Knights were led by Sir A.P. McCoy, who looks a bit like Bryson DeChambeau when he lines up to hit the ball, but not so much afterwards. His partner was Sir Francis Brooke, the King’s man at Ascot.
-
-
-
-
-
-‘So you’re not playing, so you’re not?’ A.P. asked. Or something like that. ‘Lateral epicondylitis,’ I replied, shaking my head gravely. I knew he’d pour scorn on me if I let slip this was no more than tennis elbow.]]></description>
-            <link>https://spectator.com/article/could-a-round-of-golf-be-the-answer-to-racings-problems/</link>
-            <guid isPermaLink="true">https://spectator.com/article/could-a-round-of-golf-be-the-answer-to-racings-problems/</guid>
-            <dc:creator><![CDATA[Charlie Brooks]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I want to be a good father – like Machiavelli]]></title>
-            <description><![CDATA[Dolce Vita]]></description>
-            <link>https://spectator.com/article/i-want-to-be-a-good-father-like-machiavelli/</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-want-to-be-a-good-father-like-machiavelli/</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s still time to save the West]]></title>
-            <description><![CDATA[When The Spectator asked me whether I would write an essay on ‘Why we need to strengthen the West’, I was delighted – and bemused. Why is this even up for debate? That we must explain and justify ‘the West’ at all indicates just how weak it has become. It would be better if it did not need strengthening at all but the truth is that the West has become an invalid.
-
-
-
-What exactly, though, needs to be strengthened? The West is an idea, not a location. It is not a matter of geography, it is a way of life. The idea of the West rests on four pillars: Athens – where democracy was born. Rome – the cradle of the rule of law. Jerusalem – where Judeo-Christian values placed the inviolable dignity of the individual at the centre.]]></description>
-            <link>https://spectator.com/article/theres-still-time-to-save-the-west/</link>
-            <guid isPermaLink="true">https://spectator.com/article/theres-still-time-to-save-the-west/</guid>
-            <dc:creator><![CDATA[Mathias Döpfner]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I watched Chris Packham’s climate crisis film so you don’t have to]]></title>
-            <description><![CDATA[By Tali Fraser]]></description>
-            <link>https://spectator.com/article/i-watched-chris-packhams-climate-crisis-film-so-you-dont-have-to/</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-watched-chris-packhams-climate-crisis-film-so-you-dont-have-to/</guid>
-            <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

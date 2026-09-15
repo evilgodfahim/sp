@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 23:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 02:35:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 23:36:56 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 02:35:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ireland’s embarrassing fawning over Donald Trump]]></title>
+            <description><![CDATA[By Andrew McQuillan]]></description>
+            <link>https://spectator.com/article/irelands-embarrassing-fawning-over-donald-trump/</link>
+            <guid isPermaLink="true">https://spectator.com/article/irelands-embarrassing-fawning-over-donald-trump/</guid>
+            <dc:creator><![CDATA[Andrew McQuillan]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 02:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cynical genius of Sydney Sweeney’s latest advert]]></title>
+            <description><![CDATA[By Paul Burke]]></description>
+            <link>https://spectator.com/article/the-cynical-genius-of-sydney-sweeneys-latest-advert/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-cynical-genius-of-sydney-sweeneys-latest-advert/</guid>
+            <dc:creator><![CDATA[Paul Burke]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 02:35:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The journey to Assisi, 800 years after St. Francis]]></title>
             <description><![CDATA[‘Assisi – best spiritual vibrations anywhere I’ve been, along with India,’ enthused the mustached British man next to me on the bus to Florence. Pleased to find a fellow anglophone, he chatted away happily, telling me how he’d retired, sold his house in London and moved to Assisi. He hadn’t yet learnt Italian but could manage enough Sanskrit to read the Upanishads.
@@ -4022,22 +4038,6 @@ It’s not the press that needs to be investigated and held to account. If newsp
             <link>https://spectator.com/article/i-love-cape-town-but-its-not-africa/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-love-cape-town-but-its-not-africa/</guid>
             <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 08:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Baby Gabriel-Rumi is the latest victim of the global surrogacy business]]></title>
-            <description><![CDATA[By Mary Wakefield]]></description>
-            <link>https://spectator.com/article/baby-gabriel-rumi-is-the-latest-victim-of-the-global-surrogacy-business/</link>
-            <guid isPermaLink="true">https://spectator.com/article/baby-gabriel-rumi-is-the-latest-victim-of-the-global-surrogacy-business/</guid>
-            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 08:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[J’accuse Will Self]]></title>
-            <description><![CDATA[By Melissa Kite]]></description>
-            <link>https://spectator.com/article/jaccuse-will-self/</link>
-            <guid isPermaLink="true">https://spectator.com/article/jaccuse-will-self/</guid>
-            <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
             <pubDate>Thu, 20 Aug 2026 08:26:45 GMT</pubDate>
         </item>
     </channel>

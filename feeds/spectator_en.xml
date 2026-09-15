@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 14:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 18:36:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 14:00:55 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 18:36:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reform’s Wales leader stands down following arrest]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/reforms-wales-leader-stands-down-following-arrest/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reforms-wales-leader-stands-down-following-arrest/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 18:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are school dinners really making kids fat?]]></title>
             <description><![CDATA[By Sam McPhail]]></description>
@@ -57,7 +65,7 @@
             <pubDate>Tue, 15 Sep 2026 14:00:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why the Thirlwall Inquiry won’t change the NHS]]></title>
+            <title><![CDATA[Why the Lucy Letby Inquiry won’t change the NHS]]></title>
             <description><![CDATA[By Isabel Hardman]]></description>
             <link>https://spectator.com/article/why-the-thirlwall-inquiry-wont-change-the-nhs/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-thirlwall-inquiry-wont-change-the-nhs/</guid>
@@ -4027,14 +4035,6 @@ It’s not the press that needs to be investigated and held to account. If newsp
             <guid isPermaLink="true">https://spectator.com/article/the-nujs-grotesque-jason-arday-rant-is-the-final-straw/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 11:17:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain’s books are getting harder than ever to balance]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/britains-books-are-getting-harder-than-ever-to-balance/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britains-books-are-getting-harder-than-ever-to-balance/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 10:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 13:54:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 17:52:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 13:54:32 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 17:52:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is my high-school classmate releasing an AI-generated novel?]]></title>
+            <description><![CDATA[By Katherine Dee]]></description>
+            <link>https://spectator.com/article/girl-high-school-ai-generated-novel/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/girl-high-school-ai-generated-novel/?edition=us</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 17:52:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Piddington and the idiocy of British middle-class progressivism]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/piddington-and-the-idiocy-of-middle-class-progressivism/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/piddington-and-the-idiocy-of-middle-class-progressivism/?edition=us</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 17:52:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Trump abandoned the Rust Belt]]></title>
             <description><![CDATA[The NAFTA betrayal]]></description>
@@ -4015,22 +4031,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/china-heir-odyssey-cultural-revolution/?edition=us</guid>
             <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 21:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China is the heir to The Odyssey]]></title>
-            <description><![CDATA[By Geoffrey Cain]]></description>
-            <link>https://spectator.com/article/china-is-the-heir-to-the-odyssey/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/china-is-the-heir-to-the-odyssey/?edition=us</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 19:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turtle doves and the myth of rewilding]]></title>
-            <description><![CDATA[By Matt Ridley]]></description>
-            <link>https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:53:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

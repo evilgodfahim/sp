@@ -4,10 +4,90 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 02:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 08:06:05 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 02:30:04 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Never trust a happy jogger]]></title>
+            <description><![CDATA[No life]]></description>
+            <link>https://spectator.com/article/never-trust-a-happy-jogger/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/never-trust-a-happy-jogger/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My midnight naked swim]]></title>
+            <description><![CDATA[Still life]]></description>
+            <link>https://spectator.com/article/my-midnight-naked-swim/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-midnight-naked-swim/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another cost of living crisis is coming]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/another-cost-of-living-crisis-is-coming/</link>
+            <guid isPermaLink="true">https://spectator.com/article/another-cost-of-living-crisis-is-coming/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should Andy Burnham really appoint C of E bishops?]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/should-andy-burnham-really-appoint-c-of-e-bishops/</link>
+            <guid isPermaLink="true">https://spectator.com/article/should-andy-burnham-really-appoint-c-of-e-bishops/</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holborn and St Pancras is a bizarre constituency]]></title>
+            <description><![CDATA[By-election]]></description>
+            <link>https://spectator.com/article/holborn-and-st-pancras-is-a-bizarre-constituency/</link>
+            <guid isPermaLink="true">https://spectator.com/article/holborn-and-st-pancras-is-a-bizarre-constituency/</guid>
+            <dc:creator><![CDATA[James Hanson]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where have all the Normans gone?]]></title>
+            <description><![CDATA[Notes]]></description>
+            <link>https://spectator.com/article/where-have-all-the-normans-gone/</link>
+            <guid isPermaLink="true">https://spectator.com/article/where-have-all-the-normans-gone/</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sydney Sweeney is hot. Who cares?]]></title>
+            <description><![CDATA[Desire 101]]></description>
+            <link>https://spectator.com/article/sydney-sweeney-is-hot-who-cares/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sydney-sweeney-is-hot-who-cares/</guid>
+            <dc:creator><![CDATA[Tom Jones]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brown furniture isn’t dead]]></title>
+            <description><![CDATA[Commode chic]]></description>
+            <link>https://spectator.com/article/brown-furniture-isnt-dead/</link>
+            <guid isPermaLink="true">https://spectator.com/article/brown-furniture-isnt-dead/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I love the English]]></title>
+            <description><![CDATA[Anglophilia]]></description>
+            <link>https://spectator.com/article/why-i-love-the-english/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-i-love-the-english/</guid>
+            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where have all the Normans gone?]]></title>
+            <description><![CDATA[Notes]]></description>
+            <link>https://spectator.com/article/where-have-all-the-normans-gone/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/where-have-all-the-normans-gone/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jews aren’t safe in the NHS]]></title>
             <description><![CDATA[By Joanna Williams]]></description>
@@ -34,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Did demographics decide the Swedish election?]]></title>
-            <description><![CDATA[By Fredrik Karrholm]]></description>
+            <description><![CDATA[Europe]]></description>
             <link>https://spectator.com/article/did-demographics-decide-the-swedish-election/</link>
             <guid isPermaLink="true">https://spectator.com/article/did-demographics-decide-the-swedish-election/</guid>
             <dc:creator><![CDATA[Fredrik Karrholm]]></dc:creator>
@@ -66,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[My issue with Trafalgar Square’s ‘Lady in Blue’]]></title>
-            <description><![CDATA[Fourth plinth]]></description>
+            <description><![CDATA[By Patrick West]]></description>
             <link>https://spectator.com/article/my-issue-with-the-lady-in-blue/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-issue-with-the-lady-in-blue/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -74,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[Why the Lucy Letby Inquiry won’t change the NHS]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
+            <description><![CDATA[Scandal]]></description>
             <link>https://spectator.com/article/why-the-thirlwall-inquiry-wont-change-the-nhs/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-thirlwall-inquiry-wont-change-the-nhs/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -82,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[The horror of Britain’s broken borders]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
+            <description><![CDATA[Sex attack]]></description>
             <link>https://spectator.com/article/the-horror-of-britains-broken-borders/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-horror-of-britains-broken-borders/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -154,7 +234,7 @@
         </item>
         <item>
             <title><![CDATA[Podcasts are making us stupider]]></title>
-            <description><![CDATA[The Rest is Tedium]]></description>
+            <description><![CDATA[By Poppie Platt]]></description>
             <link>https://spectator.com/article/the-case-against-podcasts/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-case-against-podcasts/</guid>
             <dc:creator><![CDATA[Poppie Platt]]></dc:creator>
@@ -162,7 +242,7 @@
         </item>
         <item>
             <title><![CDATA[Americans can’t write funny novels]]></title>
-            <description><![CDATA[Falling Flatsby]]></description>
+            <description><![CDATA[By Alys Denby]]></description>
             <link>https://spectator.com/article/why-americans-cant-write-funny-novels/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-americans-cant-write-funny-novels/</guid>
             <dc:creator><![CDATA[Alys Denby]]></dc:creator>
@@ -170,7 +250,7 @@
         </item>
         <item>
             <title><![CDATA[Packed lunches are tragic]]></title>
-            <description><![CDATA[Lunch like a man]]></description>
+            <description><![CDATA[By William Atkinson]]></description>
             <link>https://spectator.com/article/packed-lunches-are-tragic/</link>
             <guid isPermaLink="true">https://spectator.com/article/packed-lunches-are-tragic/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
@@ -514,7 +594,7 @@
         </item>
         <item>
             <title><![CDATA[Never trust a happy jogger]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
+            <description><![CDATA[No life]]></description>
             <link>https://spectator.com/article/never-trust-a-happy-jogger/</link>
             <guid isPermaLink="true">https://spectator.com/article/never-trust-a-happy-jogger/</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
@@ -906,7 +986,7 @@
         </item>
         <item>
             <title><![CDATA[My midnight naked swim]]></title>
-            <description><![CDATA[By Catriona Olding]]></description>
+            <description><![CDATA[Still life]]></description>
             <link>https://spectator.com/article/my-midnight-naked-swim/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-midnight-naked-swim/</guid>
             <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
@@ -1054,7 +1134,7 @@ Yvonne, who also happens to be multilingual, banters with her in Italian and Ger
         </item>
         <item>
             <title><![CDATA[The Grand Tour is the perfect TV to pass out to]]></title>
-            <description><![CDATA[Television]]></description>
+            <description><![CDATA[By James Delingpole]]></description>
             <link>https://spectator.com/article/the-grand-tour-is-the-perfect-tv-to-pass-out-to/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-grand-tour-is-the-perfect-tv-to-pass-out-to/</guid>
             <dc:creator><![CDATA[James Delingpole]]></dc:creator>
@@ -3955,86 +4035,6 @@ It’s not the press that needs to be investigated and held to account. If newsp
             <guid isPermaLink="true">https://spectator.com/article/zia-yusuf-gives-me-the-ick/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 05:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parents should be held responsible for the crimes of their children]]></title>
-            <description><![CDATA[By Cristina Odone]]></description>
-            <link>https://spectator.com/article/parents-should-be-held-responsible-for-the-crimes-of-their-children/</link>
-            <guid isPermaLink="true">https://spectator.com/article/parents-should-be-held-responsible-for-the-crimes-of-their-children/</guid>
-            <dc:creator><![CDATA[Cristina Odone]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 05:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Harry and Meghan move to the Cotswolds?]]></title>
-            <description><![CDATA[By Arabella Byrne]]></description>
-            <link>https://spectator.com/article/will-harry-and-meghan-move-to-the-cotswolds/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-harry-and-meghan-move-to-the-cotswolds/</guid>
-            <dc:creator><![CDATA[Arabella Byrne]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 04:23:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the high-street pharmacy in danger?]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/is-the-high-street-pharmacy-in-danger/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-high-street-pharmacy-in-danger/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 00:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why won’t the UK curtail the Muslim Brotherhood?]]></title>
-            <description><![CDATA[By Robin Simcox]]></description>
-            <link>https://spectator.com/article/why-wont-the-uk-curtail-the-muslim-brotherhood/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-wont-the-uk-curtail-the-muslim-brotherhood/</guid>
-            <dc:creator><![CDATA[Robin Simcox]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 17:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry is paying for his hubris]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/harry-is-paying-for-his-hubris/</link>
-            <guid isPermaLink="true">https://spectator.com/article/harry-is-paying-for-his-hubris/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 17:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This year’s silly season has turned sinister]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
-            <link>https://spectator.com/article/this-years-silly-season-has-turned-sinister/</link>
-            <guid isPermaLink="true">https://spectator.com/article/this-years-silly-season-has-turned-sinister/</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 16:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How will harsh US sanctions on Iran play out?]]></title>
-            <description><![CDATA[By Charles Lipson]]></description>
-            <link>https://spectator.com/article/harsh-sanctions-iran-play-out/</link>
-            <guid isPermaLink="true">https://spectator.com/article/harsh-sanctions-iran-play-out/</guid>
-            <dc:creator><![CDATA[Charles Lipson]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 14:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Obamas are to blame for the Sussexes’ failure in the US]]></title>
-            <description><![CDATA[By David Christopher Kaufman]]></description>
-            <link>https://spectator.com/article/the-obamas-are-to-blame-for-the-sussexess-failure-in-the-us/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-obamas-are-to-blame-for-the-sussexess-failure-in-the-us/</guid>
-            <dc:creator><![CDATA[David Christopher Kaufman]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 13:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lucy Powell would be mad to undo the Tories’ school reforms]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/lucy-powell-would-be-mad-to-undo-the-tories-school-reforms/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lucy-powell-would-be-mad-to-undo-the-tories-school-reforms/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 13:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A defection to the AfD has rattled Germany’s ruling party]]></title>
-            <description><![CDATA[By Elisabeth Dampier]]></description>
-            <link>https://spectator.com/article/a-defection-to-the-afd-has-rattled-germanys-ruling-party/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-defection-to-the-afd-has-rattled-germanys-ruling-party/</guid>
-            <dc:creator><![CDATA[Elisabeth Dampier]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 13:38:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

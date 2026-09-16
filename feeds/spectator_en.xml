@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 23:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 02:30:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 23:50:49 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 02:30:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jews aren’t safe in the NHS]]></title>
+            <description><![CDATA[By Joanna Williams]]></description>
+            <link>https://spectator.com/article/jews-arent-safe-in-the-nhs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/jews-arent-safe-in-the-nhs/</guid>
+            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 02:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reform’s Wales leader stands down following arrest]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -250,7 +258,7 @@
         </item>
         <item>
             <title><![CDATA[When will the Ceuta disaster end?]]></title>
-            <description><![CDATA[Spain]]></description>
+            <description><![CDATA[By Jim Lawley]]></description>
             <link>https://spectator.com/article/when-will-the-ceuta-disaster-end/</link>
             <guid isPermaLink="true">https://spectator.com/article/when-will-the-ceuta-disaster-end/</guid>
             <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
@@ -4027,14 +4035,6 @@ It’s not the press that needs to be investigated and held to account. If newsp
             <guid isPermaLink="true">https://spectator.com/article/a-defection-to-the-afd-has-rattled-germanys-ruling-party/</guid>
             <dc:creator><![CDATA[Elisabeth Dampier]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 13:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The NUJ’s grotesque Jason Arday rant is the final straw]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
-            <link>https://spectator.com/article/the-nujs-grotesque-jason-arday-rant-is-the-final-straw/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-nujs-grotesque-jason-arday-rant-is-the-final-straw/</guid>
-            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 11:17:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

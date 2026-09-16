@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 08:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 13:54:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 08:06:05 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 13:54:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Thirlwall report makes for grim reading for Lucy Letby’s supporters]]></title>
+            <description><![CDATA[Crime]]></description>
+            <link>https://spectator.com/article/the-thirlwall-report-makes-for-grim-reading-for-lucy-letbys-supporters/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-thirlwall-report-makes-for-grim-reading-for-lucy-letbys-supporters/</guid>
+            <dc:creator><![CDATA[Christopher Snowdon]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Green party activists turn on ‘genocide denier’ Zack Polanski]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/green-party-activists-turn-on-genocide-denier-zack-polanski/</link>
+            <guid isPermaLink="true">https://spectator.com/article/green-party-activists-turn-on-genocide-denier-zack-polanski/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Labour MP calls for war against Israel]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-labour-mp-calls-for-war-against-israel/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-labour-mp-calls-for-war-against-israel/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why was the BBC so surprised to meet an AI doomer?]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/why-was-the-bbc-so-surprised-to-meet-an-ai-doomer-2/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-was-the-bbc-so-surprised-to-meet-an-ai-doomer-2/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Reform in Wales turn it around?]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/can-reform-in-wales-turn-it-around/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-reform-in-wales-turn-it-around/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Piddington and the idiocy of middle-class progressivism]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/piddington-and-the-idiocy-of-middle-class-progressivism/</link>
+            <guid isPermaLink="true">https://spectator.com/article/piddington-and-the-idiocy-of-middle-class-progressivism/</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Never trust a happy jogger]]></title>
             <description><![CDATA[No life]]></description>
@@ -90,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Jews aren’t safe in the NHS]]></title>
-            <description><![CDATA[By Joanna Williams]]></description>
+            <description><![CDATA[Emergency]]></description>
             <link>https://spectator.com/article/jews-arent-safe-in-the-nhs/</link>
             <guid isPermaLink="true">https://spectator.com/article/jews-arent-safe-in-the-nhs/</guid>
             <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
@@ -154,7 +202,7 @@
         </item>
         <item>
             <title><![CDATA[Why the Lucy Letby Inquiry won’t change the NHS]]></title>
-            <description><![CDATA[Scandal]]></description>
+            <description><![CDATA[By Isabel Hardman]]></description>
             <link>https://spectator.com/article/why-the-thirlwall-inquiry-wont-change-the-nhs/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-thirlwall-inquiry-wont-change-the-nhs/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -3987,54 +4035,6 @@ It’s not the press that needs to be investigated and held to account. If newsp
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-cant-get-enough-of-reviews-and-consultations/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 07:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain is in for a difficult autumn]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/britain-is-in-for-a-difficult-autumn/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-is-in-for-a-difficult-autumn/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 06:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enjoy Anglican priests while you still can]]></title>
-            <description><![CDATA[By Quentin Letts]]></description>
-            <link>https://spectator.com/article/enjoy-anglican-priests-while-you-still-can/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/enjoy-anglican-priests-while-you-still-can/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Quentin Letts]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 06:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why won’t the UK curtail the Muslim Brotherhood?]]></title>
-            <description><![CDATA[Running scared]]></description>
-            <link>https://spectator.com/article/why-wont-the-uk-curtail-the-muslim-brotherhood/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-wont-the-uk-curtail-the-muslim-brotherhood/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Robin Simcox]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 06:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death to the dinner party!]]></title>
-            <description><![CDATA[Whine and dine]]></description>
-            <link>https://spectator.com/article/death-to-the-dinner-party/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/death-to-the-dinner-party/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Harry Mount]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 06:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bond’s identity crisis mirrors Britain’s]]></title>
-            <description><![CDATA[Culture]]></description>
-            <link>https://spectator.com/article/bonds-identity-crisis-mirrors-britains/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/bonds-identity-crisis-mirrors-britains/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 06:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zia Yusuf gives me the ick]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/zia-yusuf-gives-me-the-ick/</link>
-            <guid isPermaLink="true">https://spectator.com/article/zia-yusuf-gives-me-the-ick/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 05:18:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

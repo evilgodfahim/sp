@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 08:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 13:54:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 08:05:57 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 13:54:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Trump abandoned the Rust Belt]]></title>
+            <description><![CDATA[The NAFTA betrayal]]></description>
+            <link>https://spectator.com/article/how-trump-abandoned-the-rust-belt/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-trump-abandoned-the-rust-belt/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[John R. MacArthur]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The death of biblical literacy]]></title>
+            <description><![CDATA[By Gwion Wyn Jones]]></description>
+            <link>https://spectator.com/article/the-death-of-biblical-literacy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-death-of-biblical-literacy/?edition=us</guid>
+            <dc:creator><![CDATA[Gwion Wyn Jones]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is my high-school classmate releasing an AI-generated novel?]]></title>
+            <description><![CDATA[By Katherine Dee]]></description>
+            <link>https://spectator.com/article/girl-high-school-ai-generated-novel/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/girl-high-school-ai-generated-novel/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the government deliberately disrupting the prediction markets?]]></title>
+            <description><![CDATA[Side bet]]></description>
+            <link>https://spectator.com/article/is-the-government-deliberately-disrupting-the-prediction-markets/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-government-deliberately-disrupting-the-prediction-markets/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Alex Bronzini-Vender]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Machines are replacing the Chinese working class]]></title>
+            <description><![CDATA[By Jacob Dreyer]]></description>
+            <link>https://spectator.com/article/as-chinas-population-falls-machines-are-replacing-the-working-class/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/as-chinas-population-falls-machines-are-replacing-the-working-class/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Dreyer]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The new age of influence campaigns]]></title>
+            <description><![CDATA[By Allum Bokhari]]></description>
+            <link>https://spectator.com/article/if-social-media-is-the-most-important-battlefield-who-is-winning/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/if-social-media-is-the-most-important-battlefield-who-is-winning/?edition=us</guid>
+            <dc:creator><![CDATA[Allum Bokhari]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 13:54:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[George ‘R&R’ Martin takes it easy]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -3983,54 +4031,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/turtle-doves-and-the-myth-of-rewilding/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 12:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The strange death of Islamism]]></title>
-            <description><![CDATA[Islamism]]></description>
-            <link>https://spectator.com/article/the-strange-death-of-islamism/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-strange-death-of-islamism/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Paul Wood]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s posts aren’t alpha]]></title>
-            <description><![CDATA[By Vuk Vukovic]]></description>
-            <link>https://spectator.com/article/trumps-posts-arent-alpha/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-posts-arent-alpha/?edition=us</guid>
-            <dc:creator><![CDATA[Vuk Vukovic]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Democrats’ Big Tent excuse]]></title>
-            <description><![CDATA[By Alex Castellanos]]></description>
-            <link>https://spectator.com/article/the-democratic-partys-big-tent-is-a-big-mistake/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-democratic-partys-big-tent-is-a-big-mistake/?edition=us</guid>
-            <dc:creator><![CDATA[Alex Castellanos]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 10:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two wars are becoming one]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/two-wars-are-becoming-one/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/two-wars-are-becoming-one/?edition=us</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 10:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wicked exploitation of Ariana Grande]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/ariana-grande-wicked-bodyweight/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ariana-grande-wicked-bodyweight/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 04:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ariana Grande’s wicked bodyweight]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/ariana-grandes-wicked-bodyweight/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ariana-grandes-wicked-bodyweight/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 01:43:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

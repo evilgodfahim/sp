@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 16:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 19:20:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 16:50:25 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 19:20:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Andy Burnham’s deafening silence on the Russian threat isn’t sustainable]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/andy-burnhams-deafening-silence-on-the-russian-threat-isnt-sustainable/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-deafening-silence-on-the-russian-threat-isnt-sustainable/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 19:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Michael Nazir-Ali: Pakistani Christians fear backlash over Lambeth Palace award]]></title>
             <description><![CDATA[By Patrick Gibbons]]></description>
@@ -4038,14 +4046,6 @@ It’s not the press that needs to be investigated and held to account. If newsp
             <link>https://spectator.com/article/the-joy-of-aphrodisiacs/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-joy-of-aphrodisiacs/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 04:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gen Z are falling in love with Morrissey]]></title>
-            <description><![CDATA[By Matthew Bowles]]></description>
-            <link>https://spectator.com/article/gen-z-are-falling-in-love-with-morrissey/</link>
-            <guid isPermaLink="true">https://spectator.com/article/gen-z-are-falling-in-love-with-morrissey/</guid>
-            <dc:creator><![CDATA[Matthew Bowles]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 04:30:54 GMT</pubDate>
         </item>
     </channel>

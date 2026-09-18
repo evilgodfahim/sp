@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 12:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 16:50:21 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 12:31:13 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 16:50:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Another AfD win could mean the end for Germany’s embattled chancellor]]></title>
+            <description><![CDATA[By Constantin Eckner]]></description>
+            <link>https://spectator.com/article/another-afd-win-could-mean-the-end-for-germanys-embattled-chancellor/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/another-afd-win-could-mean-the-end-for-germanys-embattled-chancellor/?edition=us</guid>
+            <dc:creator><![CDATA[Constantin Eckner]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 16:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI is cosmic justice for the professional classes]]></title>
+            <description><![CDATA[By Maximillian Garely]]></description>
+            <link>https://spectator.com/article/ai-is-cosmic-justice-for-the-professional-classes/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ai-is-cosmic-justice-for-the-professional-classes/?edition=us</guid>
+            <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 16:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peace in Ukraine – or more war in Eastern Europe?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/peace-in-ukraine-or-more-war-in-eastern-europe/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/peace-in-ukraine-or-more-war-in-eastern-europe/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 16:50:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fraternizing with Les Aligoteurs]]></title>
             <description><![CDATA[By Roger Kimball]]></description>
@@ -4013,30 +4037,6 @@ My favorite ever email came from a friend and fellow hack, Roland White. It said
             <guid isPermaLink="true">https://spectator.com/article/how-black-lives-matter-created-jason-arday/?edition=us</guid>
             <dc:creator><![CDATA[Tom Slater]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 11:38:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The man who could topple Benjamin Netanyahu]]></title>
-            <description><![CDATA[By Arieh Kovler]]></description>
-            <link>https://spectator.com/article/bye-bye-bibi/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/bye-bye-bibi/?edition=us</guid>
-            <dc:creator><![CDATA[Arieh Kovler]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 11:38:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amanda Knox should not do comedy]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/amanda-knox-should-not-do-comedy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/amanda-knox-should-not-do-comedy/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 09:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rod’s bravery made others brave too]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/rods-bravery-made-others-brave-too/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/rods-bravery-made-others-brave-too/?edition=us</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 04:48:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

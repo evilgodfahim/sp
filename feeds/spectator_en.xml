@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 07:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 12:31:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 07:47:00 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 12:31:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The mystery of Canada’s ‘associate membership’ of the EU]]></title>
+            <description><![CDATA[By Andrew Lilico]]></description>
+            <link>https://spectator.com/article/the-mystery-of-canadas-associate-membership-of-the-eu/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-mystery-of-canadas-associate-membership-of-the-eu/</guid>
+            <dc:creator><![CDATA[Andrew Lilico]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 12:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mark Carney will regret tying Canada to the EU]]></title>
+            <description><![CDATA[By Jonathan Saxty]]></description>
+            <link>https://spectator.com/article/mark-carney-will-regret-tying-canada-to-the-eu/</link>
+            <guid isPermaLink="true">https://spectator.com/article/mark-carney-will-regret-tying-canada-to-the-eu/</guid>
+            <dc:creator><![CDATA[Jonathan Saxty]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 12:31:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Weekend wagers and an ante-post tip]]></title>
             <description><![CDATA[Jockey Saffie Osborne has the world at her feet. She’s talented, young, attractive, personable, ambitious, well-connected and much more. I have no doubt she is on her way to being a global superstar in the sport of racing and beyond.
@@ -4031,22 +4047,6 @@ It’s not the press that needs to be investigated and held to account. If newsp
             <guid isPermaLink="true">https://spectator.com/article/is-social-media-causing-dangerous-driving/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Devon’s maternity desert shames Britain]]></title>
-            <description><![CDATA[By Simon Heptinstall]]></description>
-            <link>https://spectator.com/article/what-north-devons-maternity-closure-tells-us-about-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-north-devons-maternity-closure-tells-us-about-britain/</guid>
-            <dc:creator><![CDATA[Simon Heptinstall]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 15:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Poland have an image problem?]]></title>
-            <description><![CDATA[By Piotr Wilczek]]></description>
-            <link>https://spectator.com/article/does-poland-have-an-image-problem/</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-poland-have-an-image-problem/</guid>
-            <dc:creator><![CDATA[Piotr Wilczek]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 14:35:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

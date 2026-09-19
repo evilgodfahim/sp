@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 13:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 16:55:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 13:44:38 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 16:55:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A sumptuous set that’s too good for the play]]></title>
+            <description><![CDATA[By Lloyd Evans]]></description>
+            <link>https://spectator.com/article/a-sumptuous-set-thats-too-good-for-the-play/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-sumptuous-set-thats-too-good-for-the-play/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 16:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Church of England is destroying itself]]></title>
+            <description><![CDATA[Empty pews]]></description>
+            <link>https://spectator.com/article/the-church-of-england-is-destroying-itself/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-church-of-england-is-destroying-itself/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 16:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Reform really want to win?]]></title>
+            <description><![CDATA[Party time]]></description>
+            <link>https://spectator.com/article/does-reform-really-want-to-win/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-reform-really-want-to-win/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Oliver Dean]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 16:55:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are we diagnosing too many people with ADHD?]]></title>
             <description><![CDATA[By Druin Burch]]></description>
@@ -4020,34 +4044,6 @@ Here’s a very competently made, agreeably hectic new entry in the lineage of t
             <link>https://spectator.com/article/taking-on-the-cornish-culinary-mafia-four-boys-reviewed/</link>
             <guid isPermaLink="true">https://spectator.com/article/taking-on-the-cornish-culinary-mafia-four-boys-reviewed/</guid>
             <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 02:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revenge of the Blob: good teachers are under siege]]></title>
-            <description><![CDATA[Jolyon Maugham has a point. There is a need for an inquiry in the aftermath of Jason Arday’s tragic death. But, not for the first time, the Good Law Project director has identified the wrong target.
-
-
-
-It’s not the press that needs to be investigated and held to account. If newspapers and magazines, including this one, err or fail, libel or traduce, then the courts can sanction and readers can desert. We survive, to publish, by public demand. The real focus of inquiry – sustained and detailed – should be Cambridge University and, in particular, its Faculty of Education. They were Professor Arday’s employers. Indeed, more than that, they were his champions and cheerleaders, beckoning the limelight to vaunt his appointment.]]></description>
-            <link>https://spectator.com/article/revenge-of-the-blob-good-teachers-are-under-siege/</link>
-            <guid isPermaLink="true">https://spectator.com/article/revenge-of-the-blob-good-teachers-are-under-siege/</guid>
-            <dc:creator><![CDATA[Michael Gove]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 02:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jenny Gilruth was my teacher – the bullying claims don’t surprise me]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/jenny-gilruth-was-my-teacher-the-bullying-claims-dont-surprise-me/</link>
-            <guid isPermaLink="true">https://spectator.com/article/jenny-gilruth-was-my-teacher-the-bullying-claims-dont-surprise-me/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 02:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Ireland succumbed to ‘radical chic’]]></title>
-            <description><![CDATA[By Eilis O’Hanlon]]></description>
-            <link>https://spectator.com/article/how-ireland-succumbed-to-radical-chic/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-ireland-succumbed-to-radical-chic/</guid>
-            <dc:creator><![CDATA[Eilis O’Hanlon]]></dc:creator>
             <pubDate>Thu, 27 Aug 2026 02:26:36 GMT</pubDate>
         </item>
     </channel>

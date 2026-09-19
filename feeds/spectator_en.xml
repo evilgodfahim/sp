@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 05:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 09:59:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 05:19:37 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 09:59:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Face it: Frank Lampard just isn’t a good manager]]></title>
+            <description><![CDATA[By Roger Alton]]></description>
+            <link>https://spectator.com/article/face-it-frank-lampard-just-isnt-a-good-manager/</link>
+            <guid isPermaLink="true">https://spectator.com/article/face-it-frank-lampard-just-isnt-a-good-manager/</guid>
+            <dc:creator><![CDATA[Roger Alton]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 09:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Church of England is destroying itself]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/the-church-of-england-is-destroying-itself/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-church-of-england-is-destroying-itself/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 09:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Girls, let’s not leave AI to the men]]></title>
+            <description><![CDATA[By Helen D’Vorcee]]></description>
+            <link>https://spectator.com/article/girls-lets-not-leave-ai-to-the-men/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/girls-lets-not-leave-ai-to-the-men/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Helen D’Vorcee]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 09:59:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The troubling rise of Japan’s ‘baby hatches’]]></title>
             <description><![CDATA[The San-ikukai hospital in Tokyo’s Sumida ward is much like any other in the Japanese capital, save for one special feature. It has had, since March of last year, a small room on the first floor with a cradle (and nothing else), where mothers can anonymously deposit their babies, never to see them again. The hospital accepts babies up to four weeks old. They are then cared for until foster families or infant homes can be found. In July, the hospital announced it had just received its twentieth baby, most of whom had been left within 24 hours of birth.
@@ -4025,30 +4049,6 @@ It’s not the press that needs to be investigated and held to account. If newsp
             <guid isPermaLink="true">https://spectator.com/article/mayors-arent-the-secret-housing-weapons-burnham-thinks-they-are/</guid>
             <dc:creator><![CDATA[Ike Ijeh]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 16:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What was the CIA up to in Moscow?]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/what-was-the-cia-doing-in-moscow/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-was-the-cia-doing-in-moscow/</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 13:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Net zero isn’t bringing down our energy bills]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/net-zero-isnt-bringing-down-our-energy-bills/</link>
-            <guid isPermaLink="true">https://spectator.com/article/net-zero-isnt-bringing-down-our-energy-bills/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 12:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about Andy Burnham’s ‘impromptu’ guitar session]]></title>
-            <description><![CDATA[By Ivo Delingpole]]></description>
-            <link>https://spectator.com/article/the-truth-about-andy-burnhams-impromptu-guitar-session/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-andy-burnhams-impromptu-guitar-session/</guid>
-            <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 09:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 09:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 13:44:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 09:59:40 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 13:44:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Are we diagnosing too many people with ADHD?]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/are-we-diagnosing-too-many-people-with-adhd/</link>
+            <guid isPermaLink="true">https://spectator.com/article/are-we-diagnosing-too-many-people-with-adhd/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 13:44:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Face it: Frank Lampard just isn’t a good manager]]></title>
             <description><![CDATA[By Roger Alton]]></description>
@@ -4041,14 +4049,6 @@ It’s not the press that needs to be investigated and held to account. If newsp
             <guid isPermaLink="true">https://spectator.com/article/how-ireland-succumbed-to-radical-chic/</guid>
             <dc:creator><![CDATA[Eilis O’Hanlon]]></dc:creator>
             <pubDate>Thu, 27 Aug 2026 02:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mayors aren’t the secret weapon Burnham thinks they are]]></title>
-            <description><![CDATA[By Ike Ijeh]]></description>
-            <link>https://spectator.com/article/mayors-arent-the-secret-housing-weapons-burnham-thinks-they-are/</link>
-            <guid isPermaLink="true">https://spectator.com/article/mayors-arent-the-secret-housing-weapons-burnham-thinks-they-are/</guid>
-            <dc:creator><![CDATA[Ike Ijeh]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 16:10:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

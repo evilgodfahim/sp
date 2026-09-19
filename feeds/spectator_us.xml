@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 22:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 00:48:53 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 22:05:43 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 00:48:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump’s second term has put his legacy in grave peril]]></title>
+            <description><![CDATA[By Spectator Editorial]]></description>
+            <link>https://spectator.com/article/trump-second-term-put-legacy-grave-peril/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-second-term-put-legacy-grave-peril/?edition=us</guid>
+            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 00:48:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can Reform reform?]]></title>
             <description><![CDATA[By Michael Gove]]></description>
@@ -4024,14 +4032,6 @@ Without changing her hair or dress, the transformation begins and, after making 
             <link>https://spectator.com/article/where-are-the-bear-facts-on-grizzlies/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/where-are-the-bear-facts-on-grizzlies/?edition=us</guid>
             <dc:creator><![CDATA[J. Shane Townsend]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 15:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Scott Bessent America’s most important diplomat?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/is-scott-bessent-americas-most-important-diplomat/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-scott-bessent-americas-most-important-diplomat/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 15:44:56 GMT</pubDate>
         </item>
     </channel>

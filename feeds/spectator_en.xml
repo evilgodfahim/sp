@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 23:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 02:31:24 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 23:53:29 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 02:31:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why do the unions want the Boriswave to settle?]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/why-do-the-unions-want-the-boriswave-to-settle/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-do-the-unions-want-the-boriswave-to-settle/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 02:31:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ed Sheeran, Macklemore and the ugly new anti-Semitism]]></title>
+            <description><![CDATA[By Julie Burchill]]></description>
+            <link>https://spectator.com/article/ed-sheeran-macklemore-and-the-ugly-new-anti-semitism/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ed-sheeran-macklemore-and-the-ugly-new-anti-semitism/</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 02:31:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autumn is the cruellest season]]></title>
+            <description><![CDATA[By Kiran Sidhu]]></description>
+            <link>https://spectator.com/article/autumn-is-the-cruellest-season/</link>
+            <guid isPermaLink="true">https://spectator.com/article/autumn-is-the-cruellest-season/</guid>
+            <dc:creator><![CDATA[Kiran Sidhu]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 02:31:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What would an Epstein inquiry teach us?]]></title>
             <description><![CDATA[By Andrew Tettenborn]]></description>
@@ -4020,30 +4044,6 @@ Here’s a very competently made, agreeably hectic new entry in the lineage of t
             <link>https://spectator.com/article/a-true-visual-spectacle-edinburghs-the-galloping-cure-reviewed/</link>
             <guid isPermaLink="true">https://spectator.com/article/a-true-visual-spectacle-edinburghs-the-galloping-cure-reviewed/</guid>
             <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 02:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A perfect little exhibition on the Isles of Scilly]]></title>
-            <description><![CDATA[By Hermione Eyre]]></description>
-            <link>https://spectator.com/article/a-perfect-little-exhibition-on-the-isles-of-scilly/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-perfect-little-exhibition-on-the-isles-of-scilly/</guid>
-            <dc:creator><![CDATA[Hermione Eyre]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 02:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A classic Alan Ayckbourn that’s made for Roger Allam]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/a-classic-alan-ayckbourn-thats-made-for-roger-allam/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-classic-alan-ayckbourn-thats-made-for-roger-allam/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 02:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘An Essex boy at heart’: VW Golf GTI reviewed]]></title>
-            <description><![CDATA[By Tanya Gold]]></description>
-            <link>https://spectator.com/article/an-essex-boy-at-heart-vw-golf-gti-reviewed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/an-essex-boy-at-heart-vw-golf-gti-reviewed/</guid>
-            <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
             <pubDate>Thu, 27 Aug 2026 02:26:36 GMT</pubDate>
         </item>
     </channel>

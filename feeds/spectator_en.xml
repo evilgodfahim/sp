@@ -4,10 +4,82 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 00:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 05:41:47 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 00:41:07 GMT</pubDate>
+        <pubDate>Mon, 21 Sep 2026 05:41:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Britain needs to get a grip on AI]]></title>
+            <description><![CDATA[Leading article]]></description>
+            <link>https://spectator.com/article/britain-needs-to-get-a-grip-on-ai/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-needs-to-get-a-grip-on-ai/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 05:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What’s gone wrong with men’s trousers?]]></title>
+            <description><![CDATA[Pantaloons]]></description>
+            <link>https://spectator.com/article/whats-gone-wrong-with-mens-trousers/</link>
+            <guid isPermaLink="true">https://spectator.com/article/whats-gone-wrong-with-mens-trousers/</guid>
+            <dc:creator><![CDATA[Henry Williams]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 05:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the adult toddlers who play with toys]]></title>
+            <description><![CDATA[Playtime]]></description>
+            <link>https://spectator.com/article/meet-the-overgrown-toddlers-who-play-with-toys/</link>
+            <guid isPermaLink="true">https://spectator.com/article/meet-the-overgrown-toddlers-who-play-with-toys/</guid>
+            <dc:creator><![CDATA[Josh Sims]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 05:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Give me Spain over France any day]]></title>
+            <description><![CDATA[Viva España]]></description>
+            <link>https://spectator.com/article/give-me-spain-over-france-any-day/</link>
+            <guid isPermaLink="true">https://spectator.com/article/give-me-spain-over-france-any-day/</guid>
+            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 05:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain needs to get a grip on AI]]></title>
+            <description><![CDATA[Leading article]]></description>
+            <link>https://spectator.com/article/britain-needs-to-get-a-grip-on-ai/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-needs-to-get-a-grip-on-ai/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 05:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The disappointment of 70 Up (so far)]]></title>
+            <description><![CDATA[Television]]></description>
+            <link>https://spectator.com/article/the-disappointment-of-70-up-so-far/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-disappointment-of-70-up-so-far/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[James Walton]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 05:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The most shameful thing I’ve ever done]]></title>
+            <description><![CDATA[Dolce Vita]]></description>
+            <link>https://spectator.com/article/the-most-shameful-thing-ive-ever-done/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-most-shameful-thing-ive-ever-done/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 05:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The King and Charles Spencer are both victims]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/king-charles-and-earl-spencer-are-both-victims/</link>
+            <guid isPermaLink="true">https://spectator.com/article/king-charles-and-earl-spencer-are-both-victims/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 05:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Charles Spencer telling the truth about the King?]]></title>
+            <description><![CDATA[Kuenssberg interview]]></description>
+            <link>https://spectator.com/article/is-charles-spencer-telling-the-truth-about-the-king/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-charles-spencer-telling-the-truth-about-the-king/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 05:41:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where are my reparations?]]></title>
             <description><![CDATA[By Charles Moore]]></description>
@@ -26,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[How did the Archbishop of Canterbury end up in this mess?]]></title>
-            <description><![CDATA[By Serenhedd James]]></description>
+            <description><![CDATA[9/11 debacle]]></description>
             <link>https://spectator.com/article/how-did-the-archbishop-of-canterbury-end-up-in-this-mess/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-did-the-archbishop-of-canterbury-end-up-in-this-mess/</guid>
             <dc:creator><![CDATA[Serenhedd James]]></dc:creator>
@@ -66,13 +138,7 @@
         </item>
         <item>
             <title><![CDATA[The Barrister]]></title>
-            <description><![CDATA[Luke Wells looks like he has it all. High-ceilinged, late-Georgian chambers overlooking the Walks in Gray’s Inn, now catching the last of the evening light. Tall bookcases crammed with planet-brained case law. Dark grey suit on his back – from a little gem of a Soho tailor who does the best cutting for Savile Row. Wig and gown hanging off his panelled door – handy for the quick sprint to Court Number One at the Old Bailey to rescue that battered glamourpuss, wrongly accused of murdering her lover, currently splashed all over page three of the Telegraph. 
-
-
-
-
-
-Well, that’s what Luke thought he would be doing after reading law at Lincoln College, Oxford, and bar school.]]></description>
+            <description><![CDATA[By Anonymous]]></description>
             <link>https://spectator.com/article/the-barrister/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-barrister/</guid>
             <dc:creator><![CDATA[Anonymous]]></dc:creator>
@@ -96,7 +162,7 @@ Well, that’s what Luke thought he would be doing after reading law at Lincol
         </item>
         <item>
             <title><![CDATA[Why do the unions want the Boriswave to settle?]]></title>
-            <description><![CDATA[By David Shipley]]></description>
+            <description><![CDATA[Migration]]></description>
             <link>https://spectator.com/article/why-do-the-unions-want-the-boriswave-to-settle/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-do-the-unions-want-the-boriswave-to-settle/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
@@ -104,7 +170,7 @@ Well, that’s what Luke thought he would be doing after reading law at Lincol
         </item>
         <item>
             <title><![CDATA[Ed Sheeran, Macklemore and the ugly new anti-Semitism]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
+            <description><![CDATA[Pallywood]]></description>
             <link>https://spectator.com/article/ed-sheeran-macklemore-and-the-ugly-new-anti-semitism/</link>
             <guid isPermaLink="true">https://spectator.com/article/ed-sheeran-macklemore-and-the-ugly-new-anti-semitism/</guid>
             <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
@@ -552,11 +618,7 @@ Well, that’s what Luke thought he would be doing after reading law at Lincol
         </item>
         <item>
             <title><![CDATA[The disappointment of 70 Up (so far)]]></title>
-            <description><![CDATA[In advance, I confidently imagined that 70 Up would be the big programme of the week. In the event, it rather disappointingly felt more like the set-up for the big programme of next week. Or at least let’s hope so – because up to now we’ve had little of what many of us were anticipating with unusual keenness: the much-loved participants in one of British TV’s greatest achievements reflecting at 70 on lives that we’ve been following since whenever we first started watching grown-up telly.
-
-
-
-The Up series famously began as a one-off documentary in 1964 about a carefully mixed bunch of 14 English seven-year-olds. Back then, its political agenda wasn’t hard to spot.]]></description>
+            <description><![CDATA[Television]]></description>
             <link>https://spectator.com/article/the-disappointment-of-70-up-so-far/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-disappointment-of-70-up-so-far/</guid>
             <dc:creator><![CDATA[James Walton]]></dc:creator>
@@ -620,7 +682,7 @@ The Up series famously began as a one-off documentary in 1964 about a carefully 
         </item>
         <item>
             <title><![CDATA[The most shameful thing I’ve ever done]]></title>
-            <description><![CDATA[By Nicholas Farrell]]></description>
+            <description><![CDATA[Dolce Vita]]></description>
             <link>https://spectator.com/article/the-most-shameful-thing-ive-ever-done/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-most-shameful-thing-ive-ever-done/</guid>
             <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
@@ -3965,78 +4027,6 @@ In a bid to show voters Reform UK is serious about delivering change, Farage wil
             <guid isPermaLink="true">https://spectator.com/article/why-would-germany-want-to-help-fund-trident/</guid>
             <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
             <pubDate>Thu, 27 Aug 2026 23:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are ignoring the biggest threat the world faces]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
-            <link>https://spectator.com/article/we-are-ignoring-the-biggest-threat-the-world-faces/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-are-ignoring-the-biggest-threat-the-world-faces/</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Call me a cripple]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/call-me-a-cripple/</link>
-            <guid isPermaLink="true">https://spectator.com/article/call-me-a-cripple/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The stock market crash is coming]]></title>
-            <description><![CDATA[By Martin Vander Weyer]]></description>
-            <link>https://spectator.com/article/the-stock-market-crash-is-coming/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-stock-market-crash-is-coming/</guid>
-            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My cave house’s wonderful history]]></title>
-            <description><![CDATA[By Catriona Olding]]></description>
-            <link>https://spectator.com/article/my-cave-houses-wonderful-history/</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-cave-houses-wonderful-history/</guid>
-            <dc:creator><![CDATA[Catriona Olding]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middlesbrough’s crime wave exposes the truth about broken Britain]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
-            <link>https://spectator.com/article/middlesbroughs-crime-wave-exposes-the-truth-about-broken-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/middlesbroughs-crime-wave-exposes-the-truth-about-broken-britain/</guid>
-            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Andy Burnham ready for the world stage?]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/is-andy-burnham-ready-for-the-world-stage/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-andy-burnham-ready-for-the-world-stage/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Call me a cripple]]></title>
-            <description><![CDATA[Disability]]></description>
-            <link>https://spectator.com/article/call-me-a-cripple/?homepage-tracking=magazine-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/call-me-a-cripple/?homepage-tracking=magazine-article-1</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Prague cured me of my communism]]></title>
-            <description><![CDATA[History lesson]]></description>
-            <link>https://spectator.com/article/how-prague-cured-me-of-my-communism/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-prague-cured-me-of-my-communism/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The stock market crash is coming]]></title>
-            <description><![CDATA[Any other business]]></description>
-            <link>https://spectator.com/article/the-stock-market-crash-is-coming/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-stock-market-crash-is-coming/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[Martin Vander Weyer]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

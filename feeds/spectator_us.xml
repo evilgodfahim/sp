@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 11:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 17:29:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
+        <pubDate>Mon, 21 Sep 2026 17:29:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Earl Spencer telling the truth about Charles III?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/is-charles-spencer-telling-the-truth-about-the-king/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-charles-spencer-telling-the-truth-about-the-king/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 17:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin’s miserable election rigging]]></title>
+            <description><![CDATA[By Mark Galeotti]]></description>
+            <link>https://spectator.com/article/putins-miserable-election-rigging/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/putins-miserable-election-rigging/?edition=us</guid>
+            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 17:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nikole Hannah-Jones and the hard bigotry of progressives]]></title>
+            <description><![CDATA[By Ryan Girdusky]]></description>
+            <link>https://spectator.com/article/nikole-hannah-jones-and-the-hard-bigotry-of-progressives/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/nikole-hannah-jones-and-the-hard-bigotry-of-progressives/?edition=us</guid>
+            <dc:creator><![CDATA[Ryan Girdusky]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 17:29:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How the White House fell for the ‘Living Diet’]]></title>
             <description><![CDATA[By Charles Cornish-Dale]]></description>
@@ -402,13 +426,7 @@
         </item>
         <item>
             <title><![CDATA[Brown furniture isn’t dead]]></title>
-            <description><![CDATA[Throw out your grandfather clocks, the naysayers said, and banish your commodes to the scrapheap and junkshop. Brown furniture – invented in the Georgian and Regency eras and popularized for the mass market in the Victorian period – has been decreed by those tastemakers in the know to be as dead as Jacob Marley – a man who undoubtedly would have cherished those heavy mahogany bed frames and cabinets that were synonymous with his age – and showing even fewer signs of returning, even in spectral form.  
-
-
-
-
-
-The reasons for the apparent demise of brown furniture are less to do with a rejection of sturdy, well-built items that were once the pride and joy of any household and more because we are living smaller lives, in all senses.]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/brown-furniture-isnt-dead/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/brown-furniture-isnt-dead/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -4009,30 +4027,6 @@ Without changing her hair or dress, the transformation begins and, after making 
             <guid isPermaLink="true">https://spectator.com/article/doug-wilson-peculiar-relationship-politics-christ-church/?edition=us</guid>
             <dc:creator><![CDATA[Anastasia Brown]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 01:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To be a Spectator reader was to love Rod]]></title>
-            <description><![CDATA[By Michael Gove]]></description>
-            <link>https://spectator.com/article/to-be-a-spectator-reader-was-to-love-rod/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/to-be-a-spectator-reader-was-to-love-rod/?edition=us</guid>
-            <dc:creator><![CDATA[Michael Gove]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 01:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meeting Abdul El-Sayed at the Detroit farmers market]]></title>
-            <description><![CDATA[By Ben Clerkin]]></description>
-            <link>https://spectator.com/article/meeting-abdul-el-sayed-at-the-detroit-farmers-market/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/meeting-abdul-el-sayed-at-the-detroit-farmers-market/?edition=us</guid>
-            <dc:creator><![CDATA[Ben Clerkin]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 01:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What went wrong with the Madonna biopic?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 21:20:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

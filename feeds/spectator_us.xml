@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 05:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 11:30:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 05:41:41 GMT</pubDate>
+        <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How the White House fell for the ‘Living Diet’]]></title>
+            <description><![CDATA[By Charles Cornish-Dale]]></description>
+            <link>https://spectator.com/article/how-the-white-house-fell-for-the-living-diet/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-white-house-fell-for-the-living-diet/?edition=us</guid>
+            <dc:creator><![CDATA[Charles Cornish-Dale]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The autistocracy: the men on the spectrum who rule our world]]></title>
+            <description><![CDATA[AI]]></description>
+            <link>https://spectator.com/article/the-autistocracy-the-men-on-the-spectrum-who-rule-our-world/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-autistocracy-the-men-on-the-spectrum-who-rule-our-world/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Charles Steel]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beware of billionaires touting the apocalypse]]></title>
+            <description><![CDATA[The Cassandra complex]]></description>
+            <link>https://spectator.com/article/beware-of-billionaires-touting-the-apocalypse/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/beware-of-billionaires-touting-the-apocalypse/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the adult toddlers who play with toys]]></title>
+            <description><![CDATA[By Josh Sims]]></description>
+            <link>https://spectator.com/article/meet-the-overgrown-toddlers-who-play-with-toys/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/meet-the-overgrown-toddlers-who-play-with-toys/?edition=us</guid>
+            <dc:creator><![CDATA[Josh Sims]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the White House fell for the ‘Living Diet’]]></title>
+            <description><![CDATA[By Charles Cornish-Dale]]></description>
+            <link>https://spectator.com/article/how-the-white-house-fell-for-the-living-diet/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-white-house-fell-for-the-living-diet/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Charles Cornish-Dale]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s second term has put his legacy in grave peril]]></title>
+            <description><![CDATA[Decline and fall]]></description>
+            <link>https://spectator.com/article/trump-second-term-put-legacy-grave-peril/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-second-term-put-legacy-grave-peril/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time is up for Friedrich Merz]]></title>
+            <description><![CDATA[By Henry Donovan]]></description>
+            <link>https://spectator.com/article/time-is-up-for-friedrich-merz/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/time-is-up-for-friedrich-merz/?edition=us</guid>
+            <dc:creator><![CDATA[Henry Donovan]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China is trying to corner the global economy]]></title>
+            <description><![CDATA[By Ian Williams]]></description>
+            <link>https://spectator.com/article/china-is-trying-to-corner-the-global-economy/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/china-is-trying-to-corner-the-global-economy/?edition=us</guid>
+            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My new life of relative poverty]]></title>
             <description><![CDATA[By Cosmo Landesman]]></description>
@@ -3969,70 +4033,6 @@ Without changing her hair or dress, the transformation begins and, after making 
             <guid isPermaLink="true">https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 21:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The man who could topple Benjamin Netanyahu]]></title>
-            <description><![CDATA[Bye-bye Bibi]]></description>
-            <link>https://spectator.com/article/man-could-topple-benjamin-netanyahu-gadi-eisenkot/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/man-could-topple-benjamin-netanyahu-gadi-eisenkot/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Arieh Kovler]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 12:28:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Music, Fashion, Film really the best Charli xcx can do?]]></title>
-            <description><![CDATA[Pop]]></description>
-            <link>https://spectator.com/article/is-this-really-the-best-charli-xcx-can-do/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-this-really-the-best-charli-xcx-can-do/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Graeme Thomson]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 12:28:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The good, the bad and the grotesque: the mind-blowing diversity of parasites]]></title>
-            <description><![CDATA[By James Bradley]]></description>
-            <link>https://spectator.com/article/the-good-the-bad-and-the-grotesque-the-mind-blowing-diversity-of-parasites/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-good-the-bad-and-the-grotesque-the-mind-blowing-diversity-of-parasites/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[James Bradley]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 12:28:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drinking with Geoffrey Madan]]></title>
-            <description><![CDATA[In vino veritas]]></description>
-            <link>https://spectator.com/article/drinking-with-geoffrey-madan/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/drinking-with-geoffrey-madan/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 12:28:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pre-election perspectives from Pittsburgh]]></title>
-            <description><![CDATA[By Heather Robinson]]></description>
-            <link>https://spectator.com/article/pre-election-perspectives-from-pittsburgh/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/pre-election-perspectives-from-pittsburgh/?edition=us</guid>
-            <dc:creator><![CDATA[Heather Robinson]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 04:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Congress shield the US from foreign attacks on the First Amendment?]]></title>
-            <description><![CDATA[By Preston Byrne]]></description>
-            <link>https://spectator.com/article/congress-shield-us-foreign-attacks-first-amendment/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/congress-shield-us-foreign-attacks-first-amendment/?edition=us</guid>
-            <dc:creator><![CDATA[Preston Byrne]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 02:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I didn’t want to like Rod Liddle]]></title>
-            <description><![CDATA[By Kemi Badenoch]]></description>
-            <link>https://spectator.com/article/i-didnt-want-to-like-rod-liddle/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-didnt-want-to-like-rod-liddle/?edition=us</guid>
-            <dc:creator><![CDATA[Kemi Badenoch]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 00:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The good, the bad and the grotesque: the mind-blowing diversity of parasites]]></title>
-            <description><![CDATA[By James Bradley]]></description>
-            <link>https://spectator.com/article/the-good-the-bad-and-the-grotesque-the-mind-blowing-diversity-of-parasites/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-good-the-bad-and-the-grotesque-the-mind-blowing-diversity-of-parasites/?edition=us</guid>
-            <dc:creator><![CDATA[James Bradley]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 00:57:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

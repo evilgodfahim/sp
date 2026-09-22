@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 00:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 05:38:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 00:25:17 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 05:38:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dawn party]]></title>
+            <description><![CDATA[By Mario Naves]]></description>
+            <link>https://spectator.com/article/dawn-party/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/dawn-party/?edition=us</guid>
+            <dc:creator><![CDATA[Mario Naves]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 05:38:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I can’t stand Stanley Tucci]]></title>
             <description><![CDATA[By Julie Bindel]]></description>
@@ -4019,14 +4027,6 @@ Without changing her hair or dress, the transformation begins and, after making 
             <guid isPermaLink="true">https://spectator.com/article/academics-are-trying-to-get-my-paper-retracted-and-some-of-them-havent-even-read-it/?edition=us</guid>
             <dc:creator><![CDATA[Nathan Cofnas]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 04:55:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Cormac McCarthy finished?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/is-cormac-mccarthy-finished/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-cormac-mccarthy-finished/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 03:24:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

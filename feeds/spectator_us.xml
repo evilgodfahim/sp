@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 15:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 19:24:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 15:17:00 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 19:24:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Could there be a second Ceuta invasion?]]></title>
+            <description><![CDATA[By Jim Lawley]]></description>
+            <link>https://spectator.com/article/could-there-be-a-second-ceuta-invasion/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/could-there-be-a-second-ceuta-invasion/?edition=us</guid>
+            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 19:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s UN speech was a listless affair]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/trump-un-speech-listless-affair/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-un-speech-listless-affair/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 19:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI is turning the world into slop]]></title>
+            <description><![CDATA[By Kristina ﻿Murkett]]></description>
+            <link>https://spectator.com/article/ai-is-turning-the-world-into-slop/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ai-is-turning-the-world-into-slop/?edition=us</guid>
+            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 19:24:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Hobbit is not a great book]]></title>
             <description><![CDATA[By Druin Burch]]></description>
@@ -4006,30 +4030,6 @@ Without changing her hair or dress, the transformation begins and, after making 
             <link>https://spectator.com/article/why-marilyn-monroe-is-still-as-big-a-celebrity-as-ever/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/why-marilyn-monroe-is-still-as-big-a-celebrity-as-ever/?edition=us</guid>
             <dc:creator><![CDATA[Andrew Wilson]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 09:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shiva Naipaul’s Journey to Nowhere deserves its reissue]]></title>
-            <description><![CDATA[By D.J. Taylor]]></description>
-            <link>https://spectator.com/article/shiva-naipauls-journey-to-nowhere-deserves-its-reissue/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/shiva-naipauls-journey-to-nowhere-deserves-its-reissue/?edition=us</guid>
-            <dc:creator><![CDATA[D.J. Taylor]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 09:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s the point of UNESCO?]]></title>
-            <description><![CDATA[By Alex Diggins]]></description>
-            <link>https://spectator.com/article/whats-the-point-of-unesco/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/whats-the-point-of-unesco/?edition=us</guid>
-            <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 09:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘A selfish, ignoble person’ – the dark side of the Nobel prize-winner Mario Vargas Llosa]]></title>
-            <description><![CDATA[By Nicholas Shakespeare]]></description>
-            <link>https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us</guid>
-            <dc:creator><![CDATA[Nicholas Shakespeare]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 09:08:20 GMT</pubDate>
         </item>
     </channel>

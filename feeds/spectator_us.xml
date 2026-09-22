@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 21:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 00:25:17 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 21:27:00 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 00:25:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[I can’t stand Stanley Tucci]]></title>
+            <description><![CDATA[By Julie Bindel]]></description>
+            <link>https://spectator.com/article/i-cant-stand-stanley-tucci-2/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-cant-stand-stanley-tucci-2/?edition=us</guid>
+            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 00:25:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Earl Spencer telling the truth about Charles III?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4019,14 +4027,6 @@ Without changing her hair or dress, the transformation begins and, after making 
             <guid isPermaLink="true">https://spectator.com/article/is-cormac-mccarthy-finished/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 03:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Pete Hegseth’s church]]></title>
-            <description><![CDATA[By Anastasia Brown]]></description>
-            <link>https://spectator.com/article/doug-wilson-peculiar-relationship-politics-christ-church/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/doug-wilson-peculiar-relationship-politics-christ-church/?edition=us</guid>
-            <dc:creator><![CDATA[Anastasia Brown]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 01:00:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

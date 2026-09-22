@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 21:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 00:25:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 21:27:06 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 00:25:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What the British military can learn from the Houthis]]></title>
+            <description><![CDATA[By Ryan Modarres]]></description>
+            <link>https://spectator.com/article/what-the-british-military-can-learn-from-the-houthis/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-the-british-military-can-learn-from-the-houthis/</guid>
+            <dc:creator><![CDATA[Ryan Modarres]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 00:25:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Former teacher takes charge of Reform Wales]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4018,14 +4026,6 @@ In a bid to show voters Reform UK is serious about delivering change, Farage wil
             <link>https://spectator.com/article/ante-post-tips-for-the-big-september-meetings/</link>
             <guid isPermaLink="true">https://spectator.com/article/ante-post-tips-for-the-big-september-meetings/</guid>
             <dc:creator><![CDATA[Penworthy]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 08:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England’s cricketers must fight for their right to party]]></title>
-            <description><![CDATA[By Joseph Dinnage]]></description>
-            <link>https://spectator.com/article/englands-cricketers-must-fight-for-their-right-to-party/</link>
-            <guid isPermaLink="true">https://spectator.com/article/englands-cricketers-must-fight-for-their-right-to-party/</guid>
-            <dc:creator><![CDATA[Joseph Dinnage]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 08:06:10 GMT</pubDate>
         </item>
     </channel>

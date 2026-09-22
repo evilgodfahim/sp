@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 10:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 15:17:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 10:37:45 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 15:17:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Hobbit is not a great book]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/the-hobbit-is-not-a-great-book/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-hobbit-is-not-a-great-book/?edition=us</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 15:17:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In Iran, America is being sucked deeper into an unwinnable war]]></title>
             <description><![CDATA[By Tom Switzer]]></description>
@@ -418,7 +426,11 @@
         </item>
         <item>
             <title><![CDATA[We need to talk about Lindsay Clancy]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
+            <description><![CDATA[The declaration of a mistrial in the filicide case of Lindsay Clancy coincides, for me uncomfortably, with a new UK reissue of my 2003 breakout novel We Need to Talk About Kevin. The book concerns a mother whose son becomes a high-school mass murderer. She agonizes over whether something has always been wrong with him or something is wrong with him because something is wrong with her. Prior to publication, I’d imagined that the commercial hook would be the frequency with which self-pitying adolescents were taking their misery out on their classmates and teachers, since when I wrote the novel school shootings had yet to be fictionalized.
+
+
+
+Instead, what hit a cultural nerve was “maternal ambivalence.” The text dares to explore parenthood in de-romanticized terms.]]></description>
             <link>https://spectator.com/article/dont-sympathise-with-lindsay-clancy/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-sympathise-with-lindsay-clancy/?edition=us</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
@@ -4018,14 +4030,6 @@ Without changing her hair or dress, the transformation begins and, after making 
             <link>https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us</guid>
             <dc:creator><![CDATA[Nicholas Shakespeare]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 09:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans deserve burrito abundance]]></title>
-            <description><![CDATA[By Margaret Mitchell]]></description>
-            <link>https://spectator.com/article/20-dollar-burrito-republicans-ben-shapiro/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/20-dollar-burrito-republicans-ben-shapiro/?edition=us</guid>
-            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 09:08:20 GMT</pubDate>
         </item>
     </channel>

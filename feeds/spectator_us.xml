@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 13:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 18:04:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 13:08:39 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 18:04:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will Anna Wintour survive the Galliano debacle?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/will-anna-wintour-survive-the-galliano-debacle/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-anna-wintour-survive-the-galliano-debacle/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 18:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rise of anti-migration direct action in Britain]]></title>
+            <description><![CDATA[By Jack Hadfield]]></description>
+            <link>https://spectator.com/article/gosport-and-the-rise-of-anti-migration-direct-action/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/gosport-and-the-rise-of-anti-migration-direct-action/?edition=us</guid>
+            <dc:creator><![CDATA[Jack Hadfield]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 18:04:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will Anna Wintour survive the Galliano debacle?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -162,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[Trump pulls the plug on mainstream TV]]></title>
-            <description><![CDATA[By Cockburn]]></description>
+            <description><![CDATA[The unveiling of President Trump's new helipad on the South Lawn of the White House yesterday was a curious affair. Trump cut a ribbon with the CEO of Lockheed Martin, who donated the helipad, and then attempted to address the media who were present. Viewers on TV could see what was happening – but they could only hear a low, ethereal whooshing noise. The main TV networks’ boom mics were nowhere to be seen – as ABC, CBS, NBC and Fox News suspended their pool coverage of Trump, in solidarity with CNN and MS NOW, whose credentials were arbitrarily revoked by Trump on Friday afternoon. “He pretty much yelled into a static void for nine minutes and then left,” one of Trump's favorite reporters wrote on Instagram.]]></description>
             <link>https://spectator.com/article/trump-pulls-the-plug-on-mainstream-tv/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-pulls-the-plug-on-mainstream-tv/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
@@ -362,7 +378,11 @@
         </item>
         <item>
             <title><![CDATA[Trump’s second term has put his legacy in grave peril]]></title>
-            <description><![CDATA[By Spectator Editorial]]></description>
+            <description><![CDATA[Two recent stories sum up the state of Donald Trump’s presidency and underscore the growing gap between him and his working-class support base.
+
+
+
+First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev, a Russian oligarch who is also a friend of Vladimir Putin. Kremlev is believed to have stumped up a good proportion of the costs, which included hiring a $100,000-a-night island in the Bahamas as well as a $70,000 firework display. While Trump’s son is not a government employee and therefore not subject to the rules on political gifts, alarm bells ought surely to have been ringing.]]></description>
             <link>https://spectator.com/article/trump-second-term-put-legacy-grave-peril/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-second-term-put-legacy-grave-peril/?edition=us</guid>
             <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
@@ -522,11 +542,7 @@
         </item>
         <item>
             <title><![CDATA[We need to talk about Lindsay Clancy]]></title>
-            <description><![CDATA[The declaration of a mistrial in the filicide case of Lindsay Clancy coincides, for me uncomfortably, with a new UK reissue of my 2003 breakout novel We Need to Talk About Kevin. The book concerns a mother whose son becomes a high-school mass murderer. She agonizes over whether something has always been wrong with him or something is wrong with him because something is wrong with her. Prior to publication, I’d imagined that the commercial hook would be the frequency with which self-pitying adolescents were taking their misery out on their classmates and teachers, since when I wrote the novel school shootings had yet to be fictionalized.
-
-
-
-Instead, what hit a cultural nerve was “maternal ambivalence.” The text dares to explore parenthood in de-romanticized terms.]]></description>
+            <description><![CDATA[By Lionel Shriver]]></description>
             <link>https://spectator.com/article/dont-sympathise-with-lindsay-clancy/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-sympathise-with-lindsay-clancy/?edition=us</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
@@ -4010,22 +4026,6 @@ It comes as a shock, then, to learn that the US has apparently all but run out o
             <link>https://spectator.com/article/drinking-with-geoffrey-madan/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/drinking-with-geoffrey-madan/?edition=us</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 10:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has the hounding of Andrew Mountbatten-Windsor gone too far?]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/has-the-hounding-of-andrew-mountbatten-windsor-gone-too-far/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/has-the-hounding-of-andrew-mountbatten-windsor-gone-too-far/?edition=us</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 10:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I suspect a lot of TV is AI-generated]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/i-suspect-a-lot-of-tv-is-ai-generated/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-suspect-a-lot-of-tv-is-ai-generated/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 10:58:57 GMT</pubDate>
         </item>
     </channel>

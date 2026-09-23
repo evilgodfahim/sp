@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 13:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 18:04:48 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 13:08:43 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 18:04:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Andy Burnham being sucked in by AI marketing?]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/is-andy-burnham-being-sucked-in-by-ai-marketing/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-andy-burnham-being-sucked-in-by-ai-marketing/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 18:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are the Lib Dems now the party of rearmament?]]></title>
+            <description><![CDATA[By Patrick Gibbons]]></description>
+            <link>https://spectator.com/article/are-the-lib-dems-now-the-party-of-rearmament/</link>
+            <guid isPermaLink="true">https://spectator.com/article/are-the-lib-dems-now-the-party-of-rearmament/</guid>
+            <dc:creator><![CDATA[Patrick Gibbons]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 18:04:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How does Burnham plan to tackle Russian disinformation?]]></title>
             <description><![CDATA[Pushing back]]></description>
@@ -4015,22 +4031,6 @@ In a bid to show voters Reform UK is serious about delivering change, Farage wil
             <guid isPermaLink="true">https://spectator.com/article/will-this-century-see-the-end-of-books/</guid>
             <dc:creator><![CDATA[Philip Hensher]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 06:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Denmark’s royals could help defend Greenland from Donald Trump]]></title>
-            <description><![CDATA[By Klaus Dodds]]></description>
-            <link>https://spectator.com/article/will-denmarks-royals-defend-greenland-from-trumps-ambitions/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-denmarks-royals-defend-greenland-from-trumps-ambitions/</guid>
-            <dc:creator><![CDATA[Klaus Dodds]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 00:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are witnessing a managed collapse in the justice system]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/we-are-witnessing-a-managed-collapse-in-the-justice-system/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-are-witnessing-a-managed-collapse-in-the-justice-system/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 18:17:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,13 +4,53 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 07:01:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 13:08:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 07:01:24 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 13:08:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[How does Burnham plan to tackle Russian disinformation?]]></title>
+            <description><![CDATA[Pushing back]]></description>
+            <link>https://spectator.com/article/how-does-burnham-plan-to-tackle-russian-disinformation/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-does-burnham-plan-to-tackle-russian-disinformation/</guid>
+            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 13:08:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gosport and the rise of anti-migration direct action]]></title>
+            <description><![CDATA[By Jack Hadfield]]></description>
+            <link>https://spectator.com/article/gosport-and-the-rise-of-anti-migration-direct-action/</link>
+            <guid isPermaLink="true">https://spectator.com/article/gosport-and-the-rise-of-anti-migration-direct-action/</guid>
+            <dc:creator><![CDATA[Jack Hadfield]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 13:08:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Net Zero has made Britain less safe]]></title>
+            <description><![CDATA[By Harry Wilkinson]]></description>
+            <link>https://spectator.com/article/net-zero-has-made-britain-less-safe/</link>
+            <guid isPermaLink="true">https://spectator.com/article/net-zero-has-made-britain-less-safe/</guid>
+            <dc:creator><![CDATA[Harry Wilkinson]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 13:08:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did AI write the French book of the year?]]></title>
+            <description><![CDATA[By Sean Thomas]]></description>
+            <link>https://spectator.com/article/did-ai-write-the-french-book-of-the-year/</link>
+            <guid isPermaLink="true">https://spectator.com/article/did-ai-write-the-french-book-of-the-year/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 13:08:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does it cost £237 million to build a railway bridge?]]></title>
+            <description><![CDATA[A bridge to sell you]]></description>
+            <link>https://spectator.com/article/why-does-it-cost-237-million-to-build-a-railway-bridge/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-does-it-cost-237-million-to-build-a-railway-bridge/</guid>
+            <dc:creator><![CDATA[Sam Dumitriu]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 13:08:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Burnham wins over Trump – but can it last?]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
+            <description><![CDATA[UN summit]]></description>
             <link>https://spectator.com/article/burnham-wins-over-trump-but-can-it-last/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-wins-over-trump-but-can-it-last/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
@@ -18,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[High energy prices are crippling Britain]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
+            <description><![CDATA[Deindustrialisation]]></description>
             <link>https://spectator.com/article/high-energy-prices-are-crippling-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/high-energy-prices-are-crippling-britain/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
@@ -74,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Trump’s UN speech was a blasé affair]]></title>
-            <description><![CDATA[Talking shop]]></description>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
             <link>https://spectator.com/article/trump-un-speech-listless-affair/</link>
             <guid isPermaLink="true">https://spectator.com/article/trump-un-speech-listless-affair/</guid>
             <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
@@ -82,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Xi has no interest in stabilising relations with Trump]]></title>
-            <description><![CDATA[Tete-a-tete]]></description>
+            <description><![CDATA[By Edward Howell]]></description>
             <link>https://spectator.com/article/xi-has-no-interest-in-stabilising-relations-with-trump/</link>
             <guid isPermaLink="true">https://spectator.com/article/xi-has-no-interest-in-stabilising-relations-with-trump/</guid>
             <dc:creator><![CDATA[Edward Howell]]></dc:creator>
@@ -98,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Germany’s growing Nato influence should shame Britain]]></title>
-            <description><![CDATA[Defence spending]]></description>
+            <description><![CDATA[By Eliot Wilson]]></description>
             <link>https://spectator.com/article/germanys-growing-nato-influence-should-shame-britain/</link>
             <guid isPermaLink="true">https://spectator.com/article/germanys-growing-nato-influence-should-shame-britain/</guid>
             <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
@@ -3991,46 +4031,6 @@ In a bid to show voters Reform UK is serious about delivering change, Farage wil
             <guid isPermaLink="true">https://spectator.com/article/we-are-witnessing-a-managed-collapse-in-the-justice-system/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
             <pubDate>Sun, 30 Aug 2026 18:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are ignoring the biggest threat the world faces]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
-            <link>https://spectator.com/article/we-are-ignoring-the-biggest-threat-the-world-faces/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-are-ignoring-the-biggest-threat-the-world-faces/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 14:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are French kids’ school bags so heavy?]]></title>
-            <description><![CDATA[‘Rentrée scolaire’]]></description>
-            <link>https://spectator.com/article/why-are-french-kids-school-bags-so-heavy/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-are-french-kids-school-bags-so-heavy/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 14:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British citizenship has become meaningless]]></title>
-            <description><![CDATA[Crushing alienation]]></description>
-            <link>https://spectator.com/article/british-citizenship-has-become-meaningless/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/british-citizenship-has-become-meaningless/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 14:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wilderness and war are changing Chernobyl forever]]></title>
-            <description><![CDATA[Fallout]]></description>
-            <link>https://spectator.com/article/chernobyl-faces-an-uncertain-future/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/chernobyl-faces-an-uncertain-future/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Harry Stourton]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 14:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Windsors have much to learn from Harald of Norway’s reign]]></title>
-            <description><![CDATA[Royal family]]></description>
-            <link>https://spectator.com/article/the-windsors-have-much-to-learn-from-harald-of-norways-reign/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-windsors-have-much-to-learn-from-harald-of-norways-reign/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 08:43:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

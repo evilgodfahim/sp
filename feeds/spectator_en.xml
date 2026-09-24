@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 10:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 19:37:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 10:47:29 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 19:37:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Does Britain have the worst air travel delays in Europe?]]></title>
+            <description><![CDATA[By John O'Neill]]></description>
+            <link>https://spectator.com/article/does-britain-have-the-worst-air-travel-delays-in-europe/</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-britain-have-the-worst-air-travel-delays-in-europe/</guid>
+            <dc:creator><![CDATA[John O'Neill]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 19:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Was Putin planning to attack France, Italy and Spain?]]></title>
+            <description><![CDATA[By Lisa Haseldine]]></description>
+            <link>https://spectator.com/article/was-putin-planning-to-attack-france-italy-and-spain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/was-putin-planning-to-attack-france-italy-and-spain/</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 19:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia’s Open AI hack is a wake-up call]]></title>
+            <description><![CDATA[By Terry Barnes]]></description>
+            <link>https://spectator.com/article/australias-open-ai-hack-is-a-wake-up-call/</link>
+            <guid isPermaLink="true">https://spectator.com/article/australias-open-ai-hack-is-a-wake-up-call/</guid>
+            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 19:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The problem with the Tories’ benefits crackdown plan]]></title>
+            <description><![CDATA[By Matthew Bowles]]></description>
+            <link>https://spectator.com/article/the-problem-with-the-tories-benefits-crackdown-plan/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-the-tories-benefits-crackdown-plan/</guid>
+            <dc:creator><![CDATA[Matthew Bowles]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 19:37:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Looking on the bright side of life with Eric Idle]]></title>
             <description><![CDATA[Provence
@@ -4007,38 +4039,6 @@ In a bid to show voters Reform UK is serious about delivering change, Farage wil
             <guid isPermaLink="true">https://spectator.com/article/when-will-the-teacher-shortage-become-a-crisis/</guid>
             <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The SNP’s food price cap bill is stupid and cynical]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/the-snps-food-price-cap-bill-is-stupid-and-cynical/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-snps-food-price-cap-bill-is-stupid-and-cynical/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Middlesbrough carnage is just the beginning]]></title>
-            <description><![CDATA[Bandit territory]]></description>
-            <link>https://spectator.com/article/the-middlesbrough-carnage-is-just-the-beginning/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-middlesbrough-carnage-is-just-the-beginning/</guid>
-            <dc:creator><![CDATA[Simon Clarke]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Keir Starmer resigns from parliament]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/sir-keir-starmer-resigns-from-parliament/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sir-keir-starmer-resigns-from-parliament/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has Andy Burnham considered the consequences of early prison releases?]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/has-andy-burnham-considered-the-consequences-of-early-releases/</link>
-            <guid isPermaLink="true">https://spectator.com/article/has-andy-burnham-considered-the-consequences-of-early-releases/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 10:49:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 10:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 19:37:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 10:47:22 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 19:37:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Should I be more like Bryan Johnson?]]></title>
+            <description><![CDATA[By Fin Taylor]]></description>
+            <link>https://spectator.com/article/should-i-be-more-like-bryan-johnson/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/should-i-be-more-like-bryan-johnson/?edition=us</guid>
+            <dc:creator><![CDATA[Fin Taylor]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 19:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia’s OpenAI hack is a wake-up call]]></title>
+            <description><![CDATA[By Terry Barnes]]></description>
+            <link>https://spectator.com/article/australias-open-ai-hack-is-a-wake-up-call/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/australias-open-ai-hack-is-a-wake-up-call/?edition=us</guid>
+            <dc:creator><![CDATA[Terry Barnes]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 19:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Was Putin planning to attack France, Italy and Spain?]]></title>
+            <description><![CDATA[By Lisa Haseldine]]></description>
+            <link>https://spectator.com/article/was-putin-planning-to-attack-france-italy-and-spain/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/was-putin-planning-to-attack-france-italy-and-spain/?edition=us</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 19:37:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How I became a Canadian nationalist]]></title>
             <description><![CDATA[By Peter Hitchens]]></description>
@@ -3999,30 +4023,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <guid isPermaLink="true">https://spectator.com/article/strange-death-liberalism/?edition=us</guid>
             <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 22:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Marilyn Monroe is still as big a celebrity as ever]]></title>
-            <description><![CDATA[By Andrew Wilson]]></description>
-            <link>https://spectator.com/article/marilyn-monroe-still-big-celebrity-ever/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/marilyn-monroe-still-big-celebrity-ever/?edition=us</guid>
-            <dc:creator><![CDATA[Andrew Wilson]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 17:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The dark heart of Jonestown]]></title>
-            <description><![CDATA[By D.J. Taylor]]></description>
-            <link>https://spectator.com/article/shiva-naipaul-journey-nowhere-deserves-reissue/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/shiva-naipaul-journey-nowhere-deserves-reissue/?edition=us</guid>
-            <dc:creator><![CDATA[D.J. Taylor]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 17:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The strange death of liberalism]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
-            <link>https://spectator.com/article/the-strange-death-of-liberalism/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-strange-death-of-liberalism/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 15:51:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

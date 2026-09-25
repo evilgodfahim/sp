@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 22:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 01:01:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 22:50:52 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 01:01:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sydney Sweeney is no better than Bonnie Blue]]></title>
+            <description><![CDATA[By Hilda Bombay]]></description>
+            <link>https://spectator.com/article/sydney-sweeney-is-no-better-than-bonnie-blue/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sydney-sweeney-is-no-better-than-bonnie-blue/</guid>
+            <dc:creator><![CDATA[Hilda Bombay]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 01:01:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Polanski heckled at Jewish by-election hustings]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4031,14 +4039,6 @@ In a bid to show voters Reform UK is serious about delivering change, Farage wil
             <guid isPermaLink="true">https://spectator.com/article/yes-youre-allowed-to-listen-to-dolly-parton-and-handel/</guid>
             <dc:creator><![CDATA[Georgia Mann]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 05:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham should drop the Northern Ireland Troubles Bill]]></title>
-            <description><![CDATA[By Stephen Laws]]></description>
-            <link>https://spectator.com/article/burnham-should-drop-the-northern-ireland-troubles-bill/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-should-drop-the-northern-ireland-troubles-bill/</guid>
-            <dc:creator><![CDATA[Stephen Laws]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 15:19:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

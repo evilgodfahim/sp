@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 12:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 17:38:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Sep 2026 12:26:35 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 17:38:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is AI ruining mathematics?]]></title>
+            <description><![CDATA[Complex equation]]></description>
+            <link>https://spectator.com/article/is-ai-ruining-mathematics/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-ai-ruining-mathematics/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[David Whitehouse]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 17:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My New York City survival guide]]></title>
+            <description><![CDATA[New York life]]></description>
+            <link>https://spectator.com/article/my-new-york-city-survival-guide/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-new-york-city-survival-guide/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 17:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When the intelligence about AI is artificial]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/when-the-intelligence-about-ai-is-artificial/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-the-intelligence-about-ai-is-artificial/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 17:38:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maine character syndrome]]></title>
             <description><![CDATA[By Lara Prendergast]]></description>
@@ -3999,30 +4023,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <guid isPermaLink="true">https://spectator.com/article/tucker-hunter-and-the-new-center/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 11:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s no good outcome for this groundhog-day war]]></title>
-            <description><![CDATA[By Spectator Editorial]]></description>
-            <link>https://spectator.com/article/us-run-out-long-range-precision-missiles/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/us-run-out-long-range-precision-missiles/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 10:42:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sports are just a distraction from death]]></title>
-            <description><![CDATA[Prejudices]]></description>
-            <link>https://spectator.com/article/sports-just-distraction-from-death/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/sports-just-distraction-from-death/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Chilton Williamson, Jr.]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 09:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The meaning of the lemonade stand]]></title>
-            <description><![CDATA[New York life]]></description>
-            <link>https://spectator.com/article/meaning-lemonade-stand/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/meaning-lemonade-stand/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 09:51:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

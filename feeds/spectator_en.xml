@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 08:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 13:29:53 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 08:08:07 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 13:29:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[City may have damaged the Premier League beyond repair]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/city-may-have-damaged-the-premier-league-beyond-repair/</link>
+            <guid isPermaLink="true">https://spectator.com/article/city-may-have-damaged-the-premier-league-beyond-repair/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 13:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What should we have expected from the US-China summit?]]></title>
+            <description><![CDATA[By Ian Williams]]></description>
+            <link>https://spectator.com/article/what-should-we-have-expected-from-the-us-china-summit/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-should-we-have-expected-from-the-us-china-summit/</guid>
+            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 13:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What would Orwell have made of the term ‘un-British’?]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/what-would-orwell-have-made-of-the-term-un-british/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-would-orwell-have-made-of-the-term-un-british/</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 13:29:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Estonia really preparing for war with Russia?]]></title>
             <description><![CDATA[By Scott Diel]]></description>
@@ -4010,30 +4034,6 @@ Yvonne, who also happens to be multilingual, banters with her in Italian and Ger
             <link>https://spectator.com/article/the-violinist-who-told-the-vienna-phil-where-to-stick-it/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-violinist-who-told-the-vienna-phil-where-to-stick-it/</guid>
             <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 02:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dalliance almost made me wish I were Australian]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/dalliance-almost-made-me-wish-i-were-australian/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dalliance-almost-made-me-wish-i-were-australian/</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 02:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marilyn Monroe was a bore]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/the-marilyn-monroe-was-a-bore/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-marilyn-monroe-was-a-bore/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 02:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drink away the autumn grey with Chardonnay]]></title>
-            <description><![CDATA[By Declan Lyons]]></description>
-            <link>https://spectator.com/article/drink-away-the-autumn-grey-with-chardonnay/</link>
-            <guid isPermaLink="true">https://spectator.com/article/drink-away-the-autumn-grey-with-chardonnay/</guid>
-            <dc:creator><![CDATA[Declan Lyons]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 02:11:32 GMT</pubDate>
         </item>
     </channel>

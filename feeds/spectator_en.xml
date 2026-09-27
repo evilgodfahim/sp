@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 23:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 02:40:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 23:15:33 GMT</pubDate>
+        <pubDate>Sun, 27 Sep 2026 02:40:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ranulph Fiennes and the perils of depriving liberty]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/ranulph-fiennes-and-the-perils-of-depriving-liberty/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ranulph-fiennes-and-the-perils-of-depriving-liberty/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Sun, 27 Sep 2026 02:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The death of Brian Brindley]]></title>
+            <description><![CDATA[By Peter Sheppard]]></description>
+            <link>https://spectator.com/article/the-death-of-brian-brindley/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-death-of-brian-brindley/</guid>
+            <dc:creator><![CDATA[Peter Sheppard]]></dc:creator>
+            <pubDate>Sun, 27 Sep 2026 02:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Was Coltrane overrated?]]></title>
+            <description><![CDATA[By Michael Henderson]]></description>
+            <link>https://spectator.com/article/was-coltrane-overrated/</link>
+            <guid isPermaLink="true">https://spectator.com/article/was-coltrane-overrated/</guid>
+            <dc:creator><![CDATA[Michael Henderson]]></dc:creator>
+            <pubDate>Sun, 27 Sep 2026 02:40:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[City may have damaged the Premier League beyond repair]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
@@ -4010,30 +4034,6 @@ Yvonne, who also happens to be multilingual, banters with her in Italian and Ger
             <link>https://spectator.com/article/should-we-take-beryl-cook-more-seriously/</link>
             <guid isPermaLink="true">https://spectator.com/article/should-we-take-beryl-cook-more-seriously/</guid>
             <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 02:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Festivals are destroying London’s great parks]]></title>
-            <description><![CDATA[Pop]]></description>
-            <link>https://spectator.com/article/festivals-are-destroying-londons-great-parks/</link>
-            <guid isPermaLink="true">https://spectator.com/article/festivals-are-destroying-londons-great-parks/</guid>
-            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 02:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finally: a museum that refrains from moralising]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/finally-a-museum-that-refrains-from-moralising/</link>
-            <guid isPermaLink="true">https://spectator.com/article/finally-a-museum-that-refrains-from-moralising/</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 02:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The violinist who told the Vienna Phil where to stick it]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/the-violinist-who-told-the-vienna-phil-where-to-stick-it/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-violinist-who-told-the-vienna-phil-where-to-stick-it/</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 02:11:32 GMT</pubDate>
         </item>
     </channel>

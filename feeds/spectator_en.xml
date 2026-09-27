@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 08:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 14:25:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Sep 2026 08:44:30 GMT</pubDate>
+        <pubDate>Sun, 27 Sep 2026 14:25:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Irish football is suffering from a Palestinian purity test]]></title>
+            <description><![CDATA[By Liz Walsh]]></description>
+            <link>https://spectator.com/article/irish-football-is-suffering-from-a-palestinian-purity-test/</link>
+            <guid isPermaLink="true">https://spectator.com/article/irish-football-is-suffering-from-a-palestinian-purity-test/</guid>
+            <dc:creator><![CDATA[Liz Walsh]]></dc:creator>
+            <pubDate>Sun, 27 Sep 2026 14:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham delays social care reform this parliament]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/burnham-delays-social-care-reform-this-parliament/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-delays-social-care-reform-this-parliament/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Sun, 27 Sep 2026 14:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunday shows round-up: Burnham pushes for a national care service]]></title>
+            <description><![CDATA[By Joe Bedell-Brill]]></description>
+            <link>https://spectator.com/article/sunday-shows-round-up-burnham-pushes-for-a-national-care-service/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-burnham-pushes-for-a-national-care-service/</guid>
+            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
+            <pubDate>Sun, 27 Sep 2026 14:25:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are Welsh nationalists the ‘Postman Pats’ of international terrorism?]]></title>
             <description><![CDATA[By Bethany Elliott]]></description>
@@ -662,7 +686,7 @@ To prise Joe away from his family, Tom encourages his adorable girlfriend, Lorna
         </item>
         <item>
             <title><![CDATA[The fourth plinth is racist]]></title>
-            <description><![CDATA[Notes]]></description>
+            <description><![CDATA[By Charles Moore]]></description>
             <link>https://spectator.com/article/the-fourth-plinth-is-racist/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-fourth-plinth-is-racist/</guid>
             <dc:creator><![CDATA[Charles Moore]]></dc:creator>
@@ -4010,30 +4034,6 @@ Yvonne, who also happens to be multilingual, banters with her in Italian and Ger
             <link>https://spectator.com/article/oldhams-fight-to-get-its-own-eton/</link>
             <guid isPermaLink="true">https://spectator.com/article/oldhams-fight-to-get-its-own-eton/</guid>
             <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 07:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Oxbridge files 2026: which schools get the most pupils in?]]></title>
-            <description><![CDATA[By The Spectator]]></description>
-            <link>https://spectator.com/article/the-oxbridge-files-2026-which-schools-get-the-most-pupils-in/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-oxbridge-files-2026-which-schools-get-the-most-pupils-in/</guid>
-            <dc:creator><![CDATA[The Spectator]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 07:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bring back school pets!]]></title>
-            <description><![CDATA[By William Moore]]></description>
-            <link>https://spectator.com/article/bring-back-school-pets/</link>
-            <guid isPermaLink="true">https://spectator.com/article/bring-back-school-pets/</guid>
-            <dc:creator><![CDATA[William Moore]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 07:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Greens are coming for north London]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/the-greens-are-coming-for-north-london/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-greens-are-coming-for-north-london/</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 07:31:36 GMT</pubDate>
         </item>
     </channel>

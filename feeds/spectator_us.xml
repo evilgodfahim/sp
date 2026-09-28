@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Sep 2026 14:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 20:56:32 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Sep 2026 14:44:28 GMT</pubDate>
+        <pubDate>Mon, 28 Sep 2026 20:56:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russia’s economy is slowly rotting]]></title>
+            <description><![CDATA[By Alexander Kolyandr]]></description>
+            <link>https://spectator.com/article/russias-economy-is-slowly-rotting/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/russias-economy-is-slowly-rotting/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 20:56:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colbert quit the stage with a whimper not a bang]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4015,14 +4023,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <guid isPermaLink="true">https://spectator.com/article/casa-bonita-the-greatest-restaurant-in-the-world/?edition=us</guid>
             <dc:creator><![CDATA[Stephen L. Miller]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 01:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What do changing emoji trends tell us about society?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/changing-emoji-trends-society/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/changing-emoji-trends-society/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 18:50:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

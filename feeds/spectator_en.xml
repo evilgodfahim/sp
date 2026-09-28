@@ -4,10 +4,82 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Sep 2026 00:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 06:07:54 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Sep 2026 00:08:23 GMT</pubDate>
+        <pubDate>Mon, 28 Sep 2026 06:07:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How ‘Little Boy’ Japan grew up]]></title>
+            <description><![CDATA[By Christopher Harding]]></description>
+            <link>https://spectator.com/article/how-little-boy-japan-grew-up/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-little-boy-japan-grew-up/</guid>
+            <dc:creator><![CDATA[Christopher Harding]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 06:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The genius of Sherlock & Co.]]></title>
+            <description><![CDATA[Podcasts]]></description>
+            <link>https://spectator.com/article/the-genius-of-sherlock-co/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-genius-of-sherlock-co/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 06:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rock stars shouldn’t be role models]]></title>
+            <description><![CDATA[Oasis of harm]]></description>
+            <link>https://spectator.com/article/rock-stars-shouldnt-be-role-models/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rock-stars-shouldnt-be-role-models/</guid>
+            <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 06:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rural France is fighting a boar war]]></title>
+            <description><![CDATA[Heatwaves and hogs]]></description>
+            <link>https://spectator.com/article/rural-france-is-waging-a-war-on-wild-boars/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rural-france-is-waging-a-war-on-wild-boars/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 06:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A pilgrimage to Walsingham is the perfect summer holiday]]></title>
+            <description><![CDATA[England's Nazareth]]></description>
+            <link>https://spectator.com/article/a-pilgrimage-to-walsingham-is-the-perfect-summer-holiday/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-pilgrimage-to-walsingham-is-the-perfect-summer-holiday/</guid>
+            <dc:creator><![CDATA[Harriet Dolby]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 06:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Abdul El-Sayed America’s next Obama?]]></title>
+            <description><![CDATA[Yes he can]]></description>
+            <link>https://spectator.com/article/is-abdul-el-sayed-americas-next-obama/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-abdul-el-sayed-americas-next-obama/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 06:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The strange world of professional mourners]]></title>
+            <description><![CDATA[Grief encounter]]></description>
+            <link>https://spectator.com/article/the-strange-world-of-professional-mourners/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-strange-world-of-professional-mourners/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[James Dixon]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 06:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The gender row that could derail Andy Burnham’s Labour conference]]></title>
+            <description><![CDATA[By Lois McLatchie Miller]]></description>
+            <link>https://spectator.com/article/the-gender-row-that-could-derail-andy-burnhams-labour-conference/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-gender-row-that-could-derail-andy-burnhams-labour-conference/</guid>
+            <dc:creator><![CDATA[Lois McLatchie Miller]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 06:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The real reason kids are giving up reading]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-real-reason-kids-are-giving-up-reading/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-real-reason-kids-are-giving-up-reading/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 06:07:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The return of Lady Muck]]></title>
             <description><![CDATA[By Julie Burchill]]></description>
@@ -18,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Irish football is suffering from a Palestinian purity test]]></title>
-            <description><![CDATA[By Liz Walsh]]></description>
+            <description><![CDATA[Israel protests]]></description>
             <link>https://spectator.com/article/irish-football-is-suffering-from-a-palestinian-purity-test/</link>
             <guid isPermaLink="true">https://spectator.com/article/irish-football-is-suffering-from-a-palestinian-purity-test/</guid>
             <dc:creator><![CDATA[Liz Walsh]]></dc:creator>
@@ -26,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham delays social care reform this parliament]]></title>
-            <description><![CDATA[By James Heale]]></description>
+            <description><![CDATA[Kicking the can]]></description>
             <link>https://spectator.com/article/burnham-delays-social-care-reform-this-parliament/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-delays-social-care-reform-this-parliament/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -106,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[Ranulph Fiennes and the perils of depriving liberty]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
+            <description><![CDATA[Old age]]></description>
             <link>https://spectator.com/article/ranulph-fiennes-and-the-perils-of-depriving-liberty/</link>
             <guid isPermaLink="true">https://spectator.com/article/ranulph-fiennes-and-the-perils-of-depriving-liberty/</guid>
             <dc:creator><![CDATA[Druin Burch]]></dc:creator>
@@ -522,7 +594,7 @@
         </item>
         <item>
             <title><![CDATA[The genius of Sherlock & Co.]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
+            <description><![CDATA[Podcasts]]></description>
             <link>https://spectator.com/article/the-genius-of-sherlock-co/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-genius-of-sherlock-co/</guid>
             <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
@@ -554,7 +626,7 @@
         </item>
         <item>
             <title><![CDATA[The strange world of professional mourners]]></title>
-            <description><![CDATA[By James Dixon]]></description>
+            <description><![CDATA[Grief encounter]]></description>
             <link>https://spectator.com/article/the-strange-world-of-professional-mourners/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-strange-world-of-professional-mourners/</guid>
             <dc:creator><![CDATA[James Dixon]]></dc:creator>
@@ -614,7 +686,7 @@ To prise Joe away from his family, Tom encourages his adorable girlfriend, Lorna
         </item>
         <item>
             <title><![CDATA[Is Abdul El-Sayed America’s next Obama?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
+            <description><![CDATA[Yes he can]]></description>
             <link>https://spectator.com/article/is-abdul-el-sayed-americas-next-obama/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-abdul-el-sayed-americas-next-obama/</guid>
             <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
@@ -3963,78 +4035,6 @@ Yvonne, who also happens to be multilingual, banters with her in Italian and Ger
             <guid isPermaLink="true">https://spectator.com/article/ai-not-climate-change-is-the-greatest-threat-to-mankind/</guid>
             <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 05:16:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Holborn will reject Polanski]]></title>
-            <description><![CDATA[By Oliver Dean]]></description>
-            <link>https://spectator.com/article/why-holborn-will-reject-polanski/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-holborn-will-reject-polanski/</guid>
-            <dc:creator><![CDATA[Oliver Dean]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 05:16:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tories and Reform take the economic fight to Labour]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/the-tories-and-reform-take-the-economic-fight-to-labour/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-tories-and-reform-take-the-economic-fight-to-labour/</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 19:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chris Langham was disgusting but talented]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/chris-langham-was-disgusting-but-talented/</link>
-            <guid isPermaLink="true">https://spectator.com/article/chris-langham-was-disgusting-but-talented/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 16:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Europe brave enough to keep pointing the finger at Putin?]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
-            <link>https://spectator.com/article/is-europe-brave-enough-to-keep-pointing-the-finger-at-putin/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-europe-brave-enough-to-keep-pointing-the-finger-at-putin/</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Burnham afford to delay raising defence spending?]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/can-burnham-afford-to-delay-raising-defence-spending/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-burnham-afford-to-delay-raising-defence-spending/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polanski confirms run for Starmer’s seat]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/polanski-confirms-run-for-starmers-seat/</link>
-            <guid isPermaLink="true">https://spectator.com/article/polanski-confirms-run-for-starmers-seat/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Want to get on in society? Read an etiquette guide]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/want-to-get-on-in-society-read-an-etiquette-guide/</link>
-            <guid isPermaLink="true">https://spectator.com/article/want-to-get-on-in-society-read-an-etiquette-guide/</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 07:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time’s up for Burnham’s happy thoughts]]></title>
-            <description><![CDATA[By Matthew Parris]]></description>
-            <link>https://spectator.com/article/times-up-for-burnhams-happy-thoughts/</link>
-            <guid isPermaLink="true">https://spectator.com/article/times-up-for-burnhams-happy-thoughts/</guid>
-            <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 07:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marine Le Pen’s Muslim headscarf ban is popular, not populist]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/marine-le-pens-muslim-headscarf-ban-is-popular-not-populist/</link>
-            <guid isPermaLink="true">https://spectator.com/article/marine-le-pens-muslim-headscarf-ban-is-popular-not-populist/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 07:31:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 13:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 18:59:56 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 13:34:24 GMT</pubDate>
+        <pubDate>Tue, 29 Sep 2026 18:59:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A little less self-expression, please]]></title>
+            <description><![CDATA[By Grayson Quay]]></description>
+            <link>https://spectator.com/article/a-little-less-self-expression-please/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-little-less-self-expression-please/?edition=us</guid>
+            <dc:creator><![CDATA[Grayson Quay]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 18:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Memo from Montecito]]></title>
+            <description><![CDATA[By Calla Jones Corner]]></description>
+            <link>https://spectator.com/article/memo-from-montecito/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/memo-from-montecito/?edition=us</guid>
+            <dc:creator><![CDATA[Calla Jones Corner]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 18:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Must we ‘be safe?’]]></title>
+            <description><![CDATA[By Chadwick Moore]]></description>
+            <link>https://spectator.com/article/must-we-be-safe/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/must-we-be-safe/?edition=us</guid>
+            <dc:creator><![CDATA[Chadwick Moore]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 18:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When will Meghan Markle bring ‘As Ever’ to Britain?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/when-will-meghan-markle-bring-as-ever-to-britain/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-will-meghan-markle-bring-as-ever-to-britain/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 18:59:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Keeping it real]]></title>
             <description><![CDATA[By Nick Scott]]></description>
@@ -3991,38 +4023,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <guid isPermaLink="true">https://spectator.com/article/unpacking-john-lennon-and-paul-mccartneys-complex-relationship/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 22:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why does TikTok hype extreme violence?]]></title>
-            <description><![CDATA[By Katherine Dee]]></description>
-            <link>https://spectator.com/article/tiktok-hype-extreme-violence-splatterpunk/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/tiktok-hype-extreme-violence-splatterpunk/?edition=us</guid>
-            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 13:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beastie Boys were masters of cultural appropriation]]></title>
-            <description><![CDATA[By Rich Cromwell]]></description>
-            <link>https://spectator.com/article/beastie-boys-were-masters-of-cultural-appropriation/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/beastie-boys-were-masters-of-cultural-appropriation/?edition=us</guid>
-            <dc:creator><![CDATA[Rich Cromwell]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 10:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The tragedy of Jason Arday]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/the-tragedy-of-jason-arday/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-tragedy-of-jason-arday/?edition=us</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 10:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dario Amodei’s wife emailed Epstein for sex blog seed round]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/dario-amodei-wife-emailed-epstein-sex-blog-cockburn-diary-08-14-26/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/dario-amodei-wife-emailed-epstein-sex-blog-cockburn-diary-08-14-26/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 19:42:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

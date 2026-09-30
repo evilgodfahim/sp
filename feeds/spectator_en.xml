@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 19:44:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 23:20:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2026 19:44:39 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 23:20:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Exclusive: work or face benefits ban, Tories tell under-25s]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/i-get-better-every-day-has-kemi-badenoch-revived-the-tory-party/</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-get-better-every-day-has-kemi-badenoch-revived-the-tory-party/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 23:20:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flydubai and the heroism of ordinary Jews]]></title>
             <description><![CDATA[By Brendan O’Neill]]></description>
@@ -4026,14 +4034,6 @@ Yvonne, who also happens to be multilingual, banters with her in Italian and Ger
             <link>https://spectator.com/article/my-dogs-an-accident-waiting-to-happen/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-dogs-an-accident-waiting-to-happen/</guid>
             <dc:creator><![CDATA[Melissa Kite]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 07:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t bother with the Bayeux Tapestry]]></title>
-            <description><![CDATA[By Flora Watkins]]></description>
-            <link>https://spectator.com/article/dont-bother-with-the-bayeux-tapestry/</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-bother-with-the-bayeux-tapestry/</guid>
-            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 07:35:22 GMT</pubDate>
         </item>
     </channel>

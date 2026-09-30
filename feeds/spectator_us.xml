@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 01:45:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 07:44:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2026 01:45:38 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 07:44:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How the Democrats Bud Lighted their brand]]></title>
+            <description><![CDATA[By Bridget Phetasy]]></description>
+            <link>https://spectator.com/article/how-the-democrats-bud-lighted-their-brand/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-democrats-bud-lighted-their-brand/?edition=us</guid>
+            <dc:creator><![CDATA[Bridget Phetasy]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 07:44:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A statement from The Spectator]]></title>
+            <description><![CDATA[By The Spectator]]></description>
+            <link>https://spectator.com/article/a-statement-from-the-spectator/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-statement-from-the-spectator/?edition=us</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 07:44:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BREAKING: soccer is gay]]></title>
             <description><![CDATA[By Chadwick Moore]]></description>
@@ -4007,22 +4023,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <guid isPermaLink="true">https://spectator.com/article/inside-russias-repression-of-ukraines-churches/?edition=us</guid>
             <dc:creator><![CDATA[Peter Pomerantsev]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 08:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The art of Georgian toasting]]></title>
-            <description><![CDATA[By Orson Fry]]></description>
-            <link>https://spectator.com/article/the-art-of-georgian-toasting/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-art-of-georgian-toasting/?edition=us</guid>
-            <dc:creator><![CDATA[Orson Fry]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 08:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The peptides market is exploding – but are they safe?]]></title>
-            <description><![CDATA[By Charles Cornish-Dale]]></description>
-            <link>https://spectator.com/article/use-peptides-growing-rapidly-safe/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/use-peptides-growing-rapidly-safe/?edition=us</guid>
-            <dc:creator><![CDATA[Charles Cornish-Dale]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 07:23:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

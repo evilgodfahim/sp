@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 14:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 19:44:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2026 14:26:37 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 19:44:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Flydubai and the heroism of ordinary Jews]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/flydubai-and-the-heroism-of-ordinary-jews/</link>
+            <guid isPermaLink="true">https://spectator.com/article/flydubai-and-the-heroism-of-ordinary-jews/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 19:44:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham has no idea what kind of EU relationship he wants]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/burnham-has-no-idea-what-kind-of-eu-relationship-he-wants/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-has-no-idea-what-kind-of-eu-relationship-he-wants/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 19:44:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The National Trust should stick to the day job, not lecture us on climate change]]></title>
             <description><![CDATA[By Harry Mount]]></description>
@@ -4019,22 +4035,6 @@ Yvonne, who also happens to be multilingual, banters with her in Italian and Ger
             <guid isPermaLink="true">https://spectator.com/article/dont-bother-with-the-bayeux-tapestry/</guid>
             <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 07:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The biggest of all the delusions about Reform]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
-            <link>https://spectator.com/article/the-biggest-of-all-the-delusions-about-reform/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-biggest-of-all-the-delusions-about-reform/</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 02:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What my GB News incest row critics fail to understand]]></title>
-            <description><![CDATA[By Charles Amos]]></description>
-            <link>https://spectator.com/article/what-my-gb-news-incest-row-critics-fail-to-understand/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-my-gb-news-incest-row-critics-fail-to-understand/</guid>
-            <dc:creator><![CDATA[Charles Amos]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 23:10:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

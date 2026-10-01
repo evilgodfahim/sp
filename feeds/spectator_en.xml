@@ -4,10 +4,82 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Oct 2026 10:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 17:12:11 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Oct 2026 10:36:11 GMT</pubDate>
+        <pubDate>Thu, 01 Oct 2026 17:12:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pro-Gaza MP casts doubt on Flydubai terror attack]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/pro-gaza-mp-casts-doubt-on-flydubai-terror-attack/</link>
+            <guid isPermaLink="true">https://spectator.com/article/pro-gaza-mp-casts-doubt-on-flydubai-terror-attack/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain is in the grip of a prison capacity crisis]]></title>
+            <description><![CDATA[By Alexander Baker]]></description>
+            <link>https://spectator.com/article/britain-is-in-the-grip-of-a-prison-capacity-crisis/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-is-in-the-grip-of-a-prison-capacity-crisis/</guid>
+            <dc:creator><![CDATA[Alexander Baker]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No John Swinney, Scotland won’t pay for England’s social care]]></title>
+            <description><![CDATA[By John O’Neill]]></description>
+            <link>https://spectator.com/article/no-john-swinney-scotland-wont-pay-for-englands-social-care/</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-john-swinney-scotland-wont-pay-for-englands-social-care/</guid>
+            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The urgent questions Burnham still needs to answer]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/the-urgent-questions-burnham-still-needs-to-answer/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-urgent-questions-burnham-still-needs-to-answer/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘one in, one out’ migrant deal was always doomed to fail]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/the-one-in-one-out-migrant-deal-was-always-doomed-to-fail/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-one-in-one-out-migrant-deal-was-always-doomed-to-fail/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christa Pike should be allowed to live]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/christa-pike-should-be-allowed-to-live/</link>
+            <guid isPermaLink="true">https://spectator.com/article/christa-pike-should-be-allowed-to-live/</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I’m a Manchester City fan – but we deserve absolutely no mercy]]></title>
+            <description><![CDATA[Bad sports]]></description>
+            <link>https://spectator.com/article/im-a-manchester-city-fan-but-we-deserve-absolutely-no-mercy/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/im-a-manchester-city-fan-but-we-deserve-absolutely-no-mercy/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Michael Henderson]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A middle-class guide to apocalypse prepping]]></title>
+            <description><![CDATA[Bunker mentality]]></description>
+            <link>https://spectator.com/article/a-middle-class-guide-to-apocalypse-prepping/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-middle-class-guide-to-apocalypse-prepping/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nine times Tories backed scrapping the triple lock]]></title>
+            <description><![CDATA[By Sam McPhail]]></description>
+            <link>https://spectator.com/article/nine-times-tories-backed-scrapping-the-triple-lock/</link>
+            <guid isPermaLink="true">https://spectator.com/article/nine-times-tories-backed-scrapping-the-triple-lock/</guid>
+            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What if AI is actually good at writing novels?]]></title>
             <description><![CDATA[By Owen Matthews]]></description>
@@ -106,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[The truth about Earl Spencer]]></title>
-            <description><![CDATA[By Piers Morgan]]></description>
+            <description><![CDATA[Diary]]></description>
             <link>https://spectator.com/article/the-truth-about-earl-spencer/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-truth-about-earl-spencer/</guid>
             <dc:creator><![CDATA[Piers Morgan]]></dc:creator>
@@ -3973,78 +4045,6 @@ Yvonne, who also happens to be multilingual, banters with her in Italian and Ger
             <guid isPermaLink="true">https://spectator.com/article/ryanair-is-right-to-fume-about-the-chaos-at-britains-airports/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 14:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At PMQs, Burnham is short of answers]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/at-pmqs-burnham-is-short-of-answers/</link>
-            <guid isPermaLink="true">https://spectator.com/article/at-pmqs-burnham-is-short-of-answers/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Burnham puts benefits before national security]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-burnham-puts-benefits-before-national-security/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-burnham-puts-benefits-before-national-security/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airport chaos is a terrible advert for Britain]]></title>
-            <description><![CDATA[By Camilla Swift]]></description>
-            <link>https://spectator.com/article/airport-chaos-is-a-terrible-advert-for-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/airport-chaos-is-a-terrible-advert-for-britain/</guid>
-            <dc:creator><![CDATA[Camilla Swift]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The curious case of balaclavas on Britain’s streets]]></title>
-            <description><![CDATA[Face off]]></description>
-            <link>https://spectator.com/article/the-curious-case-of-balaclavas-on-britains-streets/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-curious-case-of-balaclavas-on-britains-streets/</guid>
-            <dc:creator><![CDATA[Christopher Kennedy-Barnard]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to fix Britain’s ‘sick note’ disease]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/how-to-fix-britains-sick-note-disease/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-fix-britains-sick-note-disease/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If hot tea kills me, it’ll be worth it]]></title>
-            <description><![CDATA[By Alec Marsh]]></description>
-            <link>https://spectator.com/article/if-hot-tea-kills-me-itll-be-worth-it/</link>
-            <guid isPermaLink="true">https://spectator.com/article/if-hot-tea-kills-me-itll-be-worth-it/</guid>
-            <dc:creator><![CDATA[Alec Marsh]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why were women banned from the Eiffel Tower?]]></title>
-            <description><![CDATA[Beyond the veil]]></description>
-            <link>https://spectator.com/article/why-were-women-banned-from-the-eiffel-tower/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-were-women-banned-from-the-eiffel-tower/</guid>
-            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Festivals are destroying London’s great parks]]></title>
-            <description><![CDATA[Pop]]></description>
-            <link>https://spectator.com/article/festivals-are-destroying-londons-great-parks/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/festivals-are-destroying-londons-great-parks/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 10:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The trouble with communism began with Plato]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-trouble-with-communism-began-with-plato/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-trouble-with-communism-began-with-plato/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Victor Sebestyen]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 10:27:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Oct 2026 10:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 17:12:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Oct 2026 10:36:00 GMT</pubDate>
+        <pubDate>Thu, 01 Oct 2026 17:12:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Francesca Hong’s defeat won’t stop the DSA]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/francesca-hongs-defeat-wont-stop-the-dsa/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/francesca-hongs-defeat-wont-stop-the-dsa/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the church of pipe smoking]]></title>
+            <description><![CDATA[By Joseph Morris]]></description>
+            <link>https://spectator.com/article/why-pipe-smoking-matters/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-pipe-smoking-matters/?edition=us</guid>
+            <dc:creator><![CDATA[Joseph Morris]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the CIA and MI6 really talk about]]></title>
+            <description><![CDATA[By David McCloskey]]></description>
+            <link>https://spectator.com/article/what-the-cia-and-mi6-really-talk-about/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-the-cia-and-mi6-really-talk-about/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[David McCloskey]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Madness, mutiny and murder in the Canadian Arctic]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/madness-mutiny-and-murder-in-the-canadian-arctic/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/madness-mutiny-and-murder-in-the-canadian-arctic/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Mark Piesing]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christa Pike should be allowed to live]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/christa-pike-should-be-allowed-to-live/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/christa-pike-should-be-allowed-to-live/?edition=us</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The national debt is back with a vengeance]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/the-national-debt-is-back-with-a-vengeance/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-national-debt-is-back-with-a-vengeance/?edition=us</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 17:12:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The game you are not allowed to win]]></title>
             <description><![CDATA[By Douglas Murray]]></description>
@@ -3975,54 +4023,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <guid isPermaLink="true">https://spectator.com/article/shiva-naipaul-journey-nowhere-deserves-reissue/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[D.J. Taylor]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 10:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Love lessons from my grandfather]]></title>
-            <description><![CDATA[State of the union]]></description>
-            <link>https://spectator.com/article/love-lessons-from-my-grandfather-alexander-chancellor/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/love-lessons-from-my-grandfather-alexander-chancellor/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Lucas Chancellor]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 10:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Russia and China are helping North Korea dodge sanctions]]></title>
-            <description><![CDATA[By Edward Howell]]></description>
-            <link>https://spectator.com/article/how-russia-and-china-are-helping-north-korea-dodge-sanctions/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-russia-and-china-are-helping-north-korea-dodge-sanctions/?edition=us</guid>
-            <dc:creator><![CDATA[Edward Howell]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 10:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The end of the Luigi cult]]></title>
-            <description><![CDATA[By Alex Bronzini-Vender]]></description>
-            <link>https://spectator.com/article/the-end-of-the-luigi-mangione-cult/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-end-of-the-luigi-mangione-cult/?edition=us</guid>
-            <dc:creator><![CDATA[Alex Bronzini-Vender]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 10:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I crashed Rupert Murdoch’s birthday party]]></title>
-            <description><![CDATA[By Lachlan Cartwright]]></description>
-            <link>https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/crashed-rupert-murdoch-birthday-lachlan-cartwright-diary/?edition=us</guid>
-            <dc:creator><![CDATA[Lachlan Cartwright]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 09:31:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Babies on demand: the nasty side of surrogacy]]></title>
-            <description><![CDATA[By Madeleine Kearns]]></description>
-            <link>https://spectator.com/article/babies-on-demand-the-nasty-side-of-surrogacy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/babies-on-demand-the-nasty-side-of-surrogacy/?edition=us</guid>
-            <dc:creator><![CDATA[Madeleine Kearns]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 05:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carl Jung, the man behind the psychobabble]]></title>
-            <description><![CDATA[By Amelia Butler-Gallie]]></description>
-            <link>https://spectator.com/article/carl-jung-man-psychobabble-speaking/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/carl-jung-man-psychobabble-speaking/?edition=us</guid>
-            <dc:creator><![CDATA[Amelia Butler-Gallie]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 04:32:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 01:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 07:45:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Oct 2026 01:53:43 GMT</pubDate>
+        <pubDate>Fri, 02 Oct 2026 07:45:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Michael Jackson biopic ignores half his life]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/michael-jackson-is-christlike-in-new-biopic/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/michael-jackson-is-christlike-in-new-biopic/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Fri, 02 Oct 2026 07:45:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Playboy pin-up to prohibitionist: the man taking on British gambling]]></title>
+            <description><![CDATA[By Rupert Hawksley]]></description>
+            <link>https://spectator.com/article/from-playboy-pin-up-to-prohibitionist-the-man-taking-on-british-gambling/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/from-playboy-pin-up-to-prohibitionist-the-man-taking-on-british-gambling/?edition=us</guid>
+            <dc:creator><![CDATA[Rupert Hawksley]]></dc:creator>
+            <pubDate>Fri, 02 Oct 2026 07:45:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside the church of pipe smoking]]></title>
             <description><![CDATA[Pipe dreams]]></description>
@@ -4007,22 +4023,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <guid isPermaLink="true">https://spectator.com/article/nancy-mace-paints-it-black/?edition=us</guid>
             <dc:creator><![CDATA[Cockburn]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 17:18:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jason Arday wasn’t the victim of a ‘racist witch hunt’]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/jason-arday-wasnt-the-victim-of-a-racist-witch-hunt/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/jason-arday-wasnt-the-victim-of-a-racist-witch-hunt/?edition=us</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 11:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What ‘London-style’ pizzerias could learn from America]]></title>
-            <description><![CDATA[Slice of the action]]></description>
-            <link>https://spectator.com/article/london-style-pizzerias-could-learn-from-america/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/london-style-pizzerias-could-learn-from-america/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 10:22:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

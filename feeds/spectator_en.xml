@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2026 09:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 14:28:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Oct 2026 09:32:38 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 14:28:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The truth about Gazan ‘journalists’]]></title>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <link>https://spectator.com/article/the-truth-about-gazan-journalists/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-gazan-journalists/</guid>
+            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 14:28:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Badenoch cutting through?]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -34,7 +42,13 @@
         </item>
         <item>
             <title><![CDATA[Is your dog right-wing?]]></title>
-            <description><![CDATA[By Flora Watkins]]></description>
+            <description><![CDATA[It’s as good an indicator as you’ll find of this government’s asinine attitude to rural Britain that you’re reading a piece in which a Spectator writer semi-seriously considers the far-right credentials of various dog breeds. How right-wing is your dog? in itself sounds like one of Alan Partridge’s increasingly desperate pitches for a new TV show.   
+
+
+
+
+
+Pity the poor black Lab, for it’s these harmless thickos of the dog world that have aroused Labour’s ire.]]></description>
             <link>https://spectator.com/article/how-right-wing-is-your-dog/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-right-wing-is-your-dog/</guid>
             <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
@@ -4022,14 +4036,6 @@ Christopher Harborne, the crypto millionaire who has matched Delo’s donation, 
             <link>https://spectator.com/article/dont-believe-everything-that-ai-companies-say/</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-believe-everything-that-ai-companies-say/</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Online Safety Act is wrecking the internet]]></title>
-            <description><![CDATA[By Maya Thomas]]></description>
-            <link>https://spectator.com/article/the-online-safety-act-is-wrecking-the-internet/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-online-safety-act-is-wrecking-the-internet/</guid>
-            <dc:creator><![CDATA[Maya Thomas]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 12:31:21 GMT</pubDate>
         </item>
     </channel>

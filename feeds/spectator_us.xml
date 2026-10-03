@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 23:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 03:01:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Oct 2026 23:26:21 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 03:01:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Boston became the cradle of American children’s literature]]></title>
+            <description><![CDATA[By Lara Prendergast]]></description>
+            <link>https://spectator.com/article/boston-became-cradle-american-children-literature/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/boston-became-cradle-american-children-literature/?edition=us</guid>
+            <dc:creator><![CDATA[Lara Prendergast]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 03:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate-change zealots are wrong about hurricanes]]></title>
+            <description><![CDATA[By Matt Ridley]]></description>
+            <link>https://spectator.com/article/climate-change-zealots-wrong-hurricanes/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/climate-change-zealots-wrong-hurricanes/?edition=us</guid>
+            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 03:01:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Should millionaires exist?]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -4006,22 +4022,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <link>https://spectator.com/article/the-curious-history-of-sporting-superstitions/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/the-curious-history-of-sporting-superstitions/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Patrick Kidd]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 17:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The remains of Sierra Leone’s City hotel symbolize Graham Greene’s ‘soupsweet land’]]></title>
-            <description><![CDATA[Fallen City]]></description>
-            <link>https://spectator.com/article/remains-sierra-leone-city-hotel-symbolize-graham-greene-soupsweet-land/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/remains-sierra-leone-city-hotel-symbolize-graham-greene-soupsweet-land/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 17:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The media didn’t kill Jason Arday]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/the-media-didnt-kill-jason-arday/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-media-didnt-kill-jason-arday/?edition=us</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 17:19:12 GMT</pubDate>
         </item>
     </channel>

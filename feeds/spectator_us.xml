@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2026 18:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 21:54:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Oct 2026 18:27:02 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 21:54:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Mark Carney sold Canada to China]]></title>
+            <description><![CDATA[By Jane Stannus]]></description>
+            <link>https://spectator.com/article/how-mark-carney-sold-canada-to-china/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-mark-carney-sold-canada-to-china/?edition=us</guid>
+            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 21:54:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Boston became the cradle of American children’s literature]]></title>
             <description><![CDATA[By Lara Prendergast]]></description>
@@ -4014,14 +4022,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <link>https://spectator.com/article/all-roads-lead-nashville/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/all-roads-lead-nashville/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 17:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The curious history of sporting superstitions]]></title>
-            <description><![CDATA[Spellbound]]></description>
-            <link>https://spectator.com/article/the-curious-history-of-sporting-superstitions/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-curious-history-of-sporting-superstitions/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Patrick Kidd]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 17:19:12 GMT</pubDate>
         </item>
     </channel>

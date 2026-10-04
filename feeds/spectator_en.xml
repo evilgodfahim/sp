@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 17:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 20:40:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Oct 2026 17:16:55 GMT</pubDate>
+        <pubDate>Sun, 04 Oct 2026 20:40:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Exclusive: Tory MP met Reform treasurer at defection peak]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/exclusive-tory-mp-met-reform-treasurer-at-defection-peak/</link>
+            <guid isPermaLink="true">https://spectator.com/article/exclusive-tory-mp-met-reform-treasurer-at-defection-peak/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 20:40:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Polanski’s Green party has been overtaken by radical activists]]></title>
             <description><![CDATA[By Limor Simhony Philpott]]></description>
@@ -4032,14 +4040,6 @@ Christopher Harborne, the crypto millionaire who has matched Delo’s donation, 
             <link>https://spectator.com/article/dont-sympathise-with-lindsay-clancy/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/dont-sympathise-with-lindsay-clancy/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 10:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[She lived frantically ever after: the jaw-dropping life of Barbara Cartland]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/she-lived-frantically-ever-after-the-jaw-dropping-life-of-barbara-cartland/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/she-lived-frantically-ever-after-the-jaw-dropping-life-of-barbara-cartland/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Frances Wilson]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 10:16:52 GMT</pubDate>
         </item>
     </channel>

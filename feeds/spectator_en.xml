@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 06:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 12:57:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Oct 2026 06:32:19 GMT</pubDate>
+        <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How long has Ranulph Fiennes been under some sort of control?]]></title>
+            <description><![CDATA[By Charles Moore]]></description>
+            <link>https://spectator.com/article/how-long-has-ranulph-fiennes-been-under-some-sort-of-control/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-long-has-ranulph-fiennes-been-under-some-sort-of-control/</guid>
+            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sanctioning the West Bank will hurt Palestinians]]></title>
+            <description><![CDATA[By Adam LeBor]]></description>
+            <link>https://spectator.com/article/sanctioning-the-west-bank-will-hurt-palestinians/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sanctioning-the-west-bank-will-hurt-palestinians/</guid>
+            <dc:creator><![CDATA[Adam LeBor]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The delights of not running a newspaper]]></title>
+            <description><![CDATA[By Conrad Black]]></description>
+            <link>https://spectator.com/article/the-delights-of-not-running-a-newspaper/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-delights-of-not-running-a-newspaper/</guid>
+            <dc:creator><![CDATA[Conrad Black]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it still possible to be a Jewish Green party supporter?]]></title>
+            <description><![CDATA[Anti-Semitism]]></description>
+            <link>https://spectator.com/article/is-it-still-possible-to-be-a-jewish-green-party-supporter/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-it-still-possible-to-be-a-jewish-green-party-supporter/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Jake Wallis Simons]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian history has become Chinese kitsch]]></title>
+            <description><![CDATA[Dispatch]]></description>
+            <link>https://spectator.com/article/russian-history-has-become-chinese-kitsch/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/russian-history-has-become-chinese-kitsch/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Mary Dejevsky]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain is playing catch-up in the fight against antisemitism]]></title>
+            <description><![CDATA[Anti-Jewish violence]]></description>
+            <link>https://spectator.com/article/britain-is-playing-catch-up-in-the-fight-against-anti-semitism/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-is-playing-catch-up-in-the-fight-against-anti-semitism/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Dave Rich]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunday shows round-up: Norris drops jury trial curbs from Courts Bill]]></title>
+            <description><![CDATA[By Joe Bedell-Brill]]></description>
+            <link>https://spectator.com/article/sunday-shows-round-up-norris-drops-jury-trial-curbs-from-courts-bill/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-norris-drops-jury-trial-curbs-from-courts-bill/</guid>
+            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ed Davey is living on borrowed time as Lib Dem leader]]></title>
+            <description><![CDATA[By Charlotte Henry]]></description>
+            <link>https://spectator.com/article/ed-davey-is-living-on-borrowed-time-as-lib-dem-leader/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ed-davey-is-living-on-borrowed-time-as-lib-dem-leader/</guid>
+            <dc:creator><![CDATA[Charlotte Henry]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The WhatsApp Mum]]></title>
             <description><![CDATA[Georgia is always on her phone, and who can blame her when there are just so many messages coming through? Largely it’s her own fault because there is nothing she loves more than setting up a group chat.  
@@ -3977,70 +4041,6 @@ Christopher Harborne, the crypto millionaire who has matched Delo’s donation, 
             <guid isPermaLink="true">https://spectator.com/article/tit-whisperer-polanski-picked-for-holborn-bust-up/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 10:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain is growing. Will Healey mess it up?]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/britain-is-growing-will-healey-mess-it-up/</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-is-growing-will-healey-mess-it-up/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 10:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Disabled people will suffer if assisted dying becomes law]]></title>
-            <description><![CDATA[By Jane Campbell]]></description>
-            <link>https://spectator.com/article/disabled-people-will-suffer-if-assisted-dying-becomes-law/</link>
-            <guid isPermaLink="true">https://spectator.com/article/disabled-people-will-suffer-if-assisted-dying-becomes-law/</guid>
-            <dc:creator><![CDATA[Jane Campbell]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 10:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘A failure of imagination’ did not cause 9/11]]></title>
-            <description><![CDATA[By Alex Alfirraz Scheers]]></description>
-            <link>https://spectator.com/article/a-failure-of-imagination-did-not-cause-9-11/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-failure-of-imagination-did-not-cause-9-11/</guid>
-            <dc:creator><![CDATA[Alex Alfirraz Scheers]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 10:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are you ready for Labour’s war on Middle England?]]></title>
-            <description><![CDATA[By Tali Fraser]]></description>
-            <link>https://spectator.com/article/are-you-ready-for-labours-war-on-middle-england/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/are-you-ready-for-labours-war-on-middle-england/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 10:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coffee-drinking is a cult]]></title>
-            <description><![CDATA[By Esther Walker]]></description>
-            <link>https://spectator.com/article/the-sinister-cult-of-coffee/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-sinister-cult-of-coffee/</guid>
-            <dc:creator><![CDATA[Esther Walker]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 05:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Renoir heist was entirely predictable]]></title>
-            <description><![CDATA[By Sophie Law]]></description>
-            <link>https://spectator.com/article/the-renoir-heist-was-entirely-predictable/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-renoir-heist-was-entirely-predictable/</guid>
-            <dc:creator><![CDATA[Sophie Law]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 05:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham has given a gift to the SNP]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/andy-burnham-has-given-a-gift-to-the-snp/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-has-given-a-gift-to-the-snp/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 05:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If Burnham won’t make cuts, the IMF will do it for him]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/if-burnham-wont-make-cuts-the-imf-will-do-it-for-him/</link>
-            <guid isPermaLink="true">https://spectator.com/article/if-burnham-wont-make-cuts-the-imf-will-do-it-for-him/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 05:27:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

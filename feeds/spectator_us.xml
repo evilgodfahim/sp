@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 06:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 12:57:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Oct 2026 06:32:13 GMT</pubDate>
+        <pubDate>Sun, 04 Oct 2026 12:57:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A strong character]]></title>
+            <description><![CDATA[By Joanne Glasbey]]></description>
+            <link>https://spectator.com/article/a-strong-character/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-strong-character/?edition=us</guid>
+            <dc:creator><![CDATA[Joanne Glasbey]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For its latest Masters of Art series, Montblanc channels the vibrant and expressive works of Henri Matisse]]></title>
+            <description><![CDATA[By Peter Howarth]]></description>
+            <link>https://spectator.com/article/for-its-latest-masters-of-art-series-montblanc-channels-the-vibrant-and-expressive-works-of-henri-matisse/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/for-its-latest-masters-of-art-series-montblanc-channels-the-vibrant-and-expressive-works-of-henri-matisse/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Howarth]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get ready to flee socialist America]]></title>
+            <description><![CDATA[By Michael P. Gibson]]></description>
+            <link>https://spectator.com/article/get-ready-flee-socialist-america-peter-thiel/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/get-ready-flee-socialist-america-peter-thiel/?edition=us</guid>
+            <dc:creator><![CDATA[Michael P. Gibson]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:57:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A reincarnation drama worth reliving]]></title>
             <description><![CDATA[By Dominic Green]]></description>
@@ -3999,30 +4023,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <guid isPermaLink="true">https://spectator.com/article/the-urgent-case-for-fixing-californias-broken-elections/?edition=us</guid>
             <dc:creator><![CDATA[John Fund]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 06:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is going on with Amy Griffin?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/what-is-going-on-with-amy-griffin/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-is-going-on-with-amy-griffin/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 06:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The remains of Sierra Leone’s City hotel symbolize Graham Greene’s ‘soupsweet land’]]></title>
-            <description><![CDATA[By Alex Diggins]]></description>
-            <link>https://spectator.com/article/remains-sierra-leone-city-hotel-symbolize-graham-greene-soupsweet-land/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/remains-sierra-leone-city-hotel-symbolize-graham-greene-soupsweet-land/?edition=us</guid>
-            <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 04:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firing a senior banker won’t save Putin’s faltering war economy]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
-            <link>https://spectator.com/article/firing-a-senior-banker-wont-save-putins-faltering-war-economy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/firing-a-senior-banker-wont-save-putins-faltering-war-economy/?edition=us</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 18:23:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

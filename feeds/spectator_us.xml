@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Oct 2026 03:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 11:00:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Oct 2026 03:10:08 GMT</pubDate>
+        <pubDate>Mon, 05 Oct 2026 11:00:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[War is as good as Succession]]></title>
+            <description><![CDATA[Television]]></description>
+            <link>https://spectator.com/article/war-is-as-good-as-succession/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/war-is-as-good-as-succession/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[James Walton]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 11:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The truth about Princess Diana’s brother]]></title>
+            <description><![CDATA[Diary]]></description>
+            <link>https://spectator.com/article/the-truth-about-earl-spencer/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-earl-spencer/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Piers Morgan]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 11:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Trump can confront the new age of terror]]></title>
+            <description><![CDATA[By Spectator Editorial]]></description>
+            <link>https://spectator.com/article/living-in-terror/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/living-in-terror/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 11:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate-change zealots are wrong about hurricanes]]></title>
+            <description><![CDATA[Blown away]]></description>
+            <link>https://spectator.com/article/climate-change-zealots-wrong-hurricanes/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/climate-change-zealots-wrong-hurricanes/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 11:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the US bombers left RAF Fairford in a rush]]></title>
+            <description><![CDATA[By Simon Diggins]]></description>
+            <link>https://spectator.com/article/why-the-us-bombers-left-raf-fairford-in-a-rush/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-us-bombers-left-raf-fairford-in-a-rush/?edition=us</guid>
+            <dc:creator><![CDATA[Simon Diggins]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 11:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colleges are making themselves obsolete]]></title>
+            <description><![CDATA[By Peter Wood]]></description>
+            <link>https://spectator.com/article/colleges-making-themselves-obsolete/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/colleges-making-themselves-obsolete/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 11:00:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mayor Mamdani: South Africa is the model for New York]]></title>
             <description><![CDATA[By Ben Clerkin]]></description>
@@ -3975,54 +4023,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <guid isPermaLink="true">https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Nicholas Shakespeare]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:26:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Natalie Harp does for Trump]]></title>
-            <description><![CDATA[By Sarah Beth Spraggins]]></description>
-            <link>https://spectator.com/article/what-natalie-harp-does-for-trump/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-natalie-harp-does-for-trump/?edition=us</guid>
-            <dc:creator><![CDATA[Sarah Beth Spraggins]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 12:26:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘A selfish, ignoble person’ – the dark side of the Nobel prize-winner Mario Vargas Llosa]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-selfish-ignoble-person-the-dark-side-of-the-nobel-prize-winner-mario-vargas-llosa/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Nicholas Shakespeare]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 11:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Arizona’s battle for school choice]]></title>
-            <description><![CDATA[By Corey DeAngelis]]></description>
-            <link>https://spectator.com/article/inside-arizonas-battle-for-school-choice/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/inside-arizonas-battle-for-school-choice/?edition=us</guid>
-            <dc:creator><![CDATA[Corey DeAngelis]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 11:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The car crash appeal of Charles Bukowski]]></title>
-            <description><![CDATA[By Mark Nayler]]></description>
-            <link>https://spectator.com/article/the-car-crash-appeal-of-charles-bukowski/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-car-crash-appeal-of-charles-bukowski/?edition=us</guid>
-            <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 11:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the BBC apologize for its role in the Jason Arday story?]]></title>
-            <description><![CDATA[By Steven Edginton]]></description>
-            <link>https://spectator.com/article/will-the-bbc-apologise-for-its-role-in-the-jason-arday-story/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-the-bbc-apologise-for-its-role-in-the-jason-arday-story/?edition=us</guid>
-            <dc:creator><![CDATA[Steven Edginton]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 10:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An American in Paris]]></title>
-            <description><![CDATA[By Jane Coombs]]></description>
-            <link>https://spectator.com/article/an-american-in-paris-2/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/an-american-in-paris-2/?edition=us</guid>
-            <dc:creator><![CDATA[Jane Coombs]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 09:24:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

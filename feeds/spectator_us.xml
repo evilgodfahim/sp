@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 15:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 20:40:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Oct 2026 15:34:21 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 20:40:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is the Trump phenomenon an anomaly?]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/trump-phenomenon-anomaly/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-phenomenon-anomaly/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 20:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lithuania tells America to move in]]></title>
+            <description><![CDATA[By Lukas Degutis]]></description>
+            <link>https://spectator.com/article/lithuania-america-move-military/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/lithuania-america-move-military/?edition=us</guid>
+            <dc:creator><![CDATA[Lukas Degutis]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 20:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reports about taking out Los Angeles and San Diego are greatly exaggerated]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/reports-taking-los-angeles-san-diego-greatly-exaggerated-trump/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/reports-taking-los-angeles-san-diego-greatly-exaggerated-trump/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 20:40:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What J.D. Vance’s son is learning at school]]></title>
             <description><![CDATA[By Margaret Mitchell]]></description>
@@ -4007,30 +4031,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <guid isPermaLink="true">https://spectator.com/article/the-canonization-of-tupac/?edition=us</guid>
             <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple Music has redeemed itself]]></title>
-            <description><![CDATA[Classical music]]></description>
-            <link>https://spectator.com/article/apple-music-has-redeemed-itself/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/apple-music-has-redeemed-itself/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 10:20:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Shards is easily the best drama on TV]]></title>
-            <description><![CDATA[Television]]></description>
-            <link>https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-shards-is-easily-the-best-drama-on-tv/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 10:20:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All roads lead to Nashville]]></title>
-            <description><![CDATA[Robert Altman’s Nashville]]></description>
-            <link>https://spectator.com/article/all-roads-lead-nashville/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/all-roads-lead-nashville/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 10:20:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

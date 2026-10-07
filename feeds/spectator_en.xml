@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 14:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 20:20:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Oct 2026 14:04:56 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 20:20:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[France’s student protests always go the same way]]></title>
+            <description><![CDATA[By Matthew Fraser]]></description>
+            <link>https://spectator.com/article/frances-student-protests-always-go-the-same-way/</link>
+            <guid isPermaLink="true">https://spectator.com/article/frances-student-protests-always-go-the-same-way/</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 20:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The flaw in Kemi’s plan to scrap inheritance tax on ‘family homes’]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/the-flaw-in-kemis-plan-to-scrap-inheritance-tax-on-family-homes/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-flaw-in-kemis-plan-to-scrap-inheritance-tax-on-family-homes/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 20:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the October 7 Palestine march]]></title>
+            <description><![CDATA[By Limor Simhony Philpott]]></description>
+            <link>https://spectator.com/article/inside-the-october-7-palestine-march/</link>
+            <guid isPermaLink="true">https://spectator.com/article/inside-the-october-7-palestine-march/</guid>
+            <dc:creator><![CDATA[Limor Simhony Philpott]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 20:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s no surprise Burnham wants to delay boosting defence spending]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/its-no-surprise-burnham-wants-to-delay-boosting-defence-spending/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-no-surprise-burnham-wants-to-delay-boosting-defence-spending/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 20:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fourteen things we learned from Kemi Badenoch’s Tory conference speech]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/fourteen-things-we-learned-from-kemi-badenochs-tory-conference-speech/</link>
+            <guid isPermaLink="true">https://spectator.com/article/fourteen-things-we-learned-from-kemi-badenochs-tory-conference-speech/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 20:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tories love Kemi – but who loves them?]]></title>
+            <description><![CDATA[Sketch]]></description>
+            <link>https://spectator.com/article/you-cant-deny-that-the-tories-love-kemi/</link>
+            <guid isPermaLink="true">https://spectator.com/article/you-cant-deny-that-the-tories-love-kemi/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 20:20:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[October 7 was a jihad against Jews]]></title>
             <description><![CDATA[By Florit Shoihet]]></description>
@@ -25,7 +73,7 @@
             <pubDate>Wed, 07 Oct 2026 14:04:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cristiano Ronaldo is acting like a baby]]></title>
+            <title><![CDATA[Cristiano Ronaldo is acting like a big baby]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
             <link>https://spectator.com/article/cristiano-ronaldo-is-acting-like-a-baby/</link>
             <guid isPermaLink="true">https://spectator.com/article/cristiano-ronaldo-is-acting-like-a-baby/</guid>
@@ -50,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Jaguar’s new electric car is a terrible mistake]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
+            <description><![CDATA[A bad type]]></description>
             <link>https://spectator.com/article/jaguars-new-electric-car-is-a-terrible-mistake/</link>
             <guid isPermaLink="true">https://spectator.com/article/jaguars-new-electric-car-is-a-terrible-mistake/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
@@ -66,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[How the West failed the test on October 7]]></title>
-            <description><![CDATA[October 7]]></description>
+            <description><![CDATA[Anti Semitism]]></description>
             <link>https://spectator.com/article/how-the-west-failed-the-test-on-october-7/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-the-west-failed-the-test-on-october-7/</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
@@ -3982,54 +4030,6 @@ Christopher Harborne, the crypto millionaire who has matched Delo’s donation, 
             <link>https://spectator.com/article/britians-public-sector-wage-spiral/</link>
             <guid isPermaLink="true">https://spectator.com/article/britians-public-sector-wage-spiral/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 08:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Vigil right about Putin’s interest in Svalbard?]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
-            <link>https://spectator.com/article/is-vigil-right-about-putins-interest-in-svalbard/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-vigil-right-about-putins-interest-in-svalbard/</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 08:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rory Stewart: send small boat migrants back to France]]></title>
-            <description><![CDATA[The new centre]]></description>
-            <link>https://spectator.com/article/rory-stewart-send-small-boat-migrants-back-to-france/</link>
-            <guid isPermaLink="true">https://spectator.com/article/rory-stewart-send-small-boat-migrants-back-to-france/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 08:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wonder of the Bayeux Tapestry]]></title>
-            <description><![CDATA[Exhibitions]]></description>
-            <link>https://spectator.com/article/the-wonder-of-the-bayeux-tapestry/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wonder-of-the-bayeux-tapestry/</guid>
-            <dc:creator><![CDATA[Alex Burghart]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 08:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcasts are making us stupider]]></title>
-            <description><![CDATA[By Poppie Platt]]></description>
-            <link>https://spectator.com/article/the-case-against-podcasts/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-case-against-podcasts/</guid>
-            <dc:creator><![CDATA[Poppie Platt]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 08:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans can’t write funny novels]]></title>
-            <description><![CDATA[By Alys Denby]]></description>
-            <link>https://spectator.com/article/why-americans-cant-write-funny-novels/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-americans-cant-write-funny-novels/</guid>
-            <dc:creator><![CDATA[Alys Denby]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 08:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Packed lunches are tragic]]></title>
-            <description><![CDATA[By William Atkinson]]></description>
-            <link>https://spectator.com/article/packed-lunches-are-tragic/</link>
-            <guid isPermaLink="true">https://spectator.com/article/packed-lunches-are-tragic/</guid>
-            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 08:12:32 GMT</pubDate>
         </item>
     </channel>

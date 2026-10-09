@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 19:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 23:43:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Oct 2026 19:55:33 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2026 23:43:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump: ‘I resurrected Columbus’]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/trump-i-resurrected-columbus-cockburn-diary-10-09-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-i-resurrected-columbus-cockburn-diary-10-09-26/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 23:43:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live-streaming an execution is grotesque]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
@@ -4022,14 +4030,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <link>https://spectator.com/article/how-a-young-inventor-with-no-printing-experience-revolutionised-the-newspaper-world/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-a-young-inventor-with-no-printing-experience-revolutionised-the-newspaper-world/?edition=us</guid>
             <dc:creator><![CDATA[Dennis Duncan]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 10:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A much-deserved revival of John McCabe, a formidable British composer]]></title>
-            <description><![CDATA[By Richard Bratby]]></description>
-            <link>https://spectator.com/article/a-much-deserved-revival-of-a-formidable-british-composer/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-much-deserved-revival-of-a-formidable-british-composer/?edition=us</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 10:22:20 GMT</pubDate>
         </item>
     </channel>

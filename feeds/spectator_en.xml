@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 14:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 19:55:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Oct 2026 14:14:26 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2026 19:55:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The minor party leaders are in major peril]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/the-minor-party-leaders-are-in-major-peril/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-minor-party-leaders-are-in-major-peril/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 19:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: Reform’s new media strategy]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/revealed-reforms-new-media-strategy/</link>
+            <guid isPermaLink="true">https://spectator.com/article/revealed-reforms-new-media-strategy/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 19:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live streaming an execution is grotesque]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/live-streaming-an-execution-is-grotesque/</link>
+            <guid isPermaLink="true">https://spectator.com/article/live-streaming-an-execution-is-grotesque/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 19:55:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is it time for Jews to flee Berlin again?]]></title>
             <description><![CDATA[By Leon Mangasarian]]></description>
@@ -4018,30 +4042,6 @@ One MP recalls a comment by Burnham in a smaller group that night: ‘We’ll ho
             <link>https://spectator.com/article/mehdi-hasan-is-losing-the-argument-on-hijabs-in-schools/</link>
             <guid isPermaLink="true">https://spectator.com/article/mehdi-hasan-is-losing-the-argument-on-hijabs-in-schools/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 08:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to deal with a bore like Macklemore]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/how-to-deal-with-a-bore-like-macklemore/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-deal-with-a-bore-like-macklemore/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 08:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lucy Letby and the truth about NHS managers]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/lucy-letby-and-the-truth-about-nhs-managers/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lucy-letby-and-the-truth-about-nhs-managers/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 08:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Reform reform?]]></title>
-            <description><![CDATA[By Michael Gove]]></description>
-            <link>https://spectator.com/article/can-reform-reform/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-reform-reform/</guid>
-            <dc:creator><![CDATA[Michael Gove]]></dc:creator>
             <pubDate>Thu, 17 Sep 2026 08:12:10 GMT</pubDate>
         </item>
     </channel>

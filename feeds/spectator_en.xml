@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 20:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 00:51:53 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Oct 2026 20:23:10 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2026 00:51:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who’s to say Simon Pegg doesn’t have ADHD?]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/whos-to-say-simon-pegg-doesnt-have-adhd/</link>
+            <guid isPermaLink="true">https://spectator.com/article/whos-to-say-simon-pegg-doesnt-have-adhd/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 00:51:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andrew’s search warrant victory over Thames Valley Police]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4030,14 +4038,6 @@ Christopher Harborne, the crypto millionaire who has matched Delo’s donation, 
             <link>https://spectator.com/article/revealed-ed-miliband-ignored-mi6s-warnings-over-israel-sanctions/</link>
             <guid isPermaLink="true">https://spectator.com/article/revealed-ed-miliband-ignored-mi6s-warnings-over-israel-sanctions/</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 02:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death at the Athenaeum]]></title>
-            <description><![CDATA[By Damian Thompson]]></description>
-            <link>https://spectator.com/article/death-at-the-athenaeum/</link>
-            <guid isPermaLink="true">https://spectator.com/article/death-at-the-athenaeum/</guid>
-            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
             <pubDate>Thu, 17 Sep 2026 02:34:11 GMT</pubDate>
         </item>
     </channel>

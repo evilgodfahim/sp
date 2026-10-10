@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 23:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 03:29:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Oct 2026 23:43:38 GMT</pubDate>
+        <pubDate>Sat, 10 Oct 2026 03:29:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why don’t you know about Lavell Crawford?]]></title>
+            <description><![CDATA[By Jesse Longman]]></description>
+            <link>https://spectator.com/article/why-dont-you-know-about-lavell-crawford/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-dont-you-know-about-lavell-crawford/?edition=us</guid>
+            <dc:creator><![CDATA[Jesse Longman]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 03:29:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump: ‘I resurrected Columbus’]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -4022,14 +4030,6 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
             <link>https://spectator.com/article/arcade-fire-extinguished/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/arcade-fire-extinguished/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 10:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How a young inventor with no printing experience revolutionized the newspaper world]]></title>
-            <description><![CDATA[By Dennis Duncan]]></description>
-            <link>https://spectator.com/article/how-a-young-inventor-with-no-printing-experience-revolutionised-the-newspaper-world/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-a-young-inventor-with-no-printing-experience-revolutionised-the-newspaper-world/?edition=us</guid>
-            <dc:creator><![CDATA[Dennis Duncan]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 10:22:20 GMT</pubDate>
         </item>
     </channel>

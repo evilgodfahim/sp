@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 16:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 20:23:46 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Oct 2026 16:02:18 GMT</pubDate>
+        <pubDate>Sat, 10 Oct 2026 20:23:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[On mental health treatment, the middle ground is right]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/on-mental-health-treatment-the-middle-ground-is-right/</link>
+            <guid isPermaLink="true">https://spectator.com/article/on-mental-health-treatment-the-middle-ground-is-right/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 20:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is livestreaming an execution so gross?]]></title>
+            <description><![CDATA[By Stephen Daisley]]></description>
+            <link>https://spectator.com/article/why-is-livestreaming-an-execution-so-gross/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-livestreaming-an-execution-so-gross/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 20:23:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Germany’s AfD keeps winning]]></title>
             <description><![CDATA[By Nigel Jones]]></description>
@@ -4018,22 +4034,6 @@ One MP recalls a comment by Burnham in a smaller group that night: ‘We’ll ho
             <link>https://spectator.com/article/the-bank-of-englands-karaoke-comrade/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-bank-of-englands-karaoke-comrade/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 13:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Andrew Griffith have what it takes?]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/does-andrew-griffith-have-what-it-takes/</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-andrew-griffith-have-what-it-takes/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 13:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ed Sheeran has done nothing wrong]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/ed-sheeran-has-done-nothing-wrong/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ed-sheeran-has-done-nothing-wrong/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
             <pubDate>Thu, 17 Sep 2026 13:58:18 GMT</pubDate>
         </item>
     </channel>

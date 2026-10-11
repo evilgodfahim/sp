@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 17:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 21:16:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 17:04:24 GMT</pubDate>
+        <pubDate>Sun, 11 Oct 2026 21:16:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Push the boat out]]></title>
+            <description><![CDATA[By Ian Belcher]]></description>
+            <link>https://spectator.com/article/push-the-boat-out/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/push-the-boat-out/?edition=us</guid>
+            <dc:creator><![CDATA[Ian Belcher]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2026 21:16:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One love]]></title>
             <description><![CDATA[By Robert Ryan]]></description>
@@ -4014,14 +4022,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <link>https://spectator.com/article/palm-beach-reveals-about-america-new-class-system/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/palm-beach-reveals-about-america-new-class-system/?edition=us</guid>
             <dc:creator><![CDATA[Peter Watson]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 21:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RIP Dolly Parton]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/rip-dolly-parton/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/rip-dolly-parton/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 21:23:57 GMT</pubDate>
         </item>
     </channel>

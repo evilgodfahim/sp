@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 11:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 17:04:24 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 11:07:27 GMT</pubDate>
+        <pubDate>Sun, 11 Oct 2026 17:04:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[One love]]></title>
+            <description><![CDATA[By Robert Ryan]]></description>
+            <link>https://spectator.com/article/one-love/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/one-love/?edition=us</guid>
+            <dc:creator><![CDATA[Robert Ryan]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2026 17:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Gator for a weekend]]></title>
+            <description><![CDATA[By Mary Kate Rogers]]></description>
+            <link>https://spectator.com/article/gator-weekend-mary-kate-rogers/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/gator-weekend-mary-kate-rogers/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Mary Kate Rogers]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2026 17:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pilates is pseudoscience]]></title>
+            <description><![CDATA[Stretching the truth]]></description>
+            <link>https://spectator.com/article/pilates-pseudoscience-health-joseph/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/pilates-pseudoscience-health-joseph/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Gary Dexter]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2026 17:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keep American football in America]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/keep-american-football-in-america/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/keep-american-football-in-america/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2026 17:04:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘I think the best revenge is indifference’: Salman Rushdie interviewed]]></title>
             <description><![CDATA[Movie theater]]></description>
@@ -3991,38 +4023,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <guid isPermaLink="true">https://spectator.com/article/rip-dolly-parton/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 21:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I want to be a good father – like Machiavelli]]></title>
-            <description><![CDATA[Dolce Vita]]></description>
-            <link>https://spectator.com/article/i-want-to-be-a-good-father-like-machiavelli/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-want-to-be-a-good-father-like-machiavelli/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 16:25:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who should pay for Meghan and Harry’s security?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/who-should-pay-for-meghan-and-harrys-security/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-should-pay-for-meghan-and-harrys-security/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 16:25:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is short-form video rotting our brains?]]></title>
-            <description><![CDATA[By David Shipley]]></description>
-            <link>https://spectator.com/article/is-short-form-video-rotting-our-brains/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-short-form-video-rotting-our-brains/?edition=us</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 16:25:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Ramones redefined punk rock]]></title>
-            <description><![CDATA[By Christopher Sandford]]></description>
-            <link>https://spectator.com/article/ramones-redefined-punk-rock/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ramones-redefined-punk-rock/?edition=us</guid>
-            <dc:creator><![CDATA[Christopher Sandford]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 11:18:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

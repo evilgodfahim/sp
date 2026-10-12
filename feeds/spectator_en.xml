@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 16:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 23:23:50 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Oct 2026 16:20:47 GMT</pubDate>
+        <pubDate>Mon, 12 Oct 2026 23:23:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Burnham’s Brexit babblings have already backfired]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/burnhams-brexit-babblings-have-already-backfired/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-brexit-babblings-have-already-backfired/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Mon, 12 Oct 2026 23:23:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Yorkshire Wildlife Park tiger doesn’t deserve to die]]></title>
             <description><![CDATA[Attack]]></description>
@@ -4026,14 +4034,6 @@ One MP recalls a comment by Burnham in a smaller group that night: ‘We’ll ho
             <link>https://spectator.com/article/why-do-the-unions-want-the-boriswave-to-settle/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-do-the-unions-want-the-boriswave-to-settle/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 02:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ed Sheeran, Macklemore and the ugly new anti-Semitism]]></title>
-            <description><![CDATA[Pallywood]]></description>
-            <link>https://spectator.com/article/ed-sheeran-macklemore-and-the-ugly-new-anti-semitism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ed-sheeran-macklemore-and-the-ugly-new-anti-semitism/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
             <pubDate>Sun, 20 Sep 2026 02:31:24 GMT</pubDate>
         </item>
     </channel>

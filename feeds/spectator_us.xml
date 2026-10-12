@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 00:51:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 06:48:16 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Oct 2026 00:51:37 GMT</pubDate>
+        <pubDate>Mon, 12 Oct 2026 06:48:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Have I lost 10 IQ points for every child I’ve had?]]></title>
+            <description><![CDATA[By Helen Andrews]]></description>
+            <link>https://spectator.com/article/lost-10-iq-points-every-child-helen-andrews/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/lost-10-iq-points-every-child-helen-andrews/?edition=us</guid>
+            <dc:creator><![CDATA[Helen Andrews]]></dc:creator>
+            <pubDate>Mon, 12 Oct 2026 06:48:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Trump’s second term self-destructed]]></title>
             <description><![CDATA[By Christopher Caldwell]]></description>
@@ -4015,14 +4023,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <guid isPermaLink="true">https://spectator.com/article/case-drone-policing-flock/?edition=us</guid>
             <dc:creator><![CDATA[Heather Mac Donald]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 03:44:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How capitalism subsidizes the DSA]]></title>
-            <description><![CDATA[By Daniel McCarthy]]></description>
-            <link>https://spectator.com/article/how-capitalism-subsidises-the-dsa/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-capitalism-subsidises-the-dsa/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 22:16:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

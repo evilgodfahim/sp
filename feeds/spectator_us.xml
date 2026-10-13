@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 19:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 23:32:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 19:40:23 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 23:32:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[An open letter to Demi Lovato, whoever they is]]></title>
+            <description><![CDATA[By Jarvis Dupont]]></description>
+            <link>https://spectator.com/article/an-open-letter-to-demi-lovato-whoever-they-is/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/an-open-letter-to-demi-lovato-whoever-they-is/?edition=us</guid>
+            <dc:creator><![CDATA[Jarvis Dupont]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 23:32:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Tom Cruise’s Digger flopped at the box office]]></title>
             <description><![CDATA[By Ross Clark]]></description>
@@ -4015,14 +4023,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <guid isPermaLink="true">https://spectator.com/article/why-stop-at-lake-america/?edition=us</guid>
             <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 20:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The case for drone policing]]></title>
-            <description><![CDATA[Flock the police]]></description>
-            <link>https://spectator.com/article/case-drone-policing-flock/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/case-drone-policing-flock/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Heather Mac Donald]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

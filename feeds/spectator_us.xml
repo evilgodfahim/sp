@@ -4,10 +4,82 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 04:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 12:21:49 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 04:40:21 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 12:21:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The three levels of tailgaters]]></title>
+            <description><![CDATA[By Robert F. Moss]]></description>
+            <link>https://spectator.com/article/three-levels-tailgaters-college-football/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/three-levels-tailgaters-college-football/?edition=us</guid>
+            <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America must shore up its missile-building capabilities]]></title>
+            <description><![CDATA[By Geoffrey Cain]]></description>
+            <link>https://spectator.com/article/america-shore-missile-building-capabilities/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-shore-missile-building-capabilities/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Trump’s second term self-destructed]]></title>
+            <description><![CDATA[10 years of Trump]]></description>
+            <link>https://spectator.com/article/trump-second-term-self-destructed/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-second-term-self-destructed/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[United by ambition: the ruthless rapacity of England’s two famous Cromwells]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/united-by-ambition-the-ruthless-rapacity-of-englands-two-famous-cromwells/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/united-by-ambition-the-ruthless-rapacity-of-englands-two-famous-cromwells/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Marcus Nevitt]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The bravery of Joshua Wong]]></title>
+            <description><![CDATA[By Benedict Rogers]]></description>
+            <link>https://spectator.com/article/the-bravery-of-joshua-wong/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-bravery-of-joshua-wong/?edition=us</guid>
+            <dc:creator><![CDATA[Benedict Rogers]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does the internet hate the young man killed by a tiger?]]></title>
+            <description><![CDATA[By Bethel McGrew]]></description>
+            <link>https://spectator.com/article/is-a-tigers-life-more-valuable-than-a-humans/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-a-tigers-life-more-valuable-than-a-humans/?edition=us</guid>
+            <dc:creator><![CDATA[Bethel McGrew]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s unconvincing imitators]]></title>
+            <description><![CDATA[By Aiden Abbott]]></description>
+            <link>https://spectator.com/article/trumps-unconvincing-imitators/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trumps-unconvincing-imitators/?edition=us</guid>
+            <dc:creator><![CDATA[Aiden Abbott]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France’s schools protest has been hijacked]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/frances-schools-protest-has-been-hijacked/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/frances-schools-protest-has-been-hijacked/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cornell and the myth of pre-Sexual Revolution America]]></title>
+            <description><![CDATA[By Katherine Dee]]></description>
+            <link>https://spectator.com/article/cornell-and-the-myth-of-pre-sexual-revolution-america/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/cornell-and-the-myth-of-pre-sexual-revolution-america/?edition=us</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:21:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The mission to mine the Moon]]></title>
             <description><![CDATA[By David Whitehouse]]></description>
@@ -3951,78 +4023,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <guid isPermaLink="true">https://spectator.com/article/dont-bet-against-nvidia-yet/?edition=us</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
             <pubDate>Thu, 27 Aug 2026 13:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Ireland succumbed to ‘radical chic’]]></title>
-            <description><![CDATA[By Eilis O’Hanlon]]></description>
-            <link>https://spectator.com/article/how-ireland-succumbed-to-radical-chic/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-ireland-succumbed-to-radical-chic/?edition=us</guid>
-            <dc:creator><![CDATA[Eilis O’Hanlon]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tim Curry was the king of camp]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/tim-curry-was-the-king-of-camp/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/tim-curry-was-the-king-of-camp/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Have I lost 10 IQ points for every child I’ve had?]]></title>
-            <description><![CDATA[By Helen Andrews]]></description>
-            <link>https://spectator.com/article/lost-10-iq-points-every-child-helen-andrews/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/lost-10-iq-points-every-child-helen-andrews/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Helen Andrews]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry and Meghan deserve a second chance]]></title>
-            <description><![CDATA[By Douglas Murray]]></description>
-            <link>https://spectator.com/article/harry-and-meghan-deserve-a-second-chance/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/harry-and-meghan-deserve-a-second-chance/?edition=us</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 13:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Poland have an image problem?]]></title>
-            <description><![CDATA[By Piotr Wilczek]]></description>
-            <link>https://spectator.com/article/does-poland-have-an-image-problem/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-poland-have-an-image-problem/?edition=us</guid>
-            <dc:creator><![CDATA[Piotr Wilczek]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 18:51:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What was the CIA doing in Moscow?]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/what-was-the-cia-doing-in-moscow/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-was-the-cia-doing-in-moscow/?edition=us</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 11:20:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carney’s defiance of Trump could destroy the Canadian economy]]></title>
-            <description><![CDATA[By Michael Taube]]></description>
-            <link>https://spectator.com/article/carneys-defiance-of-trump-could-destroy-the-canadian-economy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/carneys-defiance-of-trump-could-destroy-the-canadian-economy/?edition=us</guid>
-            <dc:creator><![CDATA[Michael Taube]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 10:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The case for drone policing]]></title>
-            <description><![CDATA[By Heather Mac Donald]]></description>
-            <link>https://spectator.com/article/case-drone-policing-flock/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/case-drone-policing-flock/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Heather Mac Donald]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 10:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could China colonize Mars before America?]]></title>
-            <description><![CDATA[Red flag]]></description>
-            <link>https://spectator.com/article/china-colonize-mars-before-america/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/china-colonize-mars-before-america/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 10:25:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

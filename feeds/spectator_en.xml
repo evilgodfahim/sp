@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 14:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 19:05:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Oct 2026 14:13:03 GMT</pubDate>
+        <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[WFH has turned the public sector into an economic deadweight]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/wfh-has-turned-the-public-sector-into-an-economic-deadweight/</link>
+            <guid isPermaLink="true">https://spectator.com/article/wfh-has-turned-the-public-sector-into-an-economic-deadweight/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham’s Man City meetings mount up]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/burnhams-man-city-meetings-mount-up/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-man-city-meetings-mount-up/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunak rakes in the speaking circuit cash]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/sunak-rakes-it-in-on-speaking-circuit/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sunak-rakes-it-in-on-speaking-circuit/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnham isn’t as tedious as Starmer. But he’s getting there]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/burnham-isnt-as-tedious-as-starmer-but-hes-getting-there/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnham-isnt-as-tedious-as-starmer-but-hes-getting-there/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the Traitors racist?]]></title>
+            <description><![CDATA[Reality Check]]></description>
+            <link>https://spectator.com/article/is-the-traitors-racist/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-the-traitors-racist/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Burnham insists he won’t ‘cooperate’ with Greens – for now]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -18,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Azerbaijan’s hijab ban has infuriated Turkey]]></title>
-            <description><![CDATA[By Daniel Thorpe]]></description>
+            <description><![CDATA[Spat]]></description>
             <link>https://spectator.com/article/will-azerbaijans-hijab-ban-drive-a-permanent-wedge-with-turkey/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-azerbaijans-hijab-ban-drive-a-permanent-wedge-with-turkey/</guid>
             <dc:creator><![CDATA[Daniel Thorpe]]></dc:creator>
@@ -26,14 +66,14 @@
         </item>
         <item>
             <title><![CDATA[Can we trust the National Trust to keep Rules safe?]]></title>
-            <description><![CDATA[Food for thought]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/can-we-trust-the-national-trust-to-keep-rules-safe/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-we-trust-the-national-trust-to-keep-rules-safe/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Wed, 14 Oct 2026 14:13:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cracking down on online taxes would be a big risk for John Healey]]></title>
+            <title><![CDATA[An online tax crackdown is a mistake]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
             <link>https://spectator.com/article/cracking-down-on-online-taxes-would-be-a-big-risk-for-john-healey/</link>
             <guid isPermaLink="true">https://spectator.com/article/cracking-down-on-online-taxes-would-be-a-big-risk-for-john-healey/</guid>
@@ -130,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Greta Thunberg is a protest addict]]></title>
-            <description><![CDATA[Pro activist]]></description>
+            <description><![CDATA[By Gareth Roberts]]></description>
             <link>https://spectator.com/article/greta-thunberg-is-a-protest-addict/</link>
             <guid isPermaLink="true">https://spectator.com/article/greta-thunberg-is-a-protest-addict/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -3995,46 +4035,6 @@ One MP recalls a comment by Burnham in a smaller group that night: ‘We’ll ho
             <guid isPermaLink="true">https://spectator.com/article/could-there-be-a-second-ceuta-invasion/</guid>
             <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 10:37:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Government borrowing surged in August]]></title>
-            <description><![CDATA[By Joanna Marchong]]></description>
-            <link>https://spectator.com/article/government-borrowing-surged-in-august/</link>
-            <guid isPermaLink="true">https://spectator.com/article/government-borrowing-surged-in-august/</guid>
-            <dc:creator><![CDATA[Joanna Marchong]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 10:37:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can the Lib Dems hold their nerve?]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/can-the-lib-dems-hold-their-nerve/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-the-lib-dems-hold-their-nerve/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 10:37:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The man trying to save Britain’s last great map library]]></title>
-            <description><![CDATA[Maps]]></description>
-            <link>https://spectator.com/article/the-man-trying-to-save-britains-last-great-map-library/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-man-trying-to-save-britains-last-great-map-library/</guid>
-            <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 05:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We have forgotten Diana]]></title>
-            <description><![CDATA[By Katie Jenkins]]></description>
-            <link>https://spectator.com/article/we-have-forgotten-princess-diana/</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-have-forgotten-princess-diana/</guid>
-            <dc:creator><![CDATA[Katie Jenkins]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 05:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI is turning the world into slop]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
-            <link>https://spectator.com/article/ai-is-turning-the-world-into-slop/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ai-is-turning-the-world-into-slop/</guid>
-            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 05:38:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

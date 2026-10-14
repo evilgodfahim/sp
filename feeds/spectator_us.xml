@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 14:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 19:05:26 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Oct 2026 14:12:57 GMT</pubDate>
+        <pubDate>Wed, 14 Oct 2026 19:05:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Azerbaijan’s hijab ban has infuriated Turkey]]></title>
+            <description><![CDATA[By Daniel Thorpe]]></description>
+            <link>https://spectator.com/article/will-azerbaijans-hijab-ban-drive-a-permanent-wedge-with-turkey/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-azerbaijans-hijab-ban-drive-a-permanent-wedge-with-turkey/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel Thorpe]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 19:05:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Social Reckoning is deeply boring]]></title>
             <description><![CDATA[By Sam Kriss]]></description>
@@ -4014,14 +4022,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <link>https://spectator.com/article/trumps-stalemate-with-iran-looks-set-to-limp-on/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/trumps-stalemate-with-iran-looks-set-to-limp-on/?edition=us</guid>
             <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 20:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The fight for France’s future is underway]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/the-fight-for-frances-future-is-underway/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-fight-for-frances-future-is-underway/?edition=us</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 20:30:47 GMT</pubDate>
         </item>
     </channel>

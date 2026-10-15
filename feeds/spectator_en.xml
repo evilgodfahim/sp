@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 12:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 17:30:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 12:19:21 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Donald Trump is no friend to conservatives]]></title>
+            <description><![CDATA[By The Spectator]]></description>
+            <link>https://spectator.com/article/donald-trump-is-no-friend-to-conservatives/</link>
+            <guid isPermaLink="true">https://spectator.com/article/donald-trump-is-no-friend-to-conservatives/</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In defence of Staines]]></title>
+            <description><![CDATA[Historian’s notebook]]></description>
+            <link>https://spectator.com/article/in-defence-of-staines/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-staines/</guid>
+            <dc:creator><![CDATA[Dan Jones]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour finally turns on the Greens]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/labour-finally-turns-on-the-greens/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-finally-turns-on-the-greens/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The flaw in the regulator’s plan to stop club football going bust]]></title>
+            <description><![CDATA[By Sam McPhail]]></description>
+            <link>https://spectator.com/article/the-flaw-in-the-regulators-plan-to-stop-club-football-going-bust/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-flaw-in-the-regulators-plan-to-stop-club-football-going-bust/</guid>
+            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is London at ‘peak bedbug’?]]></title>
+            <description><![CDATA[By John O’Neill]]></description>
+            <link>https://spectator.com/article/is-london-at-peak-bedbug/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-london-at-peak-bedbug/</guid>
+            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Burnham scrambles as Man City meetings pile up]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-burnham-scrambles-as-man-city-meetings-pile-up/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-burnham-scrambles-as-man-city-meetings-pile-up/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[St Andrews rector race turns into Monty Python sketch]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/st-andrews-rector-race-turns-into-monty-python-sketch/</link>
+            <guid isPermaLink="true">https://spectator.com/article/st-andrews-rector-race-turns-into-monty-python-sketch/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why are people surprised when animals defend themselves?]]></title>
             <description><![CDATA[By William Atkinson]]></description>
@@ -154,7 +210,7 @@
         </item>
         <item>
             <title><![CDATA[Has Trump changed sides?]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
+            <description><![CDATA[Drawing the line]]></description>
             <link>https://spectator.com/article/has-trump-changed-sides/</link>
             <guid isPermaLink="true">https://spectator.com/article/has-trump-changed-sides/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -270,7 +326,7 @@ Still, the feeling is the same: it’s exciting when it’s time to begin cold-w
         </item>
         <item>
             <title><![CDATA[Does Andy Burnham actually have a foreign policy?]]></title>
-            <description><![CDATA[Foot-in-mouth syndrome]]></description>
+            <description><![CDATA[By Tim Shipman]]></description>
             <link>https://spectator.com/article/does-andy-burnham-actually-have-a-foreign-policy/</link>
             <guid isPermaLink="true">https://spectator.com/article/does-andy-burnham-actually-have-a-foreign-policy/</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
@@ -3986,62 +4042,6 @@ To prise Joe away from his family, Tom encourages his adorable girlfriend, Lorna
             <link>https://spectator.com/article/rolls-royces-connection-to-the-spirit-world/</link>
             <guid isPermaLink="true">https://spectator.com/article/rolls-royces-connection-to-the-spirit-world/</guid>
             <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 05:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Abdul El-Sayed America’s next Obama?]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/is-abdul-el-sayed-americas-next-obama/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-abdul-el-sayed-americas-next-obama/</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 05:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Playboy pin-up to prohibitionist: the man taking on British gambling]]></title>
-            <description><![CDATA[Bets are off]]></description>
-            <link>https://spectator.com/article/from-playboy-pin-up-to-prohibitionist-the-man-taking-on-british-gambling/?homepage-tracking=magazine-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/from-playboy-pin-up-to-prohibitionist-the-man-taking-on-british-gambling/?homepage-tracking=magazine-article-2</guid>
-            <dc:creator><![CDATA[Rupert Hawksley]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 05:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wealthy person’s guide to fleeing Britain]]></title>
-            <description><![CDATA[Rich pickings]]></description>
-            <link>https://spectator.com/article/the-wealthy-persons-guide-to-fleeing-britain/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wealthy-persons-guide-to-fleeing-britain/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 05:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I think the best revenge is indifference’: Salman Rushdie interviewed]]></title>
-            <description><![CDATA[Cinema]]></description>
-            <link>https://spectator.com/article/i-think-the-best-revenge-is-indifference-salman-rushdie-interviewed/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-think-the-best-revenge-is-indifference-salman-rushdie-interviewed/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Stuart Jeffries]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 05:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Putin is unlikely to attend the Miami G20]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/putin-unlikely-attend-miami-g20/</link>
-            <guid isPermaLink="true">https://spectator.com/article/putin-unlikely-attend-miami-g20/</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 05:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can John Healey dodge another round of tax rises?]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/as-long-as-the-headroom-against-the-main-fiscal-rule-that-day-to-day-spending-is-matched-by-taxes-is-at-or-above-zero-then-it-has-been-complied-with/</link>
-            <guid isPermaLink="true">https://spectator.com/article/as-long-as-the-headroom-against-the-main-fiscal-rule-that-day-to-day-spending-is-matched-by-taxes-is-at-or-above-zero-then-it-has-been-complied-with/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 05:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The English are a mongrel people, not an Aryan master race]]></title>
-            <description><![CDATA[By Jacob Rees-Mogg]]></description>
-            <link>https://spectator.com/article/the-english-are-a-mongrel-people-not-an-aryan-master-race/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-english-are-a-mongrel-people-not-an-aryan-master-race/</guid>
-            <dc:creator><![CDATA[Jacob Rees-Mogg]]></dc:creator>
             <pubDate>Thu, 24 Sep 2026 05:39:55 GMT</pubDate>
         </item>
     </channel>

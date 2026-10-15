@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 22:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 01:07:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Oct 2026 22:52:29 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 01:07:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Epstein files and the new Satanic Panic]]></title>
+            <description><![CDATA[By Bridget Phetasy]]></description>
+            <link>https://spectator.com/article/epstein-files-new-satanic-panic/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/epstein-files-new-satanic-panic/?edition=us</guid>
+            <dc:creator><![CDATA[Bridget Phetasy]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 01:07:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Azerbaijan’s hijab ban has infuriated Turkey]]></title>
             <description><![CDATA[By Daniel Thorpe]]></description>
@@ -4014,14 +4022,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <link>https://spectator.com/article/does-it-matter-that-jason-ardays-memoir-is-made-up/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/does-it-matter-that-jason-ardays-memoir-is-made-up/?edition=us</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 20:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s stalemate with Iran looks set to limp on]]></title>
-            <description><![CDATA[By Jonathan Spyer]]></description>
-            <link>https://spectator.com/article/trumps-stalemate-with-iran-looks-set-to-limp-on/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-stalemate-with-iran-looks-set-to-limp-on/?edition=us</guid>
-            <dc:creator><![CDATA[Jonathan Spyer]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 20:30:47 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 06:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 12:19:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 06:45:10 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 12:19:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why did my mother go mad?]]></title>
+            <description><![CDATA[Dolce Vita]]></description>
+            <link>https://spectator.com/article/why-did-my-mother-go-mad/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-did-my-mother-go-mad/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 12:19:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The world’s greatest hotel is being ruined by influencers]]></title>
+            <description><![CDATA[Best life]]></description>
+            <link>https://spectator.com/article/the-worlds-greatest-hotel-is-being-ruined-by-influencers/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-worlds-greatest-hotel-is-being-ruined-by-influencers/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 12:19:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My advice for Tucker Carlson]]></title>
+            <description><![CDATA[By Jacob Rees-Mogg]]></description>
+            <link>https://spectator.com/article/tucker-carlson-does-it-for-the-clicks/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/tucker-carlson-does-it-for-the-clicks/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Rees-Mogg]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 12:19:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There is no such thing as a clean execution]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/there-is-no-such-thing-as-a-clean-execution/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/there-is-no-such-thing-as-a-clean-execution/?edition=us</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 12:19:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Epstein files and the new Satanic Panic]]></title>
             <description><![CDATA[By Bridget Phetasy]]></description>
@@ -3991,38 +4023,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <guid isPermaLink="true">https://spectator.com/article/why-dont-liberal-christians-influence-elections/?edition=us</guid>
             <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
             <pubDate>Sat, 29 Aug 2026 09:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Garrison Keillor is living at 83]]></title>
-            <description><![CDATA[By Garrison Keillor]]></description>
-            <link>https://spectator.com/article/how-garrison-keillor-is-living-at-83/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-garrison-keillor-is-living-at-83/?edition=us</guid>
-            <dc:creator><![CDATA[Garrison Keillor]]></dc:creator>
-            <pubDate>Sat, 29 Aug 2026 02:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UBI will make us miserable]]></title>
-            <description><![CDATA[By Leonora Barclay]]></description>
-            <link>https://spectator.com/article/ubi-will-make-us-miserable/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ubi-will-make-us-miserable/?edition=us</guid>
-            <dc:creator><![CDATA[Leonora Barclay]]></dc:creator>
-            <pubDate>Sat, 29 Aug 2026 02:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ratko Mladic was the ultimate Serb hillbilly hero]]></title>
-            <description><![CDATA[By Charlotte Eagar]]></description>
-            <link>https://spectator.com/article/ratko-mladic-was-the-ultimate-serb-hillbilly-hero/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ratko-mladic-was-the-ultimate-serb-hillbilly-hero/?edition=us</guid>
-            <dc:creator><![CDATA[Charlotte Eagar]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 20:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does it matter that Jason Arday’s memoir is made up?]]></title>
-            <description><![CDATA[By Sam Leith]]></description>
-            <link>https://spectator.com/article/does-it-matter-that-jason-ardays-memoir-is-made-up/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-it-matter-that-jason-ardays-memoir-is-made-up/?edition=us</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 20:30:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

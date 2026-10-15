@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 20:44:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 23:27:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 20:44:57 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 23:27:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The top five things Paul Krugman has gotten wrong]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/the-top-five-things-paul-krugman-has-gotten-wrong/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-top-five-things-paul-krugman-has-gotten-wrong/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 23:27:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wildfire apocalypse, not]]></title>
             <description><![CDATA[By Steve Milloy]]></description>
@@ -4014,14 +4022,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <link>https://spectator.com/article/varadero-cubas-unbeatable-beach/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/varadero-cubas-unbeatable-beach/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Sat, 29 Aug 2026 09:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s in a kiss? A millennium of mixed messages]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/whats-in-a-kiss-a-millennium-of-mixed-messages/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/whats-in-a-kiss-a-millennium-of-mixed-messages/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Bryan Appleyard]]></dc:creator>
             <pubDate>Sat, 29 Aug 2026 09:41:41 GMT</pubDate>
         </item>
     </channel>

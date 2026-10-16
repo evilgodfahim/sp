@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 02:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 07:42:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 02:22:38 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 07:42:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Must Earl Spencer keep harking back to his address at Diana’s funeral?]]></title>
+            <description><![CDATA[By Ysenda Maxtone Graham]]></description>
+            <link>https://spectator.com/article/must-charles-spencer-keep-harking-back-to-his-address-at-dianas-funeral/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/must-charles-spencer-keep-harking-back-to-his-address-at-dianas-funeral/?edition=us</guid>
+            <dc:creator><![CDATA[Ysenda Maxtone Graham]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 07:42:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What the Odyssey means to America]]></title>
             <description><![CDATA[By Peter Wood]]></description>
@@ -4014,14 +4022,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <link>https://spectator.com/article/do-you-have-old-money-face/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
             <guid isPermaLink="true">https://spectator.com/article/do-you-have-old-money-face/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Arabella Byrne]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 14:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who gets to decide when assassination is justified?]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/when-does-killing-the-enemy-become-murder/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/when-does-killing-the-enemy-become-murder/?edition=us</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
             <pubDate>Sun, 30 Aug 2026 14:07:41 GMT</pubDate>
         </item>
     </channel>

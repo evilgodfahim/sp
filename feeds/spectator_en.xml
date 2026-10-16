@@ -4,9 +4,9 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 23:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 02:22:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 23:27:18 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 02:22:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Donald Trump is no friend to conservatives]]></title>
@@ -178,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[There is no such thing as a clean execution]]></title>
-            <description><![CDATA[Death blows]]></description>
+            <description><![CDATA[By Douglas Murray]]></description>
             <link>https://spectator.com/article/there-is-no-such-thing-as-a-clean-execution/</link>
             <guid isPermaLink="true">https://spectator.com/article/there-is-no-such-thing-as-a-clean-execution/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>

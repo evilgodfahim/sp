@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 11:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 17:59:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 11:37:59 GMT</pubDate>
+        <pubDate>Mon, 19 Oct 2026 17:59:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Putin can smell Washington’s desperation]]></title>
+            <description><![CDATA[By Owen Matthews]]></description>
+            <link>https://spectator.com/article/trump-xi-putin-prepare-carve-up-ukraine/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-xi-putin-prepare-carve-up-ukraine/?edition=us</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 17:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has Netflix missed a trick with Meghan Markle?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/has-netflix-missed-a-trick-with-meghan-markle/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/has-netflix-missed-a-trick-with-meghan-markle/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 17:59:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Around Britain with a theodolite: a celebration of the Ordnance Survey maps]]></title>
             <description><![CDATA[By Graham Robb]]></description>
@@ -57,7 +73,7 @@
             <pubDate>Mon, 19 Oct 2026 11:37:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In Texas, It’s Musk vs. Talarico]]></title>
+            <title><![CDATA[In Texas, it’s Musk vs Talarico]]></title>
             <description><![CDATA[By Robert Bryce]]></description>
             <link>https://spectator.com/article/in-texas-its-musk-vs-talarico-2/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/in-texas-its-musk-vs-talarico-2/?edition=us</guid>
@@ -4006,22 +4022,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <link>https://spectator.com/article/love-2d-character-fictosexuality/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/love-2d-character-fictosexuality/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are ignoring the biggest threat the world faces]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
-            <link>https://spectator.com/article/we-are-ignoring-the-biggest-threat-the-world-faces/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-are-ignoring-the-biggest-threat-the-world-faces/?edition=us</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marine Le Pen’s Muslim headscarf ban is popular, not populist]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/marine-le-pens-muslim-headscarf-ban-is-popular-not-populist/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/marine-le-pens-muslim-headscarf-ban-is-popular-not-populist/?edition=us</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 12:22:54 GMT</pubDate>
         </item>
     </channel>

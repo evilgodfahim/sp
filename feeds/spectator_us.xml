@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 06:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 12:25:02 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Oct 2026 06:53:27 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 12:25:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The arts in Britain are now joyless vestiges of their former selves]]></title>
+            <description><![CDATA[By Philip Hensher]]></description>
+            <link>https://spectator.com/article/the-arts-in-britain-are-now-joyless-vestiges-of-their-former-selves/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-arts-in-britain-are-now-joyless-vestiges-of-their-former-selves/?edition=us</guid>
+            <dc:creator><![CDATA[Philip Hensher]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France is far too soft on crime]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/france-is-far-too-soft-on-crime/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/france-is-far-too-soft-on-crime/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Palestine flag has become the symbol of anti-West hatred]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/the-palestine-flag-has-become-the-symbol-of-anti-western-hate/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-palestine-flag-has-become-the-symbol-of-anti-western-hate/?edition=us</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who will condemn Saudi Arabia’s Islamic barbarism?]]></title>
+            <description><![CDATA[By Kunwar Khuldune Shahid]]></description>
+            <link>https://spectator.com/article/muslim-nations-should-condemn-saudi-arabias-islamic-barbarism/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/muslim-nations-should-condemn-saudi-arabias-islamic-barbarism/?edition=us</guid>
+            <dc:creator><![CDATA[Kunwar Khuldune Shahid]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘You Can See Everything’ is a masterpiece of fakery]]></title>
+            <description><![CDATA[By Curtis Yarvin]]></description>
+            <link>https://spectator.com/article/you-can-see-everything-is-a-masterpiece-of-fakery/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/you-can-see-everything-is-a-masterpiece-of-fakery/?edition=us</guid>
+            <dc:creator><![CDATA[Curtis Yarvin]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is a robot running the Fed?]]></title>
+            <description><![CDATA[By Andrew Cockburn]]></description>
+            <link>https://spectator.com/article/is-a-robot-running-the-fed/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-a-robot-running-the-fed/?edition=us</guid>
+            <dc:creator><![CDATA[Andrew Cockburn]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could this be the end of the French Fifth Republic?]]></title>
+            <description><![CDATA[By John Keiger]]></description>
+            <link>https://spectator.com/article/could-this-be-the-end-of-the-french-fifth-republic/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/could-this-be-the-end-of-the-french-fifth-republic/?edition=us</guid>
+            <dc:creator><![CDATA[John Keiger]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:25:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is this the end of the cold case?]]></title>
             <description><![CDATA[By Genevieve Gaunt]]></description>
@@ -3967,62 +4023,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <guid isPermaLink="true">https://spectator.com/article/david-bowie-is-bigger-than-ever/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 05:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wendell Berry’s homecoming]]></title>
-            <description><![CDATA[By John-Paul Heil]]></description>
-            <link>https://spectator.com/article/wendell-berry-homecoming/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/wendell-berry-homecoming/?edition=us</guid>
-            <dc:creator><![CDATA[John-Paul Heil]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 19:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Laura Loomer shouldn’t dictate US deportation policy]]></title>
-            <description><![CDATA[By Mitchell Jackson]]></description>
-            <link>https://spectator.com/article/laura-loomer-shouldnt-dictate-us-deportation-policy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/laura-loomer-shouldnt-dictate-us-deportation-policy/?edition=us</guid>
-            <dc:creator><![CDATA[Mitchell Jackson]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 19:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who says Lauren Sánchez Bezos doesn’t belong at the Met Gala?]]></title>
-            <description><![CDATA[By Sarah Beth Spraggins]]></description>
-            <link>https://spectator.com/article/who-says-lauren-sanchez-bezos-doesnt-belong-at-the-met-gala/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-says-lauren-sanchez-bezos-doesnt-belong-at-the-met-gala/?edition=us</guid>
-            <dc:creator><![CDATA[Sarah Beth Spraggins]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 16:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wendell Berry’s homecoming]]></title>
-            <description><![CDATA[By John-Paul Heil]]></description>
-            <link>https://spectator.com/article/wendell-berrys-homecoming/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/wendell-berrys-homecoming/?edition=us</guid>
-            <dc:creator><![CDATA[John-Paul Heil]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 16:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Europe brave enough to keep pointing the finger at Putin?]]></title>
-            <description><![CDATA[By Lisa Haseldine]]></description>
-            <link>https://spectator.com/article/is-europe-brave-enough-to-keep-pointing-the-finger-at-putin/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-europe-brave-enough-to-keep-pointing-the-finger-at-putin/?edition=us</guid>
-            <dc:creator><![CDATA[Lisa Haseldine]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 16:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t fall for the latest scam targeting authors — I nearly did]]></title>
-            <description><![CDATA[By James Gray]]></description>
-            <link>https://spectator.com/article/fall-latest-scam-targeting-authors-nearly-did/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/fall-latest-scam-targeting-authors-nearly-did/?edition=us</guid>
-            <dc:creator><![CDATA[James Gray]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Palm Beach reveals about America’s new class system]]></title>
-            <description><![CDATA[Billionaires’ boulevard]]></description>
-            <link>https://spectator.com/article/palm-beach-reveals-about-america-new-class-system/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/palm-beach-reveals-about-america-new-class-system/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Peter Watson]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:22:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 01:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 06:53:27 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Oct 2026 01:22:40 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 06:53:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is this the end of the cold case?]]></title>
+            <description><![CDATA[By Genevieve Gaunt]]></description>
+            <link>https://spectator.com/article/is-this-the-end-of-the-cold-case/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-this-the-end-of-the-cold-case/?edition=us</guid>
+            <dc:creator><![CDATA[Genevieve Gaunt]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 06:53:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rise of the Orienfluencers]]></title>
+            <description><![CDATA[By Margaret Mitchell]]></description>
+            <link>https://spectator.com/article/the-rise-of-the-orienfluencers/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-rise-of-the-orienfluencers/?edition=us</guid>
+            <dc:creator><![CDATA[Margaret Mitchell]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 06:53:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hunting deer in the DC suburbs]]></title>
             <description><![CDATA[By Bill McMorris]]></description>
@@ -4006,22 +4022,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <link>https://spectator.com/article/palm-beach-reveals-about-america-new-class-system/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/palm-beach-reveals-about-america-new-class-system/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Peter Watson]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t fall for the latest scam targeting authors — I nearly did]]></title>
-            <description><![CDATA[By James Gray]]></description>
-            <link>https://spectator.com/article/fall-latest-scam-targeting-authors-nearly-did/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/fall-latest-scam-targeting-authors-nearly-did/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[James Gray]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The man who – inadvertently – invented the 1970s]]></title>
-            <description><![CDATA[Arts]]></description>
-            <link>https://spectator.com/article/the-man-who-inadvertently-invented-the-1970s/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-man-who-inadvertently-invented-the-1970s/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Jonathan Meades]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 12:22:54 GMT</pubDate>
         </item>
     </channel>

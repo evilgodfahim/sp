@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 22:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 01:22:45 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 22:06:43 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 01:22:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Could this be the end of the French Fifth Republic?]]></title>
+            <description><![CDATA[By John Keiger]]></description>
+            <link>https://spectator.com/article/could-this-be-the-end-of-the-french-fifth-republic/</link>
+            <guid isPermaLink="true">https://spectator.com/article/could-this-be-the-end-of-the-french-fifth-republic/</guid>
+            <dc:creator><![CDATA[John Keiger]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 01:22:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Could things get any worse for BBC Verify?]]></title>
             <description><![CDATA[By Sam McPhail]]></description>
@@ -4030,14 +4038,6 @@ We speak in her office in Portcullis House with the Labour conference in full cr
             <description><![CDATA[By Bethany Elliott]]></description>
             <link>https://spectator.com/article/are-welsh-nationalists-the-postman-pats-of-international-terrorism/</link>
             <guid isPermaLink="true">https://spectator.com/article/are-welsh-nationalists-the-postman-pats-of-international-terrorism/</guid>
-            <dc:creator><![CDATA[Bethany Elliott]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 08:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are Welsh nationalists the ‘Postman Pats’ of international terrorism?]]></title>
-            <description><![CDATA[The Dragon stirs]]></description>
-            <link>https://spectator.com/article/are-welsh-nationalists-the-postman-pats-of-international-terrorism/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/are-welsh-nationalists-the-postman-pats-of-international-terrorism/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Bethany Elliott]]></dc:creator>
             <pubDate>Sun, 27 Sep 2026 08:44:30 GMT</pubDate>
         </item>

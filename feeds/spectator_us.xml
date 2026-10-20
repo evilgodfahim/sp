@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 17:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 21:01:37 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Oct 2026 17:38:29 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 21:01:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is TRUTH Social doomed to fail?]]></title>
+            <description><![CDATA[By Ben Kew]]></description>
+            <link>https://spectator.com/article/is-truth-social-doomed-to-fail/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-truth-social-doomed-to-fail/?edition=us</guid>
+            <dc:creator><![CDATA[Ben Kew]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 21:01:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What I saw in the French riots]]></title>
+            <description><![CDATA[By Peter Napier]]></description>
+            <link>https://spectator.com/article/night-french-riots-lyon/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/night-french-riots-lyon/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Napier]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 21:01:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[After years of socialism, is Spain about to turn to the far-right?]]></title>
             <description><![CDATA[Vox pop]]></description>
@@ -4007,22 +4023,6 @@ Trump’s justification for favoring Argentina, whose 2026 quota he increased by
             <guid isPermaLink="true">https://spectator.com/article/smarter-machines-going-need-smarter-humans/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Jamie Metzl]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 14:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The intrepid volunteers who risk all to preserve Ukraine’s cultural heritage]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-intrepid-volunteers-who-risk-all-to-preserve-ukraines-cultural-heritage/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-intrepid-volunteers-who-risk-all-to-preserve-ukraines-cultural-heritage/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Andrey Kurkov]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 14:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are our maps colonialist?]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/are-our-maps-colonialist/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/are-our-maps-colonialist/?edition=us</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 10:19:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 10:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 15:45:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Oct 2026 10:52:12 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 15:45:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Abdul El-Sayed racist?]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/abdul-el-sayed-racist-african-americans/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/abdul-el-sayed-racist-african-americans/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 15:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The dark horse who stands to benefit from France’s riots]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/the-dark-horse-who-stands-to-benefit-from-frances-riots/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-dark-horse-who-stands-to-benefit-from-frances-riots/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 15:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this email hack an attempt to destroy the AfD?]]></title>
+            <description><![CDATA[By Elisabeth Dampier]]></description>
+            <link>https://spectator.com/article/is-this-email-hack-an-attempt-to-destroy-the-afd/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-this-email-hack-an-attempt-to-destroy-the-afd/?edition=us</guid>
+            <dc:creator><![CDATA[Elisabeth Dampier]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 15:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is AI a bubble?]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/is-ai-a-bubble/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-ai-a-bubble/?edition=us</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 15:45:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The arts in Britain are now joyless vestiges of their former selves]]></title>
             <description><![CDATA[Books]]></description>
@@ -3987,38 +4019,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <guid isPermaLink="true">https://spectator.com/article/shagger-chancer-and-oath-breaker-harold-godwinson-had-a-touch-of-the-viking-about-him/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Alex Burghart]]></dc:creator>
             <pubDate>Sat, 05 Sep 2026 13:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Ramones redefined punk rock]]></title>
-            <description><![CDATA[Hey! Ho! Let’s go!]]></description>
-            <link>https://spectator.com/article/ramones-redefined-punk-rock/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/ramones-redefined-punk-rock/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Christopher Sandford]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 13:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lindsay Clancy and the inversion of feminism]]></title>
-            <description><![CDATA[By Geoffrey Cain]]></description>
-            <link>https://spectator.com/article/lindsay-clancy-inversion-feminism/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/lindsay-clancy-inversion-feminism/?edition=us</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 13:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t blame climate change for the Himalayan flash flood]]></title>
-            <description><![CDATA[By Matt Ridley]]></description>
-            <link>https://spectator.com/article/dont-blame-climate-change-for-the-himalayan-flash-flood/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-blame-climate-change-for-the-himalayan-flash-flood/?edition=us</guid>
-            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 00:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Were there furries in renaissance times? An expert weighs in]]></title>
-            <description><![CDATA[By Cockburn]]></description>
-            <link>https://spectator.com/article/furries-renaissance-times-cockburn-diary-09-04-26/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/furries-renaissance-times-cockburn-diary-09-04-26/?edition=us</guid>
-            <dc:creator><![CDATA[Cockburn]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 20:03:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

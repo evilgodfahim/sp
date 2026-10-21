@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 15:45:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 19:47:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Oct 2026 15:45:22 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 19:47:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lola-Fleur and the long tradition of radical babes]]></title>
+            <description><![CDATA[By Sean Thomas]]></description>
+            <link>https://spectator.com/article/lola-fleur-and-the-long-tradition-of-radical-babes/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/lola-fleur-and-the-long-tradition-of-radical-babes/?edition=us</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 19:47:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Abdul El-Sayed racist?]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -4010,14 +4018,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <link>https://spectator.com/article/the-disappointment-of-dna-tests/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/the-disappointment-of-dna-tests/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 13:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shagger, chancer and oath-breaker – Harold Godwinson had a touch of the Viking about him]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/shagger-chancer-and-oath-breaker-harold-godwinson-had-a-touch-of-the-viking-about-him/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/shagger-chancer-and-oath-breaker-harold-godwinson-had-a-touch-of-the-viking-about-him/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Alex Burghart]]></dc:creator>
             <pubDate>Sat, 05 Sep 2026 13:07:20 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 01:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 06:51:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 01:06:16 GMT</pubDate>
+        <pubDate>Thu, 22 Oct 2026 06:51:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The new right-wing art scene is disappointing]]></title>
+            <description><![CDATA[By Aiden Abbott]]></description>
+            <link>https://spectator.com/article/the-new-right-wing-art-scene-is-disappointing/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-new-right-wing-art-scene-is-disappointing/?edition=us</guid>
+            <dc:creator><![CDATA[Aiden Abbott]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 06:51:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I drank Belle Delphine’s GamerGirl Bath Water]]></title>
+            <description><![CDATA[By Charlie Nash]]></description>
+            <link>https://spectator.com/article/i-drank-belle-delphines-gamergirl-bath-water/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/i-drank-belle-delphines-gamergirl-bath-water/?edition=us</guid>
+            <dc:creator><![CDATA[Charlie Nash]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 06:51:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lola-Fleur and the long tradition of radical babes]]></title>
             <description><![CDATA[By Sean Thomas]]></description>
@@ -4001,22 +4017,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <description><![CDATA[By Bill Kauffman]]></description>
             <link>https://spectator.com/article/the-disappointment-of-dna-tests/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-disappointment-of-dna-tests/?edition=us</guid>
-            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 13:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kaiseki-style menus are taking over fine dining]]></title>
-            <description><![CDATA[By Clarissa Sebag-Montefiore]]></description>
-            <link>https://spectator.com/article/kaiseki-style-menus-taking-over-fine-dining/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/kaiseki-style-menus-taking-over-fine-dining/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Clarissa Sebag-Montefiore]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 13:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The disappointment of DNA tests]]></title>
-            <description><![CDATA[Local life]]></description>
-            <link>https://spectator.com/article/the-disappointment-of-dna-tests/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-disappointment-of-dna-tests/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
             <pubDate>Sat, 05 Sep 2026 13:07:20 GMT</pubDate>
         </item>

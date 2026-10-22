@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 21:00:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 23:55:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 21:00:05 GMT</pubDate>
+        <pubDate>Thu, 22 Oct 2026 23:55:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Exploring the forgotten towns of Green Bay]]></title>
+            <description><![CDATA[By Jennifer Billock]]></description>
+            <link>https://spectator.com/article/exploring-the-forgotten-towns-of-green-bay/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/exploring-the-forgotten-towns-of-green-bay/?edition=us</guid>
+            <dc:creator><![CDATA[Jennifer Billock]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 23:55:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Homesick for Tennessee: The Newer World, by Sebastian Barry, reviewed]]></title>
+            <description><![CDATA[By Susie Mesure]]></description>
+            <link>https://spectator.com/article/homesick-for-tennessee-the-newer-world-by-sebastian-barry-reviewed/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/homesick-for-tennessee-the-newer-world-by-sebastian-barry-reviewed/?edition=us</guid>
+            <dc:creator><![CDATA[Susie Mesure]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 23:55:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ukraine is much weaker without access to Starlink]]></title>
             <description><![CDATA[By Ash Bhardwaj]]></description>
@@ -4003,22 +4019,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <guid isPermaLink="true">https://spectator.com/article/the-triumph-of-giorgia-meloni/?edition=us</guid>
             <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 11:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Alice’s Restaurant’ and how the hippies blew it]]></title>
-            <description><![CDATA[By Grayson Quay]]></description>
-            <link>https://spectator.com/article/alices-restaurant-and-how-the-hippies-blew-it/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/alices-restaurant-and-how-the-hippies-blew-it/?edition=us</guid>
-            <dc:creator><![CDATA[Grayson Quay]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 05:28:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Catholic Church has turned on the faithful]]></title>
-            <description><![CDATA[By Jane Stannus]]></description>
-            <link>https://spectator.com/article/the-catholic-church-has-turned-on-the-faithful/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-catholic-church-has-turned-on-the-faithful/?edition=us</guid>
-            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 20:57:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

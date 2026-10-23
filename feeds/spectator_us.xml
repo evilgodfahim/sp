@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 18:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 21:46:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Oct 2026 18:04:41 GMT</pubDate>
+        <pubDate>Fri, 23 Oct 2026 21:46:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can we be surprised that France has descended into nihilism?]]></title>
+            <description><![CDATA[By Lionel Shriver]]></description>
+            <link>https://spectator.com/article/can-we-be-surprised-that-france-has-descended-into-nihilism/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-we-be-surprised-that-france-has-descended-into-nihilism/?edition=us</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 21:46:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Omar family values]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/omar-family-values-cockburn-diary-10-23-26/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/omar-family-values-cockburn-diary-10-23-26/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 21:46:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brace yourselves for Gulfgate…]]></title>
             <description><![CDATA[By Freddy Gray]]></description>
@@ -3998,22 +4014,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <link>https://spectator.com/article/the-lesson-cambridge-should-but-wont-learn-from-jason-arday/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-lesson-cambridge-should-but-wont-learn-from-jason-arday/?edition=us</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 16:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The joy of getting lost in the Peloponnese]]></title>
-            <description><![CDATA[By Alice Hancock]]></description>
-            <link>https://spectator.com/article/joy-getting-lost-peloponnese/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/joy-getting-lost-peloponnese/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Alice Hancock]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 16:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t grow a beard]]></title>
-            <description><![CDATA[Notes on...]]></description>
-            <link>https://spectator.com/article/dont-grow-a-beard/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-grow-a-beard/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Nigel Jones]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 16:53:55 GMT</pubDate>
         </item>
     </channel>

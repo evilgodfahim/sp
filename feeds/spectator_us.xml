@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 10:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 14:10:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 10:01:13 GMT</pubDate>
+        <pubDate>Sat, 24 Oct 2026 14:10:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can Netanyahu win again?]]></title>
+            <description><![CDATA[By Tom Gross]]></description>
+            <link>https://spectator.com/article/can-netanyahu-win-again/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-netanyahu-win-again/?edition=us</guid>
+            <dc:creator><![CDATA[Tom Gross]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 14:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Jane Eyre colonialist?]]></title>
+            <description><![CDATA[By Steven Tucker]]></description>
+            <link>https://spectator.com/article/is-jane-eyre-colonialist/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-jane-eyre-colonialist/?edition=us</guid>
+            <dc:creator><![CDATA[Steven Tucker]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 14:10:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can we be surprised that France has descended into nihilism?]]></title>
             <description><![CDATA[By Lionel Shriver]]></description>
@@ -3999,22 +4015,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <guid isPermaLink="true">https://spectator.com/article/speaking-from-experience/?edition=us&amp;homepage-tracking=magazine-article-2</guid>
             <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Even playgrounds are no longer safe in Ceuta after the migrant invasion]]></title>
-            <description><![CDATA[By Jim Lawley]]></description>
-            <link>https://spectator.com/article/even-playgrounds-are-no-longer-safe-in-ceuta-after-the-migrant-invasion/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/even-playgrounds-are-no-longer-safe-in-ceuta-after-the-migrant-invasion/?edition=us</guid>
-            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The lesson Cambridge should – but won’t – learn from Jason Arday]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/the-lesson-cambridge-should-but-wont-learn-from-jason-arday/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-lesson-cambridge-should-but-wont-learn-from-jason-arday/?edition=us</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 16:53:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

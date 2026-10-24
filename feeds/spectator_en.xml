@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 14:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 17:44:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 14:10:34 GMT</pubDate>
+        <pubDate>Sat, 24 Oct 2026 17:44:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Revealed: The shocking racism of Reform]]></title>
+            <description><![CDATA[By Clair Holden]]></description>
+            <link>https://spectator.com/article/revealed-the-shocking-racism-of-reform/</link>
+            <guid isPermaLink="true">https://spectator.com/article/revealed-the-shocking-racism-of-reform/</guid>
+            <dc:creator><![CDATA[Clair Holden]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 17:44:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Opera’s obsession with the Eastern bloc]]></title>
             <description><![CDATA[Opera]]></description>
@@ -4041,14 +4049,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <link>https://spectator.com/article/testosterone-maxxing-is-the-latest-affront-to-masculinity/</link>
             <guid isPermaLink="true">https://spectator.com/article/testosterone-maxxing-is-the-latest-affront-to-masculinity/</guid>
             <dc:creator><![CDATA[Matthew Wilcox]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 07:45:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the CIA and MI6 really talk about]]></title>
-            <description><![CDATA[By David McCloskey]]></description>
-            <link>https://spectator.com/article/what-the-cia-and-mi6-really-talk-about/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-the-cia-and-mi6-really-talk-about/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[David McCloskey]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 07:45:56 GMT</pubDate>
         </item>
     </channel>

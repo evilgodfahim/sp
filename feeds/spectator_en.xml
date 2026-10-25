@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 14:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 17:59:43 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Oct 2026 14:42:03 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 17:59:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Angela Rayner: ‘We can’t rerun what happened in 2016’]]></title>
+            <description><![CDATA[By Joe Bedell-Brill]]></description>
+            <link>https://spectator.com/article/angela-rayner-we-cant-rerun-what-happened-in-2016/</link>
+            <guid isPermaLink="true">https://spectator.com/article/angela-rayner-we-cant-rerun-what-happened-in-2016/</guid>
+            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 17:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alastair Campbell would like your attention]]></title>
+            <description><![CDATA[By Max Jeffery]]></description>
+            <link>https://spectator.com/article/alastair-campbell-would-like-your-attention/</link>
+            <guid isPermaLink="true">https://spectator.com/article/alastair-campbell-would-like-your-attention/</guid>
+            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 17:59:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘There’s a 50-50 chance I’ll get bumped off’: an American scholar foresees his death]]></title>
             <description><![CDATA[By James Barr]]></description>
@@ -4028,22 +4044,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <guid isPermaLink="true">https://spectator.com/article/proportional-voting-will-usher-in-a-sectarian-britain/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fines don’t stop parents taking their kids on term-time holidays]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
-            <link>https://spectator.com/article/fines-dont-stop-parents-taking-their-kids-on-term-time-holidays/</link>
-            <guid isPermaLink="true">https://spectator.com/article/fines-dont-stop-parents-taking-their-kids-on-term-time-holidays/</guid>
-            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aunt Bessie did not need a ‘glow up’]]></title>
-            <description><![CDATA[By Olivia Potts]]></description>
-            <link>https://spectator.com/article/aunt-bessie-did-not-need-a-glow-up/</link>
-            <guid isPermaLink="true">https://spectator.com/article/aunt-bessie-did-not-need-a-glow-up/</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 19:40:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

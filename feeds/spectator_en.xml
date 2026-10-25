@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 10:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 14:42:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Oct 2026 10:26:13 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 14:42:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘There’s a 50-50 chance I’ll get bumped off’: an American scholar foresees his death]]></title>
+            <description><![CDATA[By James Barr]]></description>
+            <link>https://spectator.com/article/theres-a-50-50-chance-ill-get-bumped-off-an-american-scholar-foresees-his-death/</link>
+            <guid isPermaLink="true">https://spectator.com/article/theres-a-50-50-chance-ill-get-bumped-off-an-american-scholar-foresees-his-death/</guid>
+            <dc:creator><![CDATA[James Barr]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 14:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In praise of Master and Commander]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/in-praise-of-master-and-commander/</link>
+            <guid isPermaLink="true">https://spectator.com/article/in-praise-of-master-and-commander/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 14:42:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The myth of the Emerald Isle]]></title>
             <description><![CDATA[By Ben Goldsmith]]></description>
@@ -4027,22 +4043,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <link>https://spectator.com/article/aunt-bessie-did-not-need-a-glow-up/</link>
             <guid isPermaLink="true">https://spectator.com/article/aunt-bessie-did-not-need-a-glow-up/</guid>
             <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 19:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jenrick is right to take on the shoplifting scourge]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
-            <link>https://spectator.com/article/jenrick-is-right-to-take-on-the-scourge-of-shoplifting/</link>
-            <guid isPermaLink="true">https://spectator.com/article/jenrick-is-right-to-take-on-the-scourge-of-shoplifting/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 19:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The four words missing from Zack Polanski’s conference speech]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/the-four-words-missing-from-zack-polanskis-conference-speech/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-four-words-missing-from-zack-polanskis-conference-speech/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 19:40:56 GMT</pubDate>
         </item>
     </channel>

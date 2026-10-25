@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 17:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 20:32:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Oct 2026 17:59:38 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 20:32:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Despite its squelchy origins, the brogue has become a classic fall footwear staple]]></title>
+            <description><![CDATA[By Johnny Davis]]></description>
+            <link>https://spectator.com/article/despite-its-squelchy-origins-the-brogue-has-become-a-classic-fall-footwear-staple/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/despite-its-squelchy-origins-the-brogue-has-become-a-classic-fall-footwear-staple/?edition=us</guid>
+            <dc:creator><![CDATA[Johnny Davis]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 20:32:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are the British the most evil people in history?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4006,14 +4014,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <link>https://spectator.com/article/what-we-really-saw-at-the-portsmouth-migrant-boat-protest/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/what-we-really-saw-at-the-portsmouth-migrant-boat-protest/?edition=us</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Jared Kushner’s Albanian adventure]]></title>
-            <description><![CDATA[By Ian Thomson]]></description>
-            <link>https://spectator.com/article/inside-jared-kushners-albanian-adventure/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/inside-jared-kushners-albanian-adventure/?edition=us</guid>
-            <dc:creator><![CDATA[Ian Thomson]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
         </item>
     </channel>

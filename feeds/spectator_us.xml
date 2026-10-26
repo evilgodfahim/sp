@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 05:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 11:55:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 05:41:18 GMT</pubDate>
+        <pubDate>Mon, 26 Oct 2026 11:55:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[British craftsmanship on tour]]></title>
+            <description><![CDATA[By Gemma Billington]]></description>
+            <link>https://spectator.com/article/british-craftsmanship-on-tour/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/british-craftsmanship-on-tour/?edition=us</guid>
+            <dc:creator><![CDATA[Gemma Billington]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 11:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we be surprised that France has descended into nihilism?]]></title>
+            <description><![CDATA[Riot act]]></description>
+            <link>https://spectator.com/article/can-we-be-surprised-that-france-has-descended-into-nihilism/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-we-be-surprised-that-france-has-descended-into-nihilism/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 11:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The specter of civil war haunts France]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/the-spectre-of-civil-war-haunts-france/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-spectre-of-civil-war-haunts-france/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 11:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lula has broken Brazil]]></title>
+            <description><![CDATA[By Arnout Nuijt]]></description>
+            <link>https://spectator.com/article/lula-has-broken-brazil/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/lula-has-broken-brazil/?edition=us</guid>
+            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 11:55:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Despite its squelchy origins, the brogue has become a classic fall footwear staple]]></title>
             <description><![CDATA[By Johnny Davis]]></description>
@@ -3982,38 +4014,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <link>https://spectator.com/article/how-miles-davis-and-john-coltrane-changed-jazz-forever/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/how-miles-davis-and-john-coltrane-changed-jazz-forever/?edition=us</guid>
             <dc:creator><![CDATA[Philip Clark]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where is liberalism heading?]]></title>
-            <description><![CDATA[By Travis Aaroe]]></description>
-            <link>https://spectator.com/article/where-is-liberalism-heading/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/where-is-liberalism-heading/?edition=us</guid>
-            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump has serious beef with American farmers]]></title>
-            <description><![CDATA[Serious beef]]></description>
-            <link>https://spectator.com/article/trump-serious-beef-with-american-farmers/?edition=us&amp;homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-serious-beef-with-american-farmers/?edition=us&amp;homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t blame climate change for the Himalayan flash flood]]></title>
-            <description><![CDATA[Natural disaster]]></description>
-            <link>https://spectator.com/article/dont-blame-climate-change-for-the-himalayan-flash-flood/?edition=us&amp;homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/dont-blame-climate-change-for-the-himalayan-flash-flood/?edition=us&amp;homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What we really saw at the Portsmouth migrant boat protest]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/what-we-really-saw-at-the-portsmouth-migrant-boat-protest/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-we-really-saw-at-the-portsmouth-migrant-boat-protest/?edition=us</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:25:23 GMT</pubDate>
         </item>
     </channel>

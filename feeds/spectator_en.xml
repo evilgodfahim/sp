@@ -4,13 +4,77 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 00:56:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 05:41:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 00:56:26 GMT</pubDate>
+        <pubDate>Mon, 26 Oct 2026 05:41:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Remembering the Big Bang, forty years on]]></title>
+            <description><![CDATA[By Alastair Irvine]]></description>
+            <link>https://spectator.com/article/remembering-the-big-bang-forty-years-on/</link>
+            <guid isPermaLink="true">https://spectator.com/article/remembering-the-big-bang-forty-years-on/</guid>
+            <dc:creator><![CDATA[Alastair Irvine]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 05:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ministers should lead by example in prepping for the Apocalypse]]></title>
+            <description><![CDATA[Memo to Wes]]></description>
+            <link>https://spectator.com/article/ministers-should-lead-by-example-in-prepping-for-the-apocalypse/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ministers-should-lead-by-example-in-prepping-for-the-apocalypse/</guid>
+            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 05:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England and Scotland are fighting a whisky war]]></title>
+            <description><![CDATA[Auld enemies]]></description>
+            <link>https://spectator.com/article/england-and-scotland-are-fighting-a-whisky-war/</link>
+            <guid isPermaLink="true">https://spectator.com/article/england-and-scotland-are-fighting-a-whisky-war/</guid>
+            <dc:creator><![CDATA[Josh Sims]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 05:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we still enjoy The History Boys?]]></title>
+            <description><![CDATA[The pederast as hero]]></description>
+            <link>https://spectator.com/article/can-we-still-enjoy-the-history-boys/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-we-still-enjoy-the-history-boys/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 05:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sally Rooney and the comfortable violence of the left]]></title>
+            <description><![CDATA[Leading article]]></description>
+            <link>https://spectator.com/article/sally-rooney-and-the-comfortable-violence-of-the-left/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/sally-rooney-and-the-comfortable-violence-of-the-left/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[The Spectator]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 05:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to expect from Burnham’s first Budget]]></title>
+            <description><![CDATA[‘Boring does not prevent it from being dangerous’:]]></description>
+            <link>https://spectator.com/article/boring-does-not-prevent-it-from-being-dangerous-what-to-expect-from-burnhams-first-budget/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/boring-does-not-prevent-it-from-being-dangerous-what-to-expect-from-burnhams-first-budget/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Tim Shipman and Michael Simmons]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 05:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There is a logic to a tourist tax]]></title>
+            <description><![CDATA[Wiki]]></description>
+            <link>https://spectator.com/article/there-is-a-logic-to-a-tourist-tax/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/there-is-a-logic-to-a-tourist-tax/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 05:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Andy Burnham really want an ‘honest’ conversation on EU free movement?]]></title>
+            <description><![CDATA[By Sam Leith]]></description>
+            <link>https://spectator.com/article/the-truth-about-andy-burnhams-honest-conversation-on-eu-free-movement/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-andy-burnhams-honest-conversation-on-eu-free-movement/</guid>
+            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 05:41:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[To Bibi or not to Bibi?]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
+            <description><![CDATA[Dispatch]]></description>
             <link>https://spectator.com/article/to-bibi-or-not-to-bibi/</link>
             <guid isPermaLink="true">https://spectator.com/article/to-bibi-or-not-to-bibi/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
@@ -26,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Alastair Campbell would like your attention]]></title>
-            <description><![CDATA[By Max Jeffery]]></description>
+            <description><![CDATA[‘Persevilience’]]></description>
             <link>https://spectator.com/article/alastair-campbell-would-like-your-attention/</link>
             <guid isPermaLink="true">https://spectator.com/article/alastair-campbell-would-like-your-attention/</guid>
             <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
@@ -42,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[In praise of Master and Commander]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
+            <description><![CDATA[Trafalgar Day]]></description>
             <link>https://spectator.com/article/in-praise-of-master-and-commander/</link>
             <guid isPermaLink="true">https://spectator.com/article/in-praise-of-master-and-commander/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -106,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[The Wild Swimmer]]></title>
-            <description><![CDATA[Rosie smiles when her nephew asks her if she’s still swimming in the sea in October.  It is, in fact, when she starts enjoying it again. July and August are all very well, but her spot behind the harbour wall fills up with holidaymakers, annexing the rock where she likes to change, having picnics and jumping into the sea with their children, as if they were swimming for fun. It’s not Cold Water Swimming if the sea feels warm, even to tourists who aren’t swimming mindfully. A few of these incomers stick it out for September but October is what separates the men from the boys. Or the women from the girls, rather. For nine months of the year, Porthemmet Beach is as empty of men as Rosie’s pottery class.]]></description>
+            <description><![CDATA[By Anonymous]]></description>
             <link>https://spectator.com/article/the-wild-swimmer/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-wild-swimmer/</guid>
             <dc:creator><![CDATA[Anonymous]]></dc:creator>
@@ -114,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[Pedestrianising Oxford Street is part of the war on common sense]]></title>
-            <description><![CDATA[By Alex Klaushofer]]></description>
+            <description><![CDATA[A foot wrong]]></description>
             <link>https://spectator.com/article/pedestrianising-oxford-street-is-part-of-the-war-on-common-sense/</link>
             <guid isPermaLink="true">https://spectator.com/article/pedestrianising-oxford-street-is-part-of-the-war-on-common-sense/</guid>
             <dc:creator><![CDATA[Alex Klaushofer]]></dc:creator>
@@ -570,7 +634,7 @@
         </item>
         <item>
             <title><![CDATA[Sally Rooney and the comfortable violence of the left]]></title>
-            <description><![CDATA[By The Spectator]]></description>
+            <description><![CDATA[Leading article]]></description>
             <link>https://spectator.com/article/sally-rooney-and-the-comfortable-violence-of-the-left/</link>
             <guid isPermaLink="true">https://spectator.com/article/sally-rooney-and-the-comfortable-violence-of-the-left/</guid>
             <dc:creator><![CDATA[The Spectator]]></dc:creator>
@@ -594,7 +658,7 @@
         </item>
         <item>
             <title><![CDATA[There is a logic to a tourist tax]]></title>
-            <description><![CDATA[By Rory Sutherland]]></description>
+            <description><![CDATA[Wiki]]></description>
             <link>https://spectator.com/article/there-is-a-logic-to-a-tourist-tax/</link>
             <guid isPermaLink="true">https://spectator.com/article/there-is-a-logic-to-a-tourist-tax/</guid>
             <dc:creator><![CDATA[Rory Sutherland]]></dc:creator>
@@ -765,8 +829,8 @@ During the weekend’s street protests, the fires provided cover for rioters bre
             <pubDate>Thu, 22 Oct 2026 01:06:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘Boring does not prevent it from being dangerous’: What to expect from Burnham’s first Budget]]></title>
-            <description><![CDATA[By Tim Shipman and Michael Simmons]]></description>
+            <title><![CDATA[What to expect from Burnham’s first Budget]]></title>
+            <description><![CDATA[‘Boring does not prevent it from being dangerous’:]]></description>
             <link>https://spectator.com/article/boring-does-not-prevent-it-from-being-dangerous-what-to-expect-from-burnhams-first-budget/</link>
             <guid isPermaLink="true">https://spectator.com/article/boring-does-not-prevent-it-from-being-dangerous-what-to-expect-from-burnhams-first-budget/</guid>
             <dc:creator><![CDATA[Tim Shipman and Michael Simmons]]></dc:creator>
@@ -3979,70 +4043,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <link>https://spectator.com/article/how-to-survive-tory-conference/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-to-survive-tory-conference/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it still possible to be a Jewish Green party supporter?]]></title>
-            <description><![CDATA[By Jake Wallis Simons]]></description>
-            <link>https://spectator.com/article/is-it-still-possible-to-be-a-jewish-green-party-supporter/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-it-still-possible-to-be-a-jewish-green-party-supporter/</guid>
-            <dc:creator><![CDATA[Jake Wallis Simons]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is your dog right-wing?]]></title>
-            <description><![CDATA[By Flora Watkins]]></description>
-            <link>https://spectator.com/article/how-right-wing-is-your-dog/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-right-wing-is-your-dog/</guid>
-            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a brain haemorrhage feels like]]></title>
-            <description><![CDATA[By Simon Cottee]]></description>
-            <link>https://spectator.com/article/what-a-brain-haemorrhage-feels-like/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-a-brain-haemorrhage-feels-like/</guid>
-            <dc:creator><![CDATA[Simon Cottee]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What if AI is actually good at writing novels?]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/what-if-ai-is-actually-good-at-writing-novels/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-if-ai-is-actually-good-at-writing-novels/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Warnings, omens and the end of days: the surreal times of the Emperor Charlemagne]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/warnings-omens-and-the-end-of-days-the-surreal-times-of-the-emperor-charlemagne/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/warnings-omens-and-the-end-of-days-the-surreal-times-of-the-emperor-charlemagne/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[David Crane]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why artists love Aphrodite]]></title>
-            <description><![CDATA[Exhibitions]]></description>
-            <link>https://spectator.com/article/why-artists-love-aphrodite/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-artists-love-aphrodite/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the man behind Royal Opera’s new Parsifal]]></title>
-            <description><![CDATA[Theatre]]></description>
-            <link>https://spectator.com/article/meet-the-man-behind-royal-operas-new-parsifal/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/meet-the-man-behind-royal-operas-new-parsifal/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cornell Seven and the problem with consent]]></title>
-            <description><![CDATA[By Joanna Williams]]></description>
-            <link>https://spectator.com/article/the-cornell-seven-and-the-problem-with-consent/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-cornell-seven-and-the-problem-with-consent/</guid>
-            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 23:26:25 GMT</pubDate>
         </item>
     </channel>

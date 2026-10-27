@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 22:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 01:44:42 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 22:20:26 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 01:44:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We need a crackdown on the cycling menace]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/we-need-a-crackdown-on-the-cycling-menace/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-need-a-crackdown-on-the-cycling-menace/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 01:44:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Four-day weeks won’t solve the teaching crisis in schools]]></title>
             <description><![CDATA[By Kristina ﻿Murkett]]></description>
@@ -202,7 +210,7 @@
         </item>
         <item>
             <title><![CDATA[In praise of Master and Commander]]></title>
-            <description><![CDATA[Trafalgar Day]]></description>
+            <description><![CDATA[By Madeline Grant]]></description>
             <link>https://spectator.com/article/in-praise-of-master-and-commander/</link>
             <guid isPermaLink="true">https://spectator.com/article/in-praise-of-master-and-commander/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -4035,14 +4043,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <link>https://spectator.com/article/britain-is-playing-catch-up-in-the-fight-against-anti-semitism/?homepage-tracking=magazine_minor-article-3</link>
             <guid isPermaLink="true">https://spectator.com/article/britain-is-playing-catch-up-in-the-fight-against-anti-semitism/?homepage-tracking=magazine_minor-article-3</guid>
             <dc:creator><![CDATA[Dave Rich]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunday shows round-up: Norris drops jury trial curbs from Courts Bill]]></title>
-            <description><![CDATA[By Joe Bedell-Brill]]></description>
-            <link>https://spectator.com/article/sunday-shows-round-up-norris-drops-jury-trial-curbs-from-courts-bill/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sunday-shows-round-up-norris-drops-jury-trial-curbs-from-courts-bill/</guid>
-            <dc:creator><![CDATA[Joe Bedell-Brill]]></dc:creator>
             <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
         </item>
     </channel>

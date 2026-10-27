@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 19:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 23:22:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 19:06:20 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 23:22:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Down with Strunk and White]]></title>
+            <description><![CDATA[By Peter Wood]]></description>
+            <link>https://spectator.com/article/down-with-strunk-and-white/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/down-with-strunk-and-white/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 23:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kylian Mbappé is right about Mao. So why has he apologized?]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/kylian-mbappe-is-right-about-mao-so-why-has-he-apologised/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/kylian-mbappe-is-right-about-mao-so-why-has-he-apologised/?edition=us</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 23:22:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Students brought down Serbia’s president – but what happens now?]]></title>
             <description><![CDATA[By Tatyana Kekic]]></description>
@@ -4006,22 +4022,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <link>https://spectator.com/article/diary/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/diary/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Ann Coulter]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 12:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In America, murder has become mainstream]]></title>
-            <description><![CDATA[Killer instinct]]></description>
-            <link>https://spectator.com/article/in-america-murder-has-become-mainstream/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-america-murder-has-become-mainstream/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 12:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A world full of artifice: Life of M, by Rachel Cusk, reviewed]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/a-world-full-of-artifice-life-of-m-by-rachel-cusk-reviewed/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-world-full-of-artifice-life-of-m-by-rachel-cusk-reviewed/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Leyla Sanai]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 12:31:16 GMT</pubDate>
         </item>
     </channel>

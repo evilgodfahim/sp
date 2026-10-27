@@ -4,10 +4,58 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 07:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 13:47:24 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 13:47:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Britain must decide what its armed forces are for]]></title>
+            <description><![CDATA[By Joshua Huminski]]></description>
+            <link>https://spectator.com/article/britain-must-decide-what-its-armed-forces-are-for/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-must-decide-what-its-armed-forces-are-for/</guid>
+            <dc:creator><![CDATA[Joshua Huminski]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 13:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Students brought down Serbia’s president – but what happens now?]]></title>
+            <description><![CDATA[By Tatyana Kekic]]></description>
+            <link>https://spectator.com/article/students-brought-down-serbias-president-but-what-happens-now/</link>
+            <guid isPermaLink="true">https://spectator.com/article/students-brought-down-serbias-president-but-what-happens-now/</guid>
+            <dc:creator><![CDATA[Tatyana Kekic]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 13:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The brilliance of Harry Kane]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/the-brilliance-of-harry-kane/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-brilliance-of-harry-kane/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 13:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s time to de-decolonise Britain]]></title>
+            <description><![CDATA[By Gareth Roberts]]></description>
+            <link>https://spectator.com/article/we-need-to-de-decolonise-britain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-need-to-de-decolonise-britain/</guid>
+            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 13:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The problem with this Paddington bear Budget]]></title>
+            <description><![CDATA[Marmalade dropper]]></description>
+            <link>https://spectator.com/article/the-problem-with-this-paddington-bear-budget/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-this-paddington-bear-budget/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 13:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Andy Burnham can’t admit about migration]]></title>
+            <description><![CDATA[Free movement]]></description>
+            <link>https://spectator.com/article/what-andy-burnham-cant-admit-about-migration/</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-andy-burnham-cant-admit-about-migration/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 13:47:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A history of Napoleon’s marshals has all the dash and vigour of a cavalry charge]]></title>
             <description><![CDATA[Books]]></description>
@@ -81,8 +129,8 @@
             <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When are we going to drop the whole reparations farce?]]></title>
-            <description><![CDATA[By Ameer Kotecha]]></description>
+            <title><![CDATA[When will Britain drop the reparations farce?]]></title>
+            <description><![CDATA[Commonwealth]]></description>
             <link>https://spectator.com/article/when-are-we-going-to-drop-the-whole-reparations-farce/</link>
             <guid isPermaLink="true">https://spectator.com/article/when-are-we-going-to-drop-the-whole-reparations-farce/</guid>
             <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
@@ -90,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[We need a crackdown on the cycling menace]]></title>
-            <description><![CDATA[Pavement hoppers]]></description>
+            <description><![CDATA[By Ross Clark]]></description>
             <link>https://spectator.com/article/we-need-a-crackdown-on-the-cycling-menace/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-need-a-crackdown-on-the-cycling-menace/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -98,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Four-day weeks won’t solve the teaching crisis in schools]]></title>
-            <description><![CDATA[Education]]></description>
+            <description><![CDATA[By Kristina ﻿Murkett]]></description>
             <link>https://spectator.com/article/four-day-weeks-wont-solve-the-teaching-crisis-in-schools/</link>
             <guid isPermaLink="true">https://spectator.com/article/four-day-weeks-wont-solve-the-teaching-crisis-in-schools/</guid>
             <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
@@ -137,8 +185,8 @@
             <pubDate>Mon, 26 Oct 2026 17:58:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I feel sorry for Meghan Markle]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <title><![CDATA[Is it time to feel sorry for Meghan Markle?]]></title>
+            <description><![CDATA[Royal family]]></description>
             <link>https://spectator.com/article/i-feel-sorry-for-meghan-markle/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-feel-sorry-for-meghan-markle/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -3995,54 +4043,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <link>https://spectator.com/article/what-the-cia-and-mi6-really-talk-about/?homepage-tracking=high_density-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/what-the-cia-and-mi6-really-talk-about/?homepage-tracking=high_density-article-1</guid>
             <dc:creator><![CDATA[David McCloskey]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 11:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How long has Ranulph Fiennes been under some sort of control?]]></title>
-            <description><![CDATA[The Spectator’s Notes]]></description>
-            <link>https://spectator.com/article/how-long-has-ranulph-fiennes-been-under-some-sort-of-control/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-long-has-ranulph-fiennes-been-under-some-sort-of-control/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 11:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did the Bayeux Tapestry succeed as a tool of Norman propaganda?]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/did-the-bayeux-tapestry-succeed-as-a-tool-of-norman-propaganda/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/did-the-bayeux-tapestry-succeed-as-a-tool-of-norman-propaganda/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Sean Mcglynn]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 11:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s nothing more absurd than the anti-Ulez bomber]]></title>
-            <description><![CDATA[Terror]]></description>
-            <link>https://spectator.com/article/theres-nothing-more-absurd-than-the-anti-ulez-bomber/</link>
-            <guid isPermaLink="true">https://spectator.com/article/theres-nothing-more-absurd-than-the-anti-ulez-bomber/</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 11:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tories are right: the Environment Agency must go]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/the-tories-are-right-the-environment-agency-must-go/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-tories-are-right-the-environment-agency-must-go/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 11:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celebrities make the best pub landlords]]></title>
-            <description><![CDATA[By Arthur Reynolds]]></description>
-            <link>https://spectator.com/article/celebrities-make-the-best-pub-landlords/</link>
-            <guid isPermaLink="true">https://spectator.com/article/celebrities-make-the-best-pub-landlords/</guid>
-            <dc:creator><![CDATA[Arthur Reynolds]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 11:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kemi Badenoch’s ‘Victorian Values’ could be an election winner]]></title>
-            <description><![CDATA[By Robin Ashenden]]></description>
-            <link>https://spectator.com/article/kemi-badenochs-victorian-values-could-be-an-election-winner/</link>
-            <guid isPermaLink="true">https://spectator.com/article/kemi-badenochs-victorian-values-could-be-an-election-winner/</guid>
-            <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 11:00:30 GMT</pubDate>
         </item>
     </channel>

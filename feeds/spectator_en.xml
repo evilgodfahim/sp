@@ -4,13 +4,93 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 01:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 07:04:47 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 01:44:42 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A history of Napoleon’s marshals has all the dash and vigour of a cavalry charge]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/a-history-of-napoleons-marshals-has-all-the-dash-and-vigour-of-a-cavalry-charge/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-history-of-napoleons-marshals-has-all-the-dash-and-vigour-of-a-cavalry-charge/</guid>
+            <dc:creator><![CDATA[Philip Mansel]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The intellectual passions of J.R.R. Tolkien]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-intellectual-passions-of-j-r-r-tolkien/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-intellectual-passions-of-j-r-r-tolkien/</guid>
+            <dc:creator><![CDATA[Mathew Lyons]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long live the village!]]></title>
+            <description><![CDATA[Village people]]></description>
+            <link>https://spectator.com/article/long-live-the-village/</link>
+            <guid isPermaLink="true">https://spectator.com/article/long-live-the-village/</guid>
+            <dc:creator><![CDATA[Simon Jenkins]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain is missing out by banning Israeli settler wine]]></title>
+            <description><![CDATA[The vineyards of Samaria]]></description>
+            <link>https://spectator.com/article/britain-is-losing-out-by-banning-israeli-settler-wine/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-is-losing-out-by-banning-israeli-settler-wine/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boomers are skiing off with Gen Z’s inheritance]]></title>
+            <description><![CDATA[SKI-ing holidays]]></description>
+            <link>https://spectator.com/article/boomers-are-skiing-off-with-gen-zs-inheritance/</link>
+            <guid isPermaLink="true">https://spectator.com/article/boomers-are-skiing-off-with-gen-zs-inheritance/</guid>
+            <dc:creator><![CDATA[Esme Gordon-Craig]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My night with Maya Jama]]></title>
+            <description><![CDATA[Diary]]></description>
+            <link>https://spectator.com/article/my-night-with-maya-jama/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-night-with-maya-jama/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[George Osborne]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A history of Napoleon’s marshals has all the dash and vigour of a cavalry charge]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/a-history-of-napoleons-marshals-has-all-the-dash-and-vigour-of-a-cavalry-charge/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-history-of-napoleons-marshals-has-all-the-dash-and-vigour-of-a-cavalry-charge/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Philip Mansel]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The intellectual passions of J.R.R. Tolkien]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-intellectual-passions-of-j-r-r-tolkien/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-intellectual-passions-of-j-r-r-tolkien/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[Mathew Lyons]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do MPs still care about the Commons?]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/do-mps-still-care-about-the-commons/</link>
+            <guid isPermaLink="true">https://spectator.com/article/do-mps-still-care-about-the-commons/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When are we going to drop the whole reparations farce?]]></title>
+            <description><![CDATA[By Ameer Kotecha]]></description>
+            <link>https://spectator.com/article/when-are-we-going-to-drop-the-whole-reparations-farce/</link>
+            <guid isPermaLink="true">https://spectator.com/article/when-are-we-going-to-drop-the-whole-reparations-farce/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 07:04:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[We need a crackdown on the cycling menace]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
+            <description><![CDATA[Pavement hoppers]]></description>
             <link>https://spectator.com/article/we-need-a-crackdown-on-the-cycling-menace/</link>
             <guid isPermaLink="true">https://spectator.com/article/we-need-a-crackdown-on-the-cycling-menace/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -18,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Four-day weeks won’t solve the teaching crisis in schools]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
+            <description><![CDATA[Education]]></description>
             <link>https://spectator.com/article/four-day-weeks-wont-solve-the-teaching-crisis-in-schools/</link>
             <guid isPermaLink="true">https://spectator.com/article/four-day-weeks-wont-solve-the-teaching-crisis-in-schools/</guid>
             <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
@@ -58,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[I feel sorry for Meghan Markle]]></title>
-            <description><![CDATA[Royal family]]></description>
+            <description><![CDATA[By Alexander Larman]]></description>
             <link>https://spectator.com/article/i-feel-sorry-for-meghan-markle/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-feel-sorry-for-meghan-markle/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -66,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[The BBC can no longer ignore its anti-Semitism problem]]></title>
-            <description><![CDATA[Jew hate]]></description>
+            <description><![CDATA[By Stephen Pollard]]></description>
             <link>https://spectator.com/article/the-bbc-can-no-longer-ignore-its-anti-semitism-problem/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-bbc-can-no-longer-ignore-its-anti-semitism-problem/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -98,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[The spectre of civil war haunts France]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
+            <description><![CDATA[Broken state]]></description>
             <link>https://spectator.com/article/the-spectre-of-civil-war-haunts-france/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-spectre-of-civil-war-haunts-france/</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
@@ -106,7 +186,7 @@
         </item>
         <item>
             <title><![CDATA[Lula has broken Brazil]]></title>
-            <description><![CDATA[Presidential election]]></description>
+            <description><![CDATA[By Arnout Nuijt]]></description>
             <link>https://spectator.com/article/lula-has-broken-brazil/</link>
             <guid isPermaLink="true">https://spectator.com/article/lula-has-broken-brazil/</guid>
             <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
@@ -122,7 +202,7 @@
         </item>
         <item>
             <title><![CDATA[Ministers should lead by example in prepping for the Apocalypse]]></title>
-            <description><![CDATA[Memo to Wes]]></description>
+            <description><![CDATA[By Flora Watkins]]></description>
             <link>https://spectator.com/article/ministers-should-lead-by-example-in-prepping-for-the-apocalypse/</link>
             <guid isPermaLink="true">https://spectator.com/article/ministers-should-lead-by-example-in-prepping-for-the-apocalypse/</guid>
             <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
@@ -130,7 +210,7 @@
         </item>
         <item>
             <title><![CDATA[England and Scotland are fighting a whisky war]]></title>
-            <description><![CDATA[Auld enemies]]></description>
+            <description><![CDATA[By Josh Sims]]></description>
             <link>https://spectator.com/article/england-and-scotland-are-fighting-a-whisky-war/</link>
             <guid isPermaLink="true">https://spectator.com/article/england-and-scotland-are-fighting-a-whisky-war/</guid>
             <dc:creator><![CDATA[Josh Sims]]></dc:creator>
@@ -138,7 +218,7 @@
         </item>
         <item>
             <title><![CDATA[Can we still enjoy The History Boys?]]></title>
-            <description><![CDATA[The pederast as hero]]></description>
+            <description><![CDATA[By Ross Clark]]></description>
             <link>https://spectator.com/article/can-we-still-enjoy-the-history-boys/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-we-still-enjoy-the-history-boys/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
@@ -618,7 +698,7 @@
         </item>
         <item>
             <title><![CDATA[My night with Maya Jama]]></title>
-            <description><![CDATA[By George Osborne]]></description>
+            <description><![CDATA[Diary]]></description>
             <link>https://spectator.com/article/my-night-with-maya-jama/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-night-with-maya-jama/</guid>
             <dc:creator><![CDATA[George Osborne]]></dc:creator>
@@ -933,8 +1013,8 @@ During the weekend’s street protests, the fires provided cover for rioters bre
             <pubDate>Thu, 22 Oct 2026 01:06:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What to expect from Burnham’s first Budget]]></title>
-            <description><![CDATA[‘Boring does not prevent it from being dangerous’:]]></description>
+            <title><![CDATA[‘Boring does not prevent it from being dangerous’: What to expect from Burnham’s first Budget]]></title>
+            <description><![CDATA[By Tim Shipman and Michael Simmons]]></description>
             <link>https://spectator.com/article/boring-does-not-prevent-it-from-being-dangerous-what-to-expect-from-burnhams-first-budget/</link>
             <guid isPermaLink="true">https://spectator.com/article/boring-does-not-prevent-it-from-being-dangerous-what-to-expect-from-burnhams-first-budget/</guid>
             <dc:creator><![CDATA[Tim Shipman and Michael Simmons]]></dc:creator>
@@ -3964,86 +4044,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <guid isPermaLink="true">https://spectator.com/article/kemi-badenochs-victorian-values-could-be-an-election-winner/</guid>
             <dc:creator><![CDATA[Robin Ashenden]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 11:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France’s school riots offer a bitter taste of what will happen if Le Pen wins]]></title>
-            <description><![CDATA[Street fight]]></description>
-            <link>https://spectator.com/article/frances-school-riots-offer-a-bitter-taste-of-what-will-happen-if-le-pen-wins/</link>
-            <guid isPermaLink="true">https://spectator.com/article/frances-school-riots-offer-a-bitter-taste-of-what-will-happen-if-le-pen-wins/</guid>
-            <dc:creator><![CDATA[John Keiger]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 11:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive: Tory MP met Reform treasurer at defection peak]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/exclusive-tory-mp-met-reform-treasurer-at-defection-peak/</link>
-            <guid isPermaLink="true">https://spectator.com/article/exclusive-tory-mp-met-reform-treasurer-at-defection-peak/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 20:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polanski’s Green party has been overtaken by radical activists]]></title>
-            <description><![CDATA[Zionism motion]]></description>
-            <link>https://spectator.com/article/polanskis-green-party-has-been-overtaken-by-radical-activists/</link>
-            <guid isPermaLink="true">https://spectator.com/article/polanskis-green-party-has-been-overtaken-by-radical-activists/</guid>
-            <dc:creator><![CDATA[Limor Simhony Philpott]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 17:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zack Polanski is repeating history]]></title>
-            <description><![CDATA[Zionism]]></description>
-            <link>https://spectator.com/article/zack-polanski-is-repeating-history/</link>
-            <guid isPermaLink="true">https://spectator.com/article/zack-polanski-is-repeating-history/</guid>
-            <dc:creator><![CDATA[Tali Fraser]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 17:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How long has Ranulph Fiennes been under some sort of control?]]></title>
-            <description><![CDATA[The Spectator’s Notes]]></description>
-            <link>https://spectator.com/article/how-long-has-ranulph-fiennes-been-under-some-sort-of-control/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-long-has-ranulph-fiennes-been-under-some-sort-of-control/</guid>
-            <dc:creator><![CDATA[Charles Moore]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sanctioning the West Bank will hurt Palestinians]]></title>
-            <description><![CDATA[By Adam LeBor]]></description>
-            <link>https://spectator.com/article/sanctioning-the-west-bank-will-hurt-palestinians/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sanctioning-the-west-bank-will-hurt-palestinians/</guid>
-            <dc:creator><![CDATA[Adam LeBor]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The delights of not running a newspaper]]></title>
-            <description><![CDATA[By Conrad Black]]></description>
-            <link>https://spectator.com/article/the-delights-of-not-running-a-newspaper/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-delights-of-not-running-a-newspaper/</guid>
-            <dc:creator><![CDATA[Conrad Black]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it still possible to be a Jewish Green party supporter?]]></title>
-            <description><![CDATA[Anti-Semitism]]></description>
-            <link>https://spectator.com/article/is-it-still-possible-to-be-a-jewish-green-party-supporter/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-it-still-possible-to-be-a-jewish-green-party-supporter/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Jake Wallis Simons]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian history has become Chinese kitsch]]></title>
-            <description><![CDATA[Dispatch]]></description>
-            <link>https://spectator.com/article/russian-history-has-become-chinese-kitsch/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/russian-history-has-become-chinese-kitsch/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Mary Dejevsky]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain is playing catch-up in the fight against antisemitism]]></title>
-            <description><![CDATA[Anti-Jewish violence]]></description>
-            <link>https://spectator.com/article/britain-is-playing-catch-up-in-the-fight-against-anti-semitism/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/britain-is-playing-catch-up-in-the-fight-against-anti-semitism/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Dave Rich]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:57:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

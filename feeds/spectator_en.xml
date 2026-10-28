@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 16:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 21:26:59 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Oct 2026 16:55:15 GMT</pubDate>
+        <pubDate>Wed, 28 Oct 2026 21:26:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sayeeda Warsi would make a terrible Islamophobia tsar]]></title>
+            <description><![CDATA[Special representative]]></description>
+            <link>https://spectator.com/article/sayeeda-warsi-would-make-a-terrible-islamophobia-tsar/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sayeeda-warsi-would-make-a-terrible-islamophobia-tsar/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 21:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Healey’s Budget: ‘swirling uncertainties’ and 4p off gherkins]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/healeys-small-things-budget-proves-we-are-in-the-grip-of-national-triviality/</link>
+            <guid isPermaLink="true">https://spectator.com/article/healeys-small-things-budget-proves-we-are-in-the-grip-of-national-triviality/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 21:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Healey’s Budget in nine graphs]]></title>
+            <description><![CDATA[Money talks]]></description>
+            <link>https://spectator.com/article/john-healeys-budget-in-nine-graphs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/john-healeys-budget-in-nine-graphs/</guid>
+            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 21:26:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Budget: John Healey gives £100 handout to millions of households]]></title>
             <description><![CDATA[By Coffee House]]></description>
@@ -26,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Why the world bows to Beijing]]></title>
-            <description><![CDATA[Kowtowing]]></description>
+            <description><![CDATA[By Ian Williams]]></description>
             <link>https://spectator.com/article/why-the-world-bows-to-beijing/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-the-world-bows-to-beijing/</guid>
             <dc:creator><![CDATA[Ian Williams]]></dc:creator>
@@ -50,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Labour’s Budget could kill the pub]]></title>
-            <description><![CDATA[Last orders]]></description>
+            <description><![CDATA[By Rory Hanrahan]]></description>
             <link>https://spectator.com/article/labours-budget-could-kill-the-pub/</link>
             <guid isPermaLink="true">https://spectator.com/article/labours-budget-could-kill-the-pub/</guid>
             <dc:creator><![CDATA[Rory Hanrahan]]></dc:creator>
@@ -4019,30 +4043,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <link>https://spectator.com/article/why-are-progressives-so-desperately-devoted-to-the-bbc/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-are-progressives-so-desperately-devoted-to-the-bbc/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why artists love Aphrodite]]></title>
-            <description><![CDATA[Exhibitions]]></description>
-            <link>https://spectator.com/article/why-artists-love-aphrodite/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-artists-love-aphrodite/</guid>
-            <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defence of tattoos]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/in-defence-of-tattoos/</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-defence-of-tattoos/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TV has forgotten the little guy]]></title>
-            <description><![CDATA[By Finlay McLaren]]></description>
-            <link>https://spectator.com/article/tv-has-forgotten-the-little-guy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/tv-has-forgotten-the-little-guy/</guid>
-            <dc:creator><![CDATA[Finlay McLaren]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
         </item>
     </channel>

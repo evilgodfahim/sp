@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 16:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 21:26:55 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Oct 2026 16:55:09 GMT</pubDate>
+        <pubDate>Wed, 28 Oct 2026 21:26:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[RIP Jennifer Lawrence’s face]]></title>
+            <description><![CDATA[By Julie Burchill]]></description>
+            <link>https://spectator.com/article/rip-jennifer-lawrence-face/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/rip-jennifer-lawrence-face/?edition=us</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 21:26:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The first alien we meet could be a superintelligent AI]]></title>
             <description><![CDATA[Close encounters]]></description>
@@ -4014,14 +4022,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <link>https://spectator.com/article/are-the-bond-markets-finally-turning-on-the-us-government/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/are-the-bond-markets-finally-turning-on-the-us-government/?edition=us</guid>
             <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 14:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twenty-five years after 9/11, is America growing complacent?]]></title>
-            <description><![CDATA[By Chris Mondics]]></description>
-            <link>https://spectator.com/article/twenty-five-years-after-9-11-is-america-growing-complacent/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/twenty-five-years-after-9-11-is-america-growing-complacent/?edition=us</guid>
-            <dc:creator><![CDATA[Chris Mondics]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 14:43:33 GMT</pubDate>
         </item>
     </channel>

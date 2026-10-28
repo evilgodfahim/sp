@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 10:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 16:55:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Oct 2026 10:11:00 GMT</pubDate>
+        <pubDate>Wed, 28 Oct 2026 16:55:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Budget: John Healey gives £100 handout to millions of households]]></title>
+            <description><![CDATA[By Coffee House]]></description>
+            <link>https://spectator.com/article/live-john-healey-prepares-to-deliver-his-first-budget/</link>
+            <guid isPermaLink="true">https://spectator.com/article/live-john-healey-prepares-to-deliver-his-first-budget/</guid>
+            <dc:creator><![CDATA[Coffee House]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everyone thinks they are a winner after the Israeli election]]></title>
+            <description><![CDATA[By Florit Shoihet]]></description>
+            <link>https://spectator.com/article/everyone-thinks-they-are-a-winner-after-the-israeli-election/</link>
+            <guid isPermaLink="true">https://spectator.com/article/everyone-thinks-they-are-a-winner-after-the-israeli-election/</guid>
+            <dc:creator><![CDATA[Florit Shoihet]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the world bows to Beijing]]></title>
+            <description><![CDATA[Kowtowing]]></description>
+            <link>https://spectator.com/article/why-the-world-bows-to-beijing/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-the-world-bows-to-beijing/</guid>
+            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autumn Budget livestream – trick or treat?]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/autumn-budget-livestream-trick-or-treat/</link>
+            <guid isPermaLink="true">https://spectator.com/article/autumn-budget-livestream-trick-or-treat/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Never bet against Bibi]]></title>
+            <description><![CDATA[Israel election]]></description>
+            <link>https://spectator.com/article/never-bet-against-bibi/</link>
+            <guid isPermaLink="true">https://spectator.com/article/never-bet-against-bibi/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour’s Budget could kill the pub]]></title>
+            <description><![CDATA[Last orders]]></description>
+            <link>https://spectator.com/article/labours-budget-could-kill-the-pub/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labours-budget-could-kill-the-pub/</guid>
+            <dc:creator><![CDATA[Rory Hanrahan]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Healey’s ‘Nero’ Budget was a missed opportunity]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/john-healeys-nero-budget-was-a-missed-opportunity/</link>
+            <guid isPermaLink="true">https://spectator.com/article/john-healeys-nero-budget-was-a-missed-opportunity/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kemi Badenoch had an annoyingly good PMQs]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/kemi-badenoch-had-an-annoyingly-good-pmqs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/kemi-badenoch-had-an-annoyingly-good-pmqs/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:55:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Opera’s obsession with the Eastern bloc]]></title>
             <description><![CDATA[Opera]]></description>
@@ -34,7 +98,7 @@
         </item>
         <item>
             <title><![CDATA[Can Netanyahu cling on?]]></title>
-            <description><![CDATA[Israel]]></description>
+            <description><![CDATA[By Adam LeBor]]></description>
             <link>https://spectator.com/article/can-netanyahu-cling-on/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-netanyahu-cling-on/</guid>
             <dc:creator><![CDATA[Adam LeBor]]></dc:creator>
@@ -42,15 +106,15 @@
         </item>
         <item>
             <title><![CDATA[Ten things to look out for in the Budget]]></title>
-            <description><![CDATA[Economy]]></description>
+            <description><![CDATA[By Michael Simmons]]></description>
             <link>https://spectator.com/article/ten-things-to-look-out-for-in-the-budget/</link>
             <guid isPermaLink="true">https://spectator.com/article/ten-things-to-look-out-for-in-the-budget/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
             <pubDate>Wed, 28 Oct 2026 10:11:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why are the Chinese so sensitive about Chairman Mao?]]></title>
-            <description><![CDATA[Mbappe row]]></description>
+            <title><![CDATA[Why are the Chinese still so sensitive about Chairman Mao?]]></title>
+            <description><![CDATA[By Philip Patrick]]></description>
             <link>https://spectator.com/article/why-are-the-chinese-so-sensitive-about-chairman-mao/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-are-the-chinese-so-sensitive-about-chairman-mao/</guid>
             <dc:creator><![CDATA[Philip Patrick]]></dc:creator>
@@ -3979,70 +4043,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <link>https://spectator.com/article/tv-has-forgotten-the-little-guy/</link>
             <guid isPermaLink="true">https://spectator.com/article/tv-has-forgotten-the-little-guy/</guid>
             <dc:creator><![CDATA[Finlay McLaren]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pubs are no place for cats]]></title>
-            <description><![CDATA[By Andy Twelves]]></description>
-            <link>https://spectator.com/article/pubs-are-no-place-for-cats/</link>
-            <guid isPermaLink="true">https://spectator.com/article/pubs-are-no-place-for-cats/</guid>
-            <dc:creator><![CDATA[Andy Twelves]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why artists love Aphrodite]]></title>
-            <description><![CDATA[Exhibitions]]></description>
-            <link>https://spectator.com/article/why-artists-love-aphrodite/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-artists-love-aphrodite/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[​The problem with Sting’s musical]]></title>
-            <description><![CDATA[Theatre]]></description>
-            <link>https://spectator.com/article/the-problem-with-stings-musical/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-problem-with-stings-musical/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[War is as good as Succession]]></title>
-            <description><![CDATA[Television]]></description>
-            <link>https://spectator.com/article/war-is-as-good-as-succession/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/war-is-as-good-as-succession/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[James Walton]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There will never be another Jeffrey Archer]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/there-will-never-be-another-jeffrey-archer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/there-will-never-be-another-jeffrey-archer/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are so many children not potty trained by school?]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
-            <link>https://spectator.com/article/why-are-so-many-children-not-potty-trained-by-school/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-are-so-many-children-not-potty-trained-by-school/</guid>
-            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Andrew staging a comeback?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/is-andrew-staging-a-comeback/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-andrew-staging-a-comeback/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man City, not Arsenal, really represents Britain]]></title>
-            <description><![CDATA[By Angus Colwell]]></description>
-            <link>https://spectator.com/article/man-city-not-arsenal-really-represents-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/man-city-not-arsenal-really-represents-britain/</guid>
-            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 08:20:34 GMT</pubDate>
         </item>
     </channel>

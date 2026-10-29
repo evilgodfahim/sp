@@ -4,21 +4,93 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 01:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 07:50:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
+        <pubDate>Thu, 29 Oct 2026 07:50:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Sod the state: the middle-class race to go private]]></title>
-            <description><![CDATA[Postwar Britain can be defined by a bargain made with its middle class: pay for public services but benefit from them too.
-
-
-
-Private education has always been the choice of a very small minority; private healthcare was reserved for the wealthiest and those whose employers paid for it. Middle England was content to send their children to the same schools as everyone else and use the same GPs, hospitals and dentists.
-
-
-
-This is no longer true. State spending continues to grow, yet large parts of the population now pay privately to supplement what their taxes have already provided.]]></description>
+            <title><![CDATA[The uncomfortable truth about Neets]]></title>
+            <description><![CDATA[By Matthew Parris]]></description>
+            <link>https://spectator.com/article/the-uncomfortable-truth-about-neets/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-uncomfortable-truth-about-neets/</guid>
+            <dc:creator><![CDATA[Matthew Parris]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do I consent to let you read this piece?]]></title>
+            <description><![CDATA[By Lara Brown]]></description>
+            <link>https://spectator.com/article/do-i-consent-to-let-you-read-this-piece/</link>
+            <guid isPermaLink="true">https://spectator.com/article/do-i-consent-to-let-you-read-this-piece/</guid>
+            <dc:creator><![CDATA[Lara Brown]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are there suddenly so many dessert cafés in London?]]></title>
+            <description><![CDATA[By Angus Colwell]]></description>
+            <link>https://spectator.com/article/why-are-there-suddenly-so-many-dessert-cafes-in-london/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-are-there-suddenly-so-many-dessert-cafes-in-london/</guid>
+            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Harry Brook a good captain?]]></title>
+            <description><![CDATA[How cheering to realise that, as winter decides to make itself properly felt, the world of cricket has given us a series of half-volleys outside the off stump to keep our interest thrumming. First up, three great matches – the second Test at the unpronounceable Gqeberha between South Africa and Australia, and two extraordinary 50-over matches in Pakistan which England contrived to lose from seemingly impregnable positions. We have seen two magnificent innings, from Temba Bavuma and Harry Brook, while ‘Sandpaper Dave’ Warner took the opportunity to slag off Test cricket on the anniversaryof his cheating in Cape Town eight years ago. Finally, Sir Jimmy Anderson was sacked by Lancashire with especially graceless timing.]]></description>
+            <link>https://spectator.com/article/is-harry-brook-a-good-captain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-harry-brook-a-good-captain/</guid>
+            <dc:creator><![CDATA[Roger Alton]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Burnham preparing to call a December election?]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/is-burnham-preparing-to-call-a-december-election/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-burnham-preparing-to-call-a-december-election/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will we always have Paris?]]></title>
+            <description><![CDATA[State of the art]]></description>
+            <link>https://spectator.com/article/will-we-always-have-paris-2/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-we-always-have-paris-2/</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump is cynical and shocking about Ukraine – but is he also right?]]></title>
+            <description><![CDATA[Kompromise]]></description>
+            <link>https://spectator.com/article/trump-is-cynical-and-shocking-about-ukraine-but-is-he-also-right/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-is-cynical-and-shocking-about-ukraine-but-is-he-also-right/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nick Love, brute of British cinema, on the beauty of crime]]></title>
+            <description><![CDATA[Cinema]]></description>
+            <link>https://spectator.com/article/nick-love-brute-of-british-cinema-on-the-beauty-of-crime/?homepage-tracking=magazine-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/nick-love-brute-of-british-cinema-on-the-beauty-of-crime/?homepage-tracking=magazine-article-2</guid>
+            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The revolutionary past of Miatta Fahnbulleh’s father]]></title>
+            <description><![CDATA[Family history]]></description>
+            <link>https://spectator.com/article/the-revolutionary-past-of-miatta-fahnbullehs-father/?homepage-tracking=magazine-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-revolutionary-past-of-miatta-fahnbullehs-father/?homepage-tracking=magazine-article-3</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What future is there for the British village?]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/what-future-is-there-for-the-british-village/?homepage-tracking=magazine-article-4</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-future-is-there-for-the-british-village/?homepage-tracking=magazine-article-4</guid>
+            <dc:creator><![CDATA[Stephen Bayley]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sod the state]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
             <link>https://spectator.com/article/sod-the-state-the-middle-class-race-to-go-private/</link>
             <guid isPermaLink="true">https://spectator.com/article/sod-the-state-the-middle-class-race-to-go-private/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
@@ -34,7 +106,7 @@ This is no longer true. State spending continues to grow, yet large parts of the
         </item>
         <item>
             <title><![CDATA[Can Netanyahu pull off one more great act of survival?]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
+            <description><![CDATA[Israel elections]]></description>
             <link>https://spectator.com/article/can-netanyahu-pull-off-one-more-great-act-of-survival/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-netanyahu-pull-off-one-more-great-act-of-survival/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
@@ -114,11 +186,7 @@ This is no longer true. State spending continues to grow, yet large parts of the
         </item>
         <item>
             <title><![CDATA[Can racing survive Labour’s gambling tax rises?]]></title>
-            <description><![CDATA[By the age of 13, Alex Wood was a virtuoso violinist, though he was later sentenced to seven years in prison for fraud. He is now a renowned expert on cybercrime, money laundering and illegal betting operators. Oh, and for good measure, he is a Fellow of the Society of Arts. Just the sort of chap you want in your corner.
-
-
-
-Recently, as an experiment, he and I opened a black-market betting account together. I say ‘together’ because we used my identity and his credit card. The unlicensed bookmaker could not have been more helpful. They didn’t care how old we were, whether we had any addiction issues or the fact that our personal and financial details didn’t match. But their attitude soon changed when we struck a winning bet: they wouldn’t send us our winnings.]]></description>
+            <description><![CDATA[By Charlie Brooks]]></description>
             <link>https://spectator.com/article/can-racing-survive-labours-gambling-tax-rises/</link>
             <guid isPermaLink="true">https://spectator.com/article/can-racing-survive-labours-gambling-tax-rises/</guid>
             <dc:creator><![CDATA[Charlie Brooks]]></dc:creator>
@@ -134,7 +202,7 @@ Recently, as an experiment, he and I opened a black-market betting account toget
         </item>
         <item>
             <title><![CDATA[Sayeeda Warsi would make a terrible Islamophobia tsar]]></title>
-            <description><![CDATA[Special representative]]></description>
+            <description><![CDATA[By Andrew Gilligan]]></description>
             <link>https://spectator.com/article/sayeeda-warsi-would-make-a-terrible-islamophobia-tsar/</link>
             <guid isPermaLink="true">https://spectator.com/article/sayeeda-warsi-would-make-a-terrible-islamophobia-tsar/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -150,7 +218,7 @@ Recently, as an experiment, he and I opened a black-market betting account toget
         </item>
         <item>
             <title><![CDATA[John Healey’s Budget in nine graphs]]></title>
-            <description><![CDATA[Money talks]]></description>
+            <description><![CDATA[By John O’Neill]]></description>
             <link>https://spectator.com/article/john-healeys-budget-in-nine-graphs/</link>
             <guid isPermaLink="true">https://spectator.com/article/john-healeys-budget-in-nine-graphs/</guid>
             <dc:creator><![CDATA[John O’Neill]]></dc:creator>
@@ -190,7 +258,7 @@ Recently, as an experiment, he and I opened a black-market betting account toget
         </item>
         <item>
             <title><![CDATA[Never bet against Bibi]]></title>
-            <description><![CDATA[Israel election]]></description>
+            <description><![CDATA[By Stephen Daisley]]></description>
             <link>https://spectator.com/article/never-bet-against-bibi/</link>
             <guid isPermaLink="true">https://spectator.com/article/never-bet-against-bibi/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
@@ -214,7 +282,7 @@ Recently, as an experiment, he and I opened a black-market betting account toget
         </item>
         <item>
             <title><![CDATA[Kemi Badenoch had an annoyingly good PMQs]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Isabel Hardman]]></description>
             <link>https://spectator.com/article/kemi-badenoch-had-an-annoyingly-good-pmqs/</link>
             <guid isPermaLink="true">https://spectator.com/article/kemi-badenoch-had-an-annoyingly-good-pmqs/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -270,7 +338,7 @@ Recently, as an experiment, he and I opened a black-market betting account toget
         </item>
         <item>
             <title><![CDATA[They don’t make them like James Hunt any more]]></title>
-            <description><![CDATA[Sex: Breakfast of champions]]></description>
+            <description><![CDATA[By Adam Hay-Nicholls]]></description>
             <link>https://spectator.com/article/they-dont-make-them-like-james-hunt-any-more/</link>
             <guid isPermaLink="true">https://spectator.com/article/they-dont-make-them-like-james-hunt-any-more/</guid>
             <dc:creator><![CDATA[Adam Hay-Nicholls]]></dc:creator>
@@ -278,7 +346,7 @@ Recently, as an experiment, he and I opened a black-market betting account toget
         </item>
         <item>
             <title><![CDATA[Why continuation novels need to end]]></title>
-            <description><![CDATA[Ghost writing]]></description>
+            <description><![CDATA[By Melanie McDonagh]]></description>
             <link>https://spectator.com/article/the-depressing-world-of-continuation-novels/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-depressing-world-of-continuation-novels/</guid>
             <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
@@ -286,7 +354,7 @@ Recently, as an experiment, he and I opened a black-market betting account toget
         </item>
         <item>
             <title><![CDATA[Help! I’ve got an earring at 41]]></title>
-            <description><![CDATA[Ear today...]]></description>
+            <description><![CDATA[By Patrick Smith]]></description>
             <link>https://spectator.com/article/help-ive-got-an-earring-at-41/</link>
             <guid isPermaLink="true">https://spectator.com/article/help-ive-got-an-earring-at-41/</guid>
             <dc:creator><![CDATA[Patrick Smith]]></dc:creator>
@@ -3976,86 +4044,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <guid isPermaLink="true">https://spectator.com/article/have-the-conservatives-found-the-right-way/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 14:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shabana Mahmood has said the quiet bit out loud]]></title>
-            <description><![CDATA[Migration]]></description>
-            <link>https://spectator.com/article/shabana-mahmood-has-said-the-quiet-bit-out-loud/</link>
-            <guid isPermaLink="true">https://spectator.com/article/shabana-mahmood-has-said-the-quiet-bit-out-loud/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 06:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Happiness is a warm rifle]]></title>
-            <description><![CDATA[No sacred cows]]></description>
-            <link>https://spectator.com/article/happiness-is-a-warm-rifle/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/happiness-is-a-warm-rifle/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 06:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Happiness is a warm rifle]]></title>
-            <description><![CDATA[No sacred cows]]></description>
-            <link>https://spectator.com/article/happiness-is-a-warm-rifle/</link>
-            <guid isPermaLink="true">https://spectator.com/article/happiness-is-a-warm-rifle/</guid>
-            <dc:creator><![CDATA[Toby Young]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 06:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tories have stitched up their own history]]></title>
-            <description><![CDATA[By Matthew Wilcox]]></description>
-            <link>https://spectator.com/article/the-tory-bayeux-tapestry-will-make-you-reconsider-the-original/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-tory-bayeux-tapestry-will-make-you-reconsider-the-original/</guid>
-            <dc:creator><![CDATA[Matthew Wilcox]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 06:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Digger Tom Cruise’s biggest flop yet?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/is-digger-tom-cruises-biggest-flop-yet/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-digger-tom-cruises-biggest-flop-yet/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 06:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Transylvanian holiday in the footsteps of King Charles]]></title>
-            <description><![CDATA[By John Sturgis]]></description>
-            <link>https://spectator.com/article/a-transylvanian-holiday-in-king-charless-footsteps/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-transylvanian-holiday-in-king-charless-footsteps/</guid>
-            <dc:creator><![CDATA[John Sturgis]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 06:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My 40-year feud with Niall Ferguson]]></title>
-            <description><![CDATA[Best life]]></description>
-            <link>https://spectator.com/article/my-40-year-feud-with-niall-ferguson/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-40-year-feud-with-niall-ferguson/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 06:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There is no substitute for homemade cannoli]]></title>
-            <description><![CDATA[The vintage chef]]></description>
-            <link>https://spectator.com/article/there-is-no-substitute-for-homemade-cannoli/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/there-is-no-substitute-for-homemade-cannoli/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Olivia Potts]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 06:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My 40-year feud with Niall Ferguson]]></title>
-            <description><![CDATA[Best life]]></description>
-            <link>https://spectator.com/article/my-40-year-feud-with-niall-ferguson/</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-40-year-feud-with-niall-ferguson/</guid>
-            <dc:creator><![CDATA[Rachel Johnson]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 06:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Must the Free Palestine mob march on October 7?]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
-            <link>https://spectator.com/article/must-the-free-palestine-mob-march-on-october-7/</link>
-            <guid isPermaLink="true">https://spectator.com/article/must-the-free-palestine-mob-march-on-october-7/</guid>
-            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 06:43:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 14:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 19:58:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2026 14:48:35 GMT</pubDate>
+        <pubDate>Thu, 29 Oct 2026 19:58:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How long must Britain wait to see Healey’s defence spending boost?]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/how-long-must-britain-wait-to-see-healeys-defence-spending-boost/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-long-must-britain-wait-to-see-healeys-defence-spending-boost/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 19:58:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our politicians are depressingly low calibre]]></title>
             <description><![CDATA[By Neil Clark]]></description>
@@ -4035,14 +4043,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <link>https://spectator.com/article/jaguars-new-electric-car-is-a-terrible-mistake/</link>
             <guid isPermaLink="true">https://spectator.com/article/jaguars-new-electric-car-is-a-terrible-mistake/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 14:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Badenoch’s speech marks the return of conviction politics]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/badenochs-speech-marks-the-return-of-conviction-politics/</link>
-            <guid isPermaLink="true">https://spectator.com/article/badenochs-speech-marks-the-return-of-conviction-politics/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 14:04:56 GMT</pubDate>
         </item>
     </channel>

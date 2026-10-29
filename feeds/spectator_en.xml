@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 07:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 14:48:35 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2026 07:50:40 GMT</pubDate>
+        <pubDate>Thu, 29 Oct 2026 14:48:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Our politicians are depressingly low calibre]]></title>
+            <description><![CDATA[By Neil Clark]]></description>
+            <link>https://spectator.com/article/our-politicians-are-depressingly-low-calibre/</link>
+            <guid isPermaLink="true">https://spectator.com/article/our-politicians-are-depressingly-low-calibre/</guid>
+            <dc:creator><![CDATA[Neil Clark]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 14:48:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The price we’ll all pay for the minimum wage hike]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/the-price-well-all-pay-for-the-minimum-wage-hike/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-price-well-all-pay-for-the-minimum-wage-hike/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 14:48:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The uncomfortable truth about Neets]]></title>
             <description><![CDATA[By Matthew Parris]]></description>
@@ -209,7 +225,7 @@
             <pubDate>Wed, 28 Oct 2026 21:26:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Healey’s Budget: ‘swirling uncertainties’ and 4p off gherkins]]></title>
+            <title><![CDATA[This was a Budget for Martin Lewis’s Britain]]></title>
             <description><![CDATA[By Madeline Grant]]></description>
             <link>https://spectator.com/article/healeys-small-things-budget-proves-we-are-in-the-grip-of-national-triviality/</link>
             <guid isPermaLink="true">https://spectator.com/article/healeys-small-things-budget-proves-we-are-in-the-grip-of-national-triviality/</guid>
@@ -4026,22 +4042,6 @@ Von Leers converted to Islam and became Omar Amin, reportedly in honour of Haj A
             <description><![CDATA[By James Heale]]></description>
             <link>https://spectator.com/article/badenochs-speech-marks-the-return-of-conviction-politics/</link>
             <guid isPermaLink="true">https://spectator.com/article/badenochs-speech-marks-the-return-of-conviction-politics/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 14:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the West failed the test on October 7]]></title>
-            <description><![CDATA[Anti Semitism]]></description>
-            <link>https://spectator.com/article/how-the-west-failed-the-test-on-october-7/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-the-west-failed-the-test-on-october-7/</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 14:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Have the Conservatives found ‘the right way’?]]></title>
-            <description><![CDATA[Tories]]></description>
-            <link>https://spectator.com/article/have-the-conservatives-found-the-right-way/</link>
-            <guid isPermaLink="true">https://spectator.com/article/have-the-conservatives-found-the-right-way/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 14:04:56 GMT</pubDate>
         </item>

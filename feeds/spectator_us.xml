@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 10:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 16:53:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Oct 2026 10:36:30 GMT</pubDate>
+        <pubDate>Fri, 30 Oct 2026 16:53:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will we always have Paris?]]></title>
+            <description><![CDATA[State of the art]]></description>
+            <link>https://spectator.com/article/will-we-always-have-paris-2/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-we-always-have-paris-2/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 16:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why a frothy Jane Austen adaptation is always imminent]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/why-a-frothy-jane-austen-adaptation-is-always-imminent/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-a-frothy-jane-austen-adaptation-is-always-imminent/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Laurie Penny]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 16:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this the real reason Christine Lagarde is leaving the ECB?]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/is-this-the-real-reason-christine-lagarde-is-leaving-the-ecb/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-this-the-real-reason-christine-lagarde-is-leaving-the-ecb/?edition=us</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 16:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Congo’s silent genocide]]></title>
+            <description><![CDATA[By Geoff Hill]]></description>
+            <link>https://spectator.com/article/congos-silent-genocide/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/congos-silent-genocide/?edition=us</guid>
+            <dc:creator><![CDATA[Geoff Hill]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 16:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gen Z is falling for the Soviet Union]]></title>
+            <description><![CDATA[By Ivo Delingpole]]></description>
+            <link>https://spectator.com/article/why-gen-z-is-falling-for-the-soviet-union/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-gen-z-is-falling-for-the-soviet-union/?edition=us</guid>
+            <dc:creator><![CDATA[Ivo Delingpole]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 16:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drawing inspiration from the Roman Republic to discourage tyranny]]></title>
+            <description><![CDATA[By Peter Stothard]]></description>
+            <link>https://spectator.com/article/drawing-inspiration-from-the-roman-republic-to-discourage-tyranny/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/drawing-inspiration-from-the-roman-republic-to-discourage-tyranny/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Peter Stothard]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 16:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leave frat boys alone]]></title>
+            <description><![CDATA[By Gage Klipper]]></description>
+            <link>https://spectator.com/article/leave-frat-boys-alone/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/leave-frat-boys-alone/?edition=us</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 16:53:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Spinoza got right – and wrong]]></title>
             <description><![CDATA[Enlightenment myth]]></description>
@@ -3959,62 +4015,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <guid isPermaLink="true">https://spectator.com/article/the-real-reason-ai-is-so-frightening/?edition=us</guid>
             <dc:creator><![CDATA[Sam Leith]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scott Bessent versus the world]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/scott-bessent-versus-the-world/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/scott-bessent-versus-the-world/?edition=us</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dario Amodei and the apocalypse alchemists]]></title>
-            <description><![CDATA[By Sean Thomas]]></description>
-            <link>https://spectator.com/article/dario-amodei-and-the-ai-apocalypse-alchemists/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/dario-amodei-and-the-ai-apocalypse-alchemists/?edition=us</guid>
-            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 15:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The journey to Assisi, 800 years after St. Francis]]></title>
-            <description><![CDATA[By Jane Stannus]]></description>
-            <link>https://spectator.com/article/the-journey-to-assisi-800-years-after-st-francis/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-journey-to-assisi-800-years-after-st-francis/?edition=us</guid>
-            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 21:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bayeux Tapestry must never be returned to France]]></title>
-            <description><![CDATA[By Sahil Mahtani]]></description>
-            <link>https://spectator.com/article/the-bayeux-tapestry-must-never-be-returned-to-france/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-bayeux-tapestry-must-never-be-returned-to-france/?edition=us</guid>
-            <dc:creator><![CDATA[Sahil Mahtani]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 21:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where is liberalism heading?]]></title>
-            <description><![CDATA[Freedom matters]]></description>
-            <link>https://spectator.com/article/where-is-liberalism-heading/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/where-is-liberalism-heading/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 17:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The journey to Assisi, 800 years after St. Francis]]></title>
-            <description><![CDATA[Pilgrim’s progress]]></description>
-            <link>https://spectator.com/article/the-journey-to-assisi-800-years-after-st-francis/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-journey-to-assisi-800-years-after-st-francis/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 17:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The spellbinding power of the du Maurier family]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-spellbinding-power-of-the-du-maurier-family/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-spellbinding-power-of-the-du-maurier-family/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Frances Wilson]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 17:32:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

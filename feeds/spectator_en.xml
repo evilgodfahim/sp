@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 21:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 01:15:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Oct 2026 21:15:58 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2026 01:15:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How to sleep with 1,000 women]]></title>
+            <description><![CDATA[By Nicholas Farrell]]></description>
+            <link>https://spectator.com/article/how-to-sleep-with-1000-women/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-to-sleep-with-1000-women/</guid>
+            <dc:creator><![CDATA[Nicholas Farrell]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 01:15:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The problem with James Acaster’s showing on the Traitors]]></title>
             <description><![CDATA[By Michael Day]]></description>
@@ -4049,14 +4057,6 @@ Alas, I’m here to report that it is, if not exactly a dog, not quite a wolveri
             <link>https://spectator.com/article/in-praise-of-obamas-podcast/</link>
             <guid isPermaLink="true">https://spectator.com/article/in-praise-of-obamas-podcast/</guid>
             <dc:creator><![CDATA[Daisy Dunn]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 00:36:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How would the popemobile handle Penzance?]]></title>
-            <description><![CDATA[By Tanya Gold]]></description>
-            <link>https://spectator.com/article/how-would-the-popemobile-handle-penzance/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-would-the-popemobile-handle-penzance/</guid>
-            <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
             <pubDate>Thu, 08 Oct 2026 00:36:24 GMT</pubDate>
         </item>
     </channel>

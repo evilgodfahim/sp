@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 08:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 15:37:03 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Nov 2026 08:27:14 GMT</pubDate>
+        <pubDate>Sun, 01 Nov 2026 15:37:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Top of the charts]]></title>
+            <description><![CDATA[By James Gurney]]></description>
+            <link>https://spectator.com/article/top-of-the-charts/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/top-of-the-charts/?edition=us</guid>
+            <dc:creator><![CDATA[James Gurney]]></dc:creator>
+            <pubDate>Sun, 01 Nov 2026 15:37:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Am I the most hated man in liberal America?]]></title>
             <description><![CDATA[By Michael Tracey]]></description>
@@ -4006,14 +4014,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <link>https://spectator.com/article/the-cynical-genius-of-sydney-sweeneys-latest-advert/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-cynical-genius-of-sydney-sweeneys-latest-advert/?edition=us</guid>
             <dc:creator><![CDATA[Paul Burke]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 14:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did demographics decide the Swedish election?]]></title>
-            <description><![CDATA[By Fredrik Karrholm]]></description>
-            <link>https://spectator.com/article/did-demographics-decide-the-swedish-election/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/did-demographics-decide-the-swedish-election/?edition=us</guid>
-            <dc:creator><![CDATA[Fredrik Karrholm]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 14:00:48 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 19:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 23:24:31 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Nov 2026 19:59:27 GMT</pubDate>
+        <pubDate>Sun, 01 Nov 2026 23:24:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tories tool up for economy scrap]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/tories-tool-up-for-economy-scrap/</link>
+            <guid isPermaLink="true">https://spectator.com/article/tories-tool-up-for-economy-scrap/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Sun, 01 Nov 2026 23:24:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why we shouldn’t try to ‘kill’ AI]]></title>
             <description><![CDATA[By Toby Young]]></description>
@@ -4031,14 +4039,6 @@ https://www.youtube.com/watch?]]></description>
             <link>https://spectator.com/article/am-i-a-fashion-icon/?homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/am-i-a-fashion-icon/?homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Prue Leith]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 07:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The best of enemies: three centuries of Anglo-German relations]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/the-best-of-enemies-three-centuries-of-anglo-german-relations/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-best-of-enemies-three-centuries-of-anglo-german-relations/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Katja Hoyer]]></dc:creator>
             <pubDate>Fri, 09 Oct 2026 07:00:14 GMT</pubDate>
         </item>
     </channel>

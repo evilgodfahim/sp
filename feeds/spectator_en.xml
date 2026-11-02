@@ -4,13 +4,93 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 11:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 21:08:09 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Nov 2026 11:51:49 GMT</pubDate>
+        <pubDate>Mon, 02 Nov 2026 21:08:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Andy Burnham’s fatal show of weakness on slavery]]></title>
-            <description><![CDATA[Reparations]]></description>
+            <title><![CDATA[Is Poundland booming or dying?]]></title>
+            <description><![CDATA[By John O’Neill]]></description>
+            <link>https://spectator.com/article/is-poundland-booming-or-dying/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-poundland-booming-or-dying/</guid>
+            <dc:creator><![CDATA[John O’Neill]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 21:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour kickstarts Green council divorce proceedings]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/labour-kickstarts-green-council-divorce-proceedings/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-kickstarts-green-council-divorce-proceedings/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 21:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran is waging war on Britain – and it’s winning]]></title>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <link>https://spectator.com/article/iran-is-waging-war-on-britain-and-its-winning/</link>
+            <guid isPermaLink="true">https://spectator.com/article/iran-is-waging-war-on-britain-and-its-winning/</guid>
+            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 21:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is the BBC so intent on sneering at America?]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/why-is-the-bbc-so-intent-on-sneering-at-america/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-the-bbc-so-intent-on-sneering-at-america/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 21:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should we listen to Tucker Carlson about nuclear war?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/the-midterm-madness-is-only-just-beginning/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-midterm-madness-is-only-just-beginning/</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 21:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berlin is teetering on the edge of political crisis]]></title>
+            <description><![CDATA[Mayoral battle]]></description>
+            <link>https://spectator.com/article/berlin-is-teetering-on-the-edge-of-political-crisis/</link>
+            <guid isPermaLink="true">https://spectator.com/article/berlin-is-teetering-on-the-edge-of-political-crisis/</guid>
+            <dc:creator><![CDATA[Constantin Eckner]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 21:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s time to stop demonising cyclists]]></title>
+            <description><![CDATA[By Chris Boardman]]></description>
+            <link>https://spectator.com/article/its-time-to-stop-demonising-cyclists/</link>
+            <guid isPermaLink="true">https://spectator.com/article/its-time-to-stop-demonising-cyclists/</guid>
+            <dc:creator><![CDATA[Chris Boardman]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 21:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shabana Mahmood wasn’t tough enough]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/mahmood-has-been-swept-away-by-the-boriswave/</link>
+            <guid isPermaLink="true">https://spectator.com/article/mahmood-has-been-swept-away-by-the-boriswave/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 21:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mahmood waters down her migration reforms]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/mahmood-waters-down-her-migration-reforms/</link>
+            <guid isPermaLink="true">https://spectator.com/article/mahmood-waters-down-her-migration-reforms/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 21:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britons barely got a say in ILR shake-up]]></title>
+            <description><![CDATA[Labour]]></description>
+            <link>https://spectator.com/article/britons-barely-got-a-say-in-ilr-shake-up/</link>
+            <guid isPermaLink="true">https://spectator.com/article/britons-barely-got-a-say-in-ilr-shake-up/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 21:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham’s fatal show of weakness on slavery reparations]]></title>
+            <description><![CDATA[By Patrick West]]></description>
             <link>https://spectator.com/article/andy-burnhams-fatal-show-of-weakness/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-fatal-show-of-weakness/</guid>
             <dc:creator><![CDATA[Patrick West]]></dc:creator>
@@ -98,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[Tories tool up for economy scrap]]></title>
-            <description><![CDATA[Tories]]></description>
+            <description><![CDATA[By James Heale]]></description>
             <link>https://spectator.com/article/tories-tool-up-for-economy-scrap/</link>
             <guid isPermaLink="true">https://spectator.com/article/tories-tool-up-for-economy-scrap/</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
@@ -3960,86 +4040,6 @@ https://www.youtube.com/watch?]]></description>
             <guid isPermaLink="true">https://spectator.com/article/email-signatures-are-performative-slop/</guid>
             <dc:creator><![CDATA[Daniel Seifert]]></dc:creator>
             <pubDate>Sat, 10 Oct 2026 10:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham’s concerning links to Abu Dhabi]]></title>
-            <description><![CDATA[By John Connolly]]></description>
-            <link>https://spectator.com/article/andy-burnhams-concerning-links-to-abu-dhabi/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-concerning-links-to-abu-dhabi/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[John Connolly]]></dc:creator>
-            <pubDate>Sat, 10 Oct 2026 10:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Germany’s AfD keeps winning]]></title>
-            <description><![CDATA[State of play]]></description>
-            <link>https://spectator.com/article/why-germanys-afd-keeps-winning/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-germanys-afd-keeps-winning/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Nigel Jones]]></dc:creator>
-            <pubDate>Sat, 10 Oct 2026 10:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bring back the radio licence]]></title>
-            <description><![CDATA[BBC cuts]]></description>
-            <link>https://spectator.com/article/bring-back-the-radio-licence/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/bring-back-the-radio-licence/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Sat, 10 Oct 2026 10:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Islamo-leftism came to Berlin]]></title>
-            <description><![CDATA[By Ed West]]></description>
-            <link>https://spectator.com/article/how-islamo-leftism-came-to-berlin/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-islamo-leftism-came-to-berlin/</guid>
-            <dc:creator><![CDATA[Ed West]]></dc:creator>
-            <pubDate>Sat, 10 Oct 2026 03:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bring back the radio licence]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/bring-back-the-radio-licence/</link>
-            <guid isPermaLink="true">https://spectator.com/article/bring-back-the-radio-licence/</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Sat, 10 Oct 2026 03:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The minor party leaders are in major peril]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/the-minor-party-leaders-are-in-major-peril/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-minor-party-leaders-are-in-major-peril/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 19:55:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: Reform’s new media strategy]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/revealed-reforms-new-media-strategy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/revealed-reforms-new-media-strategy/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 19:55:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live streaming an execution is grotesque]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/live-streaming-an-execution-is-grotesque/</link>
-            <guid isPermaLink="true">https://spectator.com/article/live-streaming-an-execution-is-grotesque/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 19:55:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it time for Jews to flee Berlin again?]]></title>
-            <description><![CDATA[By Leon Mangasarian]]></description>
-            <link>https://spectator.com/article/is-it-time-for-jews-to-flee-berlin-again/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-it-time-for-jews-to-flee-berlin-again/</guid>
-            <dc:creator><![CDATA[Leon Mangasarian]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 14:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zack Polanski’s downfall can’t come soon enough]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
-            <link>https://spectator.com/article/the-downfall-of-zack-polanski-cant-come-soon-enough/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-downfall-of-zack-polanski-cant-come-soon-enough/</guid>
-            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 14:14:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

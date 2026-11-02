@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 03:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 11:51:44 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Nov 2026 03:33:35 GMT</pubDate>
+        <pubDate>Mon, 02 Nov 2026 11:51:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Beware the false electoral prophets]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/beware-the-false-electoral-prophets/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/beware-the-false-electoral-prophets/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 11:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beware the false electoral prophets]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/beware-the-false-electoral-prophets/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/beware-the-false-electoral-prophets/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 11:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Am I the most hated man in liberal America?]]></title>
+            <description><![CDATA[Diary]]></description>
+            <link>https://spectator.com/article/most-hated-man-liberal-america-cornell-michael-tracey/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/most-hated-man-liberal-america-cornell-michael-tracey/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Michael Tracey]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 11:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump has clearly been reading Seneca the Younger]]></title>
+            <description><![CDATA[Ancient and modern]]></description>
+            <link>https://spectator.com/article/trump-has-clearly-been-reading-seneca-the-younger/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/trump-has-clearly-been-reading-seneca-the-younger/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Peter Jones]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 11:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opera’s obsession with the Eastern bloc]]></title>
+            <description><![CDATA[Opera]]></description>
+            <link>https://spectator.com/article/operas-obsession-with-the-eastern-bloc/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/operas-obsession-with-the-eastern-bloc/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 11:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Tucker Carlson right about impending nuclear war?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/the-midterm-madness-is-only-just-beginning/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-midterm-madness-is-only-just-beginning/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 11:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The true lesson of the Suez crisis]]></title>
+            <description><![CDATA[By Ioannes Chountis de Fabbri]]></description>
+            <link>https://spectator.com/article/the-true-lesson-of-the-suez-crisis/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-true-lesson-of-the-suez-crisis/?edition=us</guid>
+            <dc:creator><![CDATA[Ioannes Chountis de Fabbri]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 11:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Court of Thorns and Roses gives reading a bad name]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/a-court-of-thorns-and-roses-gives-reading-a-bad-name/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-court-of-thorns-and-roses-gives-reading-a-bad-name/?edition=us</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 11:51:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The British middle-class race to go private]]></title>
             <description><![CDATA[Top-up Britain]]></description>
@@ -3951,70 +4015,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <guid isPermaLink="true">https://spectator.com/article/brown-furniture-isnt-dead/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 20:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is my high-school classmate releasing an AI-generated novel?]]></title>
-            <description><![CDATA[By Katherine Dee]]></description>
-            <link>https://spectator.com/article/girl-high-school-ai-generated-novel/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/girl-high-school-ai-generated-novel/?edition=us</guid>
-            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 17:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piddington and the idiocy of British middle-class progressivism]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
-            <link>https://spectator.com/article/piddington-and-the-idiocy-of-middle-class-progressivism/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/piddington-and-the-idiocy-of-middle-class-progressivism/?edition=us</guid>
-            <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 17:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump abandoned the Rust Belt]]></title>
-            <description><![CDATA[The NAFTA betrayal]]></description>
-            <link>https://spectator.com/article/how-trump-abandoned-the-rust-belt/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-trump-abandoned-the-rust-belt/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[John R. MacArthur]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 13:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The death of biblical literacy]]></title>
-            <description><![CDATA[By Gwion Wyn Jones]]></description>
-            <link>https://spectator.com/article/the-death-of-biblical-literacy/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-death-of-biblical-literacy/?edition=us</guid>
-            <dc:creator><![CDATA[Gwion Wyn Jones]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 13:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is my high-school classmate releasing an AI-generated novel?]]></title>
-            <description><![CDATA[By Katherine Dee]]></description>
-            <link>https://spectator.com/article/girl-high-school-ai-generated-novel/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/girl-high-school-ai-generated-novel/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 13:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the government deliberately disrupting the prediction markets?]]></title>
-            <description><![CDATA[Side bet]]></description>
-            <link>https://spectator.com/article/is-the-government-deliberately-disrupting-the-prediction-markets/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-government-deliberately-disrupting-the-prediction-markets/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Alex Bronzini-Vender]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 13:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machines are replacing the Chinese working class]]></title>
-            <description><![CDATA[By Jacob Dreyer]]></description>
-            <link>https://spectator.com/article/as-chinas-population-falls-machines-are-replacing-the-working-class/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/as-chinas-population-falls-machines-are-replacing-the-working-class/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Dreyer]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 13:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new age of influence campaigns]]></title>
-            <description><![CDATA[By Allum Bokhari]]></description>
-            <link>https://spectator.com/article/if-social-media-is-the-most-important-battlefield-who-is-winning/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/if-social-media-is-the-most-important-battlefield-who-is-winning/?edition=us</guid>
-            <dc:creator><![CDATA[Allum Bokhari]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 13:54:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

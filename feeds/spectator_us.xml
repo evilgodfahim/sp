@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 03:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 11:29:29 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Nov 2026 03:11:52 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 11:29:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘We think you’re the best’ – the actors’ tribute to Michael Gambon]]></title>
+            <description><![CDATA[By Oliver Soden]]></description>
+            <link>https://spectator.com/article/we-think-youre-the-best-the-actors-tribute-to-michael-gambon/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-think-youre-the-best-the-actors-tribute-to-michael-gambon/?edition=us</guid>
+            <dc:creator><![CDATA[Oliver Soden]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 11:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Am I the most hated man in liberal America?]]></title>
+            <description><![CDATA[Diary]]></description>
+            <link>https://spectator.com/article/most-hated-man-liberal-america-cornell-michael-tracey/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/most-hated-man-liberal-america-cornell-michael-tracey/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Michael Tracey]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 11:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are there suddenly so many dessert cafés in London?]]></title>
+            <description><![CDATA[Sugar rush]]></description>
+            <link>https://spectator.com/article/why-are-there-suddenly-so-many-dessert-cafes-in-london/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-are-there-suddenly-so-many-dessert-cafes-in-london/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Angus Colwell]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 11:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe’s right turn is inevitable]]></title>
+            <description><![CDATA[By Daniel McCarthy]]></description>
+            <link>https://spectator.com/article/europe-right-turn-inevitable/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/europe-right-turn-inevitable/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 11:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘We think you’re the best’ – the actors’ tribute to Michael Gambon]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/we-think-youre-the-best-the-actors-tribute-to-michael-gambon/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/we-think-youre-the-best-the-actors-tribute-to-michael-gambon/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Oliver Soden]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 11:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The French economy is in a terrible state]]></title>
+            <description><![CDATA[By John Keiger]]></description>
+            <link>https://spectator.com/article/the-french-economy-is-in-a-terrible-state/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-french-economy-is-in-a-terrible-state/?edition=us</guid>
+            <dc:creator><![CDATA[John Keiger]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 11:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How politics became Jerry Springer]]></title>
+            <description><![CDATA[By Blake Neff]]></description>
+            <link>https://spectator.com/article/politics-became-jerry-springer/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/politics-became-jerry-springer/?edition=us</guid>
+            <dc:creator><![CDATA[Blake Neff]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 11:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[And my final prediction for the midterms is…]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/and-my-final-prediction-for-the-midterms-is/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/and-my-final-prediction-for-the-midterms-is/?edition=us</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 11:29:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Farm Stand Test]]></title>
             <description><![CDATA[By Joseph Bottum]]></description>
@@ -3951,70 +4015,6 @@ First, it emerged that Donald Trump Jr. had his wedding paid for by Umar Kremlev
             <guid isPermaLink="true">https://spectator.com/article/ed-sheeran-has-done-nothing-wrong/?edition=us</guid>
             <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
             <pubDate>Thu, 17 Sep 2026 17:56:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to maintain the equestrian aesthetic]]></title>
-            <description><![CDATA[By Gage Klipper]]></description>
-            <link>https://spectator.com/article/how-to-maintain-the-equestrian-aesthetic/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-maintain-the-equestrian-aesthetic/?edition=us</guid>
-            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 13:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Renoir was a master – let no one tell you otherwise]]></title>
-            <description><![CDATA[By Robin Simon]]></description>
-            <link>https://spectator.com/article/renoir-was-a-master-let-no-one-tell-you-otherwise/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/renoir-was-a-master-let-no-one-tell-you-otherwise/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Robin Simon]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 13:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to maintain the equestrian aesthetic]]></title>
-            <description><![CDATA[Country life]]></description>
-            <link>https://spectator.com/article/how-to-maintain-the-equestrian-aesthetic/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-maintain-the-equestrian-aesthetic/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 13:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new age of influence campaigns]]></title>
-            <description><![CDATA[Under the influence]]></description>
-            <link>https://spectator.com/article/if-social-media-is-the-most-important-battlefield-who-is-winning/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/if-social-media-is-the-most-important-battlefield-who-is-winning/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Allum Bokhari]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 13:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The journey to Assisi, 800 years after St. Francis]]></title>
-            <description><![CDATA[Pilgrim’s progress]]></description>
-            <link>https://spectator.com/article/the-journey-to-assisi-800-years-after-st-francis/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-journey-to-assisi-800-years-after-st-francis/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Jane Stannus]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 13:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who’s afraid of AI?]]></title>
-            <description><![CDATA[By Roger Kimball]]></description>
-            <link>https://spectator.com/article/whos-afraid-of-ai/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/whos-afraid-of-ai/?edition=us</guid>
-            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 13:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s economic fantasies]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trumps-economic-fantasies/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trumps-economic-fantasies/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 13:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Effective Altruists are already in control]]></title>
-            <description><![CDATA[By Travis Aaroe]]></description>
-            <link>https://spectator.com/article/the-effective-altruists-are-already-in-control/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-effective-altruists-are-already-in-control/?edition=us</guid>
-            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 13:58:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

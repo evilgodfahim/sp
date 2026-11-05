@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 08:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 16:57:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 08:45:55 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2026 16:57:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Britain has become a chancer’s paradise]]></title>
+            <description><![CDATA[Yookay]]></description>
+            <link>https://spectator.com/article/britain-has-become-a-chancers-paradise/?homepage-tracking=magazine-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/britain-has-become-a-chancers-paradise/?homepage-tracking=magazine-article-1</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 16:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russell Brand didn’t even have to hide in plain sight]]></title>
+            <description><![CDATA[By John Sturgis]]></description>
+            <link>https://spectator.com/article/russell-brand-didnt-even-have-to-hide-in-plain-sight/</link>
+            <guid isPermaLink="true">https://spectator.com/article/russell-brand-didnt-even-have-to-hide-in-plain-sight/</guid>
+            <dc:creator><![CDATA[John Sturgis]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 16:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bank of England is taking inflation seriously again]]></title>
+            <description><![CDATA[By Michael Simmons]]></description>
+            <link>https://spectator.com/article/the-bank-of-england-is-taking-inflation-seriously-again/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-bank-of-england-is-taking-inflation-seriously-again/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 16:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Europe prepared for more bomb threats and cyber attacks?]]></title>
+            <description><![CDATA[By Jonathan Sacerdoti]]></description>
+            <link>https://spectator.com/article/is-europe-prepared-for-more-bomb-threats-and-cyber-attacks/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-europe-prepared-for-more-bomb-threats-and-cyber-attacks/</guid>
+            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 16:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Trump punish Europe for his midterm losses?]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/will-trump-to-try-to-force-his-legacy-on-europe/</link>
+            <guid isPermaLink="true">https://spectator.com/article/will-trump-to-try-to-force-his-legacy-on-europe/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 16:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why won’t the left condemn the violence of Palestine Action?]]></title>
+            <description><![CDATA[By Nick Cohen]]></description>
+            <link>https://spectator.com/article/why-wont-the-left-condemn-the-violence-of-palestine-action/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-wont-the-left-condemn-the-violence-of-palestine-action/</guid>
+            <dc:creator><![CDATA[Nick Cohen]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 16:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool Council’s taxpayer-funded ‘racial trauma’ staff counselling]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/liverpool-councils-taxpayer-funded-racial-trauma-staff-counselling/</link>
+            <guid isPermaLink="true">https://spectator.com/article/liverpool-councils-taxpayer-funded-racial-trauma-staff-counselling/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 16:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The welcome downfall of Russell Brand]]></title>
+            <description><![CDATA[The reckoning]]></description>
+            <link>https://spectator.com/article/the-welcome-downfall-of-russell-brand/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-welcome-downfall-of-russell-brand/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 16:57:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[For the first time ever, I voted Republican]]></title>
             <description><![CDATA[By Lionel Shriver]]></description>
@@ -25,7 +89,7 @@
             <pubDate>Thu, 05 Nov 2026 08:45:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grand Theft Crypto]]></title>
+            <title><![CDATA[The rise of crypto kidnappings]]></title>
             <description><![CDATA[By Sam McPhail]]></description>
             <link>https://spectator.com/article/grand-theft-crypto/</link>
             <guid isPermaLink="true">https://spectator.com/article/grand-theft-crypto/</guid>
@@ -134,7 +198,7 @@
         </item>
         <item>
             <title><![CDATA[Britain has become a chancer’s paradise]]></title>
-            <description><![CDATA[Yookay]]></description>
+            <description><![CDATA[By Madeline Grant]]></description>
             <link>https://spectator.com/article/britain-has-become-a-chancers-paradise/</link>
             <guid isPermaLink="true">https://spectator.com/article/britain-has-become-a-chancers-paradise/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
@@ -174,7 +238,7 @@
         </item>
         <item>
             <title><![CDATA[Will Trump and Netanyahu launch another round of strikes on Iran?]]></title>
-            <description><![CDATA[By Tim Shipman]]></description>
+            <description><![CDATA[Aftermath]]></description>
             <link>https://spectator.com/article/will-trump-and-netanyahu-launch-another-round-of-strikes-on-iran/</link>
             <guid isPermaLink="true">https://spectator.com/article/will-trump-and-netanyahu-launch-another-round-of-strikes-on-iran/</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
@@ -3984,70 +4048,6 @@ https://www.youtube.com/watch?]]></description>
             <guid isPermaLink="true">https://spectator.com/article/wfh-has-turned-the-public-sector-into-an-economic-deadweight/</guid>
             <dc:creator><![CDATA[Ross Clark]]></dc:creator>
             <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s Man City meetings mount up]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/burnhams-man-city-meetings-mount-up/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnhams-man-city-meetings-mount-up/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunak rakes in the speaking circuit cash]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/sunak-rakes-it-in-on-speaking-circuit/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sunak-rakes-it-in-on-speaking-circuit/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham isn’t as tedious as Starmer. But he’s getting there]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/burnham-isnt-as-tedious-as-starmer-but-hes-getting-there/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burnham-isnt-as-tedious-as-starmer-but-hes-getting-there/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the Traitors racist?]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/is-the-traitors-racist/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-traitors-racist/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Burnham insists he won’t ‘cooperate’ with Greens – for now]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-bunrham-insists-labour-wont-cooperate-with-greens-for-now/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-bunrham-insists-labour-wont-cooperate-with-greens-for-now/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 14:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Azerbaijan’s hijab ban has infuriated Turkey]]></title>
-            <description><![CDATA[Spat]]></description>
-            <link>https://spectator.com/article/will-azerbaijans-hijab-ban-drive-a-permanent-wedge-with-turkey/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-azerbaijans-hijab-ban-drive-a-permanent-wedge-with-turkey/</guid>
-            <dc:creator><![CDATA[Daniel Thorpe]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 14:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can we trust the National Trust to keep Rules safe?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/can-we-trust-the-national-trust-to-keep-rules-safe/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-we-trust-the-national-trust-to-keep-rules-safe/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 14:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An online tax crackdown is a mistake]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/cracking-down-on-online-taxes-would-be-a-big-risk-for-john-healey/</link>
-            <guid isPermaLink="true">https://spectator.com/article/cracking-down-on-online-taxes-would-be-a-big-risk-for-john-healey/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 14:13:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

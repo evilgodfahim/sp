@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 16:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 22:31:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 16:57:58 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2026 22:31:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reform’s fightback has begun]]></title>
+            <description><![CDATA[By Noa Hoffman]]></description>
+            <link>https://spectator.com/article/reforms-fightback-has-begun/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reforms-fightback-has-begun/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 22:31:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Britain afford to take its supermarket fridges offline?]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/can-britain-afford-to-take-its-supermarket-fridges-offline/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-britain-afford-to-take-its-supermarket-fridges-offline/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 22:31:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Britain has become a chancer’s paradise]]></title>
             <description><![CDATA[Yookay]]></description>
@@ -4032,22 +4048,6 @@ https://www.youtube.com/watch?]]></description>
             <guid isPermaLink="true">https://spectator.com/article/does-andy-burnham-actually-have-a-foreign-policy/</guid>
             <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 01:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cormac McCarthy has an important lesson for today’s statesman]]></title>
-            <description><![CDATA[By Mark McVitie]]></description>
-            <link>https://spectator.com/article/cormac-mccarthy-has-an-important-lesson-for-todays-statesman/</link>
-            <guid isPermaLink="true">https://spectator.com/article/cormac-mccarthy-has-an-important-lesson-for-todays-statesman/</guid>
-            <dc:creator><![CDATA[Mark McVitie]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 01:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WFH has turned the public sector into an economic deadweight]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/wfh-has-turned-the-public-sector-into-an-economic-deadweight/</link>
-            <guid isPermaLink="true">https://spectator.com/article/wfh-has-turned-the-public-sector-into-an-economic-deadweight/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 19:05:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

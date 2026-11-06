@@ -4,10 +4,90 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 10:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 17:45:13 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 10:25:26 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Are your old Pokémon cards worth millions?]]></title>
+            <description><![CDATA[By Gus Carter]]></description>
+            <link>https://spectator.com/article/pokemon-became-big-business/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/pokemon-became-big-business/?edition=us</guid>
+            <dc:creator><![CDATA[Gus Carter]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russell Brand didn’t even have to hide in plain sight]]></title>
+            <description><![CDATA[By John Sturgis]]></description>
+            <link>https://spectator.com/article/russell-brand-didnt-even-have-to-hide-in-plain-sight/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/russell-brand-didnt-even-have-to-hide-in-plain-sight/?edition=us</guid>
+            <dc:creator><![CDATA[John Sturgis]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are your old Pokémon cards worth millions?]]></title>
+            <description><![CDATA[By Gus Carter]]></description>
+            <link>https://spectator.com/article/pokemon-became-big-business/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/pokemon-became-big-business/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Gus Carter]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good wine comes from struggle]]></title>
+            <description><![CDATA[In vino veritas]]></description>
+            <link>https://spectator.com/article/good-wine-struggle-earl-rochester/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/good-wine-struggle-earl-rochester/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We no longer know how to party]]></title>
+            <description><![CDATA[DC life]]></description>
+            <link>https://spectator.com/article/no-longer-know-party/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/no-longer-know-party/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Kelly Chapman]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After Trump, the deluge]]></title>
+            <description><![CDATA[US Politics]]></description>
+            <link>https://spectator.com/article/donald-trumps-leadership-has-become-a-colossal-wreck/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/donald-trumps-leadership-has-become-a-colossal-wreck/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My midterms road trip]]></title>
+            <description><![CDATA[By Harry Cole]]></description>
+            <link>https://spectator.com/article/what-the-british-right-can-learn-from-the-midterms/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-the-british-right-can-learn-from-the-midterms/?edition=us</guid>
+            <dc:creator><![CDATA[Harry Cole]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The era of ‘Life after Trump’ has dawned]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/the-era-of-life-after-trump-has-dawned/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-era-of-life-after-trump-has-dawned/?edition=us</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Rubio looking for a new job?]]></title>
+            <description><![CDATA[By Freddy Gray]]></description>
+            <link>https://spectator.com/article/is-rubio-looking-for-a-new-job/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-rubio-looking-for-a-new-job/?edition=us</guid>
+            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What will the Democratic majority do?]]></title>
+            <description><![CDATA[By Peter Wood]]></description>
+            <link>https://spectator.com/article/what-will-the-democrats-do-with-their-majorities/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/what-will-the-democrats-do-with-their-majorities/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Wood]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 17:45:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will Trump and Netanyahu launch another round of strikes on Iran?]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -3935,86 +4015,6 @@ However, as some readers might remember, when it came to her own school choice M
             <guid isPermaLink="true">https://spectator.com/article/dawn-party/?edition=us</guid>
             <dc:creator><![CDATA[Mario Naves]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 05:38:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I can’t stand Stanley Tucci]]></title>
-            <description><![CDATA[By Julie Bindel]]></description>
-            <link>https://spectator.com/article/i-cant-stand-stanley-tucci-2/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/i-cant-stand-stanley-tucci-2/?edition=us</guid>
-            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Earl Spencer telling the truth about Charles III?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/is-charles-spencer-telling-the-truth-about-the-king/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-charles-spencer-telling-the-truth-about-the-king/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 17:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin’s miserable election rigging]]></title>
-            <description><![CDATA[By Mark Galeotti]]></description>
-            <link>https://spectator.com/article/putins-miserable-election-rigging/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/putins-miserable-election-rigging/?edition=us</guid>
-            <dc:creator><![CDATA[Mark Galeotti]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 17:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nikole Hannah-Jones and the hard bigotry of progressives]]></title>
-            <description><![CDATA[By Ryan Girdusky]]></description>
-            <link>https://spectator.com/article/nikole-hannah-jones-and-the-hard-bigotry-of-progressives/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/nikole-hannah-jones-and-the-hard-bigotry-of-progressives/?edition=us</guid>
-            <dc:creator><![CDATA[Ryan Girdusky]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 17:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the White House fell for the ‘Living Diet’]]></title>
-            <description><![CDATA[By Charles Cornish-Dale]]></description>
-            <link>https://spectator.com/article/how-the-white-house-fell-for-the-living-diet/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-the-white-house-fell-for-the-living-diet/?edition=us</guid>
-            <dc:creator><![CDATA[Charles Cornish-Dale]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The autistocracy: the men on the spectrum who rule our world]]></title>
-            <description><![CDATA[AI]]></description>
-            <link>https://spectator.com/article/the-autistocracy-the-men-on-the-spectrum-who-rule-our-world/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-autistocracy-the-men-on-the-spectrum-who-rule-our-world/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Charles Steel]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beware of billionaires touting the apocalypse]]></title>
-            <description><![CDATA[The Cassandra complex]]></description>
-            <link>https://spectator.com/article/beware-of-billionaires-touting-the-apocalypse/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/beware-of-billionaires-touting-the-apocalypse/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the adult toddlers who play with toys]]></title>
-            <description><![CDATA[By Josh Sims]]></description>
-            <link>https://spectator.com/article/meet-the-overgrown-toddlers-who-play-with-toys/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/meet-the-overgrown-toddlers-who-play-with-toys/?edition=us</guid>
-            <dc:creator><![CDATA[Josh Sims]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the White House fell for the ‘Living Diet’]]></title>
-            <description><![CDATA[By Charles Cornish-Dale]]></description>
-            <link>https://spectator.com/article/how-the-white-house-fell-for-the-living-diet/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-the-white-house-fell-for-the-living-diet/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Charles Cornish-Dale]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s second term has put his legacy in grave peril]]></title>
-            <description><![CDATA[Decline and fall]]></description>
-            <link>https://spectator.com/article/trump-second-term-put-legacy-grave-peril/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-second-term-put-legacy-grave-peril/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 11:30:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

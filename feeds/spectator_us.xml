@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 09:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 15:58:51 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Nov 2026 09:26:25 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 15:58:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Eating my way around NYC like AOC]]></title>
+            <description><![CDATA[By Gage Klipper]]></description>
+            <link>https://spectator.com/article/eating-way-around-nyc-like-aoc/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/eating-way-around-nyc-like-aoc/?edition=us</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 15:58:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why LIV died]]></title>
             <description><![CDATA[By Mike Jakeman]]></description>
@@ -4006,14 +4014,6 @@ However, as some readers might remember, when it came to her own school choice M
             <link>https://spectator.com/article/first-among-equals-what-makes-a-great-leader-and-does-it-matter/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/first-among-equals-what-makes-a-great-leader-and-does-it-matter/?edition=us</guid>
             <dc:creator><![CDATA[Lionel Barber]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 10:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The delights of not running a newspaper]]></title>
-            <description><![CDATA[By Conrad Black]]></description>
-            <link>https://spectator.com/article/the-delights-of-not-running-a-newspaper/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-delights-of-not-running-a-newspaper/?edition=us</guid>
-            <dc:creator><![CDATA[Conrad Black]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 10:37:44 GMT</pubDate>
         </item>
     </channel>

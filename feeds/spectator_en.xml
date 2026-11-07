@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 09:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 15:58:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Nov 2026 09:26:31 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 15:58:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rejoice! The Telegraph is saved]]></title>
+            <description><![CDATA[By Jim Grenville]]></description>
+            <link>https://spectator.com/article/rejoice-the-telegraph-is-saved/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/rejoice-the-telegraph-is-saved/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Jim Grenville]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 15:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Clockwork Orange France]]></title>
+            <description><![CDATA[By John Keiger]]></description>
+            <link>https://spectator.com/article/welcome-to-clockwork-orange-france/</link>
+            <guid isPermaLink="true">https://spectator.com/article/welcome-to-clockwork-orange-france/</guid>
+            <dc:creator><![CDATA[John Keiger]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 15:58:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Proportional Representation is bad for Jews and bad for Britain]]></title>
             <description><![CDATA[Balance of power]]></description>
@@ -4019,22 +4035,6 @@ During the weekend’s street protests, the fires provided cover for rioters bre
             <guid isPermaLink="true">https://spectator.com/article/watch-burnham-scrambles-as-man-city-meetings-pile-up/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[St Andrews rector race turns into Monty Python sketch]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/st-andrews-rector-race-turns-into-monty-python-sketch/</link>
-            <guid isPermaLink="true">https://spectator.com/article/st-andrews-rector-race-turns-into-monty-python-sketch/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are people surprised when animals defend themselves?]]></title>
-            <description><![CDATA[By William Atkinson]]></description>
-            <link>https://spectator.com/article/why-are-people-surprised-when-animals-defend-themselves/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-are-people-surprised-when-animals-defend-themselves/</guid>
-            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 12:19:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

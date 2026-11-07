@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 15:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 19:55:34 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Nov 2026 15:58:57 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 19:55:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rejoice! The Telegraph is saved]]></title>
+            <description><![CDATA[By Jim Grenville]]></description>
+            <link>https://spectator.com/article/rejoice-the-telegraph-is-saved/</link>
+            <guid isPermaLink="true">https://spectator.com/article/rejoice-the-telegraph-is-saved/</guid>
+            <dc:creator><![CDATA[Jim Grenville]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 19:55:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rejoice! The Telegraph is saved]]></title>
             <description><![CDATA[By Jim Grenville]]></description>
@@ -4026,14 +4034,6 @@ During the weekend’s street protests, the fires provided cover for rioters bre
             <link>https://spectator.com/article/is-london-at-peak-bedbug/</link>
             <guid isPermaLink="true">https://spectator.com/article/is-london-at-peak-bedbug/</guid>
             <dc:creator><![CDATA[John O’Neill]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Burnham scrambles as Man City meetings pile up]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/watch-burnham-scrambles-as-man-city-meetings-pile-up/</link>
-            <guid isPermaLink="true">https://spectator.com/article/watch-burnham-scrambles-as-man-city-meetings-pile-up/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 17:30:36 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 10:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 16:52:10 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 10:55:21 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 16:52:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Farage’s Remembrance film points to his hinterland]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/farages-remembrance-film-points-to-his-hinterland/</link>
+            <guid isPermaLink="true">https://spectator.com/article/farages-remembrance-film-points-to-his-hinterland/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 16:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keir Starmer is wrong to think Nato is unsalvageable]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/keir-starmer-is-wrong-to-think-nato-is-unsalvageable/</link>
+            <guid isPermaLink="true">https://spectator.com/article/keir-starmer-is-wrong-to-think-nato-is-unsalvageable/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 16:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Get on board or get out’: Joy Morrissey on Kemi Badenoch’s new Tories]]></title>
+            <description><![CDATA[Ode to joy]]></description>
+            <link>https://spectator.com/article/get-on-board-or-get-out-joy-morrissey-on-kemi-badenochs-new-tories/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/get-on-board-or-get-out-joy-morrissey-on-kemi-badenochs-new-tories/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 16:52:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nurses do not need degrees]]></title>
             <description><![CDATA[By Druin Burch]]></description>
@@ -4011,30 +4035,6 @@ During the weekend’s street protests, the fires provided cover for rioters bre
             <guid isPermaLink="true">https://spectator.com/article/jenrick-leaves-bbc-squirming-over-paedophile-scandals/</guid>
             <dc:creator><![CDATA[Steerpike]]></dc:creator>
             <pubDate>Fri, 16 Oct 2026 12:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Good riddance to Sally Rooney]]></title>
-            <description><![CDATA[By Alys Denby]]></description>
-            <link>https://spectator.com/article/good-riddance-to-sally-rooney/</link>
-            <guid isPermaLink="true">https://spectator.com/article/good-riddance-to-sally-rooney/</guid>
-            <dc:creator><![CDATA[Alys Denby]]></dc:creator>
-            <pubDate>Fri, 16 Oct 2026 07:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We cannot trust our AI overlords]]></title>
-            <description><![CDATA[By Louis Sarkozy]]></description>
-            <link>https://spectator.com/article/we-cannot-trust-our-ai-overlords/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/we-cannot-trust-our-ai-overlords/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Louis Sarkozy]]></dc:creator>
-            <pubDate>Fri, 16 Oct 2026 07:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Andy Burnham actually have a foreign policy?]]></title>
-            <description><![CDATA[Foot-in-mouth syndrome]]></description>
-            <link>https://spectator.com/article/does-andy-burnham-actually-have-a-foreign-policy/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-andy-burnham-actually-have-a-foreign-policy/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
-            <pubDate>Fri, 16 Oct 2026 07:42:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 10:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 16:52:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 10:55:16 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 16:52:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The message behind the US pavilion at the Venice Biennale]]></title>
+            <description><![CDATA[By James Panero]]></description>
+            <link>https://spectator.com/article/message-behind-us-pavilion-venice-biennale/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/message-behind-us-pavilion-venice-biennale/?edition=us</guid>
+            <dc:creator><![CDATA[James Panero]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 16:52:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope Leo vs the Donroe Doctrine]]></title>
+            <description><![CDATA[By Damian Thompson]]></description>
+            <link>https://spectator.com/article/pope-leo-vs-donroe-doctrine/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/pope-leo-vs-donroe-doctrine/?edition=us</guid>
+            <dc:creator><![CDATA[Damian Thompson]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 16:52:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What if the internet stopped?]]></title>
             <description><![CDATA[By Katherine Dee]]></description>
@@ -3998,22 +4014,6 @@ However, as some readers might remember, when it came to her own school choice M
             <link>https://spectator.com/article/in-iran-america-is-being-sucked-deeper-into-an-unwinnable-war/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/in-iran-america-is-being-sucked-deeper-into-an-unwinnable-war/?edition=us</guid>
             <dc:creator><![CDATA[Tom Switzer]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 10:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grand Tour is the perfect TV to pass out to]]></title>
-            <description><![CDATA[By James Delingpole]]></description>
-            <link>https://spectator.com/article/the-grand-tour-is-the-perfect-tv-to-pass-out-to/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-grand-tour-is-the-perfect-tv-to-pass-out-to/?edition=us</guid>
-            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 10:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wonder of the Bayeux Tapestry]]></title>
-            <description><![CDATA[By Alex Burghart]]></description>
-            <link>https://spectator.com/article/the-wonder-of-the-bayeux-tapestry/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wonder-of-the-bayeux-tapestry/?edition=us</guid>
-            <dc:creator><![CDATA[Alex Burghart]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 10:37:44 GMT</pubDate>
         </item>
     </channel>

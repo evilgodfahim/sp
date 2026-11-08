@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 16:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 20:54:00 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 16:52:04 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 20:54:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Eating my way around NYC like AOC]]></title>
+            <description><![CDATA[Democratic tastes]]></description>
+            <link>https://spectator.com/article/eating-way-around-nyc-like-aoc/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/eating-way-around-nyc-like-aoc/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 20:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beware left-wing fake news]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/beware-left-wing-fake-news/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/beware-left-wing-fake-news/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 20:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Even Shakespeare was a slow starter]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/even-shakespeare-was-a-slow-starter/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/even-shakespeare-was-a-slow-starter/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Daniel Swift]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 20:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What if the internet stopped?]]></title>
+            <description><![CDATA[Should we go back to the 1980s?]]></description>
+            <link>https://spectator.com/article/internet-stopped-take-back-1982/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/internet-stopped-take-back-1982/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 20:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The message behind the US pavilion at the Venice Biennale]]></title>
             <description><![CDATA[By James Panero]]></description>
@@ -3983,38 +4015,6 @@ However, as some readers might remember, when it came to her own school choice M
             <guid isPermaLink="true">https://spectator.com/article/could-there-be-a-second-ceuta-invasion/?edition=us</guid>
             <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 19:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s UN speech was a blasé affair]]></title>
-            <description><![CDATA[By Jacob Heilbrunn]]></description>
-            <link>https://spectator.com/article/trump-un-speech-listless-affair/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-un-speech-listless-affair/?edition=us</guid>
-            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 19:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI is turning the world into slop]]></title>
-            <description><![CDATA[By Kristina ﻿Murkett]]></description>
-            <link>https://spectator.com/article/ai-is-turning-the-world-into-slop/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ai-is-turning-the-world-into-slop/?edition=us</guid>
-            <dc:creator><![CDATA[Kristina ﻿Murkett]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 19:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hobbit is not a great book]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/the-hobbit-is-not-a-great-book/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-hobbit-is-not-a-great-book/?edition=us</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 15:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Iran, America is being sucked deeper into an unwinnable war]]></title>
-            <description><![CDATA[By Tom Switzer]]></description>
-            <link>https://spectator.com/article/in-iran-america-is-being-sucked-deeper-into-an-unwinnable-war/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-iran-america-is-being-sucked-deeper-into-an-unwinnable-war/?edition=us</guid>
-            <dc:creator><![CDATA[Tom Switzer]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 10:37:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

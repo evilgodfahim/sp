@@ -4,12 +4,92 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 08:59:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 16:50:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Nov 2026 08:59:29 GMT</pubDate>
+        <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The grossness of Russell Brand]]></title>
+            <title><![CDATA[Why Nvidia should cut Jensen Huang loose]]></title>
+            <description><![CDATA[By Jawad Iqbal]]></description>
+            <link>https://spectator.com/article/why-nvidia-should-cut-jensen-huang-loose/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-nvidia-should-cut-jensen-huang-loose/</guid>
+            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Walliams accused of preying on teenage girls]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/david-walliams-accused-of-preying-on-teenage-girls/</link>
+            <guid isPermaLink="true">https://spectator.com/article/david-walliams-accused-of-preying-on-teenage-girls/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham is learning how difficult doctors can be]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/andy-burnham-is-learning-how-difficult-doctors-can-be/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-learning-how-difficult-doctors-can-be/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Only in the civil service could this fraudster have held down five jobs]]></title>
+            <description><![CDATA[By Stephen Pollard]]></description>
+            <link>https://spectator.com/article/only-in-the-civil-service-could-this-fraudster-have-held-down-five-jobs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/only-in-the-civil-service-could-this-fraudster-have-held-down-five-jobs/</guid>
+            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Powell defends Brand and Miliband’s chinwag]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/lucy-powell-scrambles-to-defend-brand-and-millibands-chinwag/</link>
+            <guid isPermaLink="true">https://spectator.com/article/lucy-powell-scrambles-to-defend-brand-and-millibands-chinwag/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The downfall of David Walliams]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/this-downfall-of-david-walliams/</link>
+            <guid isPermaLink="true">https://spectator.com/article/this-downfall-of-david-walliams/</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch pledges to crack down on welfare]]></title>
+            <description><![CDATA[Politics]]></description>
+            <link>https://spectator.com/article/badenoch-pledges-to-crack-down-on-welfare/</link>
+            <guid isPermaLink="true">https://spectator.com/article/badenoch-pledges-to-crack-down-on-welfare/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rank hypocrisy of Russell Brand’s left-wing defenders]]></title>
+            <description><![CDATA[Enabling]]></description>
+            <link>https://spectator.com/article/the-rank-hypocrisy-of-russell-brands-left-wing-defenders/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-rank-hypocrisy-of-russell-brands-left-wing-defenders/</guid>
+            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia might have cheated. Who could have guessed?]]></title>
+            <description><![CDATA[Sandpapergate]]></description>
+            <link>https://spectator.com/article/australia-might-have-cheated-who-could-have-guessed/</link>
+            <guid isPermaLink="true">https://spectator.com/article/australia-might-have-cheated-who-could-have-guessed/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour suspends David Walliams]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/labour-suspends-david-walliams/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-suspends-david-walliams/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 16:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People loved Russell Brand because he was so vile]]></title>
             <description><![CDATA[By Max Jeffery]]></description>
             <link>https://spectator.com/article/the-grossness-of-russell-brand/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-grossness-of-russell-brand/</guid>
@@ -34,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[The new porn laws are bonkers]]></title>
-            <description><![CDATA[Fifty Shades of censorship]]></description>
+            <description><![CDATA[By Sean Thomas]]></description>
             <link>https://spectator.com/article/the-new-porn-laws-are-bonkers/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-new-porn-laws-are-bonkers/</guid>
             <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
@@ -90,7 +170,7 @@
         </item>
         <item>
             <title><![CDATA[Why is Labour funnelling money to Bylines Networks?]]></title>
-            <description><![CDATA[By Andrew Gilligan]]></description>
+            <description><![CDATA[Trusted news?]]></description>
             <link>https://spectator.com/article/why-is-labour-funnelling-money-to-bylines-networks/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-is-labour-funnelling-money-to-bylines-networks/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -146,7 +226,7 @@
         </item>
         <item>
             <title><![CDATA[Green activist brands war veterans ‘agents of imperial terror’]]></title>
-            <description><![CDATA[Remembrance Day]]></description>
+            <description><![CDATA[By Noa Hoffman]]></description>
             <link>https://spectator.com/article/green-activist-brands-war-veterans-agents-of-imperial-terror/</link>
             <guid isPermaLink="true">https://spectator.com/article/green-activist-brands-war-veterans-agents-of-imperial-terror/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
@@ -3955,86 +4035,6 @@ During the weekend’s street protests, the fires provided cover for rioters bre
             <guid isPermaLink="true">https://spectator.com/article/why-was-mohammed-yaseen-treated-better-than-our-sas/</guid>
             <dc:creator><![CDATA[David Shipley]]></dc:creator>
             <pubDate>Mon, 19 Oct 2026 11:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chris Bryant throws a work-shy strop over NEETs question]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/chris-bryant-throws-a-work-shy-strop-over-neets-question/</link>
-            <guid isPermaLink="true">https://spectator.com/article/chris-bryant-throws-a-work-shy-strop-over-neets-question/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 11:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jonathan Powell’s wife has defended Hamas]]></title>
-            <description><![CDATA[Revealed]]></description>
-            <link>https://spectator.com/article/revealed-jonathan-powells-wife-has-defended-hamas/</link>
-            <guid isPermaLink="true">https://spectator.com/article/revealed-jonathan-powells-wife-has-defended-hamas/</guid>
-            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 11:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain has forgotten how to eat fish]]></title>
-            <description><![CDATA[By Zoe Strimpel]]></description>
-            <link>https://spectator.com/article/the-british-have-forgotten-how-to-eat-fish/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-british-have-forgotten-how-to-eat-fish/</guid>
-            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 05:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nights out are dying out]]></title>
-            <description><![CDATA[By Matthew Bowles]]></description>
-            <link>https://spectator.com/article/nights-out-are-dying-out/</link>
-            <guid isPermaLink="true">https://spectator.com/article/nights-out-are-dying-out/</guid>
-            <dc:creator><![CDATA[Matthew Bowles]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 05:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long live the Prince Charles Cinema!]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/long-live-the-prince-charles-cinema/</link>
-            <guid isPermaLink="true">https://spectator.com/article/long-live-the-prince-charles-cinema/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 05:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The utter absurdity of the Sally Rooney affair]]></title>
-            <description><![CDATA[Free speech]]></description>
-            <link>https://spectator.com/article/the-utter-absurdity-of-the-sally-rooney-affair/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-utter-absurdity-of-the-sally-rooney-affair/</guid>
-            <dc:creator><![CDATA[Sam Leith]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 05:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barbarism cannot triumph in France]]></title>
-            <description><![CDATA[By Druin Burch]]></description>
-            <link>https://spectator.com/article/barbarism-cannot-triumph-in-france/</link>
-            <guid isPermaLink="true">https://spectator.com/article/barbarism-cannot-triumph-in-france/</guid>
-            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 05:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Britain can’t get anything done]]></title>
-            <description><![CDATA[A mighty funk]]></description>
-            <link>https://spectator.com/article/why-britain-cant-get-anything-done/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-britain-cant-get-anything-done/</guid>
-            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 05:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI is blowing apart the case for net zero]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/ai-is-blowing-apart-the-case-for-net-zero/</link>
-            <guid isPermaLink="true">https://spectator.com/article/ai-is-blowing-apart-the-case-for-net-zero/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 05:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are Andy Burnham’s loose lips becoming a problem?]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/are-andy-burnhams-loose-lips-becoming-a-problem/</link>
-            <guid isPermaLink="true">https://spectator.com/article/are-andy-burnhams-loose-lips-becoming-a-problem/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 16:14:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

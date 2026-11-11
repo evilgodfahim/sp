@@ -4,10 +4,98 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Nov 2026 02:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 10:03:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Nov 2026 02:25:00 GMT</pubDate>
+        <pubDate>Wed, 11 Nov 2026 10:03:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Britain still safe for America’s armed forces?]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/is-britain-still-safe-for-americas-armed-forces/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-britain-still-safe-for-americas-armed-forces/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The civil service won’t reform itself]]></title>
+            <description><![CDATA[By Ameer Kotecha]]></description>
+            <link>https://spectator.com/article/the-civil-service-wont-reform-itself/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-civil-service-wont-reform-itself/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why no one cares about white working-class boys]]></title>
+            <description><![CDATA[Race]]></description>
+            <link>https://spectator.com/article/why-no-one-cares-about-white-working-class-boys/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-no-one-cares-about-white-working-class-boys/</guid>
+            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Even Shakespeare was a slow starter]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/even-shakespeare-was-a-slow-starter/</link>
+            <guid isPermaLink="true">https://spectator.com/article/even-shakespeare-was-a-slow-starter/</guid>
+            <dc:creator><![CDATA[Daniel Swift]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sylvester Stallone’s own rags-to-riches story]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/sylvester-stallones-own-rags-to-riches-story/</link>
+            <guid isPermaLink="true">https://spectator.com/article/sylvester-stallones-own-rags-to-riches-story/</guid>
+            <dc:creator><![CDATA[Lynn Barber]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long live honeytraps!]]></title>
+            <description><![CDATA[Espionage extraordinaire]]></description>
+            <link>https://spectator.com/article/long-live-honey-traps/</link>
+            <guid isPermaLink="true">https://spectator.com/article/long-live-honey-traps/</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The sickening rise of poppy narcissism]]></title>
+            <description><![CDATA[Last post]]></description>
+            <link>https://spectator.com/article/the-sickening-rise-of-poppy-narcissism/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-sickening-rise-of-poppy-narcissism/</guid>
+            <dc:creator><![CDATA[Flora Watkins]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I changed my mind about marriage]]></title>
+            <description><![CDATA[I do]]></description>
+            <link>https://spectator.com/article/why-i-changed-my-mind-about-marriage/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-i-changed-my-mind-about-marriage/</guid>
+            <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Even Shakespeare was a slow starter]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/even-shakespeare-was-a-slow-starter/?homepage-tracking=high_density-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/even-shakespeare-was-a-slow-starter/?homepage-tracking=high_density-article-1</guid>
+            <dc:creator><![CDATA[Daniel Swift]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sylvester Stallone’s own rags-to-riches story]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/sylvester-stallones-own-rags-to-riches-story/?homepage-tracking=high_density-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/sylvester-stallones-own-rags-to-riches-story/?homepage-tracking=high_density-article-2</guid>
+            <dc:creator><![CDATA[Lynn Barber]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The fibs of Blue Planet III]]></title>
+            <description><![CDATA[Television]]></description>
+            <link>https://spectator.com/article/the-fibs-of-blue-planet-iii/?homepage-tracking=high_density-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-fibs-of-blue-planet-iii/?homepage-tracking=high_density-article-3</guid>
+            <dc:creator><![CDATA[James Delingpole]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 10:03:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Nvidia should cut Jensen Huang loose]]></title>
             <description><![CDATA[By Jawad Iqbal]]></description>
@@ -26,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Andy Burnham is learning how difficult doctors can be]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
+            <description><![CDATA[Health kick]]></description>
             <link>https://spectator.com/article/andy-burnham-is-learning-how-difficult-doctors-can-be/</link>
             <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-learning-how-difficult-doctors-can-be/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -34,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Only in the civil service could this fraudster have held down five jobs]]></title>
-            <description><![CDATA[Job juggler]]></description>
+            <description><![CDATA[By Stephen Pollard]]></description>
             <link>https://spectator.com/article/only-in-the-civil-service-could-this-fraudster-have-held-down-five-jobs/</link>
             <guid isPermaLink="true">https://spectator.com/article/only-in-the-civil-service-could-this-fraudster-have-held-down-five-jobs/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
@@ -50,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[The downfall of David Walliams]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[Celebrity]]></description>
             <link>https://spectator.com/article/this-downfall-of-david-walliams/</link>
             <guid isPermaLink="true">https://spectator.com/article/this-downfall-of-david-walliams/</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -58,7 +146,7 @@
         </item>
         <item>
             <title><![CDATA[Badenoch pledges to crack down on welfare]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Noa Hoffman]]></description>
             <link>https://spectator.com/article/badenoch-pledges-to-crack-down-on-welfare/</link>
             <guid isPermaLink="true">https://spectator.com/article/badenoch-pledges-to-crack-down-on-welfare/</guid>
             <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
@@ -66,7 +154,7 @@
         </item>
         <item>
             <title><![CDATA[The rank hypocrisy of Russell Brand’s left-wing defenders]]></title>
-            <description><![CDATA[Enabling]]></description>
+            <description><![CDATA[By Julie Bindel]]></description>
             <link>https://spectator.com/article/the-rank-hypocrisy-of-russell-brands-left-wing-defenders/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-rank-hypocrisy-of-russell-brands-left-wing-defenders/</guid>
             <dc:creator><![CDATA[Julie Bindel]]></dc:creator>
@@ -74,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[Australia might have cheated. Who could have guessed?]]></title>
-            <description><![CDATA[Sandpapergate]]></description>
+            <description><![CDATA[By William Atkinson]]></description>
             <link>https://spectator.com/article/australia-might-have-cheated-who-could-have-guessed/</link>
             <guid isPermaLink="true">https://spectator.com/article/australia-might-have-cheated-who-could-have-guessed/</guid>
             <dc:creator><![CDATA[William Atkinson]]></dc:creator>
@@ -122,7 +210,7 @@
         </item>
         <item>
             <title><![CDATA[Mogging is all that Gen Z have left]]></title>
-            <description><![CDATA[6-7, and all that]]></description>
+            <description><![CDATA[By Joseph Dinnage]]></description>
             <link>https://spectator.com/article/mogging-is-the-all-that-gen-z-have-left/</link>
             <guid isPermaLink="true">https://spectator.com/article/mogging-is-the-all-that-gen-z-have-left/</guid>
             <dc:creator><![CDATA[Joseph Dinnage]]></dc:creator>
@@ -1038,11 +1126,7 @@ The early release scheme was meant to increase prison capacity. But it isn’t w
         </item>
         <item>
             <title><![CDATA[The fibs of Blue Planet III]]></title>
-            <description><![CDATA[Whenever I hear the phrase ‘national treasure’ I reach for my shotgun. Take David Attenborough. Yes, he may be impressively old – and modest and charming and sweet, so people claim – but he is also a menace who has probably done more to promote environmental hysteria, devious misinformation and spectacular misallocation of your scarce resources than Greta Thunberg, Al Gore and Prince William combined.
-
-
-
-The most effective propaganda takes you unawares, when your guard is down. So where better than in the cosy 8 p.m. Sunday slot when you are slumped on a sofa, hypnotised with that familiar soothing voice, manipulated by a score (Hans Zimmer) so soupy it could put Heinz out of business, and mesmerised by some of the most visually arresting images you’re ever likely to see.]]></description>
+            <description><![CDATA[Television]]></description>
             <link>https://spectator.com/article/the-fibs-of-blue-planet-iii/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-fibs-of-blue-planet-iii/</guid>
             <dc:creator><![CDATA[James Delingpole]]></dc:creator>
@@ -3947,94 +4031,6 @@ During the weekend’s street protests, the fires provided cover for rioters bre
             <guid isPermaLink="true">https://spectator.com/article/could-things-get-any-worse-for-bbc-verify/</guid>
             <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
             <pubDate>Mon, 19 Oct 2026 17:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does John Healey want to kill off the family business?]]></title>
-            <description><![CDATA[By Matthew Lynn]]></description>
-            <link>https://spectator.com/article/does-john-healey-want-to-kill-off-the-family-business/</link>
-            <guid isPermaLink="true">https://spectator.com/article/does-john-healey-want-to-kill-off-the-family-business/</guid>
-            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 17:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The truth about Labour’s junk food promotion ban]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/the-truth-about-labours-junk-food-promotion-ban/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-labours-junk-food-promotion-ban/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 17:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who is going to enforce Burnham’s train noise crackdown?]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/who-is-going-to-enforce-burnhams-train-noise-crackdown/</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-is-going-to-enforce-burnhams-train-noise-crackdown/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 17:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: the ‘Palestine poppy’ creator who justified stoning]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/revealed-the-palestine-poppy-creator-who-justified-stoning/</link>
-            <guid isPermaLink="true">https://spectator.com/article/revealed-the-palestine-poppy-creator-who-justified-stoning/</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 17:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fentanyl, coming soon to a park near you]]></title>
-            <description><![CDATA[Drugs]]></description>
-            <link>https://spectator.com/article/fentanyl-coming-soon-to-a-park-near-you/?homepage-tracking=high_density-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/fentanyl-coming-soon-to-a-park-near-you/?homepage-tracking=high_density-article-1</guid>
-            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 11:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hallé is on a roll]]></title>
-            <description><![CDATA[Classical music]]></description>
-            <link>https://spectator.com/article/the-halle-is-on-a-roll/?homepage-tracking=high_density-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-halle-is-on-a-roll/?homepage-tracking=high_density-article-2</guid>
-            <dc:creator><![CDATA[Richard Bratby]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 11:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homage to the two drama kings who ruled British television for decades]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/homage-to-the-two-drama-kings-who-ruled-british-television-for-decades/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/homage-to-the-two-drama-kings-who-ruled-british-television-for-decades/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Jenny Colgan]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 11:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For Putin, Trump is the gift that keeps on giving]]></title>
-            <description><![CDATA[By John Lough]]></description>
-            <link>https://spectator.com/article/for-putin-trump-is-the-gift-that-keeps-on-giving/</link>
-            <guid isPermaLink="true">https://spectator.com/article/for-putin-trump-is-the-gift-that-keeps-on-giving/</guid>
-            <dc:creator><![CDATA[John Lough]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 11:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has Netflix missed a trick with Meghan Markle?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/has-netflix-missed-a-trick-with-meghan-markle/</link>
-            <guid isPermaLink="true">https://spectator.com/article/has-netflix-missed-a-trick-with-meghan-markle/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 11:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Labour MPs allow Burnham to end the Neets crisis?]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/will-labour-mps-allow-burnham-to-end-the-neets-crisis/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-labour-mps-allow-burnham-to-end-the-neets-crisis/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 11:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why was Mohammed Yaseen treated better than our SAS?]]></title>
-            <description><![CDATA[Hard time]]></description>
-            <link>https://spectator.com/article/why-was-mohammed-yaseen-treated-better-than-our-sas/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-was-mohammed-yaseen-treated-better-than-our-sas/</guid>
-            <dc:creator><![CDATA[David Shipley]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 11:38:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

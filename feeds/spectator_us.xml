@@ -4,10 +4,74 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Nov 2026 10:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 18:13:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Nov 2026 10:03:17 GMT</pubDate>
+        <pubDate>Wed, 11 Nov 2026 18:13:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Donald Trump lost Texas]]></title>
+            <description><![CDATA[Losing Texas]]></description>
+            <link>https://spectator.com/article/the-republican-partys-losses-are-bigger-in-texas/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-republican-partys-losses-are-bigger-in-texas/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Robert Bryce]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:13:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Britain still safe for America’s armed forces?]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/is-britain-still-safe-for-americas-armed-forces/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-britain-still-safe-for-americas-armed-forces/?edition=us</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:13:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raheem Kassam takes the National Pulse international]]></title>
+            <description><![CDATA[By Cockburn]]></description>
+            <link>https://spectator.com/article/raheem-kassam-to-launch-breitbart-2-0/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/raheem-kassam-to-launch-breitbart-2-0/?edition=us</guid>
+            <dc:creator><![CDATA[Cockburn]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:13:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long live honeytraps!]]></title>
+            <description><![CDATA[By Sean Thomas]]></description>
+            <link>https://spectator.com/article/long-live-honey-traps/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/long-live-honey-traps/?edition=us</guid>
+            <dc:creator><![CDATA[Sean Thomas]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:13:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A coward’s guide to giving blood]]></title>
+            <description><![CDATA[By Lara Prendergast]]></description>
+            <link>https://spectator.com/article/a-cowards-guide-to-giving-blood/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-cowards-guide-to-giving-blood/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Lara Prendergast]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:13:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the sentencing of Russell Brand]]></title>
+            <description><![CDATA[Sentenced]]></description>
+            <link>https://spectator.com/article/the-grossness-of-russell-brand/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-grossness-of-russell-brand/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:13:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Thomas Markle deserve the death penalty?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/does-thomas-markle-deserve-the-death-penalty/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-thomas-markle-deserve-the-death-penalty/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:13:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Republicans need DeSantis – just not in 2028]]></title>
+            <description><![CDATA[By Daniel McCarthy]]></description>
+            <link>https://spectator.com/article/the-republicans-need-desantis-just-not-in-2028/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-republicans-need-desantis-just-not-in-2028/?edition=us</guid>
+            <dc:creator><![CDATA[Daniel McCarthy]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:13:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside the sentencing of Russell Brand]]></title>
             <description><![CDATA[By Max Jeffery]]></description>
@@ -3947,70 +4011,6 @@ It hadn’t always been like that. These artists, Cezanne excepted, came from no
             <guid isPermaLink="true">https://spectator.com/article/my-new-york-city-survival-guide/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Josie Cox]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 17:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When the intelligence about AI is artificial]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/when-the-intelligence-about-ai-is-artificial/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/when-the-intelligence-about-ai-is-artificial/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 17:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Maine character syndrome]]></title>
-            <description><![CDATA[By Lara Prendergast]]></description>
-            <link>https://spectator.com/article/maine-character-syndrome/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/maine-character-syndrome/?edition=us</guid>
-            <dc:creator><![CDATA[Lara Prendergast]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:26:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My New York City survival guide]]></title>
-            <description><![CDATA[By Josie Cox]]></description>
-            <link>https://spectator.com/article/my-new-york-city-survival-guide/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-new-york-city-survival-guide/?edition=us</guid>
-            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:26:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spare us Macklemore’s smug braying about Free Palestine]]></title>
-            <description><![CDATA[By Brendan O’Neill]]></description>
-            <link>https://spectator.com/article/spare-us-macklemores-smug-braying-about-free-palestine/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/spare-us-macklemores-smug-braying-about-free-palestine/?edition=us</guid>
-            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:26:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My New York City survival guide]]></title>
-            <description><![CDATA[New York life]]></description>
-            <link>https://spectator.com/article/my-new-york-city-survival-guide/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-new-york-city-survival-guide/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Josie Cox]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:26:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I became a Canadian nationalist]]></title>
-            <description><![CDATA[Swing state]]></description>
-            <link>https://spectator.com/article/how-i-became-a-canadian-nationalist/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-i-became-a-canadian-nationalist/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:26:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Abdul El-Sayed the next Obama?]]></title>
-            <description><![CDATA[Yes he can]]></description>
-            <link>https://spectator.com/article/is-abdul-el-sayed-americas-next-obama/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-abdul-el-sayed-americas-next-obama/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:26:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The UN is no longer a forum for international peace]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/the-un-is-no-longer-a-forum-for-international-peace/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-un-is-no-longer-a-forum-for-international-peace/?edition=us</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:26:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

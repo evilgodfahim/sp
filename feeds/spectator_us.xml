@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 17:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 22:59:38 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Nov 2026 17:25:26 GMT</pubDate>
+        <pubDate>Thu, 12 Nov 2026 22:59:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We don’t need another #MeToo moment]]></title>
+            <description><![CDATA[By Spectator Editorial]]></description>
+            <link>https://spectator.com/article/another-metoo-post-moral-panic-spectator-editorial/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/another-metoo-post-moral-panic-spectator-editorial/?edition=us</guid>
+            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 22:59:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The joke’s over for David Walliams and Russell Brand]]></title>
+            <description><![CDATA[By Douglas Murray]]></description>
+            <link>https://spectator.com/article/the-jokes-over-for-david-walliams-and-russell-brand/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-jokes-over-for-david-walliams-and-russell-brand/?edition=us</guid>
+            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 22:59:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We don’t need another #MeToo moment]]></title>
+            <description><![CDATA[By Spectator Editorial]]></description>
+            <link>https://spectator.com/article/another-metoo-post-moral-panic-spectator-editorial/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/another-metoo-post-moral-panic-spectator-editorial/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Spectator Editorial]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 22:59:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jensen Huang is impossible to replace at Nvidia]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/jensen-huang-is-impossible-to-replace-at-nvidia/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/jensen-huang-is-impossible-to-replace-at-nvidia/?edition=us</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 22:59:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Another nude Biden pic scandal?]]></title>
             <description><![CDATA[By Cockburn]]></description>
@@ -3979,38 +4011,6 @@ It hadn’t always been like that. These artists, Cezanne excepted, came from no
             <guid isPermaLink="true">https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
             <pubDate>Sun, 27 Sep 2026 18:46:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eating my way around Helsinki]]></title>
-            <description><![CDATA[By Amy Rose Everett]]></description>
-            <link>https://spectator.com/article/eating-my-way-around-helsinki/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/eating-my-way-around-helsinki/?edition=us</guid>
-            <dc:creator><![CDATA[Amy Rose Everett]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 14:25:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I’m pro-science. That’s why I’m anti-mask]]></title>
-            <description><![CDATA[By Jennifer Sey]]></description>
-            <link>https://spectator.com/article/im-pro-science-thats-why-im-anti-mask/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/im-pro-science-thats-why-im-anti-mask/?edition=us</guid>
-            <dc:creator><![CDATA[Jennifer Sey]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 02:40:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why sauerkraut was a savior for sailors]]></title>
-            <description><![CDATA[By Hannah Moore]]></description>
-            <link>https://spectator.com/article/why-pickled-cabbage-was-a-savior-for-sailors/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-pickled-cabbage-was-a-savior-for-sailors/?edition=us</guid>
-            <dc:creator><![CDATA[Hannah Moore]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 17:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pale Dread is the next great Washington novel]]></title>
-            <description><![CDATA[By Bill Kauffman]]></description>
-            <link>https://spectator.com/article/pale-dread-is-the-next-great-washington-novel/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/pale-dread-is-the-next-great-washington-novel/?edition=us</guid>
-            <dc:creator><![CDATA[Bill Kauffman]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 17:29:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,12 +4,52 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 08:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 17:25:30 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Nov 2026 08:59:38 GMT</pubDate>
+        <pubDate>Thu, 12 Nov 2026 17:25:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Britain’s AI hopes are falling apart]]></title>
+            <title><![CDATA[Beware the crime of muttering to yourself]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/beware-the-crime-of-muttering-to-yourself/</link>
+            <guid isPermaLink="true">https://spectator.com/article/beware-the-crime-of-muttering-to-yourself/</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 17:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jensen Huang is impossible to replace at Nvidia]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/jensen-huang-is-impossible-to-replace-at-nvidia/</link>
+            <guid isPermaLink="true">https://spectator.com/article/jensen-huang-is-impossible-to-replace-at-nvidia/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 17:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Labour MP declares Britain is the country of ‘Churchill and Sadiq Khan’]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-labour-mp-declared-britain-is-the-country-of-churchill-and-sadiq-khan/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-labour-mp-declared-britain-is-the-country-of-churchill-and-sadiq-khan/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 17:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The petty tyrants of the Welsh Senedd]]></title>
+            <description><![CDATA[By David Shipley]]></description>
+            <link>https://spectator.com/article/the-petty-tyrants-of-the-welsh-senedd/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-petty-tyrants-of-the-welsh-senedd/</guid>
+            <dc:creator><![CDATA[David Shipley]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 17:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pete Hegseth is a recruitment boon for the Democrats]]></title>
+            <description><![CDATA[By Jacob Heilbrunn]]></description>
+            <link>https://spectator.com/article/pete-hegseth-is-a-recruitment-boon-for-the-democrats/</link>
+            <guid isPermaLink="true">https://spectator.com/article/pete-hegseth-is-a-recruitment-boon-for-the-democrats/</guid>
+            <dc:creator><![CDATA[Jacob Heilbrunn]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 17:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it all going wrong at Nick Clegg’s AI company?]]></title>
             <description><![CDATA[By Angus Colwell]]></description>
             <link>https://spectator.com/article/britains-ai-hopes-are-falling-apart/</link>
             <guid isPermaLink="true">https://spectator.com/article/britains-ai-hopes-are-falling-apart/</guid>
@@ -49,8 +89,8 @@
             <pubDate>Thu, 12 Nov 2026 08:59:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The joke’s over for David Walliams and Russell Brand]]></title>
-            <description><![CDATA[‘Edgy’ comedy]]></description>
+            <title><![CDATA[Brand, Walliams and the truth about ‘edgy’ jokes]]></title>
+            <description><![CDATA[Gag order]]></description>
             <link>https://spectator.com/article/the-jokes-over-for-david-walliams-and-russell-brand/</link>
             <guid isPermaLink="true">https://spectator.com/article/the-jokes-over-for-david-walliams-and-russell-brand/</guid>
             <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
@@ -73,7 +113,7 @@
             <pubDate>Thu, 12 Nov 2026 08:59:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘It is not just a narrow welfare reform package. This is a new settlement’: Pat McFadden on his plans to get the young into work]]></title>
+            <title><![CDATA[Pat McFadden on his plans to get the young into work]]></title>
             <description><![CDATA[Politics]]></description>
             <link>https://spectator.com/article/it-is-not-just-a-narrow-welfare-reform-package-this-is-a-new-settlement-pat-mcfadden-on-his-plans-to-get-the-young-into-work/?homepage-tracking=magazine-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/it-is-not-just-a-narrow-welfare-reform-package-this-is-a-new-settlement-pat-mcfadden-on-his-plans-to-get-the-young-into-work/?homepage-tracking=magazine-article-1</guid>
@@ -213,7 +253,7 @@ A great cook book can be the most joyous read of all – my thoughts, having jus
             <pubDate>Thu, 12 Nov 2026 01:11:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘It is not just a narrow welfare reform package. This is a new settlement’: Pat McFadden on his plans to get the young into work]]></title>
+            <title><![CDATA[Pat McFadden on his plans to get the young into work]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
             <link>https://spectator.com/article/it-is-not-just-a-narrow-welfare-reform-package-this-is-a-new-settlement-pat-mcfadden-on-his-plans-to-get-the-young-into-work/</link>
             <guid isPermaLink="true">https://spectator.com/article/it-is-not-just-a-narrow-welfare-reform-package-this-is-a-new-settlement-pat-mcfadden-on-his-plans-to-get-the-young-into-work/</guid>
@@ -4003,46 +4043,6 @@ During the weekend’s street protests, the fires provided cover for rioters bre
             <guid isPermaLink="true">https://spectator.com/article/what-exactly-is-the-point-of-the-covid-inquiry/</guid>
             <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 15:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The humiliation of Miatta Fahnbulleh]]></title>
-            <description><![CDATA[By Madeline Grant]]></description>
-            <link>https://spectator.com/article/the-complete-humiliation-of-miatta-fahnbulleh/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-complete-humiliation-of-miatta-fahnbulleh/</guid>
-            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 15:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is AI a bubble?]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/is-ai-a-bubble/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-ai-a-bubble/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 15:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Status Quo are a much better band than people think]]></title>
-            <description><![CDATA[Pop]]></description>
-            <link>https://spectator.com/article/status-quo-are-a-much-better-band-than-people-think/?homepage-tracking=high_density-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/status-quo-are-a-much-better-band-than-people-think/?homepage-tracking=high_density-article-3</guid>
-            <dc:creator><![CDATA[Michael Hann]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 10:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The dark horse who stands to benefit from France’s riots]]></title>
-            <description><![CDATA[By Gavin Mortimer]]></description>
-            <link>https://spectator.com/article/the-dark-horse-who-stands-to-benefit-from-frances-riots/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-dark-horse-who-stands-to-benefit-from-frances-riots/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 10:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s really causing anti-Semitism in British schools]]></title>
-            <description><![CDATA[By Stephen Pollard]]></description>
-            <link>https://spectator.com/article/whats-really-causing-anti-semitism-in-british-schools/</link>
-            <guid isPermaLink="true">https://spectator.com/article/whats-really-causing-anti-semitism-in-british-schools/</guid>
-            <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 10:52:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

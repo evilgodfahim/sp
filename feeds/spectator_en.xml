@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 22:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 03:15:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Nov 2026 22:59:41 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 03:15:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why did anyone think David Walliams’ kids books were a good idea?]]></title>
+            <description><![CDATA[By Hannah Ewens]]></description>
+            <link>https://spectator.com/article/why-did-anyone-think-david-walliams-kids-books-were-a-good-idea/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-did-anyone-think-david-walliams-kids-books-were-a-good-idea/</guid>
+            <dc:creator><![CDATA[Hannah Ewens]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 03:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greta Thunberg has become toxic to the climate movement]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/greta-thunberg-has-become-toxic-to-the-climate-movement/</link>
+            <guid isPermaLink="true">https://spectator.com/article/greta-thunberg-has-become-toxic-to-the-climate-movement/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 03:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why aren’t we more tolerant of Christian footballers like Felix Nmecha?]]></title>
+            <description><![CDATA[By Lois McLatchie Miller]]></description>
+            <link>https://spectator.com/article/why-arent-we-more-tolerant-of-christian-footballers-like-felix-nmecha/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-arent-we-more-tolerant-of-christian-footballers-like-felix-nmecha/</guid>
+            <dc:creator><![CDATA[Lois McLatchie Miller]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 03:15:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beware the crime of muttering to yourself]]></title>
             <description><![CDATA[By Toby Young]]></description>
@@ -4018,30 +4042,6 @@ During the weekend’s street protests, the fires provided cover for rioters bre
             <link>https://spectator.com/article/jd-vance-delicate-2028-dance/</link>
             <guid isPermaLink="true">https://spectator.com/article/jd-vance-delicate-2028-dance/</guid>
             <dc:creator><![CDATA[John Fund]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 15:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is this email hack an attempt to destroy the AfD?]]></title>
-            <description><![CDATA[By Elisabeth Dampier]]></description>
-            <link>https://spectator.com/article/is-this-email-hack-an-attempt-to-destroy-the-afd/</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-this-email-hack-an-attempt-to-destroy-the-afd/</guid>
-            <dc:creator><![CDATA[Elisabeth Dampier]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 15:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The SNP’s craven support for the Jackdaw gas field]]></title>
-            <description><![CDATA[By Stephen Daisley]]></description>
-            <link>https://spectator.com/article/the-snps-craven-support-for-the-jackdaw-gas-field/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-snps-craven-support-for-the-jackdaw-gas-field/</guid>
-            <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 15:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What exactly is the point of the Covid inquiry?]]></title>
-            <description><![CDATA[By Jawad Iqbal]]></description>
-            <link>https://spectator.com/article/what-exactly-is-the-point-of-the-covid-inquiry/</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-exactly-is-the-point-of-the-covid-inquiry/</guid>
-            <dc:creator><![CDATA[Jawad Iqbal]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 15:45:27 GMT</pubDate>
         </item>
     </channel>

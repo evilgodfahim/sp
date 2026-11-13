@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 22:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 03:15:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Nov 2026 22:59:38 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 03:15:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Abandoning Islam for a life in porn]]></title>
+            <description><![CDATA[By Yasmeena Ali]]></description>
+            <link>https://spectator.com/article/abandoning-islam-for-a-life-in-porn/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/abandoning-islam-for-a-life-in-porn/?edition=us</guid>
+            <dc:creator><![CDATA[Yasmeena Ali]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 03:15:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We don’t need another #MeToo moment]]></title>
             <description><![CDATA[By Spectator Editorial]]></description>
@@ -4003,14 +4011,6 @@ It hadn’t always been like that. These artists, Cezanne excepted, came from no
             <guid isPermaLink="true">https://spectator.com/article/my-night-with-woah-vicky/?edition=us</guid>
             <dc:creator><![CDATA[Kelly Chapman]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 06:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What went wrong with the Madonna biopic?]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-went-wrong-with-the-madonna-biopic/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 18:46:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

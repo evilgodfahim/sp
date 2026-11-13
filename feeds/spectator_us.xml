@@ -4,10 +4,42 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 03:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 11:44:15 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Nov 2026 03:15:06 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 11:44:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The too-cozy arrangement between Donald Trump and Nvidia]]></title>
+            <description><![CDATA[Bargaining chips]]></description>
+            <link>https://spectator.com/article/the-too-cosy-arrangement-between-donald-trump-and-nvidia/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-too-cosy-arrangement-between-donald-trump-and-nvidia/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Geoffrey Cain]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 11:44:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[To win back the abstainers, Republicans need to be rebellious]]></title>
+            <description><![CDATA[By Curtis Yarvin]]></description>
+            <link>https://spectator.com/article/to-win-back-the-abstainers-republicans-need-to-be-rebellious/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/to-win-back-the-abstainers-republicans-need-to-be-rebellious/?edition=us</guid>
+            <dc:creator><![CDATA[Curtis Yarvin]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 11:44:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greta Thunberg has become toxic to the climate movement]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/greta-thunberg-has-become-toxic-to-the-climate-movement/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/greta-thunberg-has-become-toxic-to-the-climate-movement/?edition=us</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 11:44:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michel Houellebecq and the tyranny of Islamist sensitivity]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/michel-houellebecq-and-the-tyranny-of-islamist-sensitivity/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/michel-houellebecq-and-the-tyranny-of-islamist-sensitivity/?edition=us</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 11:44:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Abandoning Islam for a life in porn]]></title>
             <description><![CDATA[By Yasmeena Ali]]></description>
@@ -3979,38 +4011,6 @@ It hadn’t always been like that. These artists, Cezanne excepted, came from no
             <guid isPermaLink="true">https://spectator.com/article/how-prague-cured-me-of-my-communism/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 14:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The DSA sincerely dislikes America]]></title>
-            <description><![CDATA[By Maximillian Garely]]></description>
-            <link>https://spectator.com/article/the-dsa-sincerely-dislikes-america/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-dsa-sincerely-dislikes-america/?edition=us</guid>
-            <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 14:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukrainians are struggling to keep going]]></title>
-            <description><![CDATA[By Daryna Bondarenko]]></description>
-            <link>https://spectator.com/article/amid-a-worsening-war-ukrainians-are-striving-to-keep-going/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/amid-a-worsening-war-ukrainians-are-striving-to-keep-going/?edition=us</guid>
-            <dc:creator><![CDATA[Daryna Bondarenko]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 14:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to go on a Zoom date]]></title>
-            <description><![CDATA[By Samantha Rea]]></description>
-            <link>https://spectator.com/article/how-to-go-on-a-zoom-date/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-to-go-on-a-zoom-date/?edition=us</guid>
-            <dc:creator><![CDATA[Samantha Rea]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 06:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My night with Woah Vicky]]></title>
-            <description><![CDATA[By Kelly Chapman]]></description>
-            <link>https://spectator.com/article/my-night-with-woah-vicky/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-night-with-woah-vicky/?edition=us</guid>
-            <dc:creator><![CDATA[Kelly Chapman]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 06:07:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

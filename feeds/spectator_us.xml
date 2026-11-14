@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Nov 2026 00:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 07:13:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Nov 2026 00:10:31 GMT</pubDate>
+        <pubDate>Sat, 14 Nov 2026 07:13:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Has Trump run out of road?]]></title>
+            <description><![CDATA[By Christopher Caldwell]]></description>
+            <link>https://spectator.com/article/donald-trump-run-road-2028/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/donald-trump-run-road-2028/?edition=us</guid>
+            <dc:creator><![CDATA[Christopher Caldwell]]></dc:creator>
+            <pubDate>Sat, 14 Nov 2026 07:13:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Britain’s prison early release scheme is already a disaster]]></title>
             <description><![CDATA[By Max Jeffery]]></description>
@@ -4003,14 +4011,6 @@ It hadn’t always been like that. These artists, Cezanne excepted, came from no
             <guid isPermaLink="true">https://spectator.com/article/will-the-real-b-traven-please-stand-up/?edition=us</guid>
             <dc:creator><![CDATA[Peter Hoskin]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 00:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia’s economy is slowly rotting]]></title>
-            <description><![CDATA[By Alexander Kolyandr]]></description>
-            <link>https://spectator.com/article/russias-economy-is-slowly-rotting/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/russias-economy-is-slowly-rotting/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Kolyandr]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 20:56:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

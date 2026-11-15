@@ -4,10 +4,82 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 03:56:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 11:42:06 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 03:56:18 GMT</pubDate>
+        <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who owns Charles de Gaulle?]]></title>
+            <description><![CDATA[By Matthew Fraser]]></description>
+            <link>https://spectator.com/article/who-owns-charles-de-gaulle/</link>
+            <guid isPermaLink="true">https://spectator.com/article/who-owns-charles-de-gaulle/</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many more scandals can the BBC take?]]></title>
+            <description><![CDATA[By Charlie Walsham]]></description>
+            <link>https://spectator.com/article/how-many-more-scandals-can-the-bbc-take/</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-many-more-scandals-can-the-bbc-take/</guid>
+            <dc:creator><![CDATA[Charlie Walsham]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I’ll never fly Ryanair again. This time, I mean it.]]></title>
+            <description><![CDATA[By Ross Clark]]></description>
+            <link>https://spectator.com/article/ill-never-fly-ryanair-again-this-time-i-mean-it/</link>
+            <guid isPermaLink="true">https://spectator.com/article/ill-never-fly-ryanair-again-this-time-i-mean-it/</guid>
+            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get ready for the genetically modified hounds of hell]]></title>
+            <description><![CDATA[By Mary Wakefield]]></description>
+            <link>https://spectator.com/article/get-ready-for-the-genetically-modified-hounds-of-hell/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/get-ready-for-the-genetically-modified-hounds-of-hell/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bring on the next Brexit battle]]></title>
+            <description><![CDATA[Neverendum]]></description>
+            <link>https://spectator.com/article/bring-on-the-next-brexit-battle/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/bring-on-the-next-brexit-battle/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three cheers for Rishi Sunak]]></title>
+            <description><![CDATA[A model ex-PM]]></description>
+            <link>https://spectator.com/article/three-cheers-for-rishi-sunak/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/three-cheers-for-rishi-sunak/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ukraine war is one of history’s great turning points]]></title>
+            <description><![CDATA[Battle royale]]></description>
+            <link>https://spectator.com/article/the-ukraine-war-is-one-of-historys-great-turning-points/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-ukraine-war-is-one-of-historys-great-turning-points/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Iain MacGregor]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A staggered age of consent is a bad idea]]></title>
+            <description><![CDATA[By Melanie McDonagh]]></description>
+            <link>https://spectator.com/article/a-staggered-age-of-consent-is-a-bad-idea/</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-staggered-age-of-consent-is-a-bad-idea/</guid>
+            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The tragedy of Piddington]]></title>
+            <description><![CDATA[By Ameer Kotecha]]></description>
+            <link>https://spectator.com/article/the-tragedy-of-piddington/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-tragedy-of-piddington/</guid>
+            <dc:creator><![CDATA[Ameer Kotecha]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Danny Boyle is playing fast and loose with the truth]]></title>
             <description><![CDATA[By Kelvin MacKenzie]]></description>
@@ -50,15 +122,7 @@
         </item>
         <item>
             <title><![CDATA[How Adam Brody ruined Nobody Wants This]]></title>
-            <description><![CDATA[I usually stay away from American TV shows about Judaism or Jewish people, because it is hard to breathe amid all the kitsch, cliché or, in the case of Curb Your Enthusiasm, the self-regarding sourness. But Nobody Wants This, the buzzy Netflix series about an arch-gentile sex podcaster falling for a young groovy rabbi in progressive California (based on the true story of its creator, the Jewish convert Erin Foster), managed to be both of this ilk and different, better. 
-
-
-
-We are face to face with coastal Jewish America’s unbelievable divorce from their own reality
-
-
-
-Despite all the cringe-worthy Jewish jokes and self-consciously performed neuroses, I watched the first series in September 2024 and found myself charmed.]]></description>
+            <description><![CDATA[By Zoe Strimpel]]></description>
             <link>https://spectator.com/article/how-adam-brody-ruined-nobody-wants-this/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-adam-brody-ruined-nobody-wants-this/</guid>
             <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
@@ -3959,78 +4023,6 @@ This is no longer true. State spending continues to grow, yet large parts of the
             <guid isPermaLink="true">https://spectator.com/article/john-healey-has-no-cash-cow-to-milk/</guid>
             <dc:creator><![CDATA[Joanna Marchong]]></dc:creator>
             <pubDate>Fri, 23 Oct 2026 08:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Burnham’s war on small irritations pay off?]]></title>
-            <description><![CDATA[By Isabel Hardman]]></description>
-            <link>https://spectator.com/article/will-burnhams-war-on-small-irritations-pay-off/</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-burnhams-war-on-small-irritations-pay-off/</guid>
-            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 08:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who cares if Barclays lays off 5 per cent of its staff?]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/who-cares-if-barclays-lays-off-5-per-cent-of-its-staff/</link>
-            <guid isPermaLink="true">https://spectator.com/article/who-cares-if-barclays-lays-off-5-per-cent-of-its-staff/</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 08:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My night with Maya Jama]]></title>
-            <description><![CDATA[Diary]]></description>
-            <link>https://spectator.com/article/my-night-with-maya-jama/</link>
-            <guid isPermaLink="true">https://spectator.com/article/my-night-with-maya-jama/</guid>
-            <dc:creator><![CDATA[George Osborne]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 17:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our thirst for torching old buildings]]></title>
-            <description><![CDATA[Art]]></description>
-            <link>https://spectator.com/article/our-thirst-for-torching-old-buildings/</link>
-            <guid isPermaLink="true">https://spectator.com/article/our-thirst-for-torching-old-buildings/</guid>
-            <dc:creator><![CDATA[Jonathan Glancey]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 17:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Would a British wealth fund work?]]></title>
-            <description><![CDATA[By Sam McPhail]]></description>
-            <link>https://spectator.com/article/would-a-british-wealth-fund-work/</link>
-            <guid isPermaLink="true">https://spectator.com/article/would-a-british-wealth-fund-work/</guid>
-            <dc:creator><![CDATA[Sam McPhail]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 17:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blair aide to write Burnham’s Ten Year plan]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/blair-aide-to-write-burnhams-ten-year-plan/</link>
-            <guid isPermaLink="true">https://spectator.com/article/blair-aide-to-write-burnhams-ten-year-plan/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 17:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tories are better off without Andrew Boff]]></title>
-            <description><![CDATA[By Andrew Tettenborn]]></description>
-            <link>https://spectator.com/article/the-tories-are-better-off-without-andrew-boff/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-tories-are-better-off-without-andrew-boff/</guid>
-            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 17:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home Office spend thousands on ‘don’t rape women’ guide]]></title>
-            <description><![CDATA[By Steerpike]]></description>
-            <link>https://spectator.com/article/home-office-spend-thousands-on-dont-rape-women-leaflets/</link>
-            <guid isPermaLink="true">https://spectator.com/article/home-office-spend-thousands-on-dont-rape-women-leaflets/</guid>
-            <dc:creator><![CDATA[Steerpike]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 17:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can we be surprised that France has descended into nihilism?]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
-            <link>https://spectator.com/article/can-we-be-surprised-that-france-has-descended-into-nihilism/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-we-be-surprised-that-france-has-descended-into-nihilism/</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 12:39:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

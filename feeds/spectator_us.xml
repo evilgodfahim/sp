@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Nov 2026 23:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 03:56:12 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Nov 2026 23:31:30 GMT</pubDate>
+        <pubDate>Sun, 15 Nov 2026 03:56:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My night with Woah Vicky]]></title>
+            <description><![CDATA[By Kelly Chapman]]></description>
+            <link>https://spectator.com/article/my-night-with-woah-vicky/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/my-night-with-woah-vicky/?edition=us</guid>
+            <dc:creator><![CDATA[Kelly Chapman]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 03:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A junkie’s pride]]></title>
+            <description><![CDATA[By Bridget Phetasy]]></description>
+            <link>https://spectator.com/article/a-junkies-pride/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-junkies-pride/?edition=us</guid>
+            <dc:creator><![CDATA[Bridget Phetasy]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 03:56:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Has Trump run out of road?]]></title>
             <description><![CDATA[By Christopher Caldwell]]></description>
@@ -3994,22 +4010,6 @@ It hadn’t always been like that. These artists, Cezanne excepted, came from no
             <link>https://spectator.com/article/alan-rickman-and-the-misery-of-being-famous/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/alan-rickman-and-the-misery-of-being-famous/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 00:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry and Meghan’s great miscalculation]]></title>
-            <description><![CDATA[By Kara Kennedy]]></description>
-            <link>https://spectator.com/article/harry-and-meghans-great-miscalculation/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/harry-and-meghans-great-miscalculation/?edition=us</guid>
-            <dc:creator><![CDATA[Kara Kennedy]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 00:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the real B. Traven please stand up?]]></title>
-            <description><![CDATA[By Peter Hoskin]]></description>
-            <link>https://spectator.com/article/will-the-real-b-traven-please-stand-up/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/will-the-real-b-traven-please-stand-up/?edition=us</guid>
-            <dc:creator><![CDATA[Peter Hoskin]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 00:46:42 GMT</pubDate>
         </item>
     </channel>

@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 11:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 18:15:25 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 11:42:06 GMT</pubDate>
+        <pubDate>Sun, 15 Nov 2026 18:15:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hortus was horticulture for the literary]]></title>
+            <description><![CDATA[In the spring of 1987 David Wheeler took the brave decision to launch a new, privately published gardening quarterly titled Hortus. Brought up in Gloucestershire, Wheeler had gardened from an early age, but exchanged his rural family plot for a single ‘north-facing, three-foot-long window box’ when he came to London for work. After a career in Fleet Street (including a stint as the advertising director for the Spectator), he moved to Farnham and worked as a jobbing gardener, but found that ‘a potent whiff of printers’ ink lingered in my nostrils, as potent as the fragrance of my newly rediscovered roses’.]]></description>
+            <link>https://spectator.com/article/hortus-dug-up-a-different-garden/</link>
+            <guid isPermaLink="true">https://spectator.com/article/hortus-dug-up-a-different-garden/</guid>
+            <dc:creator><![CDATA[Peter Parker]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 18:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The joy of SpaceX’s Starship catch]]></title>
+            <description><![CDATA[By Druin Burch]]></description>
+            <link>https://spectator.com/article/the-joy-of-spacexs-starship-catch/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-joy-of-spacexs-starship-catch/</guid>
+            <dc:creator><![CDATA[Druin Burch]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 18:15:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who owns Charles de Gaulle?]]></title>
             <description><![CDATA[By Matthew Fraser]]></description>
@@ -4006,22 +4022,6 @@ This is no longer true. State spending continues to grow, yet large parts of the
             <link>https://spectator.com/article/the-perils-of-baby-names/?homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/the-perils-of-baby-names/?homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 08:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France is a warning – our civilisation is not immortal]]></title>
-            <description><![CDATA[Paris burning]]></description>
-            <link>https://spectator.com/article/france-is-a-warning-our-civilisation-is-not-immortal/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/france-is-a-warning-our-civilisation-is-not-immortal/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Douglas Murray]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 08:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John Healey has no cash cow to milk]]></title>
-            <description><![CDATA[By Joanna Marchong]]></description>
-            <link>https://spectator.com/article/john-healey-has-no-cash-cow-to-milk/</link>
-            <guid isPermaLink="true">https://spectator.com/article/john-healey-has-no-cash-cow-to-milk/</guid>
-            <dc:creator><![CDATA[Joanna Marchong]]></dc:creator>
             <pubDate>Fri, 23 Oct 2026 08:06:34 GMT</pubDate>
         </item>
     </channel>

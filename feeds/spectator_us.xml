@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 11:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 18:15:20 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 11:42:02 GMT</pubDate>
+        <pubDate>Sun, 15 Nov 2026 18:15:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is British espionage drama so in vogue?]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/why-is-british-espionage-drama-so-in-vogue/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-british-espionage-drama-so-in-vogue/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 18:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colbert quit the stage with a whimper not a bang]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/colbert-quit-the-stage-with-a-whimper-not-a-bang/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/colbert-quit-the-stage-with-a-whimper-not-a-bang/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 18:15:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Terror at the gates: the dangers of Shabana Mahmood’s new asylum scheme]]></title>
             <description><![CDATA[By John Power]]></description>
@@ -3995,22 +4011,6 @@ It hadn’t always been like that. These artists, Cezanne excepted, came from no
             <guid isPermaLink="true">https://spectator.com/article/is-the-west-ready-for-the-undersea-war/?edition=us</guid>
             <dc:creator><![CDATA[Elisabeth Braw]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 13:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Black families suffered after white college kids used George Floyd to dismantle society]]></title>
-            <description><![CDATA[By David Sypher Jr.]]></description>
-            <link>https://spectator.com/article/black-families-suffered-after-white-college-kids-used-george-floyd-to-dismantle-society/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/black-families-suffered-after-white-college-kids-used-george-floyd-to-dismantle-society/?edition=us</guid>
-            <dc:creator><![CDATA[David Sypher Jr.]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 06:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caution: This article is putting lives in danger]]></title>
-            <description><![CDATA[By Amber Duke]]></description>
-            <link>https://spectator.com/article/caution-this-article-is-putting-lives-in-danger/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/caution-this-article-is-putting-lives-in-danger/?edition=us</guid>
-            <dc:creator><![CDATA[Amber Duke]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 06:25:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

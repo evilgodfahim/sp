@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 18:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 23:16:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 18:15:20 GMT</pubDate>
+        <pubDate>Sun, 15 Nov 2026 23:16:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[An unvarnished insight into the mind of Sonny Rollins]]></title>
+            <description><![CDATA[By Philip Clark]]></description>
+            <link>https://spectator.com/article/an-unvarnished-insight-into-the-mind-of-sonny-rollins/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/an-unvarnished-insight-into-the-mind-of-sonny-rollins/?edition=us</guid>
+            <dc:creator><![CDATA[Philip Clark]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 23:16:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is British espionage drama so in vogue?]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4002,14 +4010,6 @@ It hadn’t always been like that. These artists, Cezanne excepted, came from no
             <link>https://spectator.com/article/will-anti-semitism-allegations-bring-down-jordan-bardella/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/will-anti-semitism-allegations-bring-down-jordan-bardella/?edition=us</guid>
             <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 13:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the West ready for the undersea war?]]></title>
-            <description><![CDATA[By Elisabeth Braw]]></description>
-            <link>https://spectator.com/article/is-the-west-ready-for-the-undersea-war/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/is-the-west-ready-for-the-undersea-war/?edition=us</guid>
-            <dc:creator><![CDATA[Elisabeth Braw]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 13:34:24 GMT</pubDate>
         </item>
     </channel>

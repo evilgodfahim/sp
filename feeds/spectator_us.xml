@@ -4,10 +4,22 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 12:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 22:39:57 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2026 12:21:39 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 22:39:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Robert Pattinson is a daring choice for Bond]]></title>
+            <description><![CDATA[Have they got Bond wrong? Absolutely not. As news ripples out that Robert Pattinson has seen off a field of erstwhile favorites – from Callum Turner, long the bookies' darling, to Josh O'Connor, whose screen test set tongues wagging – the internet has predictably split down the middle. Half are hailing his casting as a masterstroke, the rest wondering aloud how someone can be Batman and Bond at the same time. For my money, the moment he entered the frame, a last-minute curveball, it wasn’t even a contest. With his dangerous edge and gloriously weird streak, he was by far the most intriguing candidate, and may be precisely the fillip the franchise needs.
+
+
+
+For six decades, Bond made stars rather than hiring them.]]></description>
+            <link>https://spectator.com/article/robert-pattinson-daring-choice-james-bond/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/robert-pattinson-daring-choice-james-bond/?edition=us</guid>
+            <dc:creator><![CDATA[Patrick Smith]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 22:39:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Republicans need to be rebellious]]></title>
             <description><![CDATA[The new normal]]></description>
@@ -1026,11 +1038,7 @@
         </item>
         <item>
             <title><![CDATA[The RA’s triumphant new exhibition]]></title>
-            <description><![CDATA[What a show at the Royal Academy. You go straight into a room of Cezannes and Renoirs and that is how it continues, with one coup de théâtre after another, at the hands of Monet, Signac, Braque, Matisse, Derain, Bonnard and more, all of them in thrall to the astonishing light and color of the Côte d’Azur.
-
-
-
-It hadn’t always been like that. These artists, Cezanne excepted, came from northern France and knew nothing about the southern coast. What changed it all was the completion of the Paris-Lyon-Méditerranée railway in 1860, which suddenly made this spectacular seaside accessible. Cezanne was from neighboring Provence, and he arrived on the coast before anyone else.]]></description>
+            <description><![CDATA[By Robin Simon]]></description>
             <link>https://spectator.com/article/the-ras-triumphant-new-exhibition/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/the-ras-triumphant-new-exhibition/?edition=us</guid>
             <dc:creator><![CDATA[Robin Simon]]></dc:creator>
@@ -4003,14 +4011,6 @@ It hadn’t always been like that. These artists, Cezanne excepted, came from no
             <guid isPermaLink="true">https://spectator.com/article/know-little-raf-fairford-affair/?edition=us</guid>
             <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 22:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A little less self-expression, please]]></title>
-            <description><![CDATA[By Grayson Quay]]></description>
-            <link>https://spectator.com/article/a-little-less-self-expression-please/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-little-less-self-expression-please/?edition=us</guid>
-            <dc:creator><![CDATA[Grayson Quay]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 18:59:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

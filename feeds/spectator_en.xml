@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 23:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 03:56:41 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 23:16:43 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 03:56:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The truth about the links between Bylines Network and Byline Times]]></title>
+            <description><![CDATA[By Andrew Gilligan]]></description>
+            <link>https://spectator.com/article/the-truth-about-the-links-between-bylines-network-and-byline-times/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-the-links-between-bylines-network-and-byline-times/</guid>
+            <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 03:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this to blame for Europe’s latest migrant crisis?]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/is-this-to-blame-for-europes-latest-migrant-crisis/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-this-to-blame-for-europes-latest-migrant-crisis/</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 03:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rape scandal no one wants to talk about]]></title>
+            <description><![CDATA[By Patrick West]]></description>
+            <link>https://spectator.com/article/the-rape-scandal-no-one-wants-to-talk-about/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-rape-scandal-no-one-wants-to-talk-about/</guid>
+            <dc:creator><![CDATA[Patrick West]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 03:56:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get ready for the genetically modified hounds of hell]]></title>
             <description><![CDATA[By Mary Wakefield]]></description>
@@ -3998,30 +4022,6 @@ This is no longer true. State spending continues to grow, yet large parts of the
             <link>https://spectator.com/article/comparing-sally-rooney-to-salman-rushdie-is-beyond-risible/</link>
             <guid isPermaLink="true">https://spectator.com/article/comparing-sally-rooney-to-salman-rushdie-is-beyond-risible/</guid>
             <dc:creator><![CDATA[Tom Slater]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 08:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fashion has never had a conscience]]></title>
-            <description><![CDATA[By Julie Burchill]]></description>
-            <link>https://spectator.com/article/fashion-has-never-been-socially-conscious/</link>
-            <guid isPermaLink="true">https://spectator.com/article/fashion-has-never-been-socially-conscious/</guid>
-            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 08:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who’s who in Jean-Luc Mélenchon’s revolutionary guard]]></title>
-            <description><![CDATA[By Louis Sarkozy]]></description>
-            <link>https://spectator.com/article/whos-who-in-jean-luc-melenchons-revolutionary-guard/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/whos-who-in-jean-luc-melenchons-revolutionary-guard/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Louis Sarkozy]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 08:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You can thank The Spectator for the letter box]]></title>
-            <description><![CDATA[Mail bonding]]></description>
-            <link>https://spectator.com/article/you-can-thank-the-spectator-for-the-letter-box/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/you-can-thank-the-spectator-for-the-letter-box/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Christopher Howse]]></dc:creator>
             <pubDate>Fri, 23 Oct 2026 08:06:34 GMT</pubDate>
         </item>
     </channel>

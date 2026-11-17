@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 13:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 22:05:28 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 13:59:56 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 22:05:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Labour is running out of time to prepare Britain for war]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/labour-is-running-out-of-time-to-prepare-britain-for-war/</link>
+            <guid isPermaLink="true">https://spectator.com/article/labour-is-running-out-of-time-to-prepare-britain-for-war/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 22:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TG Jones can finally be put out of its misery]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/tg-jones-can-finally-be-put-out-of-its-misery/</link>
+            <guid isPermaLink="true">https://spectator.com/article/tg-jones-can-finally-be-put-out-of-its-misery/</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 22:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is music going to be replaced by AI slop?]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/is-music-going-to-be-replaced-by-ai-slop/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-music-going-to-be-replaced-by-ai-slop/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 22:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The great paradox of Western civilisation]]></title>
+            <description><![CDATA[By Eliezer Zobin]]></description>
+            <link>https://spectator.com/article/the-great-paradox-of-western-civilisation/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-great-paradox-of-western-civilisation/</guid>
+            <dc:creator><![CDATA[Eliezer Zobin]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 22:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Romford riot shows multiculturalism has failed]]></title>
+            <description><![CDATA[By Brendan O’Neill]]></description>
+            <link>https://spectator.com/article/the-romford-riot-shows-multiculturalism-has-failed/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-romford-riot-shows-multiculturalism-has-failed/</guid>
+            <dc:creator><![CDATA[Brendan O’Neill]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 22:05:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The unspeakable truth about Russell Brand]]></title>
             <description><![CDATA[By Julie Burchill]]></description>
@@ -50,7 +90,7 @@
         </item>
         <item>
             <title><![CDATA[Why I won’t miss Emma Barnett on the Today programme]]></title>
-            <description><![CDATA[By Gareth Roberts]]></description>
+            <description><![CDATA[Media]]></description>
             <link>https://spectator.com/article/why-i-wont-miss-emma-barnett-on-the-today-programme/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-i-wont-miss-emma-barnett-on-the-today-programme/</guid>
             <dc:creator><![CDATA[Gareth Roberts]]></dc:creator>
@@ -66,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Has Hilary Cass just blown up the conversion therapy bill?]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[Gender divide]]></description>
             <link>https://spectator.com/article/has-hilary-cass-just-blown-up-the-conversion-therapy-bill/</link>
             <guid isPermaLink="true">https://spectator.com/article/has-hilary-cass-just-blown-up-the-conversion-therapy-bill/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -138,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[What will Britain sacrifice to pay for Burnham’s EU reset?]]></title>
-            <description><![CDATA[Brexit]]></description>
+            <description><![CDATA[By John Keiger]]></description>
             <link>https://spectator.com/article/what-will-britain-sacrifice-to-pay-for-burnhams-eu-reset/</link>
             <guid isPermaLink="true">https://spectator.com/article/what-will-britain-sacrifice-to-pay-for-burnhams-eu-reset/</guid>
             <dc:creator><![CDATA[John Keiger]]></dc:creator>
@@ -146,7 +186,7 @@
         </item>
         <item>
             <title><![CDATA[Putin will not get his Yalta moment]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
+            <description><![CDATA[Shenzhen]]></description>
             <link>https://spectator.com/article/putin-will-not-get-his-yalta-moment/</link>
             <guid isPermaLink="true">https://spectator.com/article/putin-will-not-get-his-yalta-moment/</guid>
             <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
@@ -250,7 +290,7 @@
         </item>
         <item>
             <title><![CDATA[I know why Tommy Robinson’s grooming gang book is a bestseller]]></title>
-            <description><![CDATA[Cover up?]]></description>
+            <description><![CDATA[By Rosie Lewis]]></description>
             <link>https://spectator.com/article/i-know-why-tommy-robinsons-grooming-gang-book-is-a-bestseller/</link>
             <guid isPermaLink="true">https://spectator.com/article/i-know-why-tommy-robinsons-grooming-gang-book-is-a-bestseller/</guid>
             <dc:creator><![CDATA[Rosie Lewis]]></dc:creator>
@@ -3983,46 +4023,6 @@ This is no longer true. State spending continues to grow, yet large parts of the
             <guid isPermaLink="true">https://spectator.com/article/nigel-farage-kemi-has-had-the-easiest-ride-of-any-tory-leader-in-my-lifetime/?homepage-tracking=magazine_minor-featured-1</guid>
             <dc:creator><![CDATA[James Heale]]></dc:creator>
             <pubDate>Sun, 25 Oct 2026 10:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Remembering the Big Bang, forty years on]]></title>
-            <description><![CDATA[Nice work]]></description>
-            <link>https://spectator.com/article/remembering-the-big-bang-forty-years-on/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/remembering-the-big-bang-forty-years-on/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Alastair Irvine]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 10:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The myth of the Emerald Isle]]></title>
-            <description><![CDATA[Ireland]]></description>
-            <link>https://spectator.com/article/the-myth-of-the-emerald-isle/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-myth-of-the-emerald-isle/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Ben Goldsmith]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 10:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Wild Swimmer]]></title>
-            <description><![CDATA[Portrait Of]]></description>
-            <link>https://spectator.com/article/the-wild-swimmer/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wild-swimmer/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Anonymous]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 10:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burghart: Veterans’ Bill risks Britain’s place in the world]]></title>
-            <description><![CDATA[By James Heale]]></description>
-            <link>https://spectator.com/article/burghart-veterans-bill-risks-britains-place-in-the-world/</link>
-            <guid isPermaLink="true">https://spectator.com/article/burghart-veterans-bill-risks-britains-place-in-the-world/</guid>
-            <dc:creator><![CDATA[James Heale]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 10:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Wild Swimmer]]></title>
-            <description><![CDATA[By Anonymous]]></description>
-            <link>https://spectator.com/article/the-wild-swimmer/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wild-swimmer/</guid>
-            <dc:creator><![CDATA[Anonymous]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 05:32:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

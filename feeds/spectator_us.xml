@@ -4,13 +4,73 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 03:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:39:19 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 03:58:07 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 12:39:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The noise of art]]></title>
+            <description><![CDATA[By Lucinda Bredin]]></description>
+            <link>https://spectator.com/article/the-noise-of-art/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-noise-of-art/?edition=us</guid>
+            <dc:creator><![CDATA[Lucinda Bredin]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why people loved Caesar]]></title>
+            <description><![CDATA[By Roger Kimball]]></description>
+            <link>https://spectator.com/article/why-people-loved-caesar/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-people-loved-caesar/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Roger Kimball]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump was right to promote Stephen Miller]]></title>
+            <description><![CDATA[Chief among them]]></description>
+            <link>https://spectator.com/article/donald-trump-right-promote-stephen-miller/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/donald-trump-right-promote-stephen-miller/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Ann Coulter]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The genius of Richard Avedon]]></title>
+            <description><![CDATA[Film]]></description>
+            <link>https://spectator.com/article/the-genius-of-richard-avedon/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-genius-of-richard-avedon/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Julie Kavanagh]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A new center ground is beginning to emerge]]></title>
+            <description><![CDATA[By Travis Aaroe]]></description>
+            <link>https://spectator.com/article/a-new-center-ground-is-beginning-to-emerge/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/a-new-center-ground-is-beginning-to-emerge/?edition=us</guid>
+            <dc:creator><![CDATA[Travis Aaroe]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the mob tried to silence Nathan Cofnas at Oxford]]></title>
+            <description><![CDATA[By Tom Slater]]></description>
+            <link>https://spectator.com/article/how-the-mob-tried-to-silence-nathan-cofnas-at-oxford/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-the-mob-tried-to-silence-nathan-cofnas-at-oxford/?edition=us</guid>
+            <dc:creator><![CDATA[Tom Slater]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is music going to be replaced by AI slop?]]></title>
+            <description><![CDATA[By John Power]]></description>
+            <link>https://spectator.com/article/is-music-going-to-be-replaced-by-ai-slop/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-music-going-to-be-replaced-by-ai-slop/?edition=us</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:39:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Robert Pattinson is the most interesting actor to play Bond]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
+            <description><![CDATA[It has been something of a vintage year for Robert Pattinson, the actor once popularly known as R-Patz. He has released three pictures so far in 2026, including The Drama, The Odyssey and Primetime, and will round out the year with his villainous performance in the sure-to-be-massive Dune: Part Three. All this would be enough for the Krug to be popped in the Pattinson household under normal circumstances, but the news that he is to become the seventh actor to play James Bond in the 007 franchise has dwarfed all the other, considerable achievements.
+
+
+
+That Pattinson is by far the most famous actor to have played Bond has attracted a great deal of attention and interest, mostly but not universally positive.]]></description>
             <link>https://spectator.com/article/why-robert-pattinson-most-interesting-actor-play-bond/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/why-robert-pattinson-most-interesting-actor-play-bond/?edition=us</guid>
             <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
@@ -3955,62 +4015,6 @@ As it was, Governor DeSantis’s Florida was an almost solitary bright spot in t
             <guid isPermaLink="true">https://spectator.com/article/is-peter-thiel-right-about-the-problem-of-trumps-presidency/?edition=us</guid>
             <dc:creator><![CDATA[John Fund]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 14:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the murky world of Tether]]></title>
-            <description><![CDATA[By Daniel Beurthe]]></description>
-            <link>https://spectator.com/article/inside-the-murky-world-of-tether/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/inside-the-murky-world-of-tether/?edition=us</guid>
-            <dc:creator><![CDATA[Daniel Beurthe]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 14:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Michael Jackson biopic ignores half his life]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/michael-jackson-is-christlike-in-new-biopic/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/michael-jackson-is-christlike-in-new-biopic/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 07:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Playboy pin-up to prohibitionist: the man taking on British gambling]]></title>
-            <description><![CDATA[By Rupert Hawksley]]></description>
-            <link>https://spectator.com/article/from-playboy-pin-up-to-prohibitionist-the-man-taking-on-british-gambling/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/from-playboy-pin-up-to-prohibitionist-the-man-taking-on-british-gambling/?edition=us</guid>
-            <dc:creator><![CDATA[Rupert Hawksley]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 07:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the church of pipe smoking]]></title>
-            <description><![CDATA[Pipe dreams]]></description>
-            <link>https://spectator.com/article/why-pipe-smoking-matters/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-pipe-smoking-matters/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Joseph Morris]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 22:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cornell brings back #MeToo]]></title>
-            <description><![CDATA[By Monica Sobchak]]></description>
-            <link>https://spectator.com/article/cornell-brings-back-metoo/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/cornell-brings-back-metoo/?edition=us</guid>
-            <dc:creator><![CDATA[Monica Sobchak]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 22:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Francesca Hong’s defeat won’t stop the DSA]]></title>
-            <description><![CDATA[By Freddy Gray]]></description>
-            <link>https://spectator.com/article/francesca-hongs-defeat-wont-stop-the-dsa/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/francesca-hongs-defeat-wont-stop-the-dsa/?edition=us</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 17:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the church of pipe smoking]]></title>
-            <description><![CDATA[By Joseph Morris]]></description>
-            <link>https://spectator.com/article/why-pipe-smoking-matters/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-pipe-smoking-matters/?edition=us</guid>
-            <dc:creator><![CDATA[Joseph Morris]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 17:12:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

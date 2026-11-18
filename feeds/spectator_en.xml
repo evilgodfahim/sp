@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 12:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 21:00:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 12:39:23 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 21:00:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Xi’s APEC summit is a diplomatic obstacle course]]></title>
+            <description><![CDATA[By Ian Williams]]></description>
+            <link>https://spectator.com/article/xis-apec-summit-is-a-diplomatic-obstacle-course/</link>
+            <guid isPermaLink="true">https://spectator.com/article/xis-apec-summit-is-a-diplomatic-obstacle-course/</guid>
+            <dc:creator><![CDATA[Ian Williams]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 21:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: ‘Gaza’ MP attempts to smear Habibi at PMQs]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/watch-gaza-mp-attempts-to-smear-habibi-at-pmqs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/watch-gaza-mp-attempts-to-smear-habibi-at-pmqs/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 21:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch and Burnham clash over welfare at PMQs]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/badenoch-and-burnham-clash-over-welfare-at-pmqs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/badenoch-and-burnham-clash-over-welfare-at-pmqs/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 21:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham’s mask slipped at PMQs]]></title>
+            <description><![CDATA[By Madeline Grant]]></description>
+            <link>https://spectator.com/article/andy-burnhams-mask-slipped-at-pmqs/</link>
+            <guid isPermaLink="true">https://spectator.com/article/andy-burnhams-mask-slipped-at-pmqs/</guid>
+            <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 21:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why did the BBC allow Green activists onto Question Time?]]></title>
+            <description><![CDATA[Reality Check]]></description>
+            <link>https://spectator.com/article/why-did-the-bbc-allow-green-activists-onto-question-time/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-did-the-bbc-allow-green-activists-onto-question-time/</guid>
+            <dc:creator><![CDATA[John Power]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 21:00:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Season of spice: a selection of cook books]]></title>
             <description><![CDATA[Books]]></description>
@@ -34,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Why Gen Z Catholics are yearning for traditional Mass]]></title>
-            <description><![CDATA[Religion]]></description>
+            <description><![CDATA[By Stephen Daisley]]></description>
             <link>https://spectator.com/article/why-gen-z-catholics-are-yearning-for-traditional-mass/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-gen-z-catholics-are-yearning-for-traditional-mass/</guid>
             <dc:creator><![CDATA[Stephen Daisley]]></dc:creator>
@@ -82,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[How the mob tried to silence Nathan Cofnas at Oxford]]></title>
-            <description><![CDATA[By Tom Slater]]></description>
+            <description><![CDATA[Free speech]]></description>
             <link>https://spectator.com/article/how-the-mob-tried-to-silence-nathan-cofnas-at-oxford/</link>
             <guid isPermaLink="true">https://spectator.com/article/how-the-mob-tried-to-silence-nathan-cofnas-at-oxford/</guid>
             <dc:creator><![CDATA[Tom Slater]]></dc:creator>
@@ -98,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Why doesn’t the state care about safeguarding in Piddington?]]></title>
-            <description><![CDATA[Risk assessment]]></description>
+            <description><![CDATA[By Rosie Lewis]]></description>
             <link>https://spectator.com/article/why-doesnt-the-state-care-about-safeguarding-in-piddington/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-doesnt-the-state-care-about-safeguarding-in-piddington/</guid>
             <dc:creator><![CDATA[Rosie Lewis]]></dc:creator>
@@ -3979,46 +4019,6 @@ This is no longer true. State spending continues to grow, yet large parts of the
             <guid isPermaLink="true">https://spectator.com/article/the-bbc-can-no-longer-ignore-its-anti-semitism-problem/</guid>
             <dc:creator><![CDATA[Stephen Pollard]]></dc:creator>
             <pubDate>Mon, 26 Oct 2026 17:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s no democracy like Israeli democracy]]></title>
-            <description><![CDATA[By Jonathan Sacerdoti]]></description>
-            <link>https://spectator.com/article/theres-no-democracy-like-israeli-democracy/</link>
-            <guid isPermaLink="true">https://spectator.com/article/theres-no-democracy-like-israeli-democracy/</guid>
-            <dc:creator><![CDATA[Jonathan Sacerdoti]]></dc:creator>
-            <pubDate>Mon, 26 Oct 2026 11:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the ‘Godzilla’ El Niño means for Britain]]></title>
-            <description><![CDATA[The great storm]]></description>
-            <link>https://spectator.com/article/the-great-storm-what-the-godzilla-el-nino-means-for-britain/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-great-storm-what-the-godzilla-el-nino-means-for-britain/</guid>
-            <dc:creator><![CDATA[Peter Frankopan]]></dc:creator>
-            <pubDate>Mon, 26 Oct 2026 11:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Burnham is a people-pleaser and that’s a problem]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/andy-burnham-is-a-people-pleaser-and-thats-a-problem/</link>
-            <guid isPermaLink="true">https://spectator.com/article/andy-burnham-is-a-people-pleaser-and-thats-a-problem/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Mon, 26 Oct 2026 11:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The spectre of civil war haunts France]]></title>
-            <description><![CDATA[Broken state]]></description>
-            <link>https://spectator.com/article/the-spectre-of-civil-war-haunts-france/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-spectre-of-civil-war-haunts-france/</guid>
-            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
-            <pubDate>Mon, 26 Oct 2026 11:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lula has broken Brazil]]></title>
-            <description><![CDATA[By Arnout Nuijt]]></description>
-            <link>https://spectator.com/article/lula-has-broken-brazil/</link>
-            <guid isPermaLink="true">https://spectator.com/article/lula-has-broken-brazil/</guid>
-            <dc:creator><![CDATA[Arnout Nuijt]]></dc:creator>
-            <pubDate>Mon, 26 Oct 2026 11:55:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

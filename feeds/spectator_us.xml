@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 19:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 01:33:18 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Nov 2026 19:18:37 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 01:33:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Derek Chauvin became America’s scapegoat]]></title>
+            <description><![CDATA[By T.J. Harker]]></description>
+            <link>https://spectator.com/article/how-derek-chauvin-became-americas-scapegoat/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-derek-chauvin-became-americas-scapegoat/?edition=us</guid>
+            <dc:creator><![CDATA[T.J. Harker]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 01:33:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[George ‘R&R’ Martin takes it easy]]></title>
             <description><![CDATA[By Alexander Larman]]></description>
@@ -4002,14 +4010,6 @@ As it was, Governor DeSantis’s Florida was an almost solitary bright spot in t
             <link>https://spectator.com/article/for-its-latest-masters-of-art-series-montblanc-channels-the-vibrant-and-expressive-works-of-henri-matisse/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/for-its-latest-masters-of-art-series-montblanc-channels-the-vibrant-and-expressive-works-of-henri-matisse/?edition=us</guid>
             <dc:creator><![CDATA[Peter Howarth]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:57:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get ready to flee socialist America]]></title>
-            <description><![CDATA[By Michael P. Gibson]]></description>
-            <link>https://spectator.com/article/get-ready-flee-socialist-america-peter-thiel/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/get-ready-flee-socialist-america-peter-thiel/?edition=us</guid>
-            <dc:creator><![CDATA[Michael P. Gibson]]></dc:creator>
             <pubDate>Sun, 04 Oct 2026 12:57:41 GMT</pubDate>
         </item>
     </channel>

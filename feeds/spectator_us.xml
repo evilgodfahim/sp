@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 07:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 15:48:33 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Nov 2026 07:52:46 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 15:48:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[My house in the country is falling to pieces]]></title>
+            <description><![CDATA[By Gage Klipper]]></description>
+            <link>https://spectator.com/article/house-country-collapsed/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/house-country-collapsed/?edition=us</guid>
+            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 15:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As Cuba collapses around me, I visited the zoo]]></title>
+            <description><![CDATA[By Ruaridh Nicoll]]></description>
+            <link>https://spectator.com/article/cuba-collapses-around-visited-zoo/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/cuba-collapses-around-visited-zoo/?edition=us</guid>
+            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 15:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the internet turn us into perverts?]]></title>
+            <description><![CDATA[By Katherine Dee]]></description>
+            <link>https://spectator.com/article/does-the-internet-turn-us-into-perverts/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/does-the-internet-turn-us-into-perverts/?edition=us</guid>
+            <dc:creator><![CDATA[Katherine Dee]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 15:48:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI is a dangerous philosopher]]></title>
             <description><![CDATA[By Jules Evans]]></description>
@@ -3986,30 +4010,6 @@ As it was, Governor DeSantis’s Florida was an almost solitary bright spot in t
             <link>https://spectator.com/article/like-get-sick-cuba/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/like-get-sick-cuba/?edition=us</guid>
             <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 01:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The wealthy person’s guide to fleeing Britain]]></title>
-            <description><![CDATA[By Michael Simmons]]></description>
-            <link>https://spectator.com/article/the-wealthy-persons-guide-to-fleeing-britain/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-wealthy-persons-guide-to-fleeing-britain/?edition=us</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 01:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sánchez is heading for defeat in Spain’s snap election]]></title>
-            <description><![CDATA[By Jim Lawley]]></description>
-            <link>https://spectator.com/article/it-will-be-hard-for-sanchez-to-avoid-defeat-in-spains-election/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/it-will-be-hard-for-sanchez-to-avoid-defeat-in-spains-election/?edition=us</guid>
-            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 01:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cornell Seven and the problem with consent]]></title>
-            <description><![CDATA[By Joanna Williams]]></description>
-            <link>https://spectator.com/article/the-cornell-seven-and-the-problem-with-consent/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-cornell-seven-and-the-problem-with-consent/?edition=us</guid>
-            <dc:creator><![CDATA[Joanna Williams]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 01:02:48 GMT</pubDate>
         </item>
     </channel>

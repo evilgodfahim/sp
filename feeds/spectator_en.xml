@@ -4,10 +4,98 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 00:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 07:52:53 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Nov 2026 00:31:58 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why women don’t trust the police]]></title>
+            <description><![CDATA[By Julie Burchill]]></description>
+            <link>https://spectator.com/article/why-women-dont-trust-the-police/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-women-dont-trust-the-police/</guid>
+            <dc:creator><![CDATA[Julie Burchill]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has Burnham bottled it?]]></title>
+            <description><![CDATA[By William Atkinson]]></description>
+            <link>https://spectator.com/article/has-burnham-bottled-it/</link>
+            <guid isPermaLink="true">https://spectator.com/article/has-burnham-bottled-it/</guid>
+            <dc:creator><![CDATA[William Atkinson]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has the air fryer had its day?]]></title>
+            <description><![CDATA[By Zoe Strimpel]]></description>
+            <link>https://spectator.com/article/has-the-air-fryer-had-its-day/</link>
+            <guid isPermaLink="true">https://spectator.com/article/has-the-air-fryer-had-its-day/</guid>
+            <dc:creator><![CDATA[Zoe Strimpel]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The bottom line: no people, no money]]></title>
+            <description><![CDATA[By Lionel Shriver]]></description>
+            <link>https://spectator.com/article/the-bottom-line-no-people-no-money/?homepage-tracking=magazine_minor-featured-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-bottom-line-no-people-no-money/?homepage-tracking=magazine_minor-featured-1</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The wicked theft of the Aladdin story]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/the-wicked-theft-of-the-aladdin-story/?homepage-tracking=magazine_minor-article-1</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-wicked-theft-of-the-aladdin-story/?homepage-tracking=magazine_minor-article-1</guid>
+            <dc:creator><![CDATA[Clemmie Read]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why ‘peace in our time’ was Neville Chamberlain’s only option]]></title>
+            <description><![CDATA[Books]]></description>
+            <link>https://spectator.com/article/why-peace-in-our-time-was-neville-chamberlains-only-option/?homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-peace-in-our-time-was-neville-chamberlains-only-option/?homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Simon Heffer]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The dangerous fantasy of GTA VI]]></title>
+            <description><![CDATA[Playing games]]></description>
+            <link>https://spectator.com/article/the-dangerous-fantasy-of-gta-vi/?homepage-tracking=magazine_minor-article-3</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-dangerous-fantasy-of-gta-vi/?homepage-tracking=magazine_minor-article-3</guid>
+            <dc:creator><![CDATA[Rob Henderson]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We’re Schrödinger’s overstayers in the EU – and we’re not alone]]></title>
+            <description><![CDATA[By Kris Hicks]]></description>
+            <link>https://spectator.com/article/were-schrodingers-overstayers-in-the-eu-and-were-not-alone/</link>
+            <guid isPermaLink="true">https://spectator.com/article/were-schrodingers-overstayers-in-the-eu-and-were-not-alone/</guid>
+            <dc:creator><![CDATA[Kris Hicks]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Pat Cummins telling the truth about sandpapergate?]]></title>
+            <description><![CDATA[By Mike Jakeman]]></description>
+            <link>https://spectator.com/article/is-pat-cummins-telling-the-truth-about-sandpapergate/</link>
+            <guid isPermaLink="true">https://spectator.com/article/is-pat-cummins-telling-the-truth-about-sandpapergate/</guid>
+            <dc:creator><![CDATA[Mike Jakeman]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is Vox doing so well in Spain?]]></title>
+            <description><![CDATA[By Jim Lawley]]></description>
+            <link>https://spectator.com/article/why-is-vox-doing-so-well-in-spain/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-vox-doing-so-well-in-spain/</guid>
+            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reintroducing national service is a terrible idea]]></title>
+            <description><![CDATA[By Alexander Baker]]></description>
+            <link>https://spectator.com/article/reintroducing-national-service-would-be-a-terrible-idea/</link>
+            <guid isPermaLink="true">https://spectator.com/article/reintroducing-national-service-would-be-a-terrible-idea/</guid>
+            <dc:creator><![CDATA[Alexander Baker]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:52:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burnham’s Brexit dream collides with reality]]></title>
             <description><![CDATA[By Tim Shipman]]></description>
@@ -58,13 +146,7 @@
         </item>
         <item>
             <title><![CDATA[My ‘ten to follow’ jumps horses for 2026-27]]></title>
-            <description><![CDATA[This column aims to please, so here, at the request of reader Nick B, is my ‘ten to follow’ – horses which I hope will pay their way over the coming months of the jumps season. The majority are relatively young horses, hopefully on the up, but there are a few experienced chasers thrown into the mix too.
-
-
-
-
-
-There are no horses from the leading yards of Willie Mullins, Dan Skelton and Nicky Henderson. Of course, all three men are brilliant trainers, but their best horses are rarely value to back. Instead, I have tried to pinpoint some less obvious equine talent and the horses below in my ‘ten to follow’ are listed in alphabetical order.]]></description>
+            <description><![CDATA[By Penworthy]]></description>
             <link>https://spectator.com/article/my-ten-to-follow-jumps-horses-for-2026-27/</link>
             <guid isPermaLink="true">https://spectator.com/article/my-ten-to-follow-jumps-horses-for-2026-27/</guid>
             <dc:creator><![CDATA[Penworthy]]></dc:creator>
@@ -3953,94 +4035,6 @@ This is no longer true. State spending continues to grow, yet large parts of the
             <link>https://spectator.com/article/sod-the-state-the-middle-class-race-to-go-private/</link>
             <guid isPermaLink="true">https://spectator.com/article/sod-the-state-the-middle-class-race-to-go-private/</guid>
             <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump will never be a lame duck]]></title>
-            <description><![CDATA[Donald unchained]]></description>
-            <link>https://spectator.com/article/donald-trump-will-never-be-a-lame-duck/</link>
-            <guid isPermaLink="true">https://spectator.com/article/donald-trump-will-never-be-a-lame-duck/</guid>
-            <dc:creator><![CDATA[Freddy Gray]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Netanyahu pull off one more great act of survival?]]></title>
-            <description><![CDATA[By Noa Hoffman]]></description>
-            <link>https://spectator.com/article/can-netanyahu-pull-off-one-more-great-act-of-survival/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-netanyahu-pull-off-one-more-great-act-of-survival/</guid>
-            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The revolutionary past of Miatta Fahnbulleh’s father]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/the-revolutionary-past-of-miatta-fahnbullehs-father/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-revolutionary-past-of-miatta-fahnbullehs-father/</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump is cynical and shocking about Ukraine – but is he also right?]]></title>
-            <description><![CDATA[By Owen Matthews]]></description>
-            <link>https://spectator.com/article/trump-is-cynical-and-shocking-about-ukraine-but-is-he-also-right/</link>
-            <guid isPermaLink="true">https://spectator.com/article/trump-is-cynical-and-shocking-about-ukraine-but-is-he-also-right/</guid>
-            <dc:creator><![CDATA[Owen Matthews]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In praise of Piedmontese wines]]></title>
-            <description><![CDATA[Authors hate it when reviewers refer to their book as a ‘weighty tome’ as it implies that the contents are going to be about as much fun as Deuteronomy. So I should make it clear that while Tim Hayward’s The Cocktail Hour (Quadrille, £20) is extremely weighty, that’s because the production values are off the scale. The monks at Lindisfarne could scarcely have put more effort into illuminating their work. And while the paper is heavy, Hayward’s writing is as refreshing as a perfectly made dry martini. There are hundreds of cocktail books out there, but none combine Hayward’s erudition, obsession and sense of humour. He is at once deadly serious and very, very funny. It’s the best book on the subject since Bernard DeVoto’s 1948 book The Hour.]]></description>
-            <link>https://spectator.com/article/in-praise-of-piedmontese-wines/</link>
-            <guid isPermaLink="true">https://spectator.com/article/in-praise-of-piedmontese-wines/</guid>
-            <dc:creator><![CDATA[Henry Jeffreys]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One for the Prefab Sprout diehards]]></title>
-            <description><![CDATA[By John Niven]]></description>
-            <link>https://spectator.com/article/one-for-the-prefab-sprout-diehards/</link>
-            <guid isPermaLink="true">https://spectator.com/article/one-for-the-prefab-sprout-diehards/</guid>
-            <dc:creator><![CDATA[John Niven]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A fascinating curiosity at the National Theatre]]></title>
-            <description><![CDATA[By Lloyd Evans]]></description>
-            <link>https://spectator.com/article/a-fascinating-curiosity-at-the-national-theatre/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-fascinating-curiosity-at-the-national-theatre/</guid>
-            <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Singsong vapidity: The Piano Teacher of Montparnasse, by Heather Morris, reviewed]]></title>
-            <description><![CDATA[By Tanya Gold]]></description>
-            <link>https://spectator.com/article/singsong-vapidity-the-piano-teacher-of-montparnasse-by-heather-morris-reviewed/</link>
-            <guid isPermaLink="true">https://spectator.com/article/singsong-vapidity-the-piano-teacher-of-montparnasse-by-heather-morris-reviewed/</guid>
-            <dc:creator><![CDATA[Tanya Gold]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can we fool ourselves that chatbots feel anything for us?]]></title>
-            <description><![CDATA[By Mary Wakefield]]></description>
-            <link>https://spectator.com/article/how-can-we-fool-ourselves-that-chatbots-feel-anything-for-us/</link>
-            <guid isPermaLink="true">https://spectator.com/article/how-can-we-fool-ourselves-that-chatbots-feel-anything-for-us/</guid>
-            <dc:creator><![CDATA[Mary Wakefield]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adultery is TV drama by numbers – and I’m hooked]]></title>
-            <description><![CDATA[By James Walton]]></description>
-            <link>https://spectator.com/article/adultery-is-tv-drama-by-numbers-and-im-hooked/</link>
-            <guid isPermaLink="true">https://spectator.com/article/adultery-is-tv-drama-by-numbers-and-im-hooked/</guid>
-            <dc:creator><![CDATA[James Walton]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why a frothy Jane Austen adaptation is always imminent]]></title>
-            <description><![CDATA[By Laurie Penny]]></description>
-            <link>https://spectator.com/article/why-a-frothy-jane-austen-adaptation-is-always-imminent/</link>
-            <guid isPermaLink="true">https://spectator.com/article/why-a-frothy-jane-austen-adaptation-is-always-imminent/</guid>
-            <dc:creator><![CDATA[Laurie Penny]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
         </item>
     </channel>

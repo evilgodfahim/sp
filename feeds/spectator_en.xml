@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 18:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 00:31:58 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Nov 2026 18:10:02 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 00:31:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Burnham’s Brexit dream collides with reality]]></title>
+            <description><![CDATA[By Tim Shipman]]></description>
+            <link>https://spectator.com/article/burnhams-brexit-dream-collides-with-reality/</link>
+            <guid isPermaLink="true">https://spectator.com/article/burnhams-brexit-dream-collides-with-reality/</guid>
+            <dc:creator><![CDATA[Tim Shipman]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 00:31:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cleverly gets the band back together]]></title>
             <description><![CDATA[By Steerpike]]></description>
@@ -4033,14 +4041,6 @@ This is no longer true. State spending continues to grow, yet large parts of the
             <link>https://spectator.com/article/why-a-frothy-jane-austen-adaptation-is-always-imminent/</link>
             <guid isPermaLink="true">https://spectator.com/article/why-a-frothy-jane-austen-adaptation-is-always-imminent/</guid>
             <dc:creator><![CDATA[Laurie Penny]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can racing survive Labour’s gambling tax rises?]]></title>
-            <description><![CDATA[By Charlie Brooks]]></description>
-            <link>https://spectator.com/article/can-racing-survive-labours-gambling-tax-rises/</link>
-            <guid isPermaLink="true">https://spectator.com/article/can-racing-survive-labours-gambling-tax-rises/</guid>
-            <dc:creator><![CDATA[Charlie Brooks]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
         </item>
     </channel>

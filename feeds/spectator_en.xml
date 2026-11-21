@@ -4,10 +4,26 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 15:48:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 21:21:23 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Nov 2026 15:48:39 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 21:21:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The world is a much poorer place because of John Maynard Keynes]]></title>
+            <description><![CDATA[By Toby Young]]></description>
+            <link>https://spectator.com/article/the-world-is-a-much-poorer-place-because-of-john-maynard-keynes/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-world-is-a-much-poorer-place-because-of-john-maynard-keynes/</guid>
+            <dc:creator><![CDATA[Toby Young]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 21:21:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The bottom line: no people, no money]]></title>
+            <description><![CDATA[By Lionel Shriver]]></description>
+            <link>https://spectator.com/article/the-bottom-line-no-people-no-money/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-bottom-line-no-people-no-money/</guid>
+            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 21:21:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why women don’t trust the police]]></title>
             <description><![CDATA[By Julie Burchill]]></description>
@@ -4012,30 +4028,6 @@ The early release scheme was meant to increase prison capacity. But it isn’t w
             <guid isPermaLink="true">https://spectator.com/article/the-revolutionary-past-of-miatta-fahnbullehs-father/?homepage-tracking=magazine-article-3</guid>
             <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What future is there for the British village?]]></title>
-            <description><![CDATA[Books]]></description>
-            <link>https://spectator.com/article/what-future-is-there-for-the-british-village/?homepage-tracking=magazine-article-4</link>
-            <guid isPermaLink="true">https://spectator.com/article/what-future-is-there-for-the-british-village/?homepage-tracking=magazine-article-4</guid>
-            <dc:creator><![CDATA[Stephen Bayley]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sod the state: the middle-class race to go private]]></title>
-            <description><![CDATA[Postwar Britain can be defined by a bargain made with its middle class: pay for public services but benefit from them too.
-
-
-
-Private education has always been the choice of a very small minority; private healthcare was reserved for the wealthiest and those whose employers paid for it. Middle England was content to send their children to the same schools as everyone else and use the same GPs, hospitals and dentists.
-
-
-
-This is no longer true. State spending continues to grow, yet large parts of the population now pay privately to supplement what their taxes have already provided.]]></description>
-            <link>https://spectator.com/article/sod-the-state-the-middle-class-race-to-go-private/</link>
-            <guid isPermaLink="true">https://spectator.com/article/sod-the-state-the-middle-class-race-to-go-private/</guid>
-            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 01:25:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

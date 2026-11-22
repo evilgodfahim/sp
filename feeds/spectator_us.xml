@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 01:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 09:05:40 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Nov 2026 01:49:09 GMT</pubDate>
+        <pubDate>Sun, 22 Nov 2026 09:05:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is Vox doing so well in Spain?]]></title>
+            <description><![CDATA[By Jim Lawley]]></description>
+            <link>https://spectator.com/article/why-is-vox-doing-so-well-in-spain/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-is-vox-doing-so-well-in-spain/?edition=us</guid>
+            <dc:creator><![CDATA[Jim Lawley]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 09:05:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My house in the country is falling to pieces]]></title>
             <description><![CDATA[By Gage Klipper]]></description>
@@ -4002,14 +4010,6 @@ As it was, Governor DeSantis’s Florida was an almost solitary bright spot in t
             <link>https://spectator.com/article/jon-ossoff-luck-last-long-enough-presidency/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/jon-ossoff-luck-last-long-enough-presidency/?edition=us</guid>
             <dc:creator><![CDATA[Andrew Cockburn]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 01:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s it like to get sick in Cuba?]]></title>
-            <description><![CDATA[By Ruaridh Nicoll]]></description>
-            <link>https://spectator.com/article/like-get-sick-cuba/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/like-get-sick-cuba/?edition=us</guid>
-            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 01:02:48 GMT</pubDate>
         </item>
     </channel>

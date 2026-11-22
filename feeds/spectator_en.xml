@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 21:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 01:49:14 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Nov 2026 21:21:23 GMT</pubDate>
+        <pubDate>Sun, 22 Nov 2026 01:49:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why November’s ‘Super Beaver Moon’ is so enthralling]]></title>
+            <description><![CDATA[By Debbie Hayton]]></description>
+            <link>https://spectator.com/article/why-novembers-super-beaver-moon-is-so-enthralling/</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-novembers-super-beaver-moon-is-so-enthralling/</guid>
+            <dc:creator><![CDATA[Debbie Hayton]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 01:49:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The world is a much poorer place because of John Maynard Keynes]]></title>
             <description><![CDATA[By Toby Young]]></description>
@@ -4019,14 +4027,6 @@ The early release scheme was meant to increase prison capacity. But it isn’t w
             <link>https://spectator.com/article/nick-love-brute-of-british-cinema-on-the-beauty-of-crime/?homepage-tracking=magazine-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/nick-love-brute-of-british-cinema-on-the-beauty-of-crime/?homepage-tracking=magazine-article-2</guid>
             <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The revolutionary past of Miatta Fahnbulleh’s father]]></title>
-            <description><![CDATA[Family history]]></description>
-            <link>https://spectator.com/article/the-revolutionary-past-of-miatta-fahnbullehs-father/?homepage-tracking=magazine-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-revolutionary-past-of-miatta-fahnbullehs-father/?homepage-tracking=magazine-article-3</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 07:50:39 GMT</pubDate>
         </item>
     </channel>

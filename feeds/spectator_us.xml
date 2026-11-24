@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Nov 2026 01:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 11:51:08 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Nov 2026 01:24:39 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 11:51:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Marilyn Monroe is still as big a celebrity as ever]]></title>
+            <description><![CDATA[By Andrew Wilson]]></description>
+            <link>https://spectator.com/article/marilyn-monroe-still-big-celebrity-ever/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/marilyn-monroe-still-big-celebrity-ever/?edition=us</guid>
+            <dc:creator><![CDATA[Andrew Wilson]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 11:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The young British men opting out of ‘real work’]]></title>
+            <description><![CDATA[By Max Jeffery]]></description>
+            <link>https://spectator.com/article/the-young-british-men-opting-out-of-real-work/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-young-british-men-opting-out-of-real-work/?edition=us</guid>
+            <dc:creator><![CDATA[Max Jeffery]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 11:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should the French press be defunded?]]></title>
+            <description><![CDATA[By Matthew Fraser]]></description>
+            <link>https://spectator.com/article/should-the-french-press-be-defunded/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/should-the-french-press-be-defunded/?edition=us</guid>
+            <dc:creator><![CDATA[Matthew Fraser]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 11:51:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who believes the latest version of the Nord Stream saga?]]></title>
             <description><![CDATA[By Peter Hitchens]]></description>
@@ -3994,30 +4018,6 @@ As it was, Governor DeSantis’s Florida was an almost solitary bright spot in t
             <link>https://spectator.com/article/i-think-the-best-revenge-is-indifference-salman-rushdie-interviewed/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/i-think-the-best-revenge-is-indifference-salman-rushdie-interviewed/?edition=us</guid>
             <dc:creator><![CDATA[Stuart Jeffries]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 15:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Around Britain with a theodolite: a celebration of the Ordnance Survey maps]]></title>
-            <description><![CDATA[By Graham Robb]]></description>
-            <link>https://spectator.com/article/around-britain-with-a-theodolite-a-celebration-of-the-ordnance-survey-maps/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/around-britain-with-a-theodolite-a-celebration-of-the-ordnance-survey-maps/?edition=us</guid>
-            <dc:creator><![CDATA[Graham Robb]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 15:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[United by ambition: the ruthless rapacity of England’s two famous Cromwells]]></title>
-            <description><![CDATA[By Marcus Nevitt]]></description>
-            <link>https://spectator.com/article/united-by-ambition-the-ruthless-rapacity-of-englands-two-famous-cromwells/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/united-by-ambition-the-ruthless-rapacity-of-englands-two-famous-cromwells/?edition=us</guid>
-            <dc:creator><![CDATA[Marcus Nevitt]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 15:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How progressive politics ruined Canadian literature]]></title>
-            <description><![CDATA[By Alex Diggins]]></description>
-            <link>https://spectator.com/article/progressive-politics-ruined-canadian-literature/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/progressive-politics-ruined-canadian-literature/?edition=us</guid>
-            <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 15:34:20 GMT</pubDate>
         </item>
     </channel>

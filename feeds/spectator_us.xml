@@ -4,10 +4,50 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 13:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 01:24:39 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 13:53:20 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 01:24:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who believes the latest version of the Nord Stream saga?]]></title>
+            <description><![CDATA[By Peter Hitchens]]></description>
+            <link>https://spectator.com/article/america-is-lying-about-the-nord-stream-pipeline/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/america-is-lying-about-the-nord-stream-pipeline/?edition=us</guid>
+            <dc:creator><![CDATA[Peter Hitchens]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 01:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How old-fashioned gas engines are fueling the AI revolution]]></title>
+            <description><![CDATA[Technology]]></description>
+            <link>https://spectator.com/article/how-old-fashioned-gas-engines-are-fueling-the-ai-revolution/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-old-fashioned-gas-engines-are-fueling-the-ai-revolution/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+            <dc:creator><![CDATA[Robert Bryce]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 01:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince William’s pushback against Harry’s antics has begun]]></title>
+            <description><![CDATA[By Alexander Larman]]></description>
+            <link>https://spectator.com/article/prince-williams-pushback-against-harrys-antics-has-begun/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/prince-williams-pushback-against-harrys-antics-has-begun/?edition=us</guid>
+            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 01:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I prefer Tolstoy to Dostoevsky]]></title>
+            <description><![CDATA[By Mark Nayler]]></description>
+            <link>https://spectator.com/article/why-i-prefer-tolstoy-to-dostoevsky/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/why-i-prefer-tolstoy-to-dostoevsky/?edition=us</guid>
+            <dc:creator><![CDATA[Mark Nayler]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 01:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jensen Huang’s return is a victory for visionary talent]]></title>
+            <description><![CDATA[By Matthew Lynn]]></description>
+            <link>https://spectator.com/article/jensen-huang-return-victory-visionary-talent-nvidia/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/jensen-huang-return-victory-visionary-talent-nvidia/?edition=us</guid>
+            <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 01:24:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Putin’s Russia has created a modern-day Minotaur]]></title>
             <description><![CDATA[By Ani Chkhikvadze]]></description>
@@ -3978,46 +4018,6 @@ As it was, Governor DeSantis’s Florida was an almost solitary bright spot in t
             <link>https://spectator.com/article/progressive-politics-ruined-canadian-literature/?edition=us</link>
             <guid isPermaLink="true">https://spectator.com/article/progressive-politics-ruined-canadian-literature/?edition=us</guid>
             <dc:creator><![CDATA[Alex Diggins]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 15:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There will never be another Jeffrey Archer]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/there-will-never-be-another-jeffrey-archer/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/there-will-never-be-another-jeffrey-archer/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 15:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI could make government small again]]></title>
-            <description><![CDATA[By Maximillian Garely]]></description>
-            <link>https://spectator.com/article/ai-could-make-government-small-again/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ai-could-make-government-small-again/?edition=us</guid>
-            <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 15:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the summer season never ends]]></title>
-            <description><![CDATA[By Gage Klipper]]></description>
-            <link>https://spectator.com/article/summer-season-never-ends/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/summer-season-never-ends/?edition=us&amp;homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[Gage Klipper]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 15:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s it like to get sick in Cuba?]]></title>
-            <description><![CDATA[Havana life]]></description>
-            <link>https://spectator.com/article/like-get-sick-cuba/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/like-get-sick-cuba/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 15:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate-change zealots are wrong about hurricanes]]></title>
-            <description><![CDATA[Blown away]]></description>
-            <link>https://spectator.com/article/climate-change-zealots-wrong-hurricanes/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/climate-change-zealots-wrong-hurricanes/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Matt Ridley]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 15:34:20 GMT</pubDate>
         </item>
     </channel>

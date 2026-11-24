@@ -4,10 +4,66 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Nov 2026 11:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 21:45:22 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Nov 2026 11:51:13 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 21:45:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is it time to break up with the Met?]]></title>
+            <description><![CDATA[By Danny Shaw]]></description>
+            <link>https://spectator.com/article/caseys-report-accused-britains-biggest-force-of-institutional-racism-sexism-and-homophobia-and-laid-bare-shocking-failings-of-management-accountability-and-transparency/</link>
+            <guid isPermaLink="true">https://spectator.com/article/caseys-report-accused-britains-biggest-force-of-institutional-racism-sexism-and-homophobia-and-laid-bare-shocking-failings-of-management-accountability-and-transparency/</guid>
+            <dc:creator><![CDATA[Danny Shaw]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 21:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Timms review ducks the difficult questions on welfare]]></title>
+            <description><![CDATA[By Isabel Hardman]]></description>
+            <link>https://spectator.com/article/the-answer-from-labour-mps-particularly-those-towards-the-left-of-the-party-seemed-pretty-clear-theyd-much-rather-the-timms-approach/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-answer-from-labour-mps-particularly-those-towards-the-left-of-the-party-seemed-pretty-clear-theyd-much-rather-the-timms-approach/</guid>
+            <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 21:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Southwark Council’s mad Palestine plan]]></title>
+            <description><![CDATA[By Steerpike]]></description>
+            <link>https://spectator.com/article/southwark-councils-mad-palestine-plan/</link>
+            <guid isPermaLink="true">https://spectator.com/article/southwark-councils-mad-palestine-plan/</guid>
+            <dc:creator><![CDATA[Steerpike]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 21:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Brexit revitalise Reform?]]></title>
+            <description><![CDATA[By James Heale]]></description>
+            <link>https://spectator.com/article/can-brexit-revitalise-reform/</link>
+            <guid isPermaLink="true">https://spectator.com/article/can-brexit-revitalise-reform/</guid>
+            <dc:creator><![CDATA[James Heale]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 21:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kemi Badenoch eviscerates Andy Burnham over No. 10 influencers stunt]]></title>
+            <description><![CDATA[Bad influence]]></description>
+            <link>https://spectator.com/article/kemi-badenoch-eviscerates-andy-burnham-over-no-10-influencers-stunt/</link>
+            <guid isPermaLink="true">https://spectator.com/article/kemi-badenoch-eviscerates-andy-burnham-over-no-10-influencers-stunt/</guid>
+            <dc:creator><![CDATA[Noa Hoffman]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 21:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Timms report does not go far enough]]></title>
+            <description><![CDATA[Welfare state]]></description>
+            <link>https://spectator.com/article/the-timms-report-does-not-go-far-enough/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-timms-report-does-not-go-far-enough/</guid>
+            <dc:creator><![CDATA[Michael Simmons]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 21:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The truth about Andy Burnham’s madcap EU reset]]></title>
+            <description><![CDATA[Brexit]]></description>
+            <link>https://spectator.com/article/the-truth-about-andy-burnhams-madcap-eu-reset/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-truth-about-andy-burnhams-madcap-eu-reset/</guid>
+            <dc:creator><![CDATA[Andrew Tettenborn]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 21:45:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Even a Gail’s can’t save Brixton]]></title>
             <description><![CDATA[Gentrification? If only]]></description>
@@ -74,7 +130,7 @@
         </item>
         <item>
             <title><![CDATA[Revealed: the government has spent £3.2 million on influencers]]></title>
-            <description><![CDATA[£3.2 million]]></description>
+            <description><![CDATA[By Andrew Gilligan]]></description>
             <link>https://spectator.com/article/downing-street-is-bring-demeaned-by-influencers/</link>
             <guid isPermaLink="true">https://spectator.com/article/downing-street-is-bring-demeaned-by-influencers/</guid>
             <dc:creator><![CDATA[Andrew Gilligan]]></dc:creator>
@@ -82,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Jensen Huang’s return is a victory for visionary talent]]></title>
-            <description><![CDATA[Nvidia]]></description>
+            <description><![CDATA[By Matthew Lynn]]></description>
             <link>https://spectator.com/article/jensen-huang-return-victory-visionary-talent-nvidia/</link>
             <guid isPermaLink="true">https://spectator.com/article/jensen-huang-return-victory-visionary-talent-nvidia/</guid>
             <dc:creator><![CDATA[Matthew Lynn]]></dc:creator>
@@ -106,7 +162,7 @@
         </item>
         <item>
             <title><![CDATA[Burnham may regret staking his political capital on Brexit]]></title>
-            <description><![CDATA[Politics]]></description>
+            <description><![CDATA[By Isabel Hardman]]></description>
             <link>https://spectator.com/article/burnham-may-regret-staking-his-political-capital-on-brexit/</link>
             <guid isPermaLink="true">https://spectator.com/article/burnham-may-regret-staking-his-political-capital-on-brexit/</guid>
             <dc:creator><![CDATA[Isabel Hardman]]></dc:creator>
@@ -3972,62 +4028,6 @@ The early release scheme was meant to increase prison capacity. But it isn’t w
             <guid isPermaLink="true">https://spectator.com/article/is-now-the-time-to-bring-back-national-service/</guid>
             <dc:creator><![CDATA[Ted Jeffery]]></dc:creator>
             <pubDate>Sun, 01 Nov 2026 08:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The true lesson of the Suez crisis]]></title>
-            <description><![CDATA[By Ioannes Chountis de Fabbri]]></description>
-            <link>https://spectator.com/article/the-true-lesson-of-the-suez-crisis/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-true-lesson-of-the-suez-crisis/</guid>
-            <dc:creator><![CDATA[Ioannes Chountis de Fabbri]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 08:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The revolutionary past of Miatta Fahnbulleh’s father]]></title>
-            <description><![CDATA[By John Power]]></description>
-            <link>https://spectator.com/article/the-revolutionary-past-of-miatta-fahnbullehs-father/?homepage-tracking=magazine_minor-featured-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-revolutionary-past-of-miatta-fahnbullehs-father/?homepage-tracking=magazine_minor-featured-1</guid>
-            <dc:creator><![CDATA[John Power]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 08:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Church has forgotten the true meaning of martyrdom]]></title>
-            <description><![CDATA[All Saints' Day]]></description>
-            <link>https://spectator.com/article/the-church-has-forgotten-the-true-meaning-of-martyrdom/?homepage-tracking=magazine_minor-article-1</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-church-has-forgotten-the-true-meaning-of-martyrdom/?homepage-tracking=magazine_minor-article-1</guid>
-            <dc:creator><![CDATA[Geoffrey Heath-Taylor]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 08:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Court of Thorns and Roses gives reading a bad name]]></title>
-            <description><![CDATA[Splintered Harmony]]></description>
-            <link>https://spectator.com/article/a-court-of-thorns-and-roses-gives-reading-a-bad-name/?homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-court-of-thorns-and-roses-gives-reading-a-bad-name/?homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 08:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Auctioneer]]></title>
-            <description><![CDATA[Rock and roll]]></description>
-            <link>https://spectator.com/article/the-auctioneer/?homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-auctioneer/?homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Anonymous]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 08:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nietzsche was the first self-help guru]]></title>
-            <description><![CDATA[By Patrick West]]></description>
-            <link>https://spectator.com/article/nietzsche-was-the-first-self-help-guru/</link>
-            <guid isPermaLink="true">https://spectator.com/article/nietzsche-was-the-first-self-help-guru/</guid>
-            <dc:creator><![CDATA[Patrick West]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 08:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Court of Thorns and Roses gives reading a bad name]]></title>
-            <description><![CDATA[By Melanie McDonagh]]></description>
-            <link>https://spectator.com/article/a-court-of-thorns-and-roses-gives-reading-a-bad-name/</link>
-            <guid isPermaLink="true">https://spectator.com/article/a-court-of-thorns-and-roses-gives-reading-a-bad-name/</guid>
-            <dc:creator><![CDATA[Melanie McDonagh]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 01:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 15:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 23:55:04 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Nov 2026 15:11:01 GMT</pubDate>
+        <pubDate>Wed, 25 Nov 2026 23:55:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jewish artists are no longer safe in France]]></title>
+            <description><![CDATA[By Gavin Mortimer]]></description>
+            <link>https://spectator.com/article/jewish-artists-are-no-longer-safe-in-france/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/jewish-artists-are-no-longer-safe-in-france/?edition=us</guid>
+            <dc:creator><![CDATA[Gavin Mortimer]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 23:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The smugness of the turkey haters]]></title>
+            <description><![CDATA[By Robert F. Moss]]></description>
+            <link>https://spectator.com/article/smugness-turkey-haters/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/smugness-turkey-haters/?edition=us</guid>
+            <dc:creator><![CDATA[Robert F. Moss]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 23:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unanswered questions about Ilhan Omar]]></title>
+            <description><![CDATA[By Chris Mondics]]></description>
+            <link>https://spectator.com/article/the-unanswered-questions-about-ilhan-omar/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-unanswered-questions-about-ilhan-omar/?edition=us</guid>
+            <dc:creator><![CDATA[Chris Mondics]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 23:55:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[For the Italian filmmaker, all roads lead back to Rimini]]></title>
             <description><![CDATA[By William Cook]]></description>
@@ -3986,30 +4010,6 @@ As it was, Governor DeSantis’s Florida was an almost solitary bright spot in t
             <link>https://spectator.com/article/londons-one-unforgiveable-crime/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
             <guid isPermaLink="true">https://spectator.com/article/londons-one-unforgiveable-crime/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
             <dc:creator><![CDATA[Lloyd Evans]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 14:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s it like to get sick in Cuba?]]></title>
-            <description><![CDATA[Havana life]]></description>
-            <link>https://spectator.com/article/like-get-sick-cuba/?edition=us&amp;homepage-tracking=magazine_minor-article-3</link>
-            <guid isPermaLink="true">https://spectator.com/article/like-get-sick-cuba/?edition=us&amp;homepage-tracking=magazine_minor-article-3</guid>
-            <dc:creator><![CDATA[Ruaridh Nicoll]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 14:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI isn’t making us more productive]]></title>
-            <description><![CDATA[By Ross Clark]]></description>
-            <link>https://spectator.com/article/ai-isnt-making-us-more-productive/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/ai-isnt-making-us-more-productive/?edition=us</guid>
-            <dc:creator><![CDATA[Ross Clark]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 14:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The meaning of Flávio Bolsonaro]]></title>
-            <description><![CDATA[By Alexander Munguía]]></description>
-            <link>https://spectator.com/article/the-meaning-of-flavio-bolsonaro/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-meaning-of-flavio-bolsonaro/?edition=us</guid>
-            <dc:creator><![CDATA[Alexander Munguía]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 14:04:42 GMT</pubDate>
         </item>
     </channel>

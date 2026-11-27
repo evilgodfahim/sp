@@ -4,10 +4,34 @@
         <description><![CDATA[Latest articles from The Spectator (US edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 01:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 10:19:36 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Nov 2026 01:18:56 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 10:19:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How divorce never ends]]></title>
+            <description><![CDATA[By Bridget Phetasy]]></description>
+            <link>https://spectator.com/article/how-divorce-never-ends/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/how-divorce-never-ends/?edition=us</guid>
+            <dc:creator><![CDATA[Bridget Phetasy]]></dc:creator>
+            <pubDate>Fri, 27 Nov 2026 10:19:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI could make government small again]]></title>
+            <description><![CDATA[By Maximillian Garely]]></description>
+            <link>https://spectator.com/article/ai-could-make-government-small-again/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/ai-could-make-government-small-again/?edition=us</guid>
+            <dc:creator><![CDATA[Maximillian Garely]]></dc:creator>
+            <pubDate>Fri, 27 Nov 2026 10:19:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For F1 champion and Lululemon ambassador Lewis Hamilton, fashion’s appeal is all in the details]]></title>
+            <description><![CDATA[By Johnny Davis]]></description>
+            <link>https://spectator.com/article/for-f1-champion-and-lululemon-ambassador-lewis-hamilton-fashions-appeal-is-all-in-the-details/?edition=us</link>
+            <guid isPermaLink="true">https://spectator.com/article/for-f1-champion-and-lululemon-ambassador-lewis-hamilton-fashions-appeal-is-all-in-the-details/?edition=us</guid>
+            <dc:creator><![CDATA[Johnny Davis]]></dc:creator>
+            <pubDate>Fri, 27 Nov 2026 10:19:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thanksgiving baffles Europeans]]></title>
             <description><![CDATA[By Calla Jones Corner]]></description>
@@ -3986,30 +4010,6 @@ As it was, Governor DeSantis’s Florida was an almost solitary bright spot in t
             <link>https://spectator.com/article/invented-claims-lynchings-racist-violence-irresponsible-and-dangerous/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
             <guid isPermaLink="true">https://spectator.com/article/invented-claims-lynchings-racist-violence-irresponsible-and-dangerous/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
             <dc:creator><![CDATA[Steven Edginton]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 14:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Searching for nationhood in Slovakia]]></title>
-            <description><![CDATA[Place]]></description>
-            <link>https://spectator.com/article/searching-nationhood-slovakia-visegrad/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
-            <guid isPermaLink="true">https://spectator.com/article/searching-nationhood-slovakia-visegrad/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
-            <dc:creator><![CDATA[Will Collins]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 14:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My best friend Jeffrey Archer]]></title>
-            <description><![CDATA[By Chris Beetles]]></description>
-            <link>https://spectator.com/article/the-jeffrey-archer-i-knew/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-jeffrey-archer-i-knew/?edition=us</guid>
-            <dc:creator><![CDATA[Chris Beetles]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 14:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Islamification of Texas]]></title>
-            <description><![CDATA[By Lionel Shriver]]></description>
-            <link>https://spectator.com/article/the-islamification-of-texas/?edition=us</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-islamification-of-texas/?edition=us</guid>
-            <dc:creator><![CDATA[Lionel Shriver]]></dc:creator>
             <pubDate>Thu, 08 Oct 2026 14:14:10 GMT</pubDate>
         </item>
     </channel>

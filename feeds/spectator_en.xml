@@ -4,10 +4,18 @@
         <description><![CDATA[Latest articles from The Spectator (EN edition)]]></description>
         <link>https://spectator.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 19:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 02:23:52 GMT</lastBuildDate>
         <atom:link href="https://spectator.com" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Nov 2026 19:44:49 GMT</pubDate>
+        <pubDate>Sat, 28 Nov 2026 02:23:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The madness of cancelling Newcastle’s William Armstrong]]></title>
+            <description><![CDATA[By Eliot Wilson]]></description>
+            <link>https://spectator.com/article/the-madness-of-cancelling-newcastles-william-armstrong/</link>
+            <guid isPermaLink="true">https://spectator.com/article/the-madness-of-cancelling-newcastles-william-armstrong/</guid>
+            <dc:creator><![CDATA[Eliot Wilson]]></dc:creator>
+            <pubDate>Sat, 28 Nov 2026 02:23:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Healey’s banking profits tax about to backfire?]]></title>
             <description><![CDATA[By Matthew Lynn]]></description>
@@ -4024,14 +4032,6 @@ The early release scheme was meant to increase prison capacity. But it isn’t w
             <guid isPermaLink="true">https://spectator.com/article/louise-haigh-was-just-as-bad-as-youd-expect-at-dpmqs/</guid>
             <dc:creator><![CDATA[Madeline Grant]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 20:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The sudden end of the World of David Walliams]]></title>
-            <description><![CDATA[By Alexander Larman]]></description>
-            <link>https://spectator.com/article/the-sudden-end-of-the-world-of-david-walliams/</link>
-            <guid isPermaLink="true">https://spectator.com/article/the-sudden-end-of-the-world-of-david-walliams/</guid>
-            <dc:creator><![CDATA[Alexander Larman]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 12:40:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
